@@ -1,6 +1,7 @@
 // .eleventy.js
 const { renderPattern } = require('./tools/notation-renderer');
 const PatternMath = require('./src/assets/js/pattern-math');
+const i18n = require('./src/_data/i18n');
 
 // DEV TOOLING — review dashboard backend. Delete the next line and the
 // setServerOptions block below to remove the dashboard.
@@ -167,10 +168,11 @@ module.exports = function (eleventyConfig) {
     if (!onLevelGrid(spec, level)) return 0;
     return level;
   }
-  eleventyConfig.addShortcode('exercise', function (ex) {
+  eleventyConfig.addShortcode('exercise', function (ex, locale = 'en') {
     const spec = typeof ex === 'string' ? JSON.parse(ex) : ex;
+    const isVi = locale === 'vi';
     const ariaLabel = labelText(
-      'Drum notation' + (spec.title ? ': ' + spec.title : '') + (spec.meta ? ' — ' + spec.meta : '')
+      (isVi ? 'Ký âm trống' : 'Drum notation') + (spec.title ? ': ' + spec.title : '') + (spec.meta ? ' — ' + spec.meta : '')
     );
     const rendered = renderPattern(spec);
     // Scale-aware width floor: staves wider than ~620 viewBox units keep a
@@ -232,7 +234,7 @@ module.exports = function (eleventyConfig) {
       ? `<p class="exercise-desc">${spec.description}</p>`
       : '';
     const linkBlock = spec.lessonUrl
-      ? `<p class="exercise-lesson-link"><a href="${spec.lessonUrl}">${spec.lessonLabel || 'Open the full lesson →'}</a></p>`
+      ? `<p class="exercise-lesson-link"><a href="${spec.lessonUrl}">${spec.lessonLabel || (isVi ? 'Xem toàn bộ bài học →' : 'Open the full lesson →')}</a></p>`
       : '';
     let controls = '';
     if (spec.bpm) {
@@ -251,71 +253,36 @@ module.exports = function (eleventyConfig) {
       // `16` displaces the off-EIGHTH sixteenths and leaves the eighths alone.
       const swingLevel = swingLevelFor(spec);
       const swingAttr = swingLevel ? ` data-swing="${swingLevel}"` : '';
-      // Tempo handoff to the site metronome (BL-076). The exercise already knows
-      // the tempo the player will use and the meta already prints it; the dock
-      // was the only part of the page that never heard it, so the header pill
-      // read 80 above notation marked ♩ = 70.
-      //
-      // The button carries data, not behaviour: metronome.js sets the dock from
-      // these two attributes when the button is pressed, and only then. Nothing
-      // adopts a tempo on scroll or on load — a reader who set 60 on purpose
-      // keeps it.
-      //
-      // It is emitted ONLY when the dock can be made to agree with the notation
-      // exactly. 60 of 892 exercises fail that test and get no button at all,
-      // because in a component that has already shipped four false affordances a
-      // correct absence beats a button that half-works:
-      //
-      //   Out of range (7). The dock's input is min 30 / max 240 and
-      //   metronome.js clamps to the same pair, so jazz-up-tempo#3 at ♩ = 280
-      //   would set 240 — a click 14% slow against the notation, with nothing on
-      //   screen admitting it.
-      //
-      //   Denominator not 4 (53). This is a unit collision, not a missing
-      //   option. spec.bpm is QUARTER-note BPM (pattern-math.js:4) while the
-      //   dock's number is clicks per minute and beatsPerBar is clicks per BAR,
-      //   so numerator-as-beats only matches the notated bar when a beat is a
-      //   quarter. Measured across the corpus: every x/8 spec gives
-      //   dockBar / notatedBar = 2 exactly, and every x/4 gives 1. In 6/8 at
-      //   ♩. = 80 the notated bar is 2.25s and the dock's would be 4.5s, so the
-      //   accent lands on a barline every OTHER bar — worst on the four 6/8
-      //   rudiment lessons and all of latin-6-8-afro-cuban, whose whole subject
-      //   is that pulse. Halving beats to 3 fixes the barline but clicks on
-      //   eighths 1-3-5 (a cross-rhythm, not the pulse) and would make the dock
-      //   read "3/4"; doubling the tempo to 160 with 6 beats is musically exact
-      //   but prints METRONOME 160 beside notation marked 80, and 12/8 at 180
-      //   would need 360 and leave the range anyway. There is also no single
-      //   tempo on those pages to hand over: 6/8 metas say ♩. = 80 where the
-      //   player plays ♩ = 80, a 1.5x disagreement the page prints in full.
-      //
-      // Both rules are enforced against the BUILT dock markup by
-      // tools/checks/check-tempo-handoff.js, so the shortcode cannot drift from
-      // the controls it is talking to.
+      // Tempo handoff to the site metronome (BL-076).
       const ts = String(spec.timeSignature || '').trim();
       const beats = Number(ts.split('/')[1]) === 4 ? DOCK_METERS[ts] : undefined;
       const canHandOff = beats !== undefined && spec.bpm >= DOCK_MIN_BPM && spec.bpm <= DOCK_MAX_BPM;
-      // The visible label is the head of the accessible name, so voice control
-      // has a string to land on (WCAG 2.5.3) and a screen reader still gets the
-      // unit, the meter and what pressing it will do. A comma, not a dash —
-      // screen readers announce an em dash.
+      const handoffAria = isVi
+        ? `Metronome ${spec.bpm} BPM in ${ts}, mở máy đếm nhịp`
+        : `Metronome ${spec.bpm} BPM in ${ts}, opens the metronome`;
       const handoff = canHandOff
         ? `
-          <button class="tempo-btn" type="button" data-exercise-metronome data-bpm="${spec.bpm}" data-beats="${beats}" aria-label="${labelText(`Metronome ${spec.bpm} BPM in ${ts}, opens the metronome`)}">Metronome ${spec.bpm}</button>`
+          <button class="tempo-btn" type="button" data-exercise-metronome data-bpm="${spec.bpm}" data-beats="${beats}" aria-label="${labelText(handoffAria)}">Metronome ${spec.bpm}</button>`
         : '';
+      const kitLabel = isVi ? 'Âm sắc bộ trống' : 'Drum kit sound';
+      const kitOptElec = isVi ? 'Điện tử (Electronic)' : 'Electronic';
+      const kitOptAcous = isVi ? 'Trống mộc (Acoustic)' : 'Acoustic';
+      const playBtnLabel = isVi ? 'Phát' : 'Play';
+      const playAria = isVi ? 'Phát bài tập' : 'Play exercise';
       controls = `
         <div class="exercise-controls">
-          <select class="kit-selector__select" data-exercise-kit aria-label="Drum kit sound">
-            <option value="electronic">Electronic</option>
-            <option value="acoustic">Acoustic</option>
+          <select class="kit-selector__select" data-exercise-kit aria-label="${kitLabel}">
+            <option value="electronic">${kitOptElec}</option>
+            <option value="acoustic">${kitOptAcous}</option>
           </select>${handoff}
-          <button class="play-btn" type="button" data-exercise-play${swingAttr} data-spec="${data}" aria-label="Play exercise"><span class="play-btn__icon" aria-hidden="true">▶</span><span class="play-btn__label">Play</span></button>
+          <button class="play-btn" type="button" data-exercise-play${swingAttr} data-spec="${data}" aria-label="${playAria}"><span class="play-btn__icon" aria-hidden="true">▶</span><span class="play-btn__label">${playBtnLabel}</span></button>
         </div>`;
     }
     return `
       <div class="exercise">
         <div class="exercise-header">
           <div class="exercise-header__text">
-            <h3 class="exercise-title">${spec.title || 'Exercise'}</h3>
+            <h3 class="exercise-title">${spec.title || (isVi ? 'Bài tập' : 'Exercise')}</h3>
             ${spec.meta ? `<div class="exercise-meta">${spec.meta}</div>` : ''}
           </div>
           ${controls}
@@ -430,6 +397,79 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('inlineJson', v =>
     JSON.stringify(v).replace(/</g, '\\u003c')
   );
+
+  // ---- i18n Filters ----
+  eleventyConfig.addFilter('t', function (key, locale, params) {
+    return i18n.t(key, locale || 'en', params);
+  });
+
+  eleventyConfig.addFilter('localeUrl', function (url, targetLocale) {
+    const currentUrl = url || '/';
+    const isVi = currentUrl === '/vi/' || currentUrl.startsWith('/vi/');
+    if (targetLocale === 'vi') {
+      if (isVi) return currentUrl;
+      return currentUrl === '/' ? '/vi/' : `/vi${currentUrl}`;
+    } else {
+      if (!isVi) return currentUrl;
+      const stripped = currentUrl.replace(/^\/vi/, '');
+      return stripped === '' ? '/' : stripped;
+    }
+  });
+
+  eleventyConfig.addFilter('localizedCurriculum', function (curriculum, locale) {
+    return i18n.getLocalizedCurriculum(curriculum, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedLesson', function (baseContent, slug, locale) {
+    return i18n.getLocalizedLesson(slug, baseContent, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedRudiments', function (baseRudiments, locale) {
+    return i18n.getLocalizedRudiments(baseRudiments, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedChapters', function (baseChapters, locale) {
+    return i18n.getLocalizedChapters(baseChapters, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('lessonUrl', function (slug, locale) {
+    return (locale === 'vi') ? `/vi/lessons/${slug}/` : `/lessons/${slug}/`;
+  });
+
+  eleventyConfig.addFilter('genreUrl', function (slug, locale) {
+    return (locale === 'vi') ? `/vi/genres/${slug}/` : `/genres/${slug}/`;
+  });
+
+  const FOCUS_VI = {
+    'Getting Started': 'Bắt đầu làm quen',
+    'Reading': 'Đọc bản nhạc',
+    'Counting': 'Đếm nhịp',
+    'Rudiments': 'Kỹ thuật Rudiments',
+    'Sticking': 'Thế tay (Sticking)',
+    'Hand Technique': 'Kỹ thuật tay',
+    'Foot Technique': 'Kỹ thuật chân',
+    'Coordination': 'Phối hợp tứ chi',
+    'Independence': 'Độc lập tứ chi',
+    'Time & Feel': 'Thời gian & Cảm giác nhịp',
+    'Pocket & Groove': 'Pocket & Groove',
+    'Dynamics': 'Sắc thái cường độ',
+    'Articulation': 'Kỹ thuật diễn tấu',
+    'Fills': 'Câu báo trống (Fills)',
+    'Phrasing & Form': 'Cấu trúc câu & Khung bài',
+    'Genre Vocabulary': 'Từ vựng thể loại',
+    'Clave & Bell Patterns': 'Nhịp Clave & Mõ chuông',
+    'Odd Meters & Polyrhythm': 'Nhịp lẻ & Phức điệu',
+    'Linear Playing': 'Lối chơi tuyến tính (Linear)',
+    'Speed & Endurance': 'Tốc độ & Độ bền',
+    'Soloing & Improvisation': 'Độc tấu & Ngẫu hứng',
+    'Listening & Analysis': 'Nghe & Phân tích',
+    'Practice Method': 'Phương pháp luyện tập',
+    'Studio & Sound': 'Âm thanh phòng thu'
+  };
+  eleventyConfig.addFilter('localizedFocus', function (focus, locale) {
+    if (locale === 'vi' && FOCUS_VI[focus]) return FOCUS_VI[focus];
+    return focus;
+  });
 
   return {
     dir: {

@@ -1,0 +1,169 @@
+{
+  "site": {
+    "title": "Drum Town — Học Trống Miễn Phí với Ký Âm Tương Tác",
+    "description": "Các bài học trống miễn phí kèm ký âm thực tế và phát âm thanh tương tác — trọn bộ lộ trình từ nhịp đệm cơ bản đầu tiên đến kỹ thuật nâng cao thuộc các thể loại rock, jazz, funk, Latin, fusion, metal và hip-hop."
+  },
+  "skip": {
+    "content": "Chuyển đến nội dung chính",
+    "exercises": "Chuyển đến bài tập thực hành",
+    "chapters": "Nhảy đến danh sách chương",
+    "footer": "Chuyển xuống chân trang"
+  },
+  "nav": {
+    "foundations": "Nền tảng",
+    "genres": "Thể loại",
+    "mastery": "Chủ đề nâng cao",
+    "rudiments": "Kỹ thuật Rudiments",
+    "metronome": "Máy đếm nhịp",
+    "theme_toggle_dark": "Chuyển sang giao diện tối",
+    "theme_toggle_light": "Chuyển sang giao diện sáng",
+    "menu": "Menu",
+    "menu_close": "Đóng menu"
+  },
+  "metronome": {
+    "pill": {
+      "stopped": "Máy đếm nhịp, {bpm} nhịp mỗi phút, đã dừng",
+      "running": "Máy đếm nhịp, {bpm} nhịp mỗi phút, đang chạy",
+      "paused": "Máy đếm nhịp, {bpm} nhịp mỗi phút, tạm dừng"
+    },
+    "dock": {
+      "bpm": "BPM",
+      "tempo": "Tốc độ",
+      "meter": "Số nhịp",
+      "beat": "Phách",
+      "volume": "Âm lượng",
+      "start": "Bật máy đếm nhịp",
+      "stop": "Dừng máy đếm nhịp",
+      "resume": "Phát, tiếp tục máy đếm nhịp ở {bpm} BPM",
+      "collapse": "Thu gọn máy đếm nhịp",
+      "status_armed": "Đã tạm dừng. Nhấn phát để tiếp tục.",
+      "bpm_label": "BPM, tốc độ tính bằng số nhịp mỗi phút",
+      "tempo_label": "Thanh trượt tốc độ",
+      "meter_label": "Số chỉ nhịp, số phách mỗi ô nhịp"
+    },
+    "page": {
+      "eyebrow": "Công cụ",
+      "hero_title": "Máy đếm nhịp <em>(Metronome)</em>",
+      "lede": "Mọi trang trên Drum Town đều tích hợp máy đếm nhịp — chỉ cần chạm vào biểu tượng nhịp độ ở đầu trang để mở. Bảng điều khiển sẽ xuất hiện ở cuối màn hình. Hãy chọn tốc độ, số chỉ nhịp và nhấn phát. Trang này hướng dẫn bạn cách luyện tập hiệu quả nhất.",
+      "open_btn": "Mở máy đếm nhịp",
+      "jump_btn": "Chuyển đến máy đếm nhịp",
+      "quick_start": "Bắt đầu nhanh",
+      "quick_start_desc": "Chạm vào biểu tượng nhịp độ ở đầu trang để mở thanh điều khiển máy đếm nhịp ở chân màn hình. Nhập tốc độ (hoặc kéo thanh trượt), chọn số phách mỗi ô nhịp — từ 2/4 đến 7/8 — rồi nhấn phát. Phách đầu tiên của mỗi ô nhịp luôn được nhấn mạnh để bạn luôn biết đâu là phách 1.",
+      "what_tempo": "Nên luyện tập ở tốc độ (BPM) nào?",
+      "item_new": "Khi học kỹ thuật mới:",
+      "item_new_desc": "chậm hơn mức bạn nghĩ là cần thiết — ♩ = 50–70. Nếu bạn cảm thấy chậm đến mức nhàm chán, đó chính là tốc độ chuẩn xác. (Xem bài <a href=\"/lessons/slow-practice/\">Luyện tập ở tốc độ chậm</a>.)",
+      "item_clean": "Khi gọt giũa cho sạch tiếng:",
+      "item_clean_desc": "hạ bớt 10 BPM dưới ngưỡng tốc độ mà bạn bắt đầu đánh vấp, sau đó tăng dần từng bước nhỏ.",
+      "item_speed": "Khi rèn luyện tốc độ:",
+      "item_speed_desc": "chỉ tăng tốc độ lên khoảng 10% sau khi bạn đã đánh chuẩn xác 100% liên tục trong hai phút trọn vẹn.",
+      "three_games": "3 Bài tập thử thách cùng máy đếm nhịp",
+      "three_games_desc": "Tiếng click không nhất thiết phải gõ ở mọi phách. Dưới đây là ba phương pháp biến máy đếm nhịp thành bạn diễn đắc lực, trích từ bài học <a href=\"/lessons/metronome-practice/\">Luyện tập cùng máy đếm nhịp</a>:",
+      "game_2_4": "Gõ ở phách 2 và 4",
+      "game_2_4_desc": "giảm một nửa tốc độ và cảm nhận tiếng click như một cú đánh backbeat. Máy đếm nhịp giờ đây là một người bạn cùng chơi nhạc chứ không còn là chiếc thước kẻ cứng nhắc.",
+      "game_bar": "Gõ 1 lần mỗi ô nhịp",
+      "game_bar_desc": "bạn tự giữ nhịp cho ba phách còn lại và tiếng click sẽ là bài kiểm tra độ chuẩn xác ngay tại phách 1.",
+      "game_subdiv": "Kiểm tra sự phân chia phách (Subdivision)",
+      "game_subdiv_desc": "chơi nốt móc đơn (8ths) hoặc móc kép (16ths) trên nền tiếng click nốt đen và lắng nghe xem các nốt rơi giữa hai tiếng click có bị chệch không.",
+      "dock_follow": "Máy đếm nhịp luôn đồng hành cùng bạn trên mọi bài học. Tuy nhiên âm thanh sẽ tạm dừng khi chuyển bài: trình duyệt chỉ cho phép phát âm thanh khi có tương tác trực tiếp trên trang đang xem. Thanh điều khiển sẽ tự động mở lại với tốc độ và số nhịp bạn đã chọn sẵn — chỉ cần nhấn một nút là nhịp lại tiếp tục vang lên."
+    }
+  },
+  "footer": {
+    "motto": "Cánh cửa luôn rộng mở. Hãy mang theo dùi trống.",
+    "fine": "Một không gian học trống hoàn toàn miễn phí. Không cần tài khoản, không cần đăng ký — tiến trình học tập được lưu trữ trực tiếp trên trình duyệt của bạn.",
+    "lessons_heading": "Bài học",
+    "reference_heading": "Tài liệu tra cứu",
+    "town_heading": "Dự án",
+    "foundations": "Nền tảng căn bản",
+    "genre_tracks": "Lộ trình theo thể loại",
+    "other_topics": "Chủ đề nâng cao",
+    "the_rudiments": "Trọn bộ {count} kỹ thuật Rudiments",
+    "the_metronome": "Máy đếm nhịp",
+    "start_lesson_one": "Bắt đầu từ bài học số 1",
+    "base_stats": "drum.town · {lessons} bài học · {exercises} bài tập tương tác · {rudiments} kỹ thuật rudiment · ký âm kết xuất tĩnh bằng VexFlow · phát triển trên nền tảng Eleventy"
+  },
+  "exercise": {
+    "drum_kit_sound": "Âm sắc bộ trống",
+    "electronic": "Điện tử (Electronic)",
+    "acoustic": "Trống mộc (Acoustic)",
+    "play": "Phát",
+    "stop": "Dừng",
+    "loading": "Đang tải",
+    "play_label": "Phát bài tập",
+    "stop_label": "Dừng bài tập",
+    "loading_label": "Đang tải mẫu âm thanh",
+    "default_title": "Bài tập",
+    "open_full_lesson": "Mở toàn bộ bài học →",
+    "drum_notation": "Ký âm trống"
+  },
+  "home": {
+    "eyebrow": "drum.town · không gian học trống tự do và miễn phí",
+    "hero_title": "Cả thị trấn cùng luyện tập theo một <em>nhịp đồng hồ.</em>",
+    "hero_dek": "Một lộ trình học hoàn chỉnh theo từng bước chân: <strong>{lessons} bài học</strong> với ký âm thực tế có thể phát âm thanh trực tiếp, <strong>{exercises} bài tập thực hành</strong>, <strong>40 kỹ thuật rudiment cơ bản</strong> — hoàn toàn miễn phí ngay trên trình duyệt, không cần đăng ký.",
+    "start_cta": "Bắt đầu tại đây — Bài học đầu tiên của bạn",
+    "continue_cta": "Tiếp tục —",
+    "town_remembers": "<strong>Thị trấn luôn ghi nhớ.</strong> Tiến trình học tập của bạn được lưu ngay trên trình duyệt này — không cần tạo tài khoản, không thủ tục phức tạp.",
+    "last_stop": "Bạn đã đi đến điểm dừng cuối cùng của lộ trình. <a href=\"https://github.com/dylanpjenkins/drum-town/issues\">Thị trấn nên xây dựng thêm nội dung gì tiếp theo? →</a>",
+    "walked_all": "Bạn đã dạo bước qua mọi con phố trong thị trấn. <a href=\"https://github.com/dylanpjenkins/drum-town/issues\">Thị trấn nên xây dựng thêm nội dung gì tiếp theo? →</a>",
+    "legend": "✓ con phố đã đi qua · ● bạn đang ở đây · ○ bài học đang chờ đón",
+    "chapters_panel_title": "Danh sách chương",
+    "chapters_panel_close": "Đóng",
+    "chapter_x_of_y": "Chương {current} trên {total}",
+    "n_lessons": "{count} bài học",
+    "other_topics": "Chủ đề nâng cao",
+    "visited": "đã hoàn thành",
+    "current_lesson": "bài học hiện tại"
+  },
+  "lesson": {
+    "breadcrumb_root": "Bài học",
+    "foundations": "Nền tảng căn bản",
+    "other_topics": "Chủ đề nâng cao",
+    "duration": "Thời lượng: ",
+    "focus": "Trọng tâm: ",
+    "prerequisites": "Kiến thức tiên quyết",
+    "exercises_heading": "Bài tập thực hành",
+    "move_on_when": "Chuyển tiếp khi",
+    "listening_eyebrow": "Nghe để cảm nhận",
+    "listening_records": "{count} bản thu",
+    "listening_records_plural": "{count} bản thu",
+    "listen_for_it": "Điểm cần lắng nghe",
+    "where_next": "Bước tiếp theo",
+    "stub_title": "Bài học này đang được phác thảo",
+    "stub_desc": "Chương trình giảng dạy đã định hình bài học này, nhưng nội dung chi tiết — bài tập, ký âm, gợi ý tác phẩm nghe tham khảo — đang trong quá trình biên soạn.",
+    "back_to_curriculum": "← Trở về lộ trình bài học"
+  },
+  "sidebar": {
+    "in_this_chapter": "Trong chương này",
+    "all_sections": "← Tất cả các phần",
+    "sections": "Danh mục phần",
+    "all_paths": "Tất cả lộ trình",
+    "curriculum_home": "← Trang chủ giáo trình",
+    "section_1": "Phần I",
+    "section_2": "II · Thể loại",
+    "section_3": "Phần III"
+  },
+  "genre": {
+    "breadcrumb_root": "Bài học",
+    "breadcrumb_genres": "Thể loại",
+    "level": "Cấp độ {level}",
+    "n_lessons": "{count} bài học"
+  },
+  "rudiments": {
+    "eyebrow": "Tài liệu tra cứu",
+    "hero_title": "40 Kỹ thuật <em>Rudiments</em> Căn bản",
+    "lede": "Toàn bộ 40 mẫu rudiment tiêu chuẩn — rolls (đánh liên tục), paradiddles (đảo tay), flams (hoa mỹ), và drags (nốt kéo) — được ký âm chính xác. Hãy nhấn phát để nghe mẫu; bài nào đã có bài học trọn vẹn đều được đính kèm liên kết ngay trên thẻ.",
+    "family_x_of_y": "Nhóm {current} trên {total} · {count} kỹ thuật",
+    "intro": "Rudiments đối với người đánh trống cũng quan trọng như thang âm (scale) đối với người chơi piano: đó là những khuôn mẫu chuyển động tay nền tảng, có thể lặp đi lặp lại và sẽ biến thành câu báo trống (fill), điệu trống (groove) hay khúc ngẫu hứng solo một khi chúng đã trở thành phản xạ tự nhiên. Hiệp hội Nghệ thuật Gõ Quốc tế (PAS) đã tiêu chuẩn hóa 40 kỹ thuật này thành 4 nhóm bên dưới. Bạn không cần học hết cả 40 kỹ thuật ngay lập tức — hãy bắt đầu với đánh đơn (single stroke roll), đánh đôi (double stroke roll), và single paradiddle, sau đó mở rộng dần. Một chiếc mặt tập (practice pad) và một chiếc máy đếm nhịp là tất cả những gì bạn cần."
+  },
+  "error404": {
+    "eyebrow": "404",
+    "title": "Không tìm thấy trang",
+    "lede": "Trang bạn tìm kiếm không tồn tại — có thể bài học đã được di chuyển, hoặc đường dẫn bị sai chính tả.",
+    "back_btn": "Trở lại danh sách bài học",
+    "rudiments_btn": "Khám phá 40 kỹ thuật rudiment"
+  },
+  "lang": {
+    "switch_label": "Chọn ngôn ngữ",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  }
+}

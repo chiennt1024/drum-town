@@ -10,17 +10,18 @@
    first screen (BL-037). chrome.js drives aria-expanded; the state is
    deliberately not persisted. #}
 
-{% set chapterName = curriculum.mastery.title %}
+{% set locCurr = localizedCurriculumData or (curriculum | localizedCurriculum(locale or 'en')) %}
+{% set chapterName = locCurr.mastery.title %}
 {% if currentSection == 'foundations' %}
-  {% set chapterName = curriculum.foundations.title %}
+  {% set chapterName = locCurr.foundations.title %}
 {% elif currentSection == 'track' %}
-  {% set chapterName = (curriculum | findTrack(currentTrack)).title %}
+  {% set chapterName = (locCurr | findTrack(currentTrack)).title %}
 {% endif %}
 
-<aside class="curriculum-sidebar" aria-label="Curriculum navigation">
+<aside class="curriculum-sidebar" aria-label="{{ 'Curriculum navigation' if (locale or 'en') == 'en' else 'Điều hướng giáo trình' }}">
 
   <button class="curriculum-sidebar__toggle" type="button" aria-expanded="false" aria-controls="lesson-map-panel">
-    <span class="curriculum-sidebar__k">In this chapter</span>
+    <span class="curriculum-sidebar__k">{{ 'In this chapter' if (locale or 'en') == 'en' else 'Trong chương này' }}</span>
     <span class="curriculum-sidebar__name">{{ chapterName }}</span>
     <span class="curriculum-sidebar__car" aria-hidden="true">▾</span>
   </button>
@@ -28,39 +29,39 @@
   <div class="curriculum-sidebar__inner" id="lesson-map-panel">
 
     <div class="island-header">
-      <a href="/" class="island-back">← All sections</a>
+      <a href="{{ '/' | localeUrl(locale or 'en') }}" class="island-back">{{ '← All sections' if (locale or 'en') == 'en' else '← Tất cả phần học' }}</a>
 
       {# The eyebrow used to restate the section name the island-name prints
          directly underneath ("I · Foundations" over "Foundations"). Only the
          numeral is new information, so only the numeral stays — BL-045. #}
       {% if currentSection == 'foundations' %}
         <div class="island-title">
-          <span class="island-eyebrow">Section I</span>
-          <span class="island-name">{{ curriculum.foundations.title }}</span>
+          <span class="island-eyebrow">{{ 'Section I' if (locale or 'en') == 'en' else 'Phần I' }}</span>
+          <span class="island-name">{{ locCurr.foundations.title }}</span>
         </div>
       {% elif currentSection == 'track' %}
-        {% set track = curriculum | findTrack(currentTrack) %}
+        {% set track = locCurr | findTrack(currentTrack) %}
         <div class="island-title">
-          <span class="island-eyebrow">II · Genre</span>
+          <span class="island-eyebrow">{{ 'II · Genre' if (locale or 'en') == 'en' else 'II · Thể loại' }}</span>
           <span class="island-name">{{ track.title }}</span>
         </div>
       {% elif currentSection == 'mastery' %}
         <div class="island-title">
-          <span class="island-eyebrow">Section III</span>
-          <span class="island-name">{{ curriculum.mastery.title }}</span>
+          <span class="island-eyebrow">{{ 'Section III' if (locale or 'en') == 'en' else 'Phần III' }}</span>
+          <span class="island-name">{{ locCurr.mastery.title }}</span>
         </div>
       {% endif %}
     </div>
 
     {% if currentSection == 'foundations' %}
-      {% for sec in curriculum.foundations.sections %}
+      {% for sec in locCurr.foundations.sections %}
         <div class="curr-section">
           <div class="curr-section__title">{{ sec.title }}</div>
           <ul class="curr-list">
             {% for l in sec.lessons %}
               {% set isCurrent = (l.slug == currentSlug) %}
               <li class="curr-item {% if isCurrent %}is-current{% endif %} {% if l.status == 'ready' %}is-ready{% else %}is-stub{% endif %}">
-                <a href="/lessons/{{ l.slug }}/" {% if isCurrent %}aria-current="page"{% endif %}>{{ l.title }}</a>
+                <a href="{{ l.slug | lessonUrl(locale or 'en') }}" {% if isCurrent %}aria-current="page"{% endif %}>{{ l.title }}</a>
               </li>
             {% endfor %}
           </ul>
@@ -68,7 +69,7 @@
       {% endfor %}
 
     {% elif currentSection == 'track' %}
-      {% set track = curriculum | findTrack(currentTrack) %}
+      {% set track = locCurr | findTrack(currentTrack) %}
       {% if track.tagline %}
         <p class="island-tagline">{{ track.tagline }}</p>
       {% endif %}
@@ -79,7 +80,7 @@
             {% for l in lvl.lessons %}
               {% set isCurrent = (l.slug == currentSlug) %}
               <li class="curr-item {% if isCurrent %}is-current{% endif %} {% if l.status == 'ready' %}is-ready{% else %}is-stub{% endif %}">
-                <a href="/lessons/{{ l.slug }}/" {% if isCurrent %}aria-current="page"{% endif %}>{{ l.title }}</a>
+                <a href="{{ l.slug | lessonUrl(locale or 'en') }}" {% if isCurrent %}aria-current="page"{% endif %}>{{ l.title }}</a>
               </li>
             {% endfor %}
           </ul>
@@ -87,15 +88,15 @@
       {% endfor %}
 
     {% elif currentSection == 'mastery' %}
-      {% if curriculum.mastery.tagline %}
-        <p class="island-tagline">{{ curriculum.mastery.tagline }}</p>
+      {% if locCurr.mastery.tagline %}
+        <p class="island-tagline">{{ locCurr.mastery.tagline }}</p>
       {% endif %}
       <div class="curr-section">
         <ul class="curr-list">
-          {% for l in curriculum.mastery.lessons %}
+          {% for l in locCurr.mastery.lessons %}
             {% set isCurrent = (l.slug == currentSlug) %}
             <li class="curr-item {% if isCurrent %}is-current{% endif %} {% if l.status == 'ready' %}is-ready{% else %}is-stub{% endif %}">
-              <a href="/lessons/{{ l.slug }}/" {% if isCurrent %}aria-current="page"{% endif %}>{{ l.title }}</a>
+              <a href="{{ l.slug | lessonUrl(locale or 'en') }}" {% if isCurrent %}aria-current="page"{% endif %}>{{ l.title }}</a>
             </li>
           {% endfor %}
         </ul>

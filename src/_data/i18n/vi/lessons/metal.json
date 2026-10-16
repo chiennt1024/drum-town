@@ -1,0 +1,542 @@
+{
+  "metal-double-bass-basics": {
+    "tagline": "Nền tảng pedal đôi — chuyển giao kỹ thuật Single Stroke Roll xuống đôi chân",
+    "bodyHtml": "<p>Không có âm thanh nào đại diện cho sức mạnh hủy diệt của nhạc Metal rõ rệt hơn <strong>tiếng trống Bass đôi (Double Bass Drumming)</strong>: hai bàn chân luân phiên giáng những cú đòn sấm sét xuống hai chiếc trống bass (hoặc thông qua một bộ pedal đôi - double pedal).</p><h2 class=\"section-label\">Bản chất: Đánh đơn luân phiên bằng chân</h2><p>Về mặt kỹ thuật, double bass chỉ đơn giản là kỹ thuật <strong>Single Stroke Roll (R L R L)</strong> nhưng được thực hiện bởi đôi chân. Rào cản lớn nhất không phải là tốc độ, mà là <strong>sự cân bằng thể lực giữa chân thuận và chân không thuận</strong>.</p><p>Hầu hết người chơi có chân trái rất yếu và lúng túng. Hãy kiên nhẫn luyện tập ở tốc độ chậm (♩=80), nâng gót chân nhẹ nhàng (kỹ thuật heel-up), và lắng nghe sao cho từng cú dậm của chân trái vang lên to, rõ và dứt khoát y hệt như chân phải.</p>",
+    "graduationCriteria": [
+      "Dòng chảy double bass nốt móc đơn và móc kép giữ đều đặn ở ♩=90 suốt 2 phút",
+      "Âm lượng và độ đanh của tiếng dậm chân trái hoàn toàn ngang bằng chân phải",
+      "Đôi tay giữ được sự thư giãn tuyệt đối trên cymbal và snare trong khi đôi chân chạy hết tốc lực"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Double Bass nốt móc đơn chậm rãi",
+        "tip": "Luân phiên chân phải và chân trái: <em>R L R L</em>. Khóa chặt vào tiếng click ở ♩=80. Cảm nhận sự cân bằng thể lực hai bên."
+      },
+      {
+        "title": "2 — Đẩy mật độ lên nốt móc kép (16th Notes)",
+        "tip": "Bốn nốt kick mỗi phách: <em>1 e &amp; a 2 e &amp; a</em>. Tận dụng độ bật nảy của lò xo pedal. Giữ đùi và khớp hông thả lỏng."
+      },
+      {
+        "title": "3 — Thêm cú Backbeat của trống Snare ở phách 2 và 4",
+        "tip": "Đưa tay trái giáng snare ở phách 2 và 4 trên nền thác nốt double bass bên dưới. Đừng để tay làm giật chân."
+      },
+      {
+        "title": "4 — Rãnh nhịp Double Bass Metal hoàn chỉnh",
+        "tip": "Tay phải chơi nốt đen trên lá Ride/Crash, hai chân chạy nốt móc kép bên dưới. Âm thanh như một chiếc xe tăng nghiền nát mọi chướng ngại vật."
+      }
+    ]
+  },
+  "metal-power-grooves": {
+    "tagline": "Rãnh nhịp uy lực (Power Grooves) — tiếng đấm nặng trĩu của Heavy Metal",
+    "bodyHtml": "<p>Trước khi lao vào những bài tập tốc độ điên cuồng, mọi tay trống metal đều phải nắm vững <strong>Power Grooves</strong>: những rãnh nhịp chậm rãi hơn nhưng có sức công phá ngàn cân của Black Sabbath, Judas Priest, Iron Maiden và Metallica.</p><h2 class=\"section-label\">Sức nặng của từng cú đòn</h2><p>Tại đây, từng cú rimshot trên trống snare phải nổ như bom, tiếng kick phải đầm chắc như búa tạ và lá Crash phải rền vang rung chuyển không gian. Sức mạnh đến từ sự tự tin và sự dứt khoát của từng chuyển động cơ thể.</p>",
+    "graduationCriteria": [
+      "Rãnh nhịp Power Groove cơ bản (Bài 1) giữ được uy lực tối đa ở ♩=95 suốt 2 phút",
+      "Tất cả các cú snare đều được đánh bằng kỹ thuật Rimshot đanh giòn",
+      "Sự kết hợp giữa kick và crash ở đầu ô nhịp tạo ra cú đấm uy lực đồng nhất"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Heavy Metal Backbeat uy lực cơ bản",
+        "tip": "Kick ở 1 và 3, snare rimshot cực mạnh ở 2 và 4. Đánh với toàn bộ sức mạnh và sự kiêu hãnh của dòng nhạc Metal."
+      },
+      {
+        "title": "2 — Kick kép dồn dập ở phách 1",
+        "tip": "Dậm đúp nhanh hai tiếng kick ở đầu ô nhịp: <em>1 &amp;</em>. Tạo độ nặng trĩu cho câu riff guitar của ban nhạc."
+      },
+      {
+        "title": "3 — Cú dằn mở lá Crash cùng tiếng Kick",
+        "tip": "Chém mạnh vào lá Crash đồng thời cùng tiếng trống Bass ở các phách dằn chuyển đoạn."
+      },
+      {
+        "title": "4 — Rãnh nhịp Power Groove hoàn chỉnh",
+        "tip": "Chơi với sự chắc chắn tuyệt đối. Biến bộ trống của bạn thành một pháo đài thép bất khả xâm phạm."
+      }
+    ]
+  },
+  "metal-headbang": {
+    "tagline": "Nhịp Headbang kinh điển — nhịp điệu thôi miên mọi khán phòng kim loại",
+    "bodyHtml": "<p>Mục tiêu tối thượng của một rãnh nhịp Metal là khiến <strong>hàng ngàn cái đầu bên dưới khán đài phải cùng gật gù headbang theo một nhịp đập duy nhất</strong>.</p><h2 class=\"section-label\">Khung nhịp Half-Time đầm chắc</h2><p>Các rãnh nhịp headbang hiệu quả nhất luôn sử dụng cảm giác <strong>Half-Time (snare dằn ở phách 3)</strong>: không gian mở rộng thênh thang, cho phép khán giả có đủ thời gian để vung mái tóc dài từ trên xuống dưới theo từng chu kỳ nhịp đập uy lực.</p>",
+    "graduationCriteria": [
+      "Rãnh nhịp Headbang (snare ở phách 3) giữ vững ở ♩=115 suốt 2 phút",
+      "Tiếng dậm kick bốn phách (four-on-the-floor) hoặc đảo phách liên kết chặt chẽ với cú snare ở phách 3",
+      "Tạo ra cảm giác thôi miên khiến người nghe bắt buộc phải lắc lư đầu theo nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nhịp Headbang cơ bản: Snare chỉ ở phách 3",
+        "tip": "Kick ở 1, Snare dằn ở 3. Tay chơi nốt móc đơn mở hé trên lá hi-hat hoặc lá china. Cực kỳ đầm chắc."
+      },
+      {
+        "title": "2 — Thêm tiếng Kick đảo phách ở nốt & của 3",
+        "tip": "Ngay sau cú snare ở phách 3, dậm thêm một cú kick bồi ở nốt &amp; để đẩy nhịp đập lao về trước."
+      },
+      {
+        "title": "3 — Rãnh nhịp Headbang kết hợp lá Ride Bell",
+        "tip": "Chuyển tay phải sang gõ vào núm chuông lá Ride. Âm thanh đanh thép xuyên thủng bức tường âm thanh distortion."
+      },
+      {
+        "title": "4 — Rãnh nhịp Breakdown Headbang hoàn chỉnh",
+        "tip": "Đỉnh cao của sự nặng nề: rãnh nhịp breakdown khiến cả sàn nhà rung chuyển dưới chân khán giả."
+      }
+    ]
+  },
+  "metal-quarter-bass": {
+    "tagline": "Chân Kick nốt đen kết hợp các biến tấu tay dồn dập",
+    "bodyHtml": "<p>Không phải lúc nào double bass cũng cần chạy nốt móc kép liên tục. Trong nhiều phân đoạn của Heavy Metal và Doom Metal, <strong>chân kick dậm vững chãi ở nhịp nốt đen (Quarter-Note Bass)</strong> để làm bệ phóng cho đôi bàn tay tha hồ biến tấu phức tạp ở phía trên.</p><h2 class=\"section-label\">Chiếc móng nhà bằng bê tông cốt thép</h2><p>Tiếng kick nốt đen gõ đều đặn ở từng phách: <em>1, 2, 3, 4</em>. Đôi tay bạn có thể chơi nốt móc kép trên hi-hat, gõ liên ba trên lá china hoặc đảo phách trên trống snare, nhưng bên dưới mặt đất vẫn vững như bàn thạch.</p>",
+    "graduationCriteria": [
+      "Chân kick dậm nốt đen đồng đều về âm lượng ở ♩=110 trong khi đôi tay chơi các biến tấu phức tạp",
+      "Không bị cuốn chân kick theo các nốt đảo phách của tay snare",
+      "Duy trì rãnh nhịp ổn định suốt 2 phút liên tục"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick nốt đen cơ bản + Backbeat Metal",
+        "tip": "Dậm kick ở cả 4 phách (1, 2, 3, 4). Snare dằn rimshot ở 2 và 4. Đơn giản và uy lực."
+      },
+      {
+        "title": "2 — Tay chơi nốt móc kép trên lá Hi-Hat mở hé",
+        "tip": "Đôi tay chạy nốt móc kép dồn dập trong khi bàn chân tiếp tục dậm đều đặn từng nốt đen."
+      },
+      {
+        "title": "3 — Đảo phách trống Snare trên nền Kick nốt đen",
+        "tip": "Dời cú snare sang các nốt lệch phách. Rèn luyện sự độc lập giữa tay trái và chân phải."
+      },
+      {
+        "title": "4 — Rãnh nhịp Quarter Bass Metal hoàn chỉnh",
+        "tip": "Khẳng định sự đĩnh đạc và sức nặng không thể lay chuyển của phong cách Heavy Metal cổ điển."
+      }
+    ]
+  },
+  "metal-eighth-bass": {
+    "tagline": "Dòng chảy Kick nốt móc đơn liên tục hai chân",
+    "bodyHtml": "<p>Bước tiến đầu tiên đưa bạn vào thế giới của Power Metal, Thrash và Speed Metal chính là <strong>dòng chảy trống bass nốt móc đơn liên tục (Continuous Eighth-Note Double Bass)</strong>: hai chân luân phiên dậm đều đặn 8 nốt kick trong mỗi ô nhịp.</p><h2 class=\"section-label\">Tiếng vó ngựa phi nước đại (The Gallop)</h2><p>Âm thanh dồn dập của hai chiếc pedal đôi tạo nên cảm giác một đoàn kỵ binh thiết giáp đang phi nước đại ra chiến trường. Thử thách là duy trì sự cân bằng lực tay và thể lực bền bỉ suốt chiều dài bài hát ở tốc độ cao.</p>",
+    "graduationCriteria": [
+      "Dòng chảy double bass nốt móc đơn giữ vững ở ♩=140 suốt 2 phút không bị lệch chân",
+      "Tiếng kick của chân trái vang to ngang bằng chân phải",
+      "Cú snare ở phách 2 và 4 rơi chuẩn xác vào nốt kick tương ứng mà không bị loạng choạng"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Double Bass móc đơn luân phiên hai chân",
+        "tip": "Hai chân dậm đều đặn: <em>R L R L R L R L</em> ở ♩=120. Thả lỏng bắp chân, dùng chuyển động cổ chân nhịp nhàng."
+      },
+      {
+        "title": "2 — Thêm nhịp Backbeat Snare ở 2 và 4",
+        "tip": "Tay trái giáng snare ở phách 2 và 4. Chú ý tiếng snare phải tiếp đất đồng thời với tiếng kick của chân tương ứng."
+      },
+      {
+        "title": "3 — Nhịp vó ngựa phi Iron Maiden (The Gallop Feel)",
+        "tip": "Mẫu hình vó ngựa dồn dập: hai nốt ngắn, một nốt dài (<em>1-và-a 2-và-a</em>). Biểu tượng bất diệt của ban nhạc Iron Maiden."
+      },
+      {
+        "title": "4 — Rãnh nhịp Speed Metal hoàn chỉnh",
+        "tip": "Đẩy tốc độ lên ♩=145. Cảm nhận ngọn lửa nhiệt huyết của dòng nhạc kim loại tốc độ cao."
+      }
+    ]
+  },
+  "metal-blast-beats": {
+    "tagline": "Blast Beats — cú nổ siêu thanh của Death Metal và Grindcore",
+    "bodyHtml": "<p>Không có kỹ thuật nào gây sốc và thách thức giới hạn thể lực con người dữ dội bằng <strong>Blast Beat</strong>: một bức tường âm thanh siêu thanh nơi trống Snare, trống Bass và Cymbal va đập liên tục ở mật độ nốt móc kép với tốc độ 180 đến 240+ BPM!</p><h2 class=\"section-label\">Các biến thể Blast Beat kinh điển</h2><ul class=\"bulleted\"><li><strong>Traditional Blast (Blast truyền thống)</strong>: Tay và chân đánh so le luân phiên nhau (Snare và Kick so le nhau như tiếng máy khâu tốc độ cực đại).</li><li><strong>Hammer Blast (Blast búa tạ)</strong>: Tay Snare, tay Cymbal và chân Kick giáng xuống <strong>cùng một lúc ở mọi nốt</strong>. Âm thanh như một cơn bão hủy diệt.</li></ul>",
+    "graduationCriteria": [
+      "Traditional Blast Beat (Bài 1) giữ đều đặn ở ♩=170 suốt 30 giây không bị co cứng cơ",
+      "Hammer Blast Beat (Bài 3) đạt độ đồng bộ tuyệt đối giữa tay và chân",
+      "Chuyển đổi từ nhịp dồn thông thường sang Blast Beat diễn ra gãy gọn, chính xác"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Traditional Blast Beat (Đánh so le)",
+        "tip": "Kick và Cymbal đánh ở phách chính, Snare đánh ở nốt lệch (&amp;). Hai bên luân phiên nhanh như chớp ở ♩=160."
+      },
+      {
+        "title": "2 — Tập chậm để xây dựng độ bền cơ học",
+        "tip": "Hạ tốc độ xuống ♩=120 để rèn luyện độ nảy của cổ tay và ngón tay. Đừng dùng sức gồng bắp tay."
+      },
+      {
+        "title": "3 — Hammer Blast Beat (Đánh đồng thời)",
+        "tip": "Snare, Kick và Cymbal cùng nổ vang ở mọi nốt nốt móc đơn. Âm thanh búa tạ giáng xuống đe thép."
+      },
+      {
+        "title": "4 — Blast Beat hoàn chỉnh chuyển đoạn vào Breakdown",
+        "tip": "Tung ra tràng blast beat bão táp trong 2 ô nhịp rồi đột ngột hạ cánh xuống rãnh nhịp breakdown nặng trĩu."
+      }
+    ]
+  },
+  "metal-prog-metal": {
+    "tagline": "Progressive Metal — phức tạp, biến đổi nhịp đo (Dream Theater, Opeth)",
+    "bodyHtml": "<p><strong>Progressive Metal (Prog Metal)</strong> là nơi kỹ thuật kim loại nặng kết hợp với tư duy toán học và nhạc cổ điển. Những ban nhạc như Dream Theater (Mike Portnoy, Mike Mangini), Opeth (Martin Axenrot) và Symphony X đã nâng tầm thể loại này lên hàng nghệ thuật hàn lâm.</p><h2 class=\"section-label\">Biến ảo nhịp điệu liên tục</h2><p>Prog Metal không bao giờ chịu ngồi yên trong một nhịp đo duy nhất: bài hát liên tục chuyển đổi giữa 4/4, 5/8, 7/8, 9/8 và 11/8. Tay trống phải vừa giữ được sức mạnh sấm sét của metal, vừa phải có độ chính xác tuyệt đối như một máy tính vi tính.</p>",
+    "graduationCriteria": [
+      "Rãnh nhịp Prog Metal 7/8 (Bài 1) giữ vững ở ♩=110 suốt 2 phút",
+      "Chuyển đổi nhịp đo liên tục giữa 4/4 và 7/8 (Bài 3) không bị mất nhịp",
+      "Sự kết hợp giữa chân double bass và tay phối khí trên dàn tom thể hiện rõ tính giai điệu"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rãnh nhịp Prog Metal trong nhịp 7/8",
+        "tip": "Bảy nốt móc đơn chia thành: <em>2 + 2 + 3</em>. Chân kick và tay snare đảo phách tinh xảo theo câu riff guitar."
+      },
+      {
+        "title": "2 — Mẫu hình chân Double Bass phức hợp phong cách Mike Portnoy",
+        "tip": "Chân kick đệm những cụm nốt móc kép ngắt quãng bất thường bên dưới lá Ride trong trẻo."
+      },
+      {
+        "title": "3 — Chuyển đổi nhịp đo: 4/4 sang 7/8 rồi sang 5/8",
+        "tip": "Bài tập chuyển số nhịp đo liên hoàn. Đếm to trong đầu để không bị lạc lối giữa ma trận thời gian."
+      },
+      {
+        "title": "4 — Tác phẩm Prog Metal hoàn chỉnh",
+        "tip": "Hòa quyện sức mạnh hủy diệt và trí tuệ bác học vào một màn trình diễn đỉnh cao."
+      }
+    ]
+  },
+  "metal-d-beat": {
+    "tagline": "Điệu D-Beat kinh điển của Crust Punk và Thrash Metal (Discharge, Motörhead)",
+    "bodyHtml": "<p>Được ban nhạc punk người Anh <strong>Discharge</strong> sáng tạo ra vào đầu thập niên 80 (lấy cảm hứng từ bài <em>Overkill</em> của Motörhead), <strong>D-Beat</strong> đã trở thành nhịp trống nền tảng của toàn bộ các dòng nhạc Crust Punk, Grindcore, Thrash Metal và Swedish Death Metal.</p><h2 class=\"section-label\">Cú nảy lảo đảo bất đối xứng</h2><p>Điều làm nên bản sắc của D-Beat là sự bất đối xứng đầy phấn khích của trống kick: <strong>Kick rơi ở phách 1, nốt &amp; của 2, và phách 3</strong>; trong khi snare giáng ở <strong>phách 2 và nốt &amp; của 4</strong>! Cảm giác như chiếc xe đang lao dốc không phanh với tốc độ nghẹt thở.</p>",
+    "graduationCriteria": [
+      "Rãnh nhịp D-Beat chuẩn xác (Bài 1) giữ đều đặn ở ♩=160 suốt 2 phút",
+      "Vị trí nốt kick ở nốt & của 2 và snare ở nốt & của 4 không bị xê dịch",
+      "Tái hiện trọn vẹn tinh thần nổi loạn, bụi bặm và tốc độ của Punk/Metal cổ điển"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nhịp D-Beat Discharge kinh điển",
+        "tip": "Kick ở 1, nốt &amp; của 2, phách 3. Snare ở phách 2 và nốt &amp; của 4. Hi-hat móc đơn mở hé ở trên. Tốc độ ♩=150."
+      },
+      {
+        "title": "2 — D-Beat chơi trên lá Ride hoặc Crash",
+        "tip": "Chuyển tay phải sang chém lá Crash ở các nốt đen để tạo bức tường âm thanh sấm sét."
+      },
+      {
+        "title": "3 — Thêm cú dậm đúp Kick ở đầu ô nhịp",
+        "tip": "Biến tấu D-Beat phong cách Swedish Death Metal (Entombed, Dismember). Nặng trĩu và tàn bạo."
+      },
+      {
+        "title": "4 — D-Beat Metal hoàn chỉnh ở tốc độ cao",
+        "tip": "Đẩy tốc độ lên ♩=175. Cháy hết mình với nguồn năng lượng cuồng nhiệt của âm nhạc underground."
+      }
+    ]
+  },
+  "metal-thrash": {
+    "tagline": "Thrash Metal — tốc độ sấm sét của Metallica, Slayer, Megadeth, Anthrax",
+    "bodyHtml": "<p>Thập niên 80 chứng kiến sự trỗi dậy của <strong>\"The Big Four\" (Tứ đại gia Thrash Metal)</strong>: Metallica (Lars Ulrich), Slayer (Dave Lombardo), Megadeth (Nick Menza) và Anthrax (Charlie Benante). Họ đã đưa tốc độ và sự hung hãn của bộ trống lên những nấc thang chưa từng có.</p><h2 class=\"section-label\">Skank Beat (Thrash Beat) thần tốc</h2><p>Trái tim của Thrash Metal là <strong>Skank Beat</strong> (còn gọi là Thrash Beat): nhịp polka siêu tốc nơi tiếng snare và kick luân phiên nện xuống liên tục ở các nốt móc đơn ở tốc độ từ 180 đến 220+ BPM. Bàn tay phải gõ hi-hat hoặc ride như máy gặt lúa, đòi hỏi sự dẻo dai cơ học phi thường của khớp cổ tay.</p>",
+    "graduationCriteria": [
+      "Skank Beat phong cách Slayer/Metallica giữ vững ở ♩=190 suốt 1 phút không bị đuối tay",
+      "Tiếng snare nổ đanh giòn ở các nốt lệch phách (&) luân phiên hoàn hảo cùng tiếng kick",
+      "Thực hiện câu fill nốt móc kép chuyển đoạn ở tốc độ cao không bị vấp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Thrash Skank Beat cơ bản",
+        "tip": "Kick ở phách chính (1, 2, 3, 4), Snare nổ đanh ở các nốt lệch (<em>&amp;</em>). Tốc độ xuất phát ♩=160."
+      },
+      {
+        "title": "2 — Đẩy tốc độ Skank Beat lên ngưỡng 190 BPM",
+        "tip": "Thả lỏng cổ tay tối đa. Nhỏ biên độ chuyển động của dùi để tiết kiệm thể lực ở tốc độ cao."
+      },
+      {
+        "title": "3 — Rãnh nhịp Double Bass Thrash phong cách Dave Lombardo",
+        "tip": "Chuyển chân sang chạy double bass nốt móc kép liên tục bên dưới cú dằn snare bão táp."
+      },
+      {
+        "title": "4 — Rãnh nhịp Thrash Metal hoàn chỉnh",
+        "tip": "Tái hiện khí thế hào hùng của album 'Master of Puppets' hay 'Reign in Blood' ở ♩=205."
+      }
+    ]
+  },
+  "metal-groove-metal": {
+    "tagline": "Groove Metal — độ nặng và rãnh nhịp nhún nhảy kiểu Pantera và Lamb of God",
+    "bodyHtml": "<p>Khi Thrash Metal trở nên quá nhanh đến mức bão hòa, tay trống huyền thoại <strong>Vinnie Paul (Pantera)</strong> đã tạo nên một bước ngoặt lịch sử: hạ chậm tốc độ xuống, nhưng <strong>tăng sức nặng lên gấp mười lần và đưa chiếc túi 'Groove' nhún nhảy vào Metal</strong>.</p><h2 class=\"section-label\">Cú đấm ngàn cân của Vinnie Paul</h2><p>Groove Metal kết hợp sức nặng của Heavy Metal với độ nhún nhảy đảo phách của Funk: những cú kick kép dậm ngắt quãng sắc lẹm, tiếng snare rimshot nổ vang như bom C4 và những khoảng lặng bất ngờ khiến cả khán phòng phải rung chuyển theo từng bước chân.</p>",
+    "graduationCriteria": [
+      "Rãnh nhịp Groove Metal phong cách Pantera (Bài 1) chơi với uy lực tuyệt đối ở ♩=105",
+      "Cú kick kép dậm dứt khoát đồng bộ hoàn hảo cùng cú dằn guitar riff",
+      "Các khoảng lặng giữa các nốt gõ hoàn toàn sạch sẽ, không có tạp âm thừa"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nhịp 'Walk' phong cách Pantera / Vinnie Paul",
+        "tip": "Rãnh nhịp kinh điển của bài 'Walk'. Nhún nhảy, đĩnh đạc, nặng nề và đầy uy quyền ở ♩=100."
+      },
+      {
+        "title": "2 — Cú Kick kép đảo phách dằn theo câu Riff",
+        "tip": "Chân kick dậm những nốt syncopation sắc bén ăn khớp tuyệt đối với tiếng guitar điện."
+      },
+      {
+        "title": "3 — Rãnh nhịp Groove Metal phong cách Lamb of God (Chris Adler)",
+        "tip": "Kết hợp tiếng gõ núm chuông lá Ride (bell) sắc lẹm và kỹ thuật chân double bass dồn dập."
+      },
+      {
+        "title": "4 — Groove Metal Anthem hoàn chỉnh",
+        "tip": "Tạo ra một bức tường âm thanh kim loại khổng lồ khiến cả vạn khán giả phải gật gù sùng kính."
+      }
+    ]
+  },
+  "metal-extreme": {
+    "tagline": "Extreme Metal — vượt qua mọi giới hạn thể lực và tốc độ",
+    "bodyHtml": "<p><strong>Extreme Metal</strong> (Death Metal, Black Metal, Grindcore) là nơi ranh giới giữa âm nhạc và thể thao đỉnh cao bị xóa nhòa. Các tay trống extreme metal giống như những vận động viên Olympic: họ phải rèn luyện nhiều năm để đạt tới tốc độ <strong>240 đến 280+ BPM</strong>.</p><h2 class=\"section-label\">Kỹ thuật công thái học vi mô</h2><p>Ở tốc độ này, cơ bắp cánh tay không thể hoạt động kịp. Bạn bắt buộc phải làm chủ <strong>kỹ thuật ngón tay (Finger Technique), kỹ thuật lắc cổ chân (Ankle Technique) và kỹ thuật xoay bàn chân (Swivel)</strong> để di chuyển đầu dùi và pedal chỉ với biên độ vài milimet.</p>",
+    "graduationCriteria": [
+      "Duy trì rãnh nhịp Extreme Metal ở ♩=220 suốt 1 phút không bị gãy nhịp",
+      "Kỹ thuật lắc cổ chân trên pedal đôi vận hành êm ái không gây căng cứng cơ đùi",
+      "Kiểm soát âm lượng đồng đều giữa tay và chân ở tốc độ cực đại"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luyện kỹ thuật ngón tay tốc độ cao trên Ride",
+        "tip": "Cổ tay giữ yên, dùng ba ngón tay sau búng dùi nảy trên mặt cymbal ở ♩=200."
+      },
+      {
+        "title": "2 — Kỹ thuật lắc cổ chân trên Pedal đôi (Ankle Motion)",
+        "tip": "Chỉ dùng khớp cổ chân lắc nhẹ mũi bàn chân. Tiết kiệm 80% thể lực so với nhấc cả cẳng chân."
+      },
+      {
+        "title": "3 — Extreme Metal Blast Beat ở 220 BPM",
+        "tip": "Bức tường âm thanh siêu thanh nổ ra liên tục. Đòi hỏi sự tập trung tinh thần tuyệt đối."
+      },
+      {
+        "title": "4 — Rãnh nhịp Extreme Metal bão táp hoàn chỉnh",
+        "tip": "Vượt qua giới hạn thể chất của bản thân để bước vào hàng ngũ những tay trống tốc độ nhất thế giới."
+      }
+    ]
+  },
+  "metal-gravity-rolls": {
+    "tagline": "Kỹ thuật Gravity Roll — đổ trống một tay siêu tốc trên vành kim loại",
+    "bodyHtml": "<p><strong>Gravity Roll (One-Handed Roll)</strong> là một trong những kỹ thuật thị giác và âm thanh ngoạn mục nhất: bạn có thể chơi một tràng nốt móc kép siêu tốc <strong>chỉ bằng một bàn tay duy nhất</strong> với tốc độ tương đương hai tay đánh gộp lại!</p><h2 class=\"section-label\">Tận dụng vành trống làm điểm tựa</h2><p>Bí quyết của Gravity Roll là sử dụng <strong>vành kim loại của trống snare làm chiếc bập bênh</strong>: khi cẳng tay hạ xuống, đầu dùi đánh vào mặt trống; khi cẳng tay nhấc lên, thân dùi va vào vành trống tạo ra cú nảy thứ hai vào mặt trống. Cứ mỗi chuyển động lên-xuống của cánh tay, bạn tạo ra hai cú đánh thần tốc!</p>",
+    "graduationCriteria": [
+      "Thực hiện được kỹ thuật Gravity Roll bằng một tay trái trên trống snare liên tục 10 giây",
+      "Ứng dụng Gravity Roll vào điệu Gravity Blast Beat ở ♩=200",
+      "Âm thanh các nốt nảy đều đặn, không bị nghẹt tiếng"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cơ chế bập bênh trên vành trống Snare",
+        "tip": "Hạ tay xuống: đầu dùi chạm mặt trống. Nâng tay lên: thân dùi đập vành làm đầu dùi nảy cú thứ hai. Tập thật chậm."
+      },
+      {
+        "title": "2 — Tăng tốc độ chu kỳ Gravity Roll",
+        "tip": "Liên kết các chuyển động lên-xuống thành một dòng chảy liên tục. Âm thanh đổ trống một tay bắt đầu hiện hình."
+      },
+      {
+        "title": "3 — Điệu Gravity Blast Beat (Một tay snare, một tay cymbal)",
+        "tip": "Tay trái làm gravity roll trên snare trong khi tay phải đánh cymbal và chân dậm double bass song song."
+      },
+      {
+        "title": "4 — Gravity Roll ứng dụng trong câu Fill Metal hiện đại",
+        "tip": "Tung ra cú đổ trống một tay thần sầu làm kinh ngạc mọi khán giả và đồng nghiệp theo dõi."
+      }
+    ]
+  },
+  "metal-bomb-blasts": {
+    "tagline": "Bomb Blast — cơn bão hủy diệt của Cannibal Corpse",
+    "bodyHtml": "<p>Được Paul Mazurkiewicz (Cannibal Corpse) và các ban nhạc Brutal Death Metal tiên phong đưa lên hàng kinh điển, <strong>Bomb Blast (còn gọi là Cannibal Blast)</strong> là một biến thể Blast Beat có sức công phá nặng nề bậc nhất.</p><h2 class=\"section-label\">Double Bass nốt móc kép kết hợp Snare nốt móc đơn</h2><p>Khác với traditional blast, trong Bomb Blast: <strong>hai chân dậm double bass nốt móc kép liên tục bên dưới</strong>, trong khi tay snare và cymbal giáng những cú đòn sấm sét nốt móc đơn ở phía trên. Kết quả là một cơn mưa bom rền rĩ không hồi kết.</p>",
+    "graduationCriteria": [
+      "Bomb Blast Beat giữ đều đặn ở ♩=180 suốt 30 giây",
+      "Chân double bass nốt móc kép bên dưới chạy êm ru không làm xô lệch cú snare bên trên",
+      "Âm sắc đanh thép, bạo tàn chuẩn phong cách Brutal Death Metal"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nền tảng Double Bass nốt móc kép tốc độ 160 BPM",
+        "tip": "Chạy hai chân double bass đều đặn như cỗ máy động cơ phản lực trước khi đưa tay vào."
+      },
+      {
+        "title": "2 — Đưa Snare và Cymbal đánh đồng thời ở nốt móc đơn",
+        "tip": "Mỗi hai nốt kick bên dưới thì tay snare và cymbal giáng một cú đòn bên trên. Đếm: <em>1 &amp; 2 &amp;</em>."
+      },
+      {
+        "title": "3 — Đẩy tốc độ Bomb Blast lên 185 BPM",
+        "tip": "Tận dụng độ nảy của lò xo pedal và sự thư giãn cơ bắp cổ tay. Giữ hơi thở đều đặn."
+      },
+      {
+        "title": "4 — Bomb Blast hoàn chỉnh chuyển sang Heavy Breakdown",
+        "tip": "Cơn bão bom đạn càn quét qua hai ô nhịp rồi sụp đổ xuống rãnh nhịp slam nặng tựa nghìn cân."
+      }
+    ]
+  },
+  "metal-hyperblasts": {
+    "tagline": "Hyperblast ở tốc độ 250+ BPM — ngưỡng giới hạn vật lý của loài người",
+    "bodyHtml": "<p>Khi tốc độ vượt qua ngưỡng 240 BPM và chạm mốc <strong>260 đến 300 BPM</strong>, chúng ta bước vào thế giới của <strong>Hyperblast</strong> (như trong các tác phẩm của Origin, Nile, Cryptopsy hay Archspire).</p><h2 class=\"section-label\">Khoa học của từng milimet chuyển động</h2><p>Tại ngưỡng tốc độ này, mọi cử động thừa thãi đều dẫn đến thất bại. Tay trống phải sử dụng dùi siêu nhẹ, góc bàn đạp cực nhạy, cảm biến trigger điện tử hỗ trợ âm thanh, và chuyển động ngón tay chỉ co bóp trong phạm vi vài milimet như một chiếc máy rung cơ học.</p>",
+    "graduationCriteria": [
+      "Hyperblast Beat giữ được sự đồng đều ở ♩=240 suốt 20 giây",
+      "Kỹ thuật kiểm soát ngón tay vận hành độc lập không gây cứng khớp",
+      "Hiểu rõ phương pháp công thái học bảo vệ cơ thể khỏi chấn thương gân"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luyện ngón tay vi mô trên mặt Snare (Finger Micro-Strokes)",
+        "tip": "Đầu dùi chỉ nhấc lên cách mặt trống 1 cm. Búng nhẹ các ngón tay sau ở tốc độ cực hạn."
+      },
+      {
+        "title": "2 — Kỹ thuật chân Heel-Toe / Swivel ở tốc độ 240 BPM",
+        "tip": "Chân lướt trên pedal đôi nhẹ nhàng như những chiếc lá mùa thu. Không dẫm đạp bằng lực cơ thô."
+      },
+      {
+        "title": "3 — Hyperblast truyền thống luân phiên",
+        "tip": "Hai tay và hai chân luân phiên so le tạo thành tiếng rào rào siêu thanh như thác đổ."
+      },
+      {
+        "title": "4 — Hyperblast hoàn chỉnh",
+        "tip": "Chinh phục đỉnh cao tốc độ của nhân loại với sự chuẩn xác lạnh lùng của một cỗ máy vi tính."
+      }
+    ]
+  },
+  "metal-djent": {
+    "tagline": "Điệu Djent — nhịp đa tầng (Polymeter) bẻ gãy nhịp kiểu Meshuggah và Periphery",
+    "bodyHtml": "<p>Bắt nguồn từ ban nhạc Thụy Điển huyền thoại <strong>Meshuggah</strong> (cùng tay trống thiên tài Tomas Haake) và phát triển rực rỡ qua Periphery hay Animals As Leaders, <strong>Djent</strong> là cuộc cách mạng vĩ đại nhất của Metal hiện đại.</p><h2 class=\"section-label\">Ảo giác nhịp đa tầng (Polymeter Illusion)</h2><p>Bí quyết của Djent là sự phân thân kỳ ảo: <strong>Tay phải và tay trái giữ nhịp 4/4 bất biến trên lá cymbal và trống snare</strong> (snare luôn đánh ở phách 3 để ban nhạc headbang), trong khi <strong>chân kick và guitar riff chạy những câu nhịp lẻ kỳ quái (như 23/16, 17/16 hay 7/8) lặp đi lặp lại bên dưới</strong> cho đến khi hai chu kỳ gặp lại nhau sau nhiều ô nhịp!</p>",
+    "graduationCriteria": [
+      "Rãnh nhịp Djent cơ bản (Bài 1) giữ vững tay 4/4 trong khi chân chạy câu nhịp lẻ bên dưới suốt 2 phút",
+      "Tiếng snare ở phách 3 không bao giờ bị cuốn theo câu kick bất đối xứng",
+      "Hiểu rõ cách phân tích cấu trúc toán học của các chu kỳ Polymeter"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Khung sườn Djent cơ bản: Tay 4/4, Chân câu nhịp 3 nốt",
+        "tip": "Tay chơi nhịp 4/4 thẳng, chân kick dậm mẫu hình 3 nốt móc kép lặp lại liên tục bên dưới. Cảm nhận sự trôi dạt."
+      },
+      {
+        "title": "2 — Rãnh nhịp Djent phong cách Meshuggah (Bài 'Bleed' feel)",
+        "tip": "Chân double bass dậm liên ba hai nốt một nốt nghỉ (herta/triplet pattern) cực kỳ dồn dập và chuẩn xác."
+      },
+      {
+        "title": "3 — Snare dằn ở phách 3 làm điểm neo cho người nghe",
+        "tip": "Dù chân kick có chạy nhịp kỳ lạ đến đâu, tiếng snare ở phách 3 vẫn nhắc nhở khán phòng gật đầu đúng nhịp."
+      },
+      {
+        "title": "4 — Tác phẩm Djent Polymeter hoàn chỉnh",
+        "tip": "Làm chủ ngôn ngữ nhịp điệu thời thượng và phức tạp nhất của thế giới Metal thế kỷ 21."
+      }
+    ]
+  },
+  "metal-tech-death": {
+    "tagline": "Technical Death Metal — sự chính xác phẫu thuật ở tốc độ cực đại",
+    "bodyHtml": "<p>Trong <strong>Technical Death Metal (Tech Death)</strong> với những ban nhạc như Necrophagist, Obscura, Archspire và Beyond Creation, người chơi trống được đòi hỏi phải có <strong>sự chuẩn xác phẫu thuật của một bác sĩ giải phẫu thần kinh kết hợp sức mạnh bão táp của một chiến binh</strong>.</p><h2 class=\"section-label\">Biến thiên không ngừng nghỉ</h2><p>Trong một bài hát Tech Death, nhịp điệu có thể thay đổi sau mỗi 2 ô nhịp: từ một câu blast beat 250 BPM chuyển sang một rãnh nhịp 13/8 đảo phách, rồi lập tức rơi vào một câu fill linear quét sạch các quả tom. Từng nốt gõ phải sạch bong như lau như ly.</p>",
+    "graduationCriteria": [
+      "Chơi sạch một chuỗi Tech Death phức hợp ở ♩=160 không có nốt nào bị mờ hay dính",
+      "Chuyển đổi kỹ thuật chớp nhoáng giữa blast beat, double bass dồn và fill tuyến tính",
+      "Khóa chặt từng cú dằn đồng thanh (unison hits) cùng guitar và bass"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cú dằn đồng thanh Tech Death (Unison Stabs)",
+        "tip": "Kick, Snare và Cymbal giáng những cú đòn ngắt quãng sắc lẹm theo câu riff guitar phức tạp."
+      },
+      {
+        "title": "2 — Chuỗi liên hoàn: Blast Beat chuyển sang Double Bass Riff",
+        "tip": "Hai ô nhịp blast beat bão tố chuyển tức thì sang hai ô nhịp double bass chạy nốt móc kép sắc như dao cạo."
+      },
+      {
+        "title": "3 — Phối khí nốt móc kép trên dàn Tom kiểu Obscura",
+        "tip": "Các câu chạy ngón luân phiên hai tay trên dàn tom kết hợp chân kick chen vào giữa."
+      },
+      {
+        "title": "4 — Technical Death Metal Workout hoàn chỉnh",
+        "tip": "Thử thách đỉnh cao về kỹ thuật, thể lực và độ chuẩn xác cơ học của người chơi trống metal."
+      }
+    ]
+  },
+  "metal-polymeters": {
+    "tagline": "Nhịp đa đo (Polymeter) trong Metal hiện đại",
+    "bodyHtml": "<p><strong>Polymeter (Nhịp đa đo)</strong> là nghệ thuật chơi hai số chỉ nhịp có cùng giá trị trường độ nốt nhưng khác nhau về độ dài ô nhịp cùng một lúc: ví dụ <strong>một câu nhạc 5/4 chạy song song trên nền một ô nhịp 4/4</strong>.</p><h2 class=\"section-label\">Vòng xoay giao thoa kỳ ảo</h2><p>Vì 5 và 4 là hai số nguyên tố cùng nhau, câu nhạc 5 phách sẽ liên tục bắt đầu ở những vị trí khác nhau trong ô nhịp 4/4, và chỉ sau đúng <strong>20 phách (5 ô nhịp 4/4 hoặc 4 ô nhịp 5/4)</strong>, hai chu kỳ mới cùng gặp lại nhau ở phách 1! Đây là trò chơi trí tuệ đỉnh cao của các ban nhạc Metal hiện đại.</p>",
+    "graduationCriteria": [
+      "Chơi câu Polymeter 5 trên 4 (Bài 1) trọn vẹn cả chu kỳ 20 phách mà không bị đếm nhầm",
+      "Tay giữ vững nhịp 4/4 trong khi chân kick hoàn thành câu 5 phách bên dưới",
+      "Tiếp đất chính xác ở phách 1 của chu kỳ mới sau khi hai dòng nhịp hội tụ"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chu kỳ Polymeter 5/4 trên nền 4/4",
+        "tip": "Tay chơi nhịp 4/4 trên lá Ride và Snare, chân kick chạy câu 5 phách. Cảm nhận điểm rơi dịch chuyển liên tục."
+      },
+      {
+        "title": "2 — Chu kỳ Polymeter 3/4 trên nền 4/4 (Chu kỳ 12 phách)",
+        "tip": "Câu kick 3 phách lặp lại trên nền ô nhịp 4 phách. Sau 3 ô nhịp, hai chi sẽ gặp lại nhau ở phách 1."
+      },
+      {
+        "title": "3 — Chu kỳ Polymeter 7/8 trên nền 4/4",
+        "tip": "Đẩy độ phức tạp lên cấp độ cao hơn. Đòi hỏi sự vững vàng tuyệt đối của chiếc đồng hồ nội tại."
+      },
+      {
+        "title": "4 — Tác phẩm Polymeter Metal hoàn chỉnh",
+        "tip": "Làm chủ ma thuật toán học của nhịp điệu đa tầng hiện đại."
+      }
+    ]
+  },
+  "metal-metric-modulation": {
+    "tagline": "Chuyển đổi nhịp đo tỷ lệ (Metric Modulation) trong Metal",
+    "bodyHtml": "<p><strong>Metric Modulation</strong> là một kỹ thuật thay đổi tốc độ tempo một cách liền mạch và đầy ảo ảnh: bạn lấy một phân nhịp nhỏ của nhịp cũ (ví dụ nốt liên ba hoặc nốt móc đơn chấm dôi) và <strong>biến chính nó thành phách nốt đen cơ sở của nhịp mới</strong>.</p><h2 class=\"section-label\">Cú chuyển số không vết xước</h2><p>Người nghe không nhận ra tempo đã thay đổi từ lúc nào — họ chỉ cảm thấy ban nhạc đột ngột lao nhanh hơn hoặc trôi chậm lại một cách hoàn toàn tự nhiên và đầy ma thuật. Đây là dấu ấn của Tool, Porcupine Tree và Car Bomb.</p>",
+    "graduationCriteria": [
+      "Biểu diễn cú chuyển nhịp Metric Modulation từ 4/4 sang tempo mới mượt mà không khựng lại",
+      "Nhận diện được nốt cầu nối (pivot note) làm bệ phóng cho cú chuyển đổi",
+      "Tiếp tục giữ vững nhịp điệu mới với sự tự tin tuyệt đối"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chuyển đổi qua nốt Liên ba (Triplet Modulation)",
+        "tip": "Lấy nốt liên ba của tempo cũ làm nốt đen của tempo mới. Tốc độ tăng 1.5 lần đầy bất ngờ."
+      },
+      {
+        "title": "2 — Chuyển đổi qua nốt Chấm dôi (Dotted-Note Modulation)",
+        "tip": "Lấy nốt móc đơn chấm dôi làm nhịp phách mới. Cảm giác nhịp điệu giãn nở ngoạn mục."
+      },
+      {
+        "title": "3 — Ứng dụng Metric Modulation trong chuyển đoạn Metal",
+        "tip": "Đưa ban nhạc từ đoạn Verse dồn dập sang đoạn Breakdown nặng trĩu mà không cần đếm nhịp lại."
+      },
+      {
+        "title": "4 — Bài tập Metric Modulation hoàn chỉnh",
+        "tip": "Làm chủ một trong những kỹ thuật sáng tạo hòa âm tiết tấu cao cấp nhất của âm nhạc hiện đại."
+      }
+    ]
+  },
+  "metal-mathcore": {
+    "tagline": "Mathcore — nhịp điệu hỗn loạn có tính toán kiểu The Dillinger Escape Plan",
+    "bodyHtml": "<p><strong>Mathcore</strong> (với The Dillinger Escape Plan, Converge, Car Bomb) là đỉnh cao của sự điên cuồng có kiểm soát: âm nhạc nghe như một vụ nổ hạt nhân hỗn loạn, nhưng bên dưới là những phép tính toán học phức tạp đến từng mili-giây.</p><h2 class=\"section-label\">Cơn thịnh nộ có kỷ luật</h2><p>Mathcore không cho phép bạn dựa dẫm vào bất kỳ phản xạ quen thuộc nào: một ô nhịp 5/8 tiếp nối bằng một ô 3/16, rồi nhảy sang 7/8 rồi dừng lại đột ngột ở một nốt lặng kỳ dị. Để chơi được thể loại này, bạn phải có một thần kinh thép và sự chính xác tột cùng.</p>",
+    "graduationCriteria": [
+      "Chơi sạch sẽ chuỗi nhịp Mathcore biến thiên (Bài 1) ở ♩=130 không bị mất phách",
+      "Thực hiện các cú ngắt âm đột ngột (stops) hoàn toàn sạch sẽ như dao cắt",
+      "Tái hiện trọn vẹn năng lượng bùng nổ hoang dại của dòng nhạc Mathcore"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chuỗi nhịp biến thiên: 5/8 → 7/8 → 4/4 → 3/8",
+        "tip": "Mỗi ô nhịp là một con số mới. Đếm từng nốt móc đơn vi mô để không bao giờ bị trượt chân."
+      },
+      {
+        "title": "2 — Cú dừng đột ngột kiểu Dillinger Escape Plan",
+        "tip": "Đang chạy bão táp thì đột ngột đứng hình toàn bộ cơ thể trong một phách tĩnh lặng rồi nổ tiếp."
+      },
+      {
+        "title": "3 — Rãnh nhịp Mathcore đảo phách cực hạn",
+        "tip": "Các nốt kick và snare đan xen dày đặc ở những vị trí phi quy ước. Thử thách thần kinh tối cao."
+      },
+      {
+        "title": "4 — Mathcore Workout hoàn chỉnh",
+        "tip": "Chinh phục đỉnh núi cao nhất của sự phức tạp nhịp điệu trong thế giới Metal."
+      }
+    ]
+  },
+  "metal-gospel-chops": {
+    "tagline": "Gospel Chops áp dụng vào Metal — những câu rải ngón thần sầu khắp dàn trống",
+    "bodyHtml": "<p>Trong những năm gần đây, một làn sóng mới đã đổ bộ vào làng Metal hiện đại (với các tay trống như Thomas Pridgen, Matt Garstka của Animals As Leaders, và Alex Rüdinger): họ mang những câu <strong>Gospel Chops</strong> thần sầu của nhà thờ da màu áp dụng vào những đoạn Breakdown và Fills của Metalcore và Djent.</p><h2 class=\"section-label\">Sự hòa quyện giữa tốc độ, độ nảy và tuyến tính</h2><p>Gospel Chops trong metal sử dụng các chuỗi nốt tuyến tính (RLK, RLLK, RLRK) chạy vòng quanh dàn tom, snare và lá china ở tốc độ chóng mặt, tạo nên những câu báo trống lấp lánh như pháo hoa nhưng lại mang sức nặng của đòn đánh búa tạ.</p>",
+    "graduationCriteria": [
+      "Câu rải ngón Gospel Chops 1 ô nhịp (Bài 1) thực hiện trơn tru ở ♩=110",
+      "Sự kết hợp giữa cú đánh đôi của tay và cú dậm kick của chân diễn ra liền mạch không ngắt quãng",
+      "Ứng dụng Gospel Chops vào cú chuyển đoạn Metal hoàn hảo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cụm ô Gospel Chops cơ bản: R L K K",
+        "tip": "Hai nốt tay trên snare/tom, hai nốt chân trên pedal đôi: <em>Tay-Tay-Chân-Chân</em>. Vòng xoay liên hoàn siêu tốc."
+      },
+      {
+        "title": "2 — Cụm ô sáu nốt: R L R L K K (Sextuplet Chops)",
+        "tip": "Bốn nốt tay chạy qua dàn tom, hai nốt chân kick tiếp đất. Cực kỳ bắt mắt và bùng nổ âm thanh."
+      },
+      {
+        "title": "3 — Câu Fill Gospel Metal phong cách Matt Garstka",
+        "tip": "Phối khí tinh xảo khắp mặt trống snare, toms và dàn lá cymbal. Sự giao thoa đỉnh cao của nghệ thuật."
+      },
+      {
+        "title": "4 — Tác phẩm Metal Gospel Chops hoàn chỉnh",
+        "tip": "Làm chủ vũ khí tối thượng của thế hệ tay trống Metal đương đại. Uy lực, hoa mỹ và bất khả chiến bại."
+      }
+    ]
+  }
+}

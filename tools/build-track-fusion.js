@@ -1,0 +1,655 @@
+// tools/build-track-fusion.js
+// Script to generate Vietnamese translations for the Jazz Fusion track (20 lessons)
+// Preserves pedagogy, drumming terminology, exact graduation criteria, and rich HTML.
+
+const fs = require('fs');
+const path = require('path');
+
+const fusionLessons = {
+  "fusion-coordination-foundation": {
+    "tagline": "Nền tảng phối hợp 4 chi trong Fusion bắt đầu từ đây",
+    "bodyHtml": `
+      <p><strong>Jazz Fusion</strong> (khai sinh vào cuối thập niên 1960 bởi Miles Davis, Tony Williams Lifetime, Weather Report và Return to Forever) là sự kết hợp bùng nổ giữa hòa âm, sự ngẫu hứng phóng khoáng của Jazz với năng lượng, âm lượng và nhịp điệu dứt khoát của Rock và Funk.</p>
+      <p>Để bước vào thế giới Fusion, điều kiện tiên quyết là khả năng <strong>độc lập hoàn toàn của 4 chi</strong>. Mỗi tay và mỗi chân không còn 'dựa dẫm' vào nhau để giữ nhịp, mà vận hành như 4 nhạc công riêng biệt có thể đối thoại tự do.</p>
+      <p>Bài học này thiết lập bài tập nền tảng: lá ride swing lướt sóng, chân trái dậm hi-hat ở 2 và 4, trong khi chiếc trống snare gõ một cú điểm xuyết sắc lẹm ở nốt '&' của phách 4 (đón đầu phách 1 tiếp theo).</p>
+    `,
+    "graduationCriteria": [
+      "Lá ride + chân hi-hat ở 2 và 4 + cú snare ở nốt '&' của phách 4 duy trì ổn định ở ♩=90",
+      "Cả 4 chi hoàn toàn độc lập — không có chi nào bị phụ thuộc lực hay kéo lệch thời gian theo chi khác",
+      "Nốt móc đơn swing trên ride có độ lướt trễ tự nhiên, không bị cứng nhắc như móc đơn thẳng"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Jazz Comping với Snare ở Nốt '&' Của Phách 4",
+        "tip": "Tay phải giữ mẫu câu ride swing, chân trái dậm hi-hat ở 2 và 4. Đưa tay trái gõ snare đúng vào nốt lướt '&' của phách 4. Cảm nhận cú hất nảy nhẹ nhàng chuẩn bị cho phách 1 tiếp đất vững vàng."
+      }
+    ]
+  },
+
+  "fusion-six-stroke-roll": {
+    "tagline": "Six-Stroke Roll — Câu báo fill được sử dụng nhiều nhất trong thế giới Fusion",
+    "bodyHtml": `
+      <p>Nếu phải chọn ra một câu báo (fill) định danh cho phong cách Fusion — từ Steve Gadd, Dave Weckl cho đến Vinnie Colaiuta — đó chính là <strong>Six-Stroke Roll (R L L R R L)</strong> chơi dưới dạng chùm ba nốt móc đơn (hoặc móc kép sextuplet).</p>
+      <p>Sức hút kỳ diệu của Six-Stroke Roll nằm ở cấu trúc đối xứng hoàn hảo của nó:
+        <ul>
+          <li>Bắt đầu bằng một nốt nhấn đơn (R).</li>
+          <li>Nối tiếp bởi hai nốt kép nhẹ nhàng (L L R R).</li>
+          <li>Kết thúc bằng một nốt nhấn đơn dứt khoát (L).</li>
+        </ul>
+      </p>
+      <p>Khi hai nốt kép (diddles) được chơi nhỏ nhẹ như những nốt ma (ghost notes) và hai nốt đơn ở đầu/cuối được nhấn mạnh hoặc chuyển đi khắp các tom và cymbals, bạn sẽ có một câu chạy lấp lánh với tốc độ và màu sắc ngoạn mục.</p>
+    `,
+    "graduationCriteria": [
+      "Chơi cụm R L L R R L hai lần liên tiếp sạch sẽ ở ♩=80 dưới dạng chùm ba móc đơn",
+      "Trọng âm ở vị trí nốt 1 và nốt 6 của mỗi cụm được nhấn rõ ràng, đanh thép",
+      "Hai nốt kép (L L và R R) đánh đều, tròn trịa, không bị dính cục hoặc bẹt tiếng",
+      "Phiên bản chạy quanh dàn trống (2B) giữ vững ở ♩=76 với các nốt kép nhẹ nhàng giữ nguyên trên snare"
+    ],
+    "exercises": [
+      {
+        "title": "1A — Six-Stroke Trên Mặt Trống Snare (Chùm Ba Móc Đơn)",
+        "tip": "Đánh R L L R R L trên mặt snare: nhấn mạnh nốt R đầu tiên và nốt L cuối cùng, bốn nốt ở giữa đánh nốt ma cực nhỏ gần sát mặt trống. Dùi nảy tự nhiên để hai cú đúp mượt mà."
+      },
+      {
+        "title": "1B — Six-Stroke Chạy Quanh Dàn Trống",
+        "tip": "Giữ nguyên 4 nốt kép nhẹ trên snare, đưa cú nhấn R đầu tiên lên tom cao (hoặc cymbals crash) và cú nhấn L cuối cùng xuống tom sàn. Âm sắc đa tầng mở ra ngay lập tức!"
+      }
+    ]
+  },
+
+  "fusion-half-time-shuffle": {
+    "tagline": "Half-Time Shuffle — Tuyệt phẩm Purdie Shuffle: chùm ba, ghost notes và backbeat phách 3",
+    "bodyHtml": `
+      <p>Được sáng tạo bởi huyền thoại Bernard 'Pretty' Purdie (và sau đó được John Bonham tôn vinh trong 'Fool in the Rain', Jeff Porcaro trong 'Rosanna'), <strong>Half-Time Shuffle</strong> là đỉnh cao của sự quyến rũ trong nghệ thuật chơi trống.</p>
+      <p>Bí quyết của Purdie Shuffle nằm ở ba tầng cấu trúc:
+        <ul>
+          <li><strong>Khung nhịp chùm ba trên Hi-hat:</strong> Dòng nốt chùm ba nảy bập bùng với cảm giác nhún nhảy thượng thừa.</li>
+          <li><strong>Backbeat Half-Time:</strong> Cú nổ rim-shot mạnh mẽ chuyển từ phách 2 và 4 truyền thống sang <strong>phách 3</strong> duy nhất trong ô nhịp.</li>
+          <li><strong>Mạng lưới nốt ma (Ghost notes):</strong> Tay trái thì thầm các nốt ma ở các nốt thành phần của chùm ba giữa các phách, tạo nên một dải lụa âm thanh lướt êm bên dưới.</li>
+        </ul>
+      </p>
+    `,
+    "graduationCriteria": [
+      "Hi-hat chùm ba kết hợp backbeat phách 3 duy trì ổn định ở ♩=80 trong 2 phút",
+      "Các nốt ma trên các nốt thành phần chùm ba nghe rõ ràng nhưng âm lượng tối đa chỉ bằng 1/4 tiếng backbeat",
+      "Groove Purdie Shuffle hoàn chỉnh duy trì ở ♩=88 với các cú kick mở - đóng (phách 1 và & của 3) rơi chính xác trong lưới chùm ba",
+      "Người nghe nhận diện rõ ràng cảm giác nhịp Half-Time — phách 3 là cột trụ backbeat không thể nhầm lẫn"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hi-Hat Chùm Ba Với Backbeat Half-Time",
+        "tip": "Tay phải đánh chùm ba trên hi-hat, tay trái gõ backbeat đanh giòn ở đúng phách 3. Chân kick chỉ dậm ở phách 1. Tập trung vào sự tương phản giữa không gian tĩnh lặng và cú quất phách 3."
+      },
+      {
+        "title": "2 — Thêm Mạng Lưới Ghost Notes Chùm Ba",
+        "tip": "Tay trái thêm các nốt ma cực nhẹ vào vị trí thứ hai hoặc thứ ba của chùm ba móc đơn. Giữ đầu dùi cách mặt trống không quá 2-3 cm để tiếng nốt ma như tiếng thì thầm."
+      },
+      {
+        "title": "3 — Thêm Cú Kick Mở và Đóng ở Phách 3",
+        "tip": "Chân phải đá một cú kick ở phách 1 và một cú kick đón đầu ở nốt '&' lướt của phách 3. Cú đá này kết hợp với backbeat phách 3 tạo nên cú xoay hông kinh điển của điệu shuffle."
+      },
+      {
+        "title": "4 — Purdie Shuffle Hoàn Chỉnh Toàn Lực",
+        "tip": "Ghép nối tất cả các thành phần ở tốc độ ♩=88. Chơi với nụ cười và sự kiêu hãnh của một nghệ sĩ bậc thầy — chiếc groove này phải khiến mọi người nhún nhảy ngay từ phách đầu tiên."
+      }
+    ]
+  },
+
+  "fusion-linear-basics": {
+    "tagline": "Khái niệm Linear Drumming cơ bản — Mỗi thời điểm chỉ một chi phát ra âm thanh",
+    "bodyHtml": `
+      <p><strong>Linear Drumming (Đánh trống tuyến tính)</strong> là một trong những ngôn ngữ cốt lõi tạo nên bản sắc độc nhất của Jazz Fusion và Funk hiện đại (được tiên phong bởi Steve Gadd, Mike Clark và David Garibaldi).</p>
+      <p>Nguyên lý của nó vô cùng tinh giản nhưng đòi hỏi sự phối hợp phi thường: <strong>Tại bất kỳ một thời điểm nào, chỉ có duy nhất MỘT chi được phép đánh xuống mặt trống hoặc lá cymbals — tuyệt đối không có hai chi nào đánh đồng thanh (không xếp chồng âm)</strong>.</p>
+      <p>Lối chơi này loại bỏ hoàn toàn sự đục ngầu, tạo nên những câu rãnh nhịp trong suốt như pha lê, cực kỳ sắc bén và giàu tính giai điệu.</p>
+    `,
+    "graduationCriteria": [
+      "Mẫu tuyến tính luân phiên tay và chân duy trì ở ♩=90 mà không có bất kỳ hai chi nào chạm cùng một nốt",
+      "Tế bào 6 nốt tuyến tính (R K L K R L) lặp lại liên tục trong 16 ô nhịp ở ♩=80 không bị vấp",
+      "Câu paradiddle tuyến tính chạy quanh dàn trống với các nốt ma trên snare vang lên rõ nét",
+      "Groove tuyến tính 1 ô nhịp mang lại cảm giác backbeat vững vàng dù không có hai chi nào chập nốt"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Tuyến Tính Cơ Bản: R-Hat, L-Snare, R-Hat, Kick",
+        "tip": "Bốn nốt móc kép nối tiếp nhau: Tay phải (Hi-Hat) → Tay trái (Snare) → Tay phải (Hi-Hat) → Chân phải (Kick). Mỗi nốt vang lên độc lập như các giọt nước rơi từng giọt tách bạch."
+      },
+      {
+        "title": "2 — Tế Bào 6 Nốt Tuyến Tính: R K L K R L",
+        "tip": "Tay phải → Kick → Tay trái → Kick → Tay phải → Tay trái. Luyện tập chuỗi 6 nốt này ở tốc độ chậm cho đến khi đôi chân và đôi tay phối hợp mượt mà như một dải xích truyền động."
+      },
+      {
+        "title": "3 — Paradiddle Tuyến Tính Chạy Quanh Dàn Trống",
+        "tip": "Ứng dụng thế tay paradiddle nhưng phân chia các nốt giữa hi-hat, snare và toms mà không để bất kỳ nốt nào trùng nhau về mặt thời gian."
+      },
+      {
+        "title": "4 — Groove Tuyến Tính 1 Ô Nhịp Hoàn Chỉnh",
+        "tip": "Chơi một ô nhịp groove hoàn chỉnh hoàn toàn theo nguyên tắc tuyến tính. Dù không có cú chập đồng thanh giữa snare và hi-hat, người nghe vẫn cảm nhận được nhịp phách vững như bàn thạch."
+      }
+    ]
+  },
+
+  "fusion-jazz-rock": {
+    "tagline": "Jazz-Rock — Nơi cú backbeat của Rock giao thoa với lá ride của Jazz",
+    "bodyHtml": `
+      <p>Vào đầu thập niên 1970, các ban nhạc như <strong>Steely Dan, Blood Sweat & Tears, Chicago</strong> và tay trống huyền thoại Steve Gadd, Bernard Purdie, Jeff Porcaro đã định hình nên âm thanh <strong>Jazz-Rock</strong> hoàn hảo: nơi cấu trúc hòa âm tinh xảo của Jazz gặp gỡ chiếc backbeat không thể lay chuyển của Rock.</p>
+      <p>Điểm độc đáo ở đây là sự co giãn thời gian vi mô (micro-timing): các nốt móc đơn không thẳng tuột như Rock thông thường nhưng cũng không chùm ba hoàn toàn như Swing — chúng hơi 'đẩy' nhẹ (subtly pushed), tạo cảm giác thư thái, sang trọng và ngập tràn chất groove thượng lưu.</p>
+    `,
+    "graduationCriteria": [
+      "Backbeat Rock kết hợp cảm giác móc đơn co giãn nhẹ nhàng giữ vững ở ♩=88 trong 16 ô nhịp",
+      "Chuyển tiếp 2 ô nhịp từ backbeat Rock sang câu ride Jazz giữ nguyên vẹn xung nhịp phách 1",
+      "Các nốt comping trên snare xen kẽ giữa các phách backbeat mà không làm lung lay cảm giác 2 và 4",
+      "Ô nhịp mang màu sắc 'Steely Dan' hoàn chỉnh lặp lại tự nhiên ở ♩=92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Backbeat Rock Với Độ Đẩy Tinh Tế",
+        "tip": "Chơi groove backbeat cơ bản nhưng hơi nới lỏng nốt '&' của móc đơn về phía sau một chút. Cảm nhận độ lướt thư giãn của điệu nhạc."
+      },
+      {
+        "title": "2 — Cầu Nối Chuyển Sang Mẫu Ride",
+        "tip": "Tập ô nhịp chuyển tiếp: tay phải từ hi-hat lướt sang lá ride mượt mà mà không làm thay đổi tốc độ của đôi chân."
+      },
+      {
+        "title": "3 — Snare Comping Dưới Backbeat Rock",
+        "tip": "Giữ vững cú đập rim-shot ở phách 2 và 4, dùng tay trái điểm xuyết thêm các nốt ma nhẹ nhàng vào giữa các phách."
+      },
+      {
+        "title": "4 — Cảm Giác Steely Dan Hoàn Chỉnh",
+        "tip": "Kết hợp tất cả các chi tiết thành một bản hòa tấu sang trọng: tiếng kick chắc nịch, tiếng hi-hat lóng lánh và tiếng snare ma mị."
+      }
+    ]
+  },
+
+  "fusion-odd-meters": {
+    "tagline": "Số chỉ nhịp lẻ 5/4 và 7/8 — Cánh cổng bước vào thế giới tiết tấu bất đối xứng",
+    "bodyHtml": `
+      <p>Số chỉ nhịp lẻ (Odd Meters / Asymmetric Time Signatures) là một trong những dấu ấn đặc trưng nhất phân biệt Progressive Rock và Jazz Fusion với âm nhạc đại chúng. Từ 'Take Five' của Dave Brubeck cho đến những bản phối điên rồ của Mahavishnu Orchestra và Frank Zappa, việc làm chủ các nhịp lẻ là thước đo đẳng cấp của tay trống hiện đại.</p>
+      <p>Bí quyết để không bị 'vấp' trong nhịp lẻ là <strong>phân nhóm nhỏ (Subdivision Grouping)</strong>:
+        <ul>
+          <li><strong>Nhịp 5/4:</strong> Thường chia thành nhóm <strong>3 + 2</strong> (<em>1-2-3 · 1-2</em>) hoặc <strong>2 + 3</strong> (<em>1-2 · 1-2-3</em>).</li>
+          <li><strong>Nhịp 7/8:</strong> Thường chia thành <strong>2 + 2 + 3</strong> (<em>ngắn - ngắn - DÀI</em>) hoặc <strong>3 + 2 + 2</strong> (<em>DÀI - ngắn - ngắn</em>).</li>
+        </ul>
+      </p>
+    `,
+    "graduationCriteria": [
+      "Groove 5/4 (cảm giác 3+2) và 7/8 (cảm giác 2+2+3) lặp lại liên tục mà không bị mất nhóm nhịp",
+      "Việc đếm miệng '1 2 3 · 1 2' hoặc '1 2 · 3 4 · 5 6 7' trở nên tự nhiên sau 1 phút chơi",
+      "Phách 1 của mỗi ô nhịp luôn là điểm tựa mạnh mẽ nhất định hướng cho người nghe"
+    ],
+    "exercises": [
+      {
+        "title": "1A — Groove Trong Nhịp 5/4 (Cảm Giác 3+2)",
+        "tip": "Đếm nhẩm: <em>'MỘT hai ba, HAI hai'</em>. Cú kick ở phách 1, cú snare ở phách 4. Cảm nhận sự dãn dài ở nửa đầu ô nhịp và ngắn lại ở nửa sau."
+      },
+      {
+        "title": "1B — Groove Trong Nhịp 7/8 (Cảm Giác 2+2+3)",
+        "tip": "Gồm 7 nốt móc đơn chia thành ba bước nhảy: <em>ngắn (2 nốt), ngắn (2 nốt), DÀI (3 nốt)</em>. Nhấn mạnh vào đầu mỗi nhóm để nhịp điệu lắc lư tự nhiên."
+      }
+    ]
+  },
+
+  "fusion-linear-vocab": {
+    "tagline": "Vốn từ vựng tuyến tính — Các tế bào 3 nốt, 4 nốt và 6 nốt làm gạch nền",
+    "bodyHtml": `
+      <p>Sau khi nắm vững nguyên lý tuyến tính, bạn cần một kho <strong>tế bào từ vựng (Vocabulary Cells)</strong> để có thể ghép nối chúng thành những câu solo hoặc câu fill bất tận. Các tế bào thông dụng nhất gồm:</p>
+      <p>
+        <ul>
+          <li><strong>Tế bào 3 nốt:</strong> R L K (Tay Phải - Tay Trái - Kick) hoặc R K L.</li>
+          <li><strong>Tế bào 4 nốt:</strong> R L R K (16ths).</li>
+          <li><strong>Tế bào 6 nốt:</strong> R K L R K L (kết hợp hoàn hảo trong chùm sáu).</li>
+        </ul>
+      </p>
+      <p>Khi các tế bào có số nốt lẻ (như 3 hoặc 6 nốt) được chơi liên tục trên nền nhịp 4/4 chẵn, chúng sẽ tự động dịch chuyển vị trí qua các phách, tạo nên hiệu ứng thị giác và âm thanh vô cùng ngoạn mục.</p>
+    `,
+    "graduationCriteria": [
+      "Tế bào 3 nốt (R L K) lặp lại sạch sẽ ở ♩=96 không có hai chi nào trùng nốt",
+      "Tế bào 4 nốt (R L R K) duy trì vững vàng qua 4 ô nhịp ở ♩=96 không bị lệch phách",
+      "Tế bào 6 nốt (R K L R K L) chơi mượt mà ở ♩=88 — cảm nhận rõ sự dịch chuyển vị trí phách",
+      "Nối liền hai tế bào khác nhau trong một câu 2 ô nhịp trôi chảy không bị gián đoạn thế tay"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tế Bào 3 Nốt: R L K (Chùm Ba Móc Đơn)",
+        "tip": "Tay phải trên ride/snare, tay trái trên snare, chân phải đạp kick. Vòng lặp 3 nốt này chạy như một bánh xe không bao giờ dừng."
+      },
+      {
+        "title": "2 — Biến Thể Tế Bào 3 Nốt: R K L",
+        "tip": "Đổi vị trí kick vào giữa: Tay phải → Kick → Tay trái. Sự thay đổi này tạo độ nẩy bất ngờ cho âm trầm."
+      },
+      {
+        "title": "3 — Tế Bào 4 Nốt: R L R K (Móc Kép 16ths)",
+        "tip": "Ba nốt tay xen kẽ một cú kick: Phải → Trái → Phải → Kick. Đây là câu chạy tiêu chuẩn để kết thúc các câu báo fill."
+      },
+      {
+        "title": "4 — Tế Bào 6 Nốt: R K L R K L",
+        "tip": "Chuỗi 6 nốt đối xứng chia đều cho hai tay và chân kick. Chơi ở dạng chùm sáu nốt móc kép (sextuplet)."
+      },
+      {
+        "title": "5 — Chuỗi Nối Tế Bào 2 Ô Nhịp (R L K → R L R K)",
+        "tip": "Ghép tế bào 3 nốt ở ô nhịp đầu và tế bào 4 nốt ở ô nhịp sau. Sự chuyển giao giữa chùm ba và móc kép tạo nên cảm giác biến đổi vận tốc kỳ ảo."
+      }
+    ]
+  },
+
+  "fusion-displacement": {
+    "tagline": "Dịch chuyển phách (Displacement) — Cùng một groove nhưng đặt ở vị trí không ngờ",
+    "bodyHtml": `
+      <p><strong>Displacement (Dịch chuyển phách)</strong> là một trong những ảo thuật tiết tấu đỉnh cao của Jazz Fusion và Funk. Về cơ bản, bạn lấy một câu groove quen thuộc nhưng dịch chuyển toàn bộ câu đó (hoặc chỉ riêng tiếng trống snare) sang sớm hơn hoặc muộn hơn <strong>một nốt móc đơn</strong> hoặc <strong>một nốt móc kép</strong>.</p>
+      <p>Cú dịch chuyển này đánh lừa hoàn toàn đôi tai của người nghe: họ nghĩ rằng phách 1 đã thay đổi, tạo ra cảm giác lơ lửng không trọng lực cho đến khi bạn giải tỏa nó trở lại vị trí ban đầu. Đây là ngón nghề yêu thích của những bậc thầy như Vinnie Colaiuta và Dave Weckl.</p>
+    `,
+    "graduationCriteria": [
+      "Groove tham chiếu tiêu chuẩn (snare ở 2 và 4) chơi vững ở ♩=92 làm mốc",
+      "Dịch chuyển snare đi một nốt móc đơn (snare ở nốt '&' của 1 và '&' của 3) duy trì ở ♩=92 không bị kéo về 2 và 4",
+      "Dịch chuyển snare đi một nốt móc kép (snare ở nốt 'e' của 1 và 'e' của 3) giữ vững ở ♩=88",
+      "Luân phiên một ô chuẩn và một ô dịch chuyển mượt mà ở ♩=92 mà không bị vấp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Backbeat Tiêu Chuẩn (Ô Nhịp Mốc Tham Chiếu)",
+        "tip": "Chơi một ô nhịp thông thường với snare ở phách 2 và 4 để neo chặt cảm giác thời gian trước khi bắt đầu thử thách."
+      },
+      {
+        "title": "2 — Dịch Chuyển Snare Đi 1 Nốt Móc Đơn (Rơi Vào Nốt '&')",
+        "tip": "Đánh snare vào nốt <em>'&' của phách 1</em> và nốt <em>'&' của phách 3</em>. Chân kick vẫn đạp ở phách 1. Giữ vững tâm lý, không để bộ não tự động lôi tiếng snare về phách 2 và 4."
+      },
+      {
+        "title": "3 — Dịch Chuyển Snare Đi 1 Nốt Móc Kép (Rơi Vào Nốt 'e')",
+        "tip": "Độ khó tăng gấp bội: đưa tiếng snare vào nốt móc kép thứ hai (nốt 'e') ngay sau phách chính. Cú giật nảy siêu nhỏ này tạo cảm giác bay bổng kỳ lạ."
+      },
+      {
+        "title": "4 — Luân Phiên Chuẩn và Dịch Chuyển (Mỗi Kiểu Một Ô)",
+        "tip": "Ô nhịp 1 chơi backbeat chuẩn, ô nhịp 2 chơi backbeat dịch chuyển. Luyện tập cho đến khi sự biến ảo này trở nên tự nhiên như việc hít thở."
+      }
+    ]
+  },
+
+  "fusion-sixteenth": {
+    "tagline": "Dải thảm Hi-hat móc kép 16ths — Cấu trúc âm sắc được chơi nhiều nhất trong Fusion",
+    "bodyHtml": `
+      <p>Nếu bạn lắng nghe các tác phẩm kinh điển của The Brecker Brothers, Chick Corea Elektric Band hay Tower of Power, bạn sẽ nghe thấy một <strong>dải thảm nốt móc kép 16ths</strong> lấp lánh, mịn màng và chuyển động không ngừng trên chiếc hi-hat đóng.</p>
+      <p>Dải thảm này là tấm phông nền hoàn hảo để đặt lên đó những cú kick đồng bộ với tiếng đàn bass điện tử (slap bass) và những cú nổ rim-shot của snare được bao bọc bởi hàng loạt nốt ma tinh vi. Kiểm soát lực đánh đều tăm tắp và độ tương phản âm lượng 4:1 giữa nốt nhấn và nốt ma là chìa khóa thành công.</p>
+    `,
+    "graduationCriteria": [
+      "Dải móc kép trên hi-hat duy trì độc lập ở ♩=96 với sắc thái phẳng đều tuyệt đối trong 2 phút",
+      "Hi-hat móc kép kết hợp kick ở 1 và nốt '&' của 3 không bị vội ở nốt kick nghịch phách",
+      "Tiếng backbeat ở 2 và 4 cùng mạng lưới nốt ma ở các nốt 'e' và 'a' tạo tỷ lệ tương phản âm lượng 4:1 rõ rệt",
+      "Groove Fusion móc kép hoàn chỉnh giữ vững ở ♩=96: hi-hat phẳng đều, backbeat đanh giòn, nốt ma thì thầm"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luyện Riêng Dải Móc Kép Trên Hi-Hat",
+        "tip": "Tay phải chơi móc kép đều đặn trên mặt hi-hat đóng. Cổ tay thả lỏng, âm lượng từng nốt phải đều tăm tắp như tiếng kim đồng hồ điện tử."
+      },
+      {
+        "title": "2 — Hi-Hat Móc Kép Kết Hợp Kick Nghịch Phách",
+        "tip": "Đưa tiếng kick vào phách 1 và nốt '&' của phách 3. Khóa chặt tiếng kick vào đúng lưới móc kép, không để bị hấp tấp lao về phía trước."
+      },
+      {
+        "title": "3 — Backbeat Kết Hợp Mạng Lưới Ghost Notes",
+        "tip": "Tay trái thực hiện cú quất rim-shot mạnh ở 2 và 4, đồng thời lướt nhẹ các nốt ma ở các nốt phụ xung quanh. Giữ độ chênh lệch âm lượng thật rõ rệt."
+      },
+      {
+        "title": "4 — Groove Fusion Móc Kép Toàn Lực",
+        "tip": "Hợp nhất tất cả các chi vào một groove hoàn chỉnh ở ♩=96. Đây là âm thanh tiêu chuẩn của mọi phòng thu âm nhạc Fusion chuyên nghiệp."
+      }
+    ]
+  },
+
+  "fusion-broken-time": {
+    "tagline": "Broken Time trong Fusion — Ride phân mảnh, kick neo thời gian (ngôn ngữ Tony Williams)",
+    "bodyHtml": `
+      <p>Khác với Broken Time trong Jazz truyền thống (vốn sử dụng âm lượng nhỏ và chổi cọ), <strong>Broken Time trong Fusion</strong> mang tính điện tử hóa, giàu năng lượng và đầy kịch tính — được tiên phong bởi Tony Williams trong ban nhạc <em>Lifetime</em> cùng guitarist John McLaughlin.</p>
+      <p>Tại đây, chân kick đảm nhận nhiệm vụ làm chiếc mỏ neo thời gian thông qua một câu lặp ostinato 2 ô nhịp vững chắc. Nhờ điểm tựa đó, lá ride và chiếc snare được tự do hoàn toàn: lá ride không còn gõ liên tục mà chỉ điểm xuyết từng mảnh vụn, nhường chỗ cho những cú comping sấm sét và khoảng lặng đầy nghẹt thở.</p>
+    `,
+    "graduationCriteria": [
+      "Câu kick ostinato 2 ô nhịp neo chặt thời gian trong khi lá ride chơi các mảnh ngắt quãng ngẫu hứng ở ♩=84",
+      "Một ô nhịp nơi trống snare đảm nhận vai trò định thời thay cho lá ride duy trì xung nhịp rõ ràng ở ♩=80",
+      "Ô nhịp 'xung nhịp ngầm định' — không có nhạc cụ nào gõ liên tục, chỉ có những cú chạm rời rạc — giữ chuẩn nhịp",
+      "Ô nhịp Fusion broken time hoàn chỉnh kết hợp mảnh ride, câu snare và kick mỏ neo lặp lại tự nhiên"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mảnh Vụn Ride Trên Nền Kick Ostinato 2 Ô Nhịp",
+        "tip": "Chân kick giữ câu lặp 2 ô nhịp kiên định. Tay phải chỉ gõ một vài nốt ride bất ngờ ở những vị trí không báo trước."
+      },
+      {
+        "title": "2 — Snare Đóng Vai Trò Giữ Thời Gian",
+        "tip": "Để tay trái gõ chuỗi nốt ma trên snare làm cột mốc giữ nhịp trong khi lá ride tạm ngưng nghỉ hoàn toàn."
+      },
+      {
+        "title": "3 — Chỉ Có Xung Nhịp Ngầm Định (Implied Pulse)",
+        "tip": "Tất cả các chi chỉ phát ra những âm thanh điểm xuyết rời rạc nhưng tổng thể vẫn làm người nghe cảm nhận rõ dòng thời gian."
+      },
+      {
+        "title": "4 — Ô Nhịp Broken Time Fusion Hoàn Chỉnh",
+        "tip": "Kết hợp toàn bộ ngôn ngữ đối thoại đa chiều thành một bức tranh âm thanh sống động và giàu trí tuệ."
+      }
+    ]
+  },
+
+  "fusion-polyrhythms": {
+    "tagline": "Phức điệu Polyrhythms — Hai mạch xung lồng trong một cơ thể (3 đấu 4)",
+    "bodyHtml": `
+      <p><strong>Polyrhythm (Phức điệu)</strong> xảy ra khi hai mạch xung nhịp có tốc độ khác nhau cùng vang lên đồng thời trong cùng một khoảng thời gian. Mối quan hệ phức điệu căn bản và quyền năng nhất của âm nhạc hiện đại là <strong>3 đấu 4 (Three against Four)</strong>.</p>
+      <p>Trên bộ trống, bạn có thể để chân kick dậm 4 phách đều đặn của nhịp 4/4 trong khi tay trái gõ chùm ba nốt đen (quarter-note triplets — gồm 3 nốt chia đều cho cả ô nhịp). Hai mạch xung này chỉ gặp nhau duy nhất ở phách 1 đầu tiên!</p>
+      <p>Làm chủ phức điệu không phải là nhồi nhét nốt bằng toán học, mà là khả năng <em>cảm nhận được cả hai dòng chảy</em> cùng lúc mà không để dòng này phá vỡ dòng kia.</p>
+    `,
+    "graduationCriteria": [
+      "Mạch xung 3 nốt trên snare đối đầu với 4 nốt kick, chỉ chập vào nhau ở phách 1",
+      "Bạn có thể thực sự 'cảm nhận' được cả hai mạch xung, chứ không chỉ đếm nhẩm gượng gạo",
+      "Duy trì tốc độ ổn định ở ♩=75 mà mạch 3 không bị sụp đổ hay cuốn theo mạch 4"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Groove Phức Điệu Chùm Ba Nốt Đen",
+        "tip": "Chân kick dậm 4 nốt đen kiên định (1, 2, 3, 4). Tay trái chơi 3 nốt đen chùm ba trải đều trong ô nhịp: câu khẩu quyết nhẩm trong đầu là <em>'CHƠI · cùng · NHAU · đi'</em> để các nốt rơi đúng vị trí."
+      }
+    ]
+  },
+
+  "fusion-soloing": {
+    "tagline": "Kỹ thuật Solo Fusion — Tuyến tính, tế bào môtip và chùm ba chạy quanh dàn trống",
+    "bodyHtml": `
+      <p>Solo trong Jazz Fusion là một màn trình diễn đỉnh cao kết hợp giữa tốc độ, độ chính xác cơ học và tư duy phối khí âm nhạc. Không giống như các câu solo Rock dồn dập toàn lực, một câu solo Fusion đẳng cấp được dệt nên từ ba sợi chỉ:</p>
+      <p>
+        <ul>
+          <li><strong>Các câu chạy tuyến tính:</strong> Âm sắc trong trẻo, không trùng nốt lướt qua các tom.</li>
+          <li><strong>Phát triển môtip:</strong> Lấy một ý niệm tiết tấu ngắn và biến hóa nó qua việc dịch chuyển phách, đổi mặt trống hoặc kéo dài nốt.</li>
+          <li><strong>Chùm ba nốt đen trên nền xung 4:</strong> Tạo cảm giác trôi bồng bềnh tách biệt khỏi lực hút của nhịp phách.</li>
+        </ul>
+      </p>
+    `,
+    "graduationCriteria": [
+      "Chơi câu solo tuyến tính 4 ô nhịp (không có hai nốt nào trùng nhau) ở ♩=100 không bị va chạm dùi",
+      "Lấy một tế bào môtip 1 ô nhịp và phát triển nó qua 4 ô nhịp bằng cách dịch chuyển phách hoặc đổi âm sắc",
+      "Giai điệu chùm ba nốt đen ở hai tay duy trì vững vàng trên nền xung 4 của đôi chân trong 8 ô nhịp ở ♩=80"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Câu Solo Tuyến Tính 4 Ô Nhịp",
+        "tip": "Triển khai một câu chạy liên tục qua hi-hat, snare, tom cao và tom sàn hoàn toàn theo nguyên tắc tuyến tính ở ♩=100."
+      },
+      {
+        "title": "2 — Phát Triển Môtip Từ Một Tế Bào 1 Ô Nhịp",
+        "tip": "Chọn một câu ngắn và lặp lại nó ở ô 2 với vị trí dịch chuyển, biến tấu cao độ ở ô 3 và bùng nổ kết thúc ở ô 4."
+      },
+      {
+        "title": "3 — Chùm Ba Nốt Đen Trên Nền Xung Chân 4 Phách",
+        "tip": "Đôi chân giữ nhịp bước chân 4 phách kiên định trong khi đôi tay vẽ nên những đường nét chùm ba mềm mại bên trên."
+      },
+      {
+        "title": "4 — Danh Mục Từ Vựng: Bốn Câu Lick Ngắn Kinh Điển",
+        "tip": "Luyện tập 4 câu licks tủ của các bậc thầy Fusion để sẵn sàng tung ra trong bất kỳ đoạn ngẫu hứng nào."
+      }
+    ]
+  },
+
+  "fusion-superimposition": {
+    "tagline": "Xếp chồng tiết tấu (Metric Superimposition) — Gợi mở một số chỉ nhịp khác mà không đổi ô nhịp",
+    "bodyHtml": `
+      <p><strong>Metric Superimposition (Xếp chồng tiết tấu)</strong> là kỹ thuật cao cấp tạo ra ảo giác rằng ban nhạc đã chuyển sang một số chỉ nhịp hoàn toàn khác, trong khi thực tế ô nhịp gốc vẫn giữ nguyên.</p>
+      <p>Ví dụ: Bạn chơi một câu tiết tấu lặp lại có chu kỳ <strong>5 phách</strong> hoặc <strong>7 phách</strong> liên tục trên nền ô nhịp 4/4. Câu tiết tấu 5 phách sẽ bắt đầu ở phách 1 ở ô thứ nhất, phách 2 ở ô thứ hai, phách 3 ở ô thứ ba... và chỉ quay trở lại đúng phách 1 sau <strong>5 ô nhịp</strong> (hiện tượng đóng bánh xe - closing the wheel)!</p>
+    `,
+    "graduationCriteria": [
+      "Câu tiết tấu 5 phách lặp trên nền 4/4 quay trở lại trùng phách 1 đúng sau 5 ô nhịp — bạn cảm nhận được chu kỳ bánh xe này",
+      "Câu tiết tấu 7 phách trên nền 4/4 duy trì liên tục ít nhất 7 ô nhịp mà không bị lệch",
+      "Trong khi chơi, bạn có thể nói to vị trí nốt đầu của câu lặp và vị trí phách 1 thực tế của ô nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Câu Tiết Tấu 5 Phách Trên Nền 4/4",
+        "tip": "Tạo một câu môtip kéo dài đúng 5 nốt đen. Chơi nó lặp đi lặp lại trên nền nhịp 4/4 và theo dõi hành trình di chuyển kỳ thú của nó qua từng vạch nhịp."
+      },
+      {
+        "title": "2 — Câu Tiết Tấu 7 Phách Trên Nền 4/4",
+        "tip": "Thử thách lớn hơn: chu kỳ 7 nốt móc đơn lặp lại liên tục trên nền 4/4. Đòi hỏi sự tập trung sắt đá để không bị nhầm lẫn phách 1 thực sự."
+      },
+      {
+        "title": "3 — Dịch Chuyển Ba Đấu Hai (Three-Over-Two)",
+        "tip": "Lồng ghép một câu có cấu trúc 3 phách lướt trên nền 2 phách để tạo độ đu đưa mềm mại."
+      },
+      {
+        "title": "4 — Hiệu Ứng Bánh Xe: Cụm 5 Nốt Snare và Toms",
+        "tip": "Chạy một cụm 5 nốt luân chuyển giữa snare và toms liên tục cho đến khi bánh xe tiết tấu khép góc ở đúng đầu ô nhịp thứ 6."
+      }
+    ]
+  },
+
+  "fusion-clave-fusion": {
+    "tagline": "Clave trong ngôn ngữ Fusion — Âm hưởng đỉnh cao của Lincoln Goines và Robbie Ameen",
+    "bodyHtml": `
+      <p>Khi các tay trống và tay bass cự phách tại New York như <strong>Robbie Ameen, Lincoln Goines, Horacio Hernandez</strong> kết hợp nhịp điệu Clave Afro-Cuban với hòa âm Jazz Fusion và năng lượng Rock bùng nổ, họ đã tạo ra một nhánh âm nhạc hoàn toàn mới.</p>
+      <p>Chân phải hoặc chân trái có thể dậm Son Clave hoặc Rumba Clave liên tục bên dưới, trong khi đôi tay chơi các câu tiết tấu móc kép sắc lẹm của Funk với tiếng backbeat đanh thép. Đây là sự kết hợp hoàn hảo giữa tính kỷ luật nghiêm ngặt của Clave và sức công phá hiện đại.</p>
+    `,
+    "graduationCriteria": [
+      "Son Clave 3-2 chơi bằng chân kick, khóa chặt dưới câu tay Fusion ở tốc độ ♩=92 trong 2 phút",
+      "Rumba Clave 3-2 bằng chân kick kết hợp hi-hat móc kép đều bên trên — hai bè độc lập trong 8 ô nhịp",
+      "Groove lai Songo-Funk (câu bass songo + backbeat funk) được người nghe nhận diện rõ cả hai phong cách"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Son Clave 3-2 (Kick) + Hi-Hat 16ths Với Backbeat",
+        "tip": "Chân kick đạp Son Clave 3-2. Tay phải chơi móc kép đều trên hi-hat, tay trái đập backbeat ở 2 và 4. Độc lập tuyệt đối giữa chân và tay."
+      },
+      {
+        "title": "2 — Rumba Clave 3-2 (Kick) + Hi-Hat 16ths",
+        "tip": "Chuyển tiếng kick sang Rumba Clave (chú ý nốt thứ ba trễ nửa phách). Cảm nhận độ căng nhịp điệu kích thích đôi tay bay bổng."
+      },
+      {
+        "title": "3 — Lai Ghép Songo-Funk (Cụm 2 Ô Nhịp)",
+        "tip": "Kết hợp câu kick bombo của Songo với lối chơi backbeat đanh thép của Funk. Groove này có sức công phá cực lớn trên sân khấu."
+      },
+      {
+        "title": "4 — Cross-Stick Clave + Tumbao Kick",
+        "tip": "Tay trái gõ clave trên viền snare, chân kick dậm theo nhịp trống tumbadora trầm ấm, tay phải tự do ngẫu hứng trên cymbals ride."
+      }
+    ]
+  },
+
+  "fusion-tony-williams-fusion": {
+    "tagline": "Phong cách Tony Williams Lifetime — Backbeat nặng đô, ride chất jazz, điểm chuông nảy lửa",
+    "bodyHtml": `
+      <p>Năm 1969, Tony Williams rời ban nhạc của Miles Davis và thành lập <strong>The Tony Williams Lifetime</strong> (cùng John McLaughlin và organist Larry Young), chính thức khai sinh ra phong trào Jazz-Rock Fusion với album huyền thoại <em>Emergency!</em>.</p>
+      <p>Phong cách của Tony thời kỳ này là sự bùng nổ chưa từng thấy:
+        <ul>
+          <li>Cú backbeat snare ở phách 2 và 4 được quất với toàn bộ uy lực của một tay trống Heavy Rock.</li>
+          <li>Lá ride vẫn giữ mẫu lướt sóng tinh tế của Jazz với những cú gõ quả chuông xé toạc không gian.</li>
+          <li>Chân kick dậm 4 nốt đen đều đặn dồn dập (Four-on-the-floor) làm nền cho những màn comping nghẹt thở.</li>
+        </ul>
+      </p>
+    `,
+    "graduationCriteria": [
+      "Backbeat Rock nặng đô duy trì dưới mẫu ride chất Jazz ở tốc độ ♩=120",
+      "Các nốt nhấn trên quả chuông ride rơi chuẩn xác vào mẫu câu mà không làm xô lệch thời gian",
+      "Mẫu câu thời kỳ Lifetime 2 ô nhịp (kick 4 nốt đen + comping snare hung hãn + chuông ride) chơi vững ở ♩=130 trong 2 phút"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Backbeat Rock Nặng Đô Với Mẫu Ride Jazz",
+        "tip": "Tay phải chơi ride swing lướt sóng, tay trái đập rim-shot toàn lực ở phách 2 và 4. Hai thái cực âm nhạc đối lập cùng tồn tại hòa hợp."
+      },
+      {
+        "title": "2 — Trọng Âm Trên Quả Chuông Của Cymbals Ride",
+        "tip": "Đưa đầu dùi gõ vào quả chuông ride tạo tiếng ping chói lòa ở những điểm nghịch phách bất ngờ."
+      },
+      {
+        "title": "3 — Comping Snare Tấn Công Trên Nền Kick 4 Nốt Đen",
+        "tip": "Chân kick dậm đều cả 4 phách (four-on-the-floor). Tay trái tự do tung ra những cú rim-shot nảy lửa như đại bác."
+      },
+      {
+        "title": "4 — Cấu Trúc Thời Kỳ Lifetime 2 Ô Nhịp Hoàn Chỉnh",
+        "tip": "Ghép nối tất cả năng lượng của kỷ nguyên khai sinh Fusion ở tốc độ ♩=130. Chơi với tinh thần dũng cảm và đam mê cháy bỏng."
+      }
+    ]
+  },
+
+  "fusion-metric-modulation": {
+    "tagline": "Chuyển đổi nhịp đo (Metric Modulation) — Cùng một nốt, tốc độ mới (xoay trục giữa hai mạch xung)",
+    "bodyHtml": `
+      <p><strong>Metric Modulation</strong> (khái niệm được nhà soạn nhạc Elliott Carter khởi xướng và được các tay trống như Vinnie Colaiuta, Virgil Donati đưa lên đỉnh cao) là nghệ thuật <strong>chuyển đổi tốc độ một cách liền mạch và chuẩn xác về mặt toán học</strong> bằng cách lấy một giá trị nốt ở nhịp cũ làm đơn vị phách chính cho nhịp mới.</p>
+      <p>Ví dụ: Bạn đang chơi nhịp 4/4 ở ♩=120. Bạn bắt đầu chơi chùm ba nốt đen. Sau đó, bạn biến chính nốt chùm ba đó thành nốt đen thông thường của đoạn nhạc kế tiếp — tốc độ ca khúc ngay lập tức tăng vọt lên ♩=180 một cách ngọt ngào mà không cần phải đếm nhịp lại từ đầu!</p>
+    `,
+    "graduationCriteria": [
+      "Chuyển đổi 4 ô nhịp cảm giác cũ sang 4 ô nhịp tốc độ mới mượt mà, không có sự ngập ngừng ở vạch nhịp",
+      "Chuyển đổi móc đơn sang nốt đen (nốt móc đơn cũ thành nốt đen mới, nhân đôi tốc độ) giữ vững từ ♩=80 → ♩=160 trong 8 ô",
+      "Chuyển đổi xoay trục chùm ba (chùm ba nốt đen thành nốt đen mới) tiếp đất chuẩn: ♩=120 → ♩=180 và ngược lại",
+      "Câu chuyển đổi hoàn chỉnh (4 ô ở 120 → 1 ô xoay trục → 4 ô ở 180) lặp lại tự nhiên, người nghe cảm nhận rõ 2 tempo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luyện Tập Điểm Xoay Trục (4 Ô Cũ, 4 Ô Mới)",
+        "tip": "Làm quen với cảm giác chuyển giao: giữ cho tâm trí luôn bình thản khi bước qua cánh cửa thay đổi vận tốc."
+      },
+      {
+        "title": "2 — Chuyển Đổi Móc Đơn Sang Nốt Đen (Nhân Đôi Tốc Độ)",
+        "tip": "Biến nốt móc đơn thành nốt đen chính: tốc độ tăng từ ♩=80 lên ♩=160 tức thì bằng chính những nốt gõ quen thuộc."
+      },
+      {
+        "title": "3 — Chuyển Đổi Xoay Trục Chùm Ba (♩ = 120 → ♩ = 180)",
+        "tip": "Sử dụng chùm ba nốt đen làm cầu nối để nâng tốc độ từ 120 lên 180 BPM một cách tinh tế và đầy ma thuật."
+      },
+      {
+        "title": "4 — Cấu Trúc Chuyển Đổi Hoàn Chỉnh (Lặp Vòng Hai Chiều)",
+        "tip": "Thực hiện chu trình khép kín: 4 ô nhịp ở 120 BPM → ô xoay trục → 4 ô nhịp ở 180 BPM → quay trở về 120 BPM."
+      }
+    ]
+  },
+
+  "fusion-modern-fusion": {
+    "tagline": "Fusion hiện đại — Tinh gọn, lệch pha, chuẩn xác như máy lập trình (Nate Smith, Mark Guiliana)",
+    "bodyHtml": `
+      <p>Bước sang thế kỷ 21, Jazz Fusion trải qua một cuộc lột xác ngoạn mục qua bàn tay của thế hệ quái kiệt mới như <strong>Nate Smith, Mark Guiliana, Chris Dave, Karriem Riggins và Larnell Lewis</strong>. Họ hòa trộn kỹ thuật Fusion truyền thống với nhịp đập của Neo-Soul, Hip-Hop lo-fi và nhạc điện tử (IDM).</p>
+      <p>Ngôn ngữ của họ đặc trưng bởi:
+        <ul>
+          <li><strong>Displacement siêu việt (phong cách Nate Smith):</strong> Tiếng snare rơi vào những điểm lệch pha không tưởng (như nốt 'e' của 2 và 'a' của 3).</li>
+          <li><strong>Sự tối giản tĩnh mịch (phong cách Mark Guiliana):</strong> Những khoảng trống dài chỉ có tiếng hi-hat thì thầm, sau đó bất ngờ giáng xuống những cú kick/snare chính xác đến từng mili-giây.</li>
+          <li><strong>Cảm giác như máy lập trình (Programmed-feel):</strong> Đánh trên dàn trống cơ nhưng sắc thái phẳng tuyệt đối như máy tính.</li>
+        </ul>
+      </p>
+    `,
+    "graduationCriteria": [
+      "Groove lệch pha phong cách Nate Smith (snare ở nốt 'e' của 2 và 'a' của 3) giữ vững ở ♩=88 trên thảm hi-hat phẳng",
+      "Groove tối giản phong cách Mark Guiliana (hi-hat đơn độc, kick và snare vào muộn chuẩn xác) duy trì ở ♩=92",
+      "Móc kép phong cách máy lập trình (tay phải đánh phẳng, không flam, không swing) ổn định trong 16 ô nhịp ở ♩=104",
+      "Cụm 4 ô nhịp kết hợp cả ba yếu tố đọc như một ý niệm âm nhạc thống nhất, không rời rạc"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Groove Lệch Pha Phong Cách Nate Smith",
+        "tip": "Đặt tiếng snare vào nốt 'e' của phách 2 và nốt 'a' của phách 3. Giữ cho dải hi-hat bên tay phải phẳng lặng tuyệt đối để làm nổi bật sự lệch pha kỳ ảo."
+      },
+      {
+        "title": "2 — Groove Tối Giản Phong Cách Mark Guiliana",
+        "tip": "Để hi-hat chạy đơn độc qua các ô nhịp thông thoáng. Khi cú kick và snare xuất hiện, chúng phải rơi xuống với độ chính xác tuyệt đối như tia laser."
+      },
+      {
+        "title": "3 — Móc Kép Chuẩn Xác Như Máy Lập Trình",
+        "tip": "Tái hiện âm thanh của máy đánh trống điện tử: không có nốt nhấn to nhỏ, không có độ rung tự nhiên, mọi nốt đều đồng nhất 100%."
+      },
+      {
+        "title": "4 — Cụm Kết Hợp Hoàn Chỉnh (Smith + Guiliana + Programmed)",
+        "tip": "Nối liền cả ba phong cách vào một câu nhạc 4 ô nhịp đỉnh cao thể hiện toàn bộ diện mạo của Jazz Fusion thế kỷ 21."
+      }
+    ]
+  },
+
+  "fusion-prog-fusion": {
+    "tagline": "Progressive Fusion — Số chỉ nhịp lẻ, double bass và câu solo jazz ở tốc độ ca khúc",
+    "bodyHtml": `
+      <p><strong>Progressive Fusion</strong> là vùng đất nơi sự phức tạp về cấu trúc của Progressive Metal (Dream Theater, Animals as Leaders) hội ngộ cùng sự phóng khoáng và kỹ thuật tinh tế của Jazz Fusion (Virgil Donati, Marco Minnemann, Gavin Harrison).</p>
+      <p>Tại đây, bạn phải kiểm soát các số chỉ nhịp lẻ như 7/8 hay 5/4 ở tốc độ cực cao, sử dụng pedal double bass không phải để dập gầm rú mà như một công cụ đệm giai điệu trầm ấm, và triển khai các câu solo mang hình hài Jazz uốn lượn qua các cấu trúc bài hát phức tạp.</p>
+    `,
+    "graduationCriteria": [
+      "Groove 7/8 với câu double bass bên dưới câu tay duy trì ở cảm giác móc đơn chấm dôi suốt 16 ô nhịp ở nốt móc đơn = 200",
+      "Groove 5/4 với câu báo fill tuyến tính ở mỗi ô nhịp thứ 4 tiếp đất chuẩn xác ở ♩=104",
+      "Chuyển đổi nhịp nhàng giữa hai nhịp lẻ (5/4 sang 7/8 thông qua xung móc đơn chung) không hề bị khựng lại",
+      "Câu solo Progressive Fusion 4 ô nhịp kết hợp double bass dưới các đường nét solo jazz và giải tỏa đầy tính âm nhạc"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Groove 7/8 Progressive Fusion Với Double Bass",
+        "tip": "Chân chạy câu double bass phân nhóm linh hoạt bên dưới dòng cymbals sắc lẹm ở tốc độ nốt móc đơn = 200."
+      },
+      {
+        "title": "2 — Nhịp 5/4 Kết Hợp Câu Fill Tuyến Tính",
+        "tip": "Duy trì groove 5/4 trong 3 ô nhịp và tung ra một câu fill tuyến tính bùng nổ ở ô nhịp thứ 4 rồi quay lại đúng phách 1."
+      },
+      {
+        "title": "3 — Chuyển Đổi Giữa Hai Số Chỉ Nhịp Lẻ (5/4 → 7/8)",
+        "tip": "Sử dụng độ dài của nốt móc đơn làm cầu nối chung để chuyển dịch mượt mà từ nhịp 5/4 sang nhịp 7/8."
+      },
+      {
+        "title": "4 — Câu Solo Progressive Fusion 4 Ô Nhịp",
+        "tip": "Phô diễn kỹ nghệ tối thượng: đôi chân điều khiển double bass như sấm rền, đôi tay vẽ nên những giai điệu jazz sắc sảo."
+      }
+    ]
+  },
+
+  "fusion-electronic-fusion": {
+    "tagline": "Electronic Fusion — Trống cơ mang linh hồn máy đánh trống (chơi nhạc điện tử như một con người)",
+    "bodyHtml": `
+      <p>Trong kỷ nguyên âm nhạc số, ranh giới giữa nhạc cụ acoustic và âm nhạc điện tử đã bị xóa nhòa bởi những nghệ sĩ tiên phong như <strong>Jojo Mayer & Nerve, KJ Sawka</strong>. Họ đã chứng minh rằng một con người bằng xương bằng thịt có thể chơi lại hoàn hảo các thể loại âm nhạc điện tử tốc độ cao như <em>Drum 'n' Bass, Jungle, House, Techno và Breakbeat</em> trên một bộ trống cơ thông thường.</p>
+      <p>Bạn sẽ học cách tái hiện tiếng kick siêu trầm của máy Roland TR-808, tiếng vỗ tay đanh thép (clap), sự dịch chuyển nốt snare ở tốc độ 140–160 BPM, và nhịp Four-on-the-floor bất tử của nhạc Dance kiểu Daft Punk.</p>
+    `,
+    "graduationCriteria": [
+      "Groove móc kép mô phỏng máy lập trình duy trì ở ♩=128 trong 32 ô nhịp mà không có một nốt flam nào",
+      "Groove tối giản mô phỏng sub-bass 808 duy trì ở ♩=132 với độ ngân dài giả lập của kick rõ ràng",
+      "Dịch chuyển snare ở tốc độ nhạc điện tử ♩=140 giữ vững trong 16 ô nhịp không bị tuột về 2 và 4",
+      "Mẫu Four-on-the-floor kiểu Daft Punk với hi-hat 16ths và snare thay thế clap ở ♩=124 phẳng lì không tì vết"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Groove Móc Kép Chuẩn Xác Như Máy Lập Trình",
+        "tip": "Tay phải chơi móc kép trên hi-hat đóng ở ♩=128. Giữ cho chuyển động của cổ tay nhỏ và nhanh như một con thoi dệt vải."
+      },
+      {
+        "title": "2 — Cảm Giác Tối Giản Sub-808",
+        "tip": "Đạp tiếng kick với độ sâu và độ ngân tối đa để mô phỏng âm trầm sâu thẳm của dòng máy drum machine huyền thoại 808."
+      },
+      {
+        "title": "3 — Dịch Chuyển Snare ở Tốc Độ Nhạc Điện Tử (♩ = 140)",
+        "tip": "Giữ vững vị trí nốt snare nghịch phách ở tốc độ cao 140 BPM mà không bị quán tính cơ bắp kéo lệch."
+      },
+      {
+        "title": "4 — Mẫu Dance Four-on-the-Floor Kiểu Daft Punk",
+        "tip": "Bốn cú kick nện đều đặn ở cả 4 phách, hi-hat móc kép xé gió và cú rim-shot snare mô phỏng tiếng vỗ tay đanh thép."
+      }
+    ]
+  },
+
+  "fusion-mahavishnu": {
+    "tagline": "Phong cách Mahavishnu Orchestra — Tay móc kép siêu tốc, kick chùm ba cuộn sóng, phức điệu đỉnh cao",
+    "bodyHtml": `
+      <p>Bài học tốt nghiệp của Track Jazz Fusion vinh danh ban nhạc huyền thoại <strong>Mahavishnu Orchestra</strong> và tay trống vĩ đại <strong>Billy Cobham</strong> — người được coi là ngọn núi lửa của thế giới bộ trống trong album bất hủ <em>Birds of Fire</em> và <em>The Inner Mounting Flame</em>.</p>
+      <p>Lối chơi của Cobham là sự tổng hòa ngoạn mục giữa sức mạnh thể chất vô song, tốc độ đôi tay siêu phàm với kỹ thuật rudiment bậc thầy và tư duy phức điệu phức tạp bắt nguồn từ âm nhạc cổ điển Ấn Độ (Tala). Bạn sẽ kết hợp đôi tay móc kép xé gió với chân kick chùm ba cuộn sóng và những cú fill quét ngang toàn bộ dàn trống khổng lồ.</p>
+    `,
+    "graduationCriteria": [
+      "Mẫu tay móc kép hai tay luân phiên (R-L trên snare) duy trì ở ♩=132 trong 8 ô nhịp không bị dính nốt",
+      "Tiếng kick chùm ba móc đơn cuộn sóng bên dưới đôi tay móc kép giữ chuẩn nhịp ở ♩=104 (phức điệu 4 tay đấu 3 chân)",
+      "Câu fill kinh điển kiểu Cobham (móc kép chạy quanh toms, kick điểm xuyết mỗi 4 nốt) tiếp đất chuẩn xác ở ♩=120",
+      "Mẫu câu phong cách Mahavishnu 8 ô nhịp tổng hợp toàn bộ kỹ năng duy trì năng lượng rực lửa không mất nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Tay Móc Kép Hai Tay Tốc Độ Cao",
+        "tip": "Hai tay luân phiên R-L đánh móc kép liên tục trên mặt snare ở ♩=132. Dùng lực cổ tay và ngón tay thả lỏng để tạo luồng âm thanh cuồn cuộn."
+      },
+      {
+        "title": "2 — Kick Chùm Ba Cuộn Sóng Dưới Tay Móc Kép",
+        "tip": "Đỉnh cao phức điệu: tay chơi móc kép (nhóm 4), chân đạp chùm ba (nhóm 3). Cảm nhận sự giao thoa kỳ diệu giữa hai hệ quy chiếu thời gian."
+      },
+      {
+        "title": "3 — Câu Báo Fill Quét Quanh Dàn Trống Kiểu Cobham",
+        "tip": "Chạy móc kép từ snare qua tom 1, tom 2, tom sàn, điểm xuyết một tiếng kick ở nốt thứ tư của mỗi cụm để tạo lực phóng."
+      },
+      {
+        "title": "4 — Cấu Trúc Hoàn Chỉnh Phong Cách Mahavishnu 8 Ô Nhịp",
+        "tip": "Bùng nổ toàn bộ sức mạnh và trí tuệ của một nghệ sĩ Fusion đích thực trong 8 ô nhịp rực lửa. Bạn đã chinh phục đỉnh núi Jazz Fusion!"
+      }
+    ]
+  }
+};
+
+const outPath = path.join(__dirname, '../src/_data/i18n/vi/lessons/fusion.json');
+fs.writeFileSync(outPath, JSON.stringify(fusionLessons, null, 2), 'utf8');
+console.log(`Successfully wrote ${Object.keys(fusionLessons).length} Fusion lessons to ${outPath}`);

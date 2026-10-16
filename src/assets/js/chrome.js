@@ -285,7 +285,10 @@
   // pressed state the visitor never set.
   function syncToggleLabel() {
     const next = activeTheme() === 'dark' ? 'light' : 'dark';
-    const label = 'Switch to ' + next + ' theme';
+    const isVi = root.getAttribute('lang') === 'vi';
+    const label = isVi
+      ? ('Chuyển sang giao diện ' + (next === 'dark' ? 'tối' : 'sáng'))
+      : ('Switch to ' + next + ' theme');
     if (themeToggle) themeToggle.setAttribute('aria-label', label);
     // The menu row carries the same words visibly, which is also its accessible
     // name — one string, so the two can never disagree.
@@ -322,4 +325,15 @@
     if (mq.addEventListener) mq.addEventListener('change', onChange);
     else if (mq.addListener) mq.addListener(onChange);
   }
+
+  // ---- Language preference persistence ----
+  const LOCALE_KEY = 'dt_locale';
+  document.querySelectorAll('.lang-switch__link, .site-footer__lang a').forEach(a => {
+    a.addEventListener('click', () => {
+      const targetLang = a.getAttribute('lang') || a.getAttribute('hreflang');
+      if (targetLang) {
+        try { localStorage.setItem(LOCALE_KEY, targetLang); } catch (e) {}
+      }
+    });
+  });
 })();

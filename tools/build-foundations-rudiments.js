@@ -1,0 +1,381 @@
+// tools/build-foundations-rudiments.js
+const fs = require('fs');
+const path = require('path');
+
+const data = {
+  "single-stroke-roll": {
+    "tagline": "Đánh luân phiên hai tay — chuyển động nền tảng nhất trong nghệ thuật đánh trống",
+    "bodyHtml": "<p>Kỹ thuật <strong>Single Stroke Roll (Đánh đơn liên tục)</strong> là nền tảng nguyên thủy của mọi kỹ thuật đánh trống: các bàn tay đánh luân phiên luân hồi — <strong>R L R L</strong>. Mọi câu báo trống thần tốc, mọi rãnh nhịp hi-hat dồn dập, và mọi kỹ thuật rudiment nâng cao đều xây dựng trên khả năng đánh luân phiên sạch sẽ, đồng đều giữa hai tay.</p><h2 class=\"section-label\">Bí quyết: Sự bình đẳng giữa hai tay</h2><p>Bản năng con người luôn khiến tay thuận đánh mạnh hơn, cao hơn và chính xác hơn tay không thuận. Mục tiêu tối thượng của bài tập này là xóa bỏ hoàn toàn sự chênh lệch đó: khi nhắm mắt lại lắng nghe, không ai có thể phân biệt được nốt nào là do tay phải đánh, nốt nào do tay trái đánh.</p><p>Hãy tập trung vào <strong>độ cao của đầu dùi (stick height)</strong>. Thả lỏng cổ tay, để trọng lực và độ nảy của mặt trống làm việc. Khi tăng dần mật độ từ nốt đen sang móc đơn rồi móc kép, hãy giữ cho cơ bắp cánh tay và vai luôn trong trạng thái thư giãn tuyệt đối.</p>",
+    "graduationCriteria": [
+      "Các mật độ nốt đen, móc đơn và móc kép đều tuôn chảy mượt mà ở ♩=80 mà không bị đuối tay yếu",
+      "Các nốt nhấn (Bài tập 4) làm nổi bật rõ ràng nhịp xung bên trong dòng chảy nốt móc kép dồn dập",
+      "Độ cao của đầu dùi hoàn toàn cân bằng giữa R và L trong từng cú đánh"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Đánh đơn nốt đen",
+        "tip": "Mỗi phách một cú đánh: <em>R L R L</em>. Khóa chặt vào tiếng click của máy đếm nhịp ở ♩=80. Thả lỏng cổ tay, nâng hai đầu dùi lên cùng một độ cao xuất phát."
+      },
+      {
+        "title": "2 — Đánh đơn nốt móc đơn",
+        "tip": "Tăng gấp đôi mật độ nốt: hai nốt mỗi phách (<em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>). Lắng nghe sự cân bằng âm sắc tuyệt đối giữa tay phải và tay trái."
+      },
+      {
+        "title": "3 — Đánh đơn nốt móc kép (The Roll)",
+        "tip": "Bốn nốt mỗi phách: <em>1 e &amp; a 2 e &amp; a 3 e &amp; a 4 e &amp; a</em>. Đây chính là trạng thái cuộn (roll) thực sự. Giữ cho các nốt tròn trịa, không bị gãy hay dính chùm vào nhau."
+      },
+      {
+        "title": "4 — Nốt móc kép có nhấn ở đầu phách",
+        "tip": "Đánh mạnh có nốt nhấn (accent) vào đầu mỗi phách (1, 2, 3, 4), các nốt còn lại gõ nhẹ (tap). Nốt nhấn giúp nhịp xung tim hiện rõ mồn một bên trong dòng thác nốt móc kép."
+      }
+    ]
+  },
+  "double-stroke-roll": {
+    "tagline": "Hai cú đánh trên mỗi tay — cánh cổng bước vào kỹ thuật buzz roll",
+    "bodyHtml": "<p>Nếu kỹ thuật đánh đơn luân phiên là đi bộ, thì <strong>Double Stroke Roll (Đánh đôi liên tục)</strong> chính là đạp xe: <strong>R R L L</strong>. Bằng cách thực hiện hai cú đánh trên mỗi tay trước khi đổi bên, bạn mở ra một chân trời mới về tốc độ và sự mượt mà.</p><h2 class=\"section-label\">Cú đánh thứ hai: Đừng để bị rơi nốt</h2><p>Lỗi phổ biến nhất của người mới là cú đánh đầu tiên rất to và rõ, nhưng cú đánh thứ hai lại nghe thều thào hoặc biến mất. Trên thực tế, cú đánh thứ hai phải được nuôi dưỡng bằng <em>độ nảy tự nhiên (rebound)</em> và được trợ lực nhẹ bằng các ngón tay phía sau (ngón giữa, áp út, út).</p><p>Hãy bắt đầu bằng việc rèn luyện hai cú đánh có <strong>âm lượng và khoảng cách thời gian hoàn toàn bằng nhau</strong>. Khi đã thành thục, kỹ thuật này sẽ biến thành tiếng cuộn êm ru như động cơ phản lực.</p>",
+    "graduationCriteria": [
+      "Đánh đôi nốt móc đơn và móc kép trôi chảy ở ♩=70 với âm lượng đồng đều ở từng cặp",
+      "Các nốt gõ nhẹ nghe rõ ràng (không bị nuốt nốt) trong bài tập nhấn nốt đầu",
+      "Nốt thứ hai của mỗi cặp không bị hụt tiếng hay xẹp xuống khi đẩy nhanh tốc độ"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Đánh đôi nốt móc đơn",
+        "tip": "Hai nốt tay phải, hai nốt tay trái: <em>R R L L R R L L</em>. Đếm: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Tập trung vào việc làm cho nốt thứ hai của mỗi tay vang to y hệt nốt thứ nhất."
+      },
+      {
+        "title": "2 — Đánh đôi nốt móc kép",
+        "tip": "Đẩy mật độ lên bốn nốt mỗi phách. Tận dụng độ nảy của mặt trống để tay không bị mỏi. Hãy để dùi tự nảy lên sau cú đánh thứ nhất và dùng ngón tay búng nhẹ vào thân dùi cho cú đánh thứ hai."
+      },
+      {
+        "title": "3 — Đánh đôi có nhấn vào nốt đầu của mỗi cặp",
+        "tip": "Nhấn mạnh nốt thứ nhất (R), gõ nhẹ nốt thứ hai (r); nhấn mạnh nốt thứ ba (L), gõ nhẹ nốt thứ tư (l): <em>Rr Ll Rr Ll</em>. Rèn luyện khả năng kiểm soát độ cao dùi cực kỳ tinh tế."
+      },
+      {
+        "title": "4 — Đánh đôi có nhấn so le theo từng cặp",
+        "tip": "Nhấn ở cặp nốt đầu tiên nhưng thả lỏng ở cặp nốt tiếp theo. Thử thách khả năng làm chủ sự linh hoạt của cơ bắp bàn tay khi chuyển đổi liên tục giữa lực mạnh và lực nhẹ."
+      }
+    ]
+  },
+  "double-paradiddle": {
+    "tagline": "Biến thể paradiddle 6 nốt trong nhịp 6/8 — bốn cú đánh đơn, theo sau bởi một cú đánh đôi",
+    "bodyHtml": "<p>Kỹ thuật <strong>Double Paradiddle</strong> bổ sung thêm hai cú đánh đơn vào trước cấu trúc paradiddle tiêu chuẩn, tạo thành chuỗi 6 nốt hoàn hảo: <strong>R L R L R R</strong> theo sau bởi <strong>L R L R L L</strong>.</p><h2 class=\"section-label\">Khung nhịp tự nhiên cho 6/8 và liên ba</h2><p>Vì gồm 6 nốt, Double Paradiddle sinh ra để dành cho số chỉ nhịp <strong>6/8, 12/8</strong> hoặc các chùm liên ba nốt móc đơn trong nhịp 4/4. Nó giúp bạn lướt qua các ô nhịp ba phách với sự duyên dáng tuyệt vời và tự động đảo tay dẫn đầu ở mỗi nhóm tiếp theo.</p>",
+    "graduationCriteria": [
+      "Chơi lặp lại vòng nhịp RLRLRR · LRLRLL sạch sẽ ở ♩.=80 trong nhịp 6/8 suốt 2 phút liên tục không vấp thế tay",
+      "Cả hai nốt của cú đánh đôi kết thúc (RR và LL) vang lên đồng đều — không có nốt thứ hai bị yếu",
+      "Nốt nhấn dẫn đầu (Bài 3) rơi gọn gàng vào phách chính của mỗi ô nhịp, phần còn lại chơi êm hơn",
+      "Nốt nhấn ở cú đánh đôi (Bài 4) rơi chính xác vào nốt thứ 5 của nhóm mà không làm lem sang nốt 1"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Double Paradiddle, tay phải dẫn đầu trong nhịp 6/8",
+        "tip": "Sáu nốt nốt móc đơn: <em>R L R L R R</em>. Đếm: <em>1-2-3-4-5-6</em>. Giữ các nốt đơn thả lỏng và cú đánh đôi RR kết thúc dứt khoát."
+      },
+      {
+        "title": "2 — Đổi tay dẫn đầu luân phiên (R dẫn, L dẫn)",
+        "tip": "Kết hợp hai nửa hoàn chỉnh: <em>R L R L R R</em> rồi chuyển ngay sang <em>L R L R L L</em>. Chú ý điểm chuyển giao mượt mà giữa hai tay."
+      },
+      {
+        "title": "3 — Nhấn vào nốt đầu tiên của mỗi nhóm",
+        "tip": "Nhấn mạnh ở phách 1 và phách 4: <strong>R</strong> l r l r r · <strong>L</strong> r l r l l. Nốt nhấn tạo điểm tựa nhịp đập vững vàng cho cả câu nhạc."
+      },
+      {
+        "title": "4 — Nhấn vào cú đánh đôi kết thúc",
+        "tip": "Di chuyển nốt nhấn về nốt thứ 5 của nhóm (nốt đầu của cú diddle): r l r l <strong>R</strong> r · l r l r <strong>L</strong> l. Đòi hỏi sự độc lập ngón tay cực cao."
+      }
+    ]
+  },
+  "inverted-paradiddle": {
+    "tagline": "Đánh đôi ở giữa, đánh đơn ở hai bên đầu cuối",
+    "bodyHtml": "<p>Kỹ thuật <strong>Inverted Paradiddle</strong> xáo trộn trật tự truyền thống bằng cách đẩy cú đánh đôi vào chính giữa: <strong>R L L R</strong> theo sau bởi <strong>L R R L</strong>.</p><h2 class=\"section-label\">Tại sao lại cần đảo vị trí cú đánh đôi?</h2><p>Khi cú đánh đôi nằm ở giữa, bàn tay dẫn đầu sẽ chuyển đổi một cách bất ngờ, tạo ra cảm giác nhịp nảy cuộn trào (rolling sensation). Đây là một trong những vũ khí bí mật yêu thích của các tay trống Funk và Fusion để tạo nên những câu fill và rãnh nhịp hi-hat biến hóa khôn lường.</p>",
+    "graduationCriteria": [
+      "Chơi chuỗi RLLR LRRL × 2 mượt mà ở ♩=80 ở mật độ nốt móc kép suốt 2 phút",
+      "Nốt nhấn ở đầu R/L mang lại cảm nhận tiết tấu hoàn toàn khác biệt so với paradiddle thông thường",
+      "Cả hai cú đánh đôi LL và RR bên trong ô nhịp đều tròn tiếng — không bị hụt nốt thứ hai",
+      "Phân biệt rõ ràng bằng tai khi chơi so sánh cạnh nhau với paradiddle tiêu chuẩn (Bài 4)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Inverted Paradiddle trên trống Snare",
+        "tip": "Thế tay: <em>R L L R · L R R L</em>. Chú ý hai cú đánh đôi <em>LL</em> và <em>RR</em> nằm kẹp ngay giữa hai nốt đơn ngoài cùng."
+      },
+      {
+        "title": "2 — So sánh đối chiếu: Chuẩn vs Đảo",
+        "tip": "Ô nhịp 1 chơi Paradiddle truyền thống (<em>R L R R L R L L</em>), ô nhịp 2 chơi Inverted Paradiddle (<em>R L L R L R R L</em>). Cảm nhận sự dịch chuyển trọng tâm nhịp điệu."
+      },
+      {
+        "title": "3 — Inverted Paradiddle, nhấn vào cú đánh đôi",
+        "tip": "Đặt nốt nhấn vào ngay nốt thứ hai (nốt bắt đầu của cú đánh đôi): r <strong>L</strong> l r · l <strong>R</strong> r l. Luyện tập khả năng phản xạ cổ tay tốc độ cao."
+      },
+      {
+        "title": "4 — Nhấn toàn bộ các nốt của cú đánh đôi",
+        "tip": "Nhấn cả hai nốt của cú diddle: r <strong>L L</strong> r · l <strong>R R</strong> l. Giữ cho hai nốt ngoài cùng thật nhỏ như tiếng ghost note."
+      }
+    ]
+  },
+  "paradiddle-diddle": {
+    "tagline": "Paradiddle cộng thêm một cú đánh đôi — 6 nốt trong nhịp 6/8",
+    "bodyHtml": "<p>Kỹ thuật <strong>Paradiddle-Diddle</strong> lấy cấu trúc của một cú paradiddle đơn và gắn thêm một cú đánh đôi thứ hai vào đuôi: <strong>R L R R L L</strong>.</p><h2 class=\"section-label\">Tay dẫn đầu không bao giờ thay đổi</h2><p>Điều kỳ diệu của Paradiddle-Diddle nằm ở chỗ: vì có hai cú đánh đôi liên tiếp (RR rồi đến LL), tổng số nốt là 6 và <strong>bàn tay bắt đầu luôn luôn là tay phải (R)</strong> nếu bạn muốn! Bạn có thể chơi lặp đi lặp lại hàng trăm lần mà tay phải vẫn luôn giữ vai trò hoa tiêu dẫn đường. Đây là kỹ thuật ruột của Steve Gadd và các huyền thoại nhạc Jazz khi chạy ngón trên cymbal và snare.</p>",
+    "graduationCriteria": [
+      "Chơi vòng lặp RLRRLL sạch sẽ ở ♩.=80 trong nhịp 6/8 suốt 2 phút liên tục",
+      "Cả hai cú đánh đôi kết thúc (RR và LL) đều đặn — không bị lép vế nốt nào",
+      "Nốt nhấn đầu tiên (Bài 3) vang dứt khoát ở phách chính mà không làm lem lực sang các nốt diddle phía sau",
+      "Biến thể đảo tay dẫn (Bài 4) giữ vững ở ♩.=70 với âm thanh hai bên giống hệt nhau"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Paradiddle-Diddle, tay phải dẫn đầu trong nhịp 6/8",
+        "tip": "Thế tay: <em>R L R R L L</em>. Chú ý hai cú đánh đôi nối liền nhau ở phía sau: tay phải đánh đôi (RR) rồi tay trái đánh đôi (LL)."
+      },
+      {
+        "title": "2 — Các cú Diddle đều đặn, không nhấn",
+        "tip": "Đánh tất cả 6 nốt ở cùng một mức âm lượng êm dịu. Hãy để dùi tự nảy trên mặt trống như những hạt mưa rơi đều đặn."
+      },
+      {
+        "title": "3 — Nhấn vào nốt dẫn đầu ô nhịp",
+        "tip": "Nhấn mạnh nốt <strong>R</strong> đầu tiên ở phách 1, năm nốt còn lại chơi thật nhỏ (ghost notes): <strong>R</strong> l r r l l. Tạo độ nảy tưng bừng cho rãnh nhịp."
+      },
+      {
+        "title": "4 — Đổi tay dẫn đầu sau mỗi ô nhịp",
+        "tip": "Ô nhịp 1 bắt đầu bằng tay phải (<em>R L R R L L</em>), ô nhịp 2 bắt đầu bằng tay trái (<em>L R L L R R</em>). Cân bằng tuyệt đối kỹ năng cho cả hai bán cầu não."
+      }
+    ]
+  },
+  "flam": {
+    "tagline": "Một nốt phụ nhỏ nép sát ngay trước nốt chính",
+    "bodyHtml": "<p>Kỹ thuật <strong>Flam</strong> không phải là một cú đánh đơn thuần, mà là một sự kết hợp tinh tế giữa hai cú đánh gần như đồng thời: một <strong>nốt đệm hoa mỹ (grace note)</strong> gõ thật nhẹ rơi ngay sát trước một <strong>nốt chính (primary stroke)</strong> đầy nội lực: <strong>lR</strong> hoặc <strong>rL</strong>.</p><h2 class=\"section-label\">Âm thanh \"phanh xé vải\" đặc trưng</h2><p>Hai dùi không tiếp xúc mặt trống cùng một lúc (điều đó sẽ tạo ra tiếng \"flat flam\" cộc lốc), mà cách nhau chỉ một phần nhỏ của giây. Âm thanh phát ra nghe đanh giòn, dày dặn và có độ vang xé rách không gian — tựa như phát âm từ <em>\"FLAM!\"</em>.</p><p>Bí quyết cơ học: <strong>Cài đặt độ cao dùi trước khi đánh</strong>. Tay đánh nốt phụ chỉ để đầu dùi cách mặt trống khoảng 3-5 cm; tay đánh nốt chính giơ cao khoảng 15-20 cm. Khi hạ cả hai tay xuống cùng một lúc, chiếc dùi ở thấp tự nhiên sẽ chạm mặt trống trước chiếc dùi ở cao!</p>",
+    "graduationCriteria": [
+      "Cả cú R-flam và L-flam đều có nốt phụ nép sát khít vào nốt chính (không bị khoảng cách thời gian quá rộng)",
+      "Nốt phụ nhỏ hơn rõ rệt so với nốt chính — tuyệt đối không đánh to ngang bằng nhau",
+      "Đánh flam luân phiên hai tay (RLRL dẫn) ở ♩=70 mượt mà không bị khựng lại",
+      "Thiết lập chuẩn độ cao dùi trước mỗi cú flam: tay phụ thấp (~3 cm), tay chính cao (~15 cm)",
+      "Bài tập 4 (flam ở phách chính xen kẽ nốt đơn ở nốt &) lặp lại ổn định trong 1 phút ở ♩=70"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cú R-Flam đơn lẻ ở mỗi phách",
+        "tip": "Chỉ tập Flam tay phải (<em>lR</em>): tay trái gõ nốt phụ nhẹ sát mặt trống, tay phải giáng nốt chính xuống ngay sau đó một phần nghìn giây. Đếm: <em>1, 2, 3, 4</em>."
+      },
+      {
+        "title": "2 — Đánh Flam luân phiên hai tay (R-flam, L-flam)",
+        "tip": "Đổi bên liên tục: <em>lR</em> rồi đến <em>rL</em>. Sau khi tay phải đánh nốt chính, hãy hạ nó xuống thấp ngay lập tức để chuẩn bị làm nốt phụ cho cú đánh tiếp theo."
+      },
+      {
+        "title": "3 — Chuỗi Flam nốt móc đơn liên tục",
+        "tip": "Tăng tốc độ luân phiên: mỗi nốt móc đơn là một cú flam. Giữ cơ thể thả lỏng, không gồng cứng vai hay siết chặt cổ tay."
+      },
+      {
+        "title": "4 — Flam ở phách chính, nốt đơn ở nốt &",
+        "tip": "Phách chính 1, 2, 3, 4 đánh cú flam; các nốt lệch <em>&amp;</em> đánh nốt đơn bình thường. Rèn luyện sự chuyển đổi linh hoạt giữa cú đánh kép hoa mỹ và cú đánh thẳng."
+      }
+    ]
+  },
+  "flam-tap": {
+    "tagline": "Flam kết hợp với một cú gõ nhẹ — kỹ thuật lai linh hoạt nhất",
+    "bodyHtml": "<p>Kỹ thuật <strong>Flam Tap</strong> là sự kết hợp khéo léo giữa kỹ thuật Flam và kỹ thuật đánh đôi (double stroke): <strong>FlamR - R</strong> theo sau bởi <strong>FlamL - L</strong>.</p><h2 class=\"section-label\">Dòng chảy nhịp điệu của các đội trống diễu hành</h2><p>Bằng cách thêm một cú gõ nhẹ (tap) cùng bên tay vào ngay sau cú flam chính, bạn tạo ra một cặp nốt kép nảy lên từ một bên tay trước khi chuyển sang tay kia. Kỹ thuật này rèn luyện khả năng kiểm soát độ nảy của bàn tay sau một cú va chạm mạnh đầy uy lực.</p>",
+    "graduationCriteria": [
+      "Chơi FlamR-R · FlamL-L × 2 sạch sẽ ở ♩=70 với độ khít của hai cú flam hoàn toàn đồng đều",
+      "Cú \"tap\" (cú gõ thứ hai của mỗi cặp) nghe rõ ràng nhưng nhỏ hơn hẳn so với cú flam nốt chính",
+      "Cú đánh đôi không bị xẹp — nốt thứ hai giữ được sự cân bằng chắc chắn",
+      "Chơi trôi chảy ở mật độ nốt móc kép (Bài 4) ở ♩=60 mà không bị vội nhịp",
+      "Chuyển giao tay dẫn đầu mượt mà, không ngắc ngứ tại điểm giao thoa giữa FlamR-R và FlamL-L"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Flam Tap, chỉ tay phải dẫn đầu",
+        "tip": "Tập riêng bên phải: <em>lR - R</em>. Cú đánh thứ nhất là Flam mạnh, cú đánh thứ hai là cú gõ nhẹ (tap) của chính tay phải. Đếm: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>."
+      },
+      {
+        "title": "2 — Đánh Flam Tap luân phiên hai tay",
+        "tip": "Thế tay đầy đủ: <em>lR - R</em> theo sau bởi <em>rL - L</em>. Hãy để đầu dùi nảy lên tự nhiên sau cú flam để thực hiện cú tap một cách thư thái nhất."
+      },
+      {
+        "title": "3 — Tăng tốc độ Flam Tap",
+        "tip": "Đẩy tốc độ lên ♩=80. Giữ khoảng cách giữa nốt phụ và nốt chính của cú flam luôn khít khao, không để bị toác ra khi chơi nhanh."
+      },
+      {
+        "title": "4 — Flam Tap ở mật độ nốt móc kép",
+        "tip": "Bốn nốt mỗi phách: <em>lR-R rL-L lR-R rL-L</em>. Đây là một câu báo trống cực kỳ đắt giá khi bạn chia hai tay ra hai mặt trống khác nhau (ví dụ tay R trên tom, tay L trên snare)."
+      }
+    ]
+  },
+  "flam-accent": {
+    "tagline": "Flam đặt ở phách chính của mỗi nhóm liên ba",
+    "bodyHtml": "<p>Kỹ thuật <strong>Flam Accent</strong> đưa cú flam vào vị trí mở màn của một chùm liên ba nốt móc đơn: <strong>FlamR - L - R</strong> theo sau bởi <strong>FlamL - R - L</strong> trong nhịp 6/8 hoặc liên ba của 4/4.</p><h2 class=\"section-label\">Khung sườn cho những câu fill cuộn trào</h2><p>Vì cú flam tạo điểm nhấn mạnh mẽ ở đầu mỗi nhóm ba nốt, trong khi hai nốt sau là những cú đánh đơn êm ái, Flam Accent mang lại độ dập dềnh sóng biển vô cùng tự nhiên. Đây là nền tảng của vô số câu fill huyền thoại trong nhạc rock cổ điển và nhạc funk.</p>",
+    "graduationCriteria": [
+      "Chơi FlamR-L-R luân phiên cùng FlamL-R-L trôi chảy ở ♩.=70 trong nhịp 6/8",
+      "Cú flam luôn rơi chuẩn xác vào phách 1 và phách 4 của mỗi ô nhịp — không bao giờ trôi sang nốt 2 hay 3",
+      "Đổi tay dẫn đầu không bị lúng túng ở ♩.=60",
+      "Cả hai nốt phụ (l trước R, r trước L) đều có độ khít và âm lượng đồng nhất",
+      "Phiên bản 2 ô nhịp (Bài 4) lặp lại liên tục trong 1 phút không bị trượt nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Flam Accent một ô nhịp trong 6/8",
+        "tip": "Thế tay: <em>lR - L - R · rL - R - L</em>. Cú flam mở màn cho mỗi nhóm 3 nốt. Đếm to: <em>1-2-3 · 4-5-6</em>."
+      },
+      {
+        "title": "2 — Khóa chặt vị trí nốt Flam (Tập chậm)",
+        "tip": "Chơi chậm lại ở ♩.=50 để cảm nhận sự đối lập: nốt flam vang to đanh giòn, hai nốt đơn tiếp theo gõ êm ái sát mặt trống."
+      },
+      {
+        "title": "3 — Vòng lặp Flam Accent hai ô nhịp",
+        "tip": "Mở rộng thành chuỗi hai ô nhịp liên tục. Chú ý giữ cho tiếng click của máy đếm nhịp luôn khóa chặt vào cú flam đầu tiên."
+      },
+      {
+        "title": "4 — Flam Accent chuẩn tốc độ (♩.=70)",
+        "tip": "Đạt tốc độ biểu diễn tiêu chuẩn. Hãy cảm nhận chuyển động lượn sóng tự nhiên của cổ tay khi luân phiên dẫn dắt hai bên."
+      }
+    ]
+  },
+  "swiss-army-triplet": {
+    "tagline": "Flam, R, L — kỹ thuật lai trứ danh từ đội trống Thụy Sĩ trong nhịp 6/8",
+    "bodyHtml": "<p>Kỹ thuật <strong>Swiss Army Triplet</strong> là một tuyệt tác được các đội trống quân đội Thụy Sĩ sáng tạo ra từ nhiều thế kỷ trước: <strong>FlamR - R - L</strong> (hoặc FlamL - L - R).</p><h2 class=\"section-label\">Cấu trúc tay không đảo bên</h2><p>Điểm độc đáo phi thường của Swiss Army Triplet là: sau cú flam (lR), bàn tay phải tiếp tục đánh thêm một cú nữa (R) trước khi tay trái kết thúc bằng một nốt đơn (L). Kết quả là <strong>tay phải luôn luôn là tay dẫn đầu ở mọi chùm ba</strong>! Điều này tạo nên cảm giác lái nhịp cực kỳ vững chắc, nhanh và bốc lửa.</p>",
+    "graduationCriteria": [
+      "Chơi Flam-R-L mỗi nhóm, hai nhóm mỗi ô nhịp ở ♩.=80 trong 6/8, cú flam luôn nép khít trước các nốt đơn",
+      "Nốt phụ nhỏ hơn rõ rệt so với nốt chính của cú flam — không đánh to bằng nhau",
+      "Biến thể đổi tay dẫn đầu (Bài 3) chơi sạch sẽ ở ♩.=75 với hai tay phát âm giống hệt nhau",
+      "Biến thể câu fill (Bài 4) chơi mượt mà với cú flam nổi bật rõ ràng bên trong một câu nhạc dày đặc nốt"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Swiss Army Triplet, tay phải dẫn đầu trong 6/8",
+        "tip": "Thế tay: <em>lR - R - L · lR - R - L</em>. Tay phải thực hiện cú đánh kép (flam rồi tap), tay trái chen vào giữa bằng nốt phụ rồi nốt đơn kết thúc."
+      },
+      {
+        "title": "2 — Đối xứng: Tay trái dẫn đầu trong 6/8",
+        "tip": "Thế tay đảo ngược: <em>rL - L - R · rL - L - R</em>. Tay trái làm nhiệm vụ chủ đạo. Rèn luyện sự cân bằng phản xạ cho bên tay không thuận."
+      },
+      {
+        "title": "3 — Luân phiên tay dẫn theo từng ô nhịp",
+        "tip": "Ô nhịp 1 tay phải dẫn (<em>lR-R-L lR-R-L</em>), ô nhịp 2 tay trái dẫn (<em>rL-L-R rL-L-R</em>). Chuyển giao mượt mà không làm trễ phách 1."
+      },
+      {
+        "title": "4 — Đổi tay dẫn đầu ở mỗi nhóm liên ba",
+        "tip": "Nhóm 1 tay phải dẫn, nhóm 2 tay trái dẫn ngay trong cùng một ô nhịp: <em>lR-R-L · rL-L-R</em>. Đòi hỏi sự tập trung cao độ của não bộ."
+      }
+    ]
+  },
+  "drag": {
+    "tagline": "Hai nốt phụ lướt nhẹ vào nốt chính — kỹ thuật vuốt ruff có kiểm soát",
+    "bodyHtml": "<p>Kỹ thuật <strong>Drag (còn gọi là Ruff)</strong> tương tự như Flam, nhưng thay vì một nốt phụ đơn lẻ, nó sử dụng <strong>hai nốt phụ đánh đôi thật nhanh và nhẹ</strong> nép sát vào trước nốt chính: <strong>llR</strong> hoặc <strong>rrL</strong>.</p><h2 class=\"section-label\">Tiếng rẹt giòn tan đầy tinh tế</h2><p>Hai nốt phụ được gõ bằng một cú đánh đôi thả lỏng sát mặt trống, tạo ra tiếng rẹt giòn tan siêu nhỏ trước khi nốt chính nổ vang dứt khoát. Trong nhạc jazz, drag mang lại vẻ lịch lãm sang trọng; trong nhạc hành khúc, nó tạo nên sự kỷ luật thép đầy kiêu hãnh.</p>",
+    "graduationCriteria": [
+      "Cả hai nốt phụ đều nghe rõ ràng (không bị nghiền nát thành một tiếng rè rè) và nhỏ hơn hẳn nốt chính",
+      "Cả R-drag và L-drag đều đánh sạch ở ♩=60 trong bài tập luân phiên",
+      "Không có sự tăng âm lượng ở nốt phụ thứ hai — hai nốt phụ phải hoàn toàn đồng đều",
+      "Bài tập Drag kết hợp nốt đơn (Bài 4) lặp lại liên tục trong 1 phút không làm chậm nhịp tempo",
+      "Phiên bản 2 ô nhịp (Bài 3) giữ vững ở ♩=70 với ô nhịp thứ hai chuẩn xác như ô nhịp đầu"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cú R-Drag đơn lẻ ở mỗi phách",
+        "tip": "Chỉ tập Drag tay phải: hai nốt phụ tay trái gõ thật nhẹ lướt nhanh vào nốt chính tay phải: <em>llR</em>. Đếm: <em>1, 2, 3, 4</em>."
+      },
+      {
+        "title": "2 — Đánh Drag luân phiên hai tay",
+        "tip": "Đổi bên liên tục: <em>llR</em> rồi đến <em>rrL</em>. Thả lỏng cổ tay để hai nốt phụ nảy tự nhiên mà không cần dùng sức gồng ép."
+      },
+      {
+        "title": "3 — Đánh Drag luân phiên (Đẩy nhanh tốc độ)",
+        "tip": "Tăng tốc độ lên ♩=70. Đảm bảo hai nốt phụ không bị dính bết lại thành một tiếng buzz mờ nhạt."
+      },
+      {
+        "title": "4 — Drag ở phách chính, nốt đơn ở nốt &",
+        "tip": "Phách chính đánh cú Drag có nốt phụ, nốt lệch <em>&amp;</em> đánh nốt đơn sạch sẽ. Tạo nên độ nảy vui tươi, sống động cho câu nhạc."
+      }
+    ]
+  },
+  "dragadiddle": {
+    "tagline": "Drag kết hợp với paradiddle — tuyệt phẩm kỹ thuật lai đỉnh cao",
+    "bodyHtml": "<p>Kỹ thuật <strong>Dragadiddle</strong> là sự kết hợp đỉnh cao giữa cú vuốt Drag và cấu trúc Paradiddle: <strong>DragR - L - R - R</strong> theo sau bởi <strong>DragL - R - L - L</strong> trong nhịp 6/8 hoặc 3/4.</p><h2 class=\"section-label\">Độ tinh xảo của đôi tay</h2><p>Bài tập này đòi hỏi người chơi phải chuyển đổi liên tục giữa kỹ thuật đánh nốt phụ siêu nhẹ, cú đánh đơn dứt khoát và cú đánh đôi êm ru. Khi làm chủ được Dragadiddle, đôi tay bạn đã đạt đến độ kiểm soát cơ bắp và độ nhạy cảm âm sắc của một tay trống chuyên nghiệp thực thụ.</p>",
+    "graduationCriteria": [
+      "Chơi Drag-R-L-R-R luân phiên cùng Drag-L-R-L-L sạch sẽ ở ♩.=70 trong nhịp 6/8",
+      "Cả hai nốt phụ của mỗi cú drag đều nghe rõ tiếng — không bị nghiền nát hay biến thành tiếng buzz",
+      "Cú đánh đôi kết thúc của mỗi paradiddle (RR hoặc LL) đồng đều, không bị hụt nốt thứ hai",
+      "Đổi tay dẫn đầu không bị lúng túng ở ♩.=60 — chuyển giao mượt mà ở điểm nối giữa LL và Drag-L",
+      "Có thể biểu diễn toàn bộ chuỗi bài tập từ 1 đến 4 bằng trí nhớ ở ♩.=65"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chỉ chơi phần thân Paradiddle (Chưa thêm Drag)",
+        "tip": "Luyện khung xương trước: <em>R L R R · L R L L</em> trong nhịp 6/8 ở ♩.=70. Đảm bảo nhịp đập bên dưới vững như bàn thạch."
+      },
+      {
+        "title": "2 — Thêm cú Drag vào nốt nhấn đầu phách",
+        "tip": "Đưa hai nốt phụ lướt nhẹ vào ngay trước nốt R và L đầu tiên: <em>llR L R R · rrL R L L</em>. Chú ý nốt phụ không làm xô lệch thời điểm tiếp đất của nốt chính."
+      },
+      {
+        "title": "3 — Chuỗi Dragadiddle tăng tốc",
+        "tip": "Đẩy tốc độ lên ♩.=75. Thả lỏng bàn tay để các cú đánh đôi tự nảy mượt mà theo quán tính."
+      },
+      {
+        "title": "4 — Dragadiddle chuẩn nhịp biểu diễn",
+        "tip": "Đạt độ hoàn thiện cao nhất. Âm thanh drag giòn tan hòa quyện cùng sự trôi chảy của paradiddle tạo nên một bữa tiệc âm sắc."
+      }
+    ]
+  },
+  "accented-singles": {
+    "tagline": "Dịch chuyển nốt nhấn — cùng nốt nhạc, cảm giác hoàn toàn mới",
+    "bodyHtml": "<p>Điều gì phân biệt một tiếng máy khâu vô hồn với một rãnh nhịp trống đầy mê hoặc? Đó chính là <strong>nốt nhấn (accents)</strong>. Trong bài học này, bạn sẽ giữ nguyên dòng chảy nốt móc kép đánh đơn liên tục <em>R L R L</em>, nhưng di chuyển nốt nhấn lần lượt qua cả bốn vị trí vi mô bên trong một phách:</p><ul class=\"bulleted\"><li><strong>Nhấn ở phách chính (1, 2, 3, 4)</strong>: Vững chãi, tạo nhịp đập nền tảng.</li><li><strong>Nhấn ở nốt &amp;</strong>: Cảm giác lơ lửng, kéo nhịp lệch tâm.</li><li><strong>Nhấn ở nốt e</strong>: Nốt móc kép thứ hai — cú hích đầy bất ngờ sau phách chính.</li><li><strong>Nhấn ở nốt a</strong>: Nốt móc kép thứ tư — cú phóng tên lửa lao thẳng vào phách chính tiếp theo.</li></ul>",
+    "graduationCriteria": [
+      "Có thể chơi cả 4 vị trí nốt nhấn (phách chính, &, e, a) ở ♩=80 trên nền nốt móc kép liên tục",
+      "Độ tương phản âm lượng thể hiện rõ nét — nốt gõ nhẹ không chỉ là không nhấn, mà phải êm hơn hẳn nốt nhấn",
+      "Tốc độ tempo không bị chao đảo khi vị trí nốt nhấn dịch chuyển giữa câu",
+      "Mẫu hình nốt nhấn đảo phách (Bài 5) giữ vững trong 2 phút liên tục mà không bị lạc vị trí"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nhấn ở phách chính (1, 2, 3, 4)",
+        "tip": "Nhấn mạnh vào các con số: <strong>1</strong> e &amp; a <strong>2</strong> e &amp; a <strong>3</strong> e &amp; a <strong>4</strong> e &amp; a. Dùi tay phải giơ cao cho nốt nhấn, các nốt còn lại gõ nhẹ sát mặt trống."
+      },
+      {
+        "title": "2 — Nhấn ở nốt &amp; (Phách lệch)",
+        "tip": "Dịch chuyển nốt nhấn sang dấu &: 1 e <strong>&amp;</strong> a 2 e <strong>&amp;</strong> a 3 e <strong>&amp;</strong> a 4 e <strong>&amp;</strong> a. Nốt nhấn bây giờ do tay phải hoặc tay trái đánh tùy theo thế tay."
+      },
+      {
+        "title": "3 — Nhấn ở nốt e (Nốt móc kép ngay sau phách)",
+        "tip": "Nhấn ở âm tiết 'e': 1 <strong>e</strong> &amp; a 2 <strong>e</strong> &amp; a 3 <strong>e</strong> &amp; a 4 <strong>e</strong> &amp; a. Nốt nhấn rơi vào tay trái! Thử thách tuyệt vời để rèn luyện phản xạ tay yếu."
+      },
+      {
+        "title": "4 — Nhấn ở nốt a (Nốt móc kép đón đầu phách)",
+        "tip": "Nhấn ở âm tiết 'a': 1 e &amp; <strong>a</strong> 2 e &amp; <strong>a</strong> 3 e &amp; <strong>a</strong> 4 e &amp; <strong>a</strong>. Nốt 'a' tạo cảm giác phóng lao đẩy mạnh vào phách chính ngay sau đó."
+      },
+      {
+        "title": "5 — Nốt nhấn đảo phách kết hợp",
+        "tip": "Trộn lẫn các vị trí nốt nhấn khác nhau trong cùng một ô nhịp. Đọc to các âm tiết được nhấn để dẫn dắt cơ bắp đôi tay."
+      }
+    ]
+  },
+  "six-stroke-roll-found": {
+    "tagline": "RLLRRL — cuộn sáu nốt kinh điển trong nhịp 6/8",
+    "bodyHtml": "<p>Kỹ thuật <strong>Six-Stroke Roll</strong> là một trong những câu nói cửa miệng được yêu thích nhất trong thế giới trống: <strong>R L L R R L</strong>.</p><h2 class=\"section-label\">Hai nốt nhấn bọc lấy hai cú đánh đôi</h2><p>Cấu trúc của nó gồm một nốt đơn nhấn mạnh ở đầu (R), hai cú đánh đôi ở giữa (LL và RR), và kết thúc bằng một nốt đơn nhấn mạnh ở cuối (L). Khi chơi trong nhịp liên ba hoặc 6/8, âm thanh của nó tuôn chảy như một dòng thác êm ái với hai đầu gờ nhô cao đầy biểu cảm. Nó là linh hồn của những câu báo trống kinh điển trong Gospel chops, Funk và Rock hiện đại.</p>",
+    "graduationCriteria": [
+      "Chơi vòng lặp RLLRRL trôi chảy ở ♩.=80 trong nhịp 6/8 suốt 2 phút — cả hai cú đánh đôi LL và RR đều đặn",
+      "Cả hai nốt nhấn tự nhiên (nốt 1 và nốt 4) vang lên rõ ràng khi chơi bài có hai nốt nhấn (Bài 2)",
+      "Biến thể một nốt nhấn (Bài 3) — chỉ nhấn ở nốt 1 — lặp lại mà nốt nhấn thứ hai không bị lem vào",
+      "Biến thể đảo tay dẫn đầu (Bài 4) giữ vững ở ♩.=75 với điểm giao giữa các ô nhịp luôn sạch sẽ"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Six-Stroke Roll, tay phải dẫn đầu trong 6/8 (Không nhấn)",
+        "tip": "Thế tay: <em>R L L R R L</em>. Đếm: <em>1-2-3-4-5-6</em>. Giữ tất cả 6 nốt đồng đều về âm lượng để cảm nhận cấu trúc chuyển động của hai cú đánh đôi ở giữa."
+      },
+      {
+        "title": "2 — Thêm cả hai nốt nhấn (Nốt 1 và Nốt 4)",
+        "tip": "Nhấn ở nốt 1 (R) và nốt 4 (R): <strong>R</strong> l l <strong>R</strong> r l. Cảm nhận độ nảy bật tưng bừng của câu nhạc khi hai nốt nhấn xuất hiện."
+      },
+      {
+        "title": "3 — Chỉ nhấn vào nốt 1 duy nhất",
+        "tip": "Chỉ nhấn nốt đầu tiên: <strong>R</strong> l l r r l. Năm nốt phía sau giữ nhỏ như tiếng thì thầm. Rèn luyện sự kiểm soát lực sau cú giáng mạnh ban đầu."
+      },
+      {
+        "title": "4 — Đổi tay dẫn đầu theo từng ô nhịp",
+        "tip": "Ô nhịp 1 tay phải dẫn (<em>R L L R R L</em>), ô nhịp 2 tay trái dẫn (<em>L R R L L R</em>). Giúp bạn có thể tung ra câu Six-Stroke Roll từ bất kỳ vị trí nào trên bộ trống."
+      }
+    ]
+  }
+};
+
+const targetPath = path.join(__dirname, '../src/_data/i18n/vi/lessons/foundations-rudiments.json');
+fs.writeFileSync(targetPath, JSON.stringify(data, null, 2), 'utf8');
+console.log('Successfully wrote', Object.keys(data).length, 'rudiment lessons to', targetPath);

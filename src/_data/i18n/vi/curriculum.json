@@ -1,0 +1,488 @@
+{
+  "foundations": {
+    "title": "Nền tảng căn bản",
+    "tagline": "Nơi quá trình tôi luyện thực sự diễn ra",
+    "description": "Nền tảng là nơi chứa đựng toàn bộ vốn liếng kỹ thuật của một tay trống — từ đọc nốt, luyện rudiment, làm quen với bộ trống, kỹ thuật tay chân, phối hợp tứ chi, báo trống (fill) cho đến thói quen luyện tập. Phần lớn những gì bạn thể hiện trên bộ trống đều được đắp xây từ đây. Các thể loại âm nhạc chuyên sâu sẽ tiếp nối ngay sau đó khi bạn đã sẵn sàng chọn lối đi riêng.",
+    "sections": {
+      "getting-started": {
+        "title": "Bắt đầu làm quen",
+        "tagline": "Trước khi bạn chạm vào mặt trống",
+        "lessons": {
+          "the-drum-kit": "Khám phá bộ trống: Tên gọi & Vị trí",
+          "gear-basics": "Dùi trống, mặt tập & Trang bị đầu tiên",
+          "setup-posture": "Tư thế ngồi & Bố trí bộ trống",
+          "stick-grip": "Cách cầm dùi & Các cú đánh cơ bản",
+          "tuning-basics": "Cách chỉnh mặt trống (Tuning)",
+          "the-practice-mindset": "Tư duy luyện tập đúng đắn"
+        }
+      },
+      "reading-counting": {
+        "title": "Đọc bản nhạc & Đếm nhịp",
+        "tagline": "Ngôn ngữ của tiết tấu trên trang giấy",
+        "lessons": {
+          "reading-101": "Đọc nốt nhạc: Giá trị các trường độ",
+          "reading-time-signatures": "Số chỉ nhịp",
+          "reading-rests": "Dấu lặng: Âm vang của sự tĩnh lặng",
+          "counting-eighths": "Đếm nốt móc đơn (Eighths)",
+          "counting-sixteenths": "Đếm nốt móc kép (Sixteenths)",
+          "triplet-feel": "Cảm giác liên ba (Triplet Feel)",
+          "counting-subdivision": "Phân chia phách hỗn hợp",
+          "reading-syncopation": "Đọc tiết tấu đảo phách (Syncopation)",
+          "reading-dotted-rhythms": "Tiết tấu nốt chấm dôi"
+        }
+      },
+      "rudiments": {
+        "title": "Kỹ thuật Rudiments",
+        "tagline": "Nền tảng chuyển động cơ bắp bên dưới mọi kỹ thuật",
+        "lessons": {
+          "single-stroke-roll": "Đánh đơn liên tục (Single Stroke Roll)",
+          "double-stroke-roll": "Đánh đôi liên tục (Double Stroke Roll)",
+          "paradiddle": "Kỹ thuật đảo tay (Single Paradiddle)",
+          "double-paradiddle": "Kỹ thuật Double Paradiddle",
+          "inverted-paradiddle": "Kỹ thuật Inverted Paradiddle",
+          "paradiddle-diddle": "Kỹ thuật Paradiddle-Diddle",
+          "flam": "Cú đánh hoa mỹ Flam",
+          "flam-tap": "Kỹ thuật Flam Tap",
+          "flam-accent": "Kỹ thuật Flam Accent",
+          "swiss-army-triplet": "Kỹ thuật Swiss Army Triplet",
+          "drag": "Cú vuốt nốt Drag",
+          "dragadiddle": "Kỹ thuật Dragadiddle",
+          "accented-singles": "Đánh đơn có nhấn (Accented Singles)",
+          "six-stroke-roll-found": "Đánh cuộn 6 nốt (Six-Stroke Roll)"
+        }
+      },
+      "time-on-the-kit": {
+        "title": "Làm chủ thời gian trên bộ trống",
+        "tagline": "Từ nhịp đệm sơ khai đến lối chơi giàu nhạc tính",
+        "lessons": {
+          "first-beat": "Nhịp đệm đầu tiên của bạn",
+          "first-beat-kicks": "Các biến thể của trống kick",
+          "first-beat-color": "Tô màu cho nhịp backbeat",
+          "two-bar-phrasing": "Phát triển câu nhạc 2 ô nhịp",
+          "the-shuffle": "Cảm giác nhịp Shuffle"
+        }
+      },
+      "foot-technique": {
+        "title": "Kỹ thuật chân",
+        "tagline": "Những gì đôi chân bạn thực sự đang làm",
+        "lessons": {
+          "bass-drum-technique": "Kỹ thuật kiểm soát trống Bass",
+          "hi-hat-foot": "Kỹ thuật kiểm soát chân Hi-Hat",
+          "bass-drum-doubles": "Cú đánh đôi chân bass (Bass Drum Doubles)"
+        }
+      },
+      "hand-technique": {
+        "title": "Kỹ thuật tay trên bộ trống",
+        "tagline": "Âm thanh được nhào nặn từ chính đôi tay bạn",
+        "lessons": {
+          "snare-voicings": "Các sắc thái âm thanh trên trống Snare",
+          "hi-hat-articulation": "Sắc thái diễn tấu Hi-Hat",
+          "cymbal-voicings": "Các sắc thái âm thanh Cymbal",
+          "ghost-notes-found": "Nốt bóng (Ghost Notes)",
+          "accent-tap": "Kỹ thuật Accent và Tap",
+          "moeller-stroke": "Cú đánh Moeller (Moeller Stroke)",
+          "finger-control": "Kỹ thuật kiểm soát ngón tay (Finger Control)",
+          "dynamic-spectrum": "Dải sắc thái cường độ âm thanh"
+        }
+      },
+      "coordination": {
+        "title": "Phối hợp tứ chi",
+        "tagline": "Khi bốn chi giao tiếp và đồng bộ cùng nhau",
+        "lessons": {
+          "basic-coordination": "Phối hợp cơ bản",
+          "three-limb-patterns": "Khuôn mẫu vận động ba chi",
+          "four-way-foundation": "Nền tảng độc lập bốn chi",
+          "limb-substitution": "Thay thế luân chuyển các chi"
+        }
+      },
+      "independence-systems": {
+        "title": "Hệ thống độc lập tứ chi",
+        "tagline": "Phương pháp các tay trống bậc thầy sử dụng để giải phóng cơ thể",
+        "lessons": {
+          "independence-singing": "Hát nhẩm như một công cụ luyện tập",
+          "independence-chapin-method": "Phương pháp Chapin (The Chapin Method)",
+          "independence-chester-system": "Hệ thống New Breed của Gary Chester",
+          "independence-melodic-snare": "Giai điệu Snare trên nền chân vững chắc",
+          "independence-clave-foot": "Hệ thống giữ nhịp Clave bằng chân"
+        }
+      },
+      "fills-transitions": {
+        "title": "Câu báo trống & Chuyển đoạn",
+        "tagline": "Chuyển mượt mà từ đoạn này sang đoạn khác",
+        "lessons": {
+          "basic-fills": "Các câu báo trống cơ bản",
+          "pickup-fills": "Câu báo đón đầu (Pickup Fills)",
+          "fills-around-kit": "Báo trống lượn quanh bộ trống"
+        }
+      },
+      "practicing": {
+        "title": "Phương pháp luyện tập",
+        "tagline": "Cách bạn thực sự tiến bộ mỗi ngày",
+        "lessons": {
+          "warm-ups": "Khởi động cổ tay và bàn chân",
+          "metronome-practice": "Luyện tập cùng máy đếm nhịp",
+          "slow-practice": "Nghệ thuật luyện tập ở tốc độ chậm",
+          "recording-yourself": "Tự thu âm để tự sửa sai",
+          "ear-training": "Luyện đôi tai cảm nhận nhịp"
+        }
+      },
+      "putting-it-together": {
+        "title": "Hòa quyện vào âm nhạc",
+        "tagline": "Từ các bài tập rời rạc đến chơi một bản nhạc hoàn chỉnh",
+        "lessons": {
+          "playing-to-a-song": "Chơi trống cùng một bài hát",
+          "two-minute-loops": "Vòng lặp hai phút duy trì cảm giác nhịp"
+        }
+      }
+    }
+  },
+  "tracks": {
+    "rock-pop": {
+      "title": "Rock & Pop",
+      "tagline": "Những nhịp backbeat kiến tạo nền âm nhạc hiện đại",
+      "description": "Từ những nhịp backbeat rock kinh điển đến các bản phối pop đương đại. Thể loại tinh gọn nhất — ít nốt hơn nhưng cảm giác nhịp sâu hơn.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "rock-eighth-grooves": "Điệu trống nốt móc đơn (Eighth-Note Grooves)",
+            "rock-quarter-hat": "Giữ nhịp Hi-Hat nốt đen",
+            "rock-cross-stick": "Kỹ thuật gõ cạnh Cross-Stick & Cảm giác Ballad",
+            "rock-basic-fills": "Các câu báo trống cơ bản",
+            "rock-disco-four": "Nhịp bốn dậm chân Four-on-the-Floor"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "rock-sixteenth-hats": "Giữ nhịp Hi-Hat nốt móc kép (Sixteenths)",
+            "rock-open-hats": "Mở Hi-Hat & Tiết tấu đảo phách",
+            "rock-shuffle-rock": "Nhịp Shuffle Rock",
+            "rock-power-ballad": "Điệu trống Power Ballad uy lực",
+            "rock-tom-grooves": "Điệu trống phối hợp dàn Tom"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "rock-half-time": "Cảm giác nhịp giãn một nửa (Half-Time Feel)",
+            "rock-train-beat": "Nhịp tàu hỏa (Train Beat)",
+            "rock-linear-fills": "Câu báo trống tuyến tính (Linear Fills)",
+            "rock-double-time": "Nhịp dồn gấp đôi (Double-Time Grooves)",
+            "rock-stadium-anthem": "Nhịp trống sân vận động bùng nổ"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "rock-prog": "Kỹ thuật Progressive Rock",
+            "rock-odd-meter": "Số chỉ nhịp lẻ trong Rock",
+            "rock-hybrid-grooves": "Điệu trống lai kết hợp (Hybrid Grooves)",
+            "rock-studio-polish": "Chuẩn mực thu âm & Sản xuất Studio",
+            "rock-dynamics": "Bậc thầy kiểm soát sắc thái cường độ"
+          }
+        }
+      }
+    },
+    "jazz": {
+      "title": "Jazz",
+      "tagline": "Nhịp swing, dòng chảy thời gian và nghệ thuật đối thoại",
+      "description": "Từ khuôn mẫu ride cơ bản đến phong cách bop và broken time. Thế giới nơi cymbal ride làm chủ thời gian và trống snare cất lời trò chuyện.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "jazz-ride-pattern": "Khuôn mẫu nhịp Ride Jazz",
+            "jazz-feathering": "Kỹ thuật vuốt nhẹ trống Bass (Feathering)",
+            "jazz-hat-two-four": "Đạp Hi-Hat ở phách 2 và 4",
+            "jazz-first-comping": "Đệm Snare cơ bản (Comping)",
+            "jazz-charleston": "Tiết tấu nhịp Charleston"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "jazz-syncopated-comp": "Đệm Snare đảo phách linh hoạt",
+            "jazz-bass-comping": "Đệm trống Bass ngẫu hứng",
+            "jazz-brushes-intro": "Nhập môn gõ chổi Jazz (Brushes)",
+            "jazz-waltz": "Nhịp Jazz Waltz (3/4)",
+            "jazz-bop-vocabulary": "Vốn từ vựng Bebop kinh điển"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "jazz-up-tempo": "Làm chủ nhịp Jazz tốc độ cao (Up-Tempo)",
+            "jazz-broken-time-intro": "Thời gian phi đối xứng (Broken Time)",
+            "jazz-elvin-jones": "Phong cách phức điệu Elvin Jones",
+            "jazz-modal-comping": "Đệm trống phong cách Modal Jazz",
+            "jazz-trading": "Đối thoại Solo ngẫu hứng (Trading Fours)"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "jazz-post-bop": "Kỹ thuật Post-Bop đỉnh cao",
+            "jazz-tony-williams": "Nghệ thuật tiết tấu Tony Williams",
+            "jazz-odd-meters": "Số chỉ nhịp lẻ trong Jazz",
+            "jazz-free-jazz": "Tự do biểu đạt (Free Jazz)",
+            "jazz-modern-jazz": "Jazz đương đại thế kỷ 21"
+          }
+        }
+      }
+    },
+    "funk-r-and-b": {
+      "title": "Funk & R&B",
+      "tagline": "Nhịp móc kép, nốt bóng và độ nảy bất diệt",
+      "description": "Từ tiếng trống Stubblefield của James Brown đến nhịp pocket của Questlove. Trường phái nơi những nốt tĩnh lặng giữa các cú đánh cũng quan trọng ngang những nốt vang lên.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "funk-sixteenth-grooves": "Nhịp Funk móc kép kinh điển",
+            "funk-ghost-notes": "Nghệ thuật nốt bóng (Ghost Notes)",
+            "funk-clyde-stubblefield": "Huyền thoại Clyde Stubblefield",
+            "funk-james-brown": "Rãnh nhịp James Brown Funk",
+            "funk-one-drop": "Nhịp One-Drop R&B"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "funk-linear-intro": "Nhập môn tiết tấu tuyến tính (Linear Funk)",
+            "funk-the-meters": "Phong cách Zigaboo Modeliste (The Meters)",
+            "funk-purdie-intro": "Nhịp xáo lừng danh Bernard Purdie",
+            "funk-open-hat-accents": "Nhấn mở Hi-Hat đảo phách",
+            "funk-displaced-snare": "Dịch chuyển vị trí Snare (Displacement)"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "funk-tower-of-power": "Phong cách David Garibaldi (Tower of Power)",
+            "funk-david-garibaldi": "Vốn từ vựng David Garibaldi",
+            "funk-displacement": "Kỹ thuật dịch chuyển phách nâng cao",
+            "funk-new-orleans": "Nhịp New Orleans Second Line",
+            "funk-modern-neo-soul": "Nhịp Neo-Soul đương đại"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "funk-advanced-linear": "Phức hợp tiết tấu tuyến tính nâng cao",
+            "funk-questlove": "Nghệ thuật giữ nhịp sâu của Questlove",
+            "funk-vinnie-funk": "Phong cách Funk của Vinnie Colaiuta",
+            "funk-odd-meter-funk": "Nhịp Funk số chỉ nhịp lẻ",
+            "funk-modern-r-and-b": "R&B & Hip-Hop hiện đại trong phòng thu"
+          }
+        }
+      }
+    },
+    "latin": {
+      "title": "Latin & Afro-Cuban",
+      "tagline": "Mạch nguồn nhịp Clave, độc lập phức điệu và các điệu nhảy",
+      "description": "Từ Bossa Nova và Clave đến Songo, Guaguancó và nhịp 6/8 Afro-Cuban. Nơi đôi chân giữ chặt mạch đập của bài hát còn đôi tay vẽ nên vũ điệu.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "latin-clave-intro": "Trái tim nhịp điệu Clave (Son & Rumba)",
+            "latin-bossa-nova": "Điệu Bossa Nova Brazil êm dịu",
+            "latin-samba-feel": "Cảm giác lễ hội nhịp Samba",
+            "latin-cha-cha": "Điệu Cha-Cha-Cha rộn rã",
+            "latin-mambo-intro": "Nhập môn điệu Mambo"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "latin-songo": "Điệu Songo Cuba hiện đại",
+            "latin-mozambique": "Vũ khúc Mozambique",
+            "latin-merengue": "Tiết tấu Merengue sôi động",
+            "latin-cumbia": "Giai điệu Cumbia Nam Mỹ",
+            "latin-cascara": "Kỹ thuật gõ vỏ tang trống Cáscara"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "latin-rumba": "Điệu Rumba truyền thống",
+            "latin-6-8-afro-cuban": "Nhịp 6/8 Afro-Cuban huyền bí",
+            "latin-bembe": "Nhịp chuông Bembé cổ xưa",
+            "latin-guaguanco": "Vũ điệu đường phố Guaguancó",
+            "latin-comparsa": "Âm vang lễ hội hóa trang Comparsa"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "latin-folkloric": "Âm nhạc nghi lễ dân gian Afro-Cuban",
+            "latin-modern-hybrid": "Phong cách Latin Hybrid kết hợp đương đại",
+            "latin-bata-rhythms": "Tiết tấu trống thiêng Batá",
+            "latin-iyesa": "Nghi thức nhịp Iyesá",
+            "latin-yoruba": "Di sản nhịp điệu Yoruba"
+          }
+        }
+      }
+    },
+    "fusion": {
+      "title": "Fusion",
+      "tagline": "Kỹ thuật đỉnh cao gặp gỡ tư duy tân tiến",
+      "description": "Sự kết hợp giữa nhịp lực của Rock, hòa thanh của Jazz, phức điệu và lối chơi tuyến tính (linear playing). Dành cho những ai muốn phá vỡ rào cản kỹ thuật.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "fusion-coordination-foundation": "Nền tảng phối hợp kỹ thuật Fusion",
+            "fusion-six-stroke-roll": "Ứng dụng Six-Stroke Roll trong Fusion",
+            "fusion-half-time-shuffle": "Nhịp Half-Time Shuffle kiểu Bernard Purdie / Porcaro",
+            "fusion-linear-basics": "Căn bản về lối chơi tuyến tính (Linear)",
+            "fusion-jazz-rock": "Giao thoa nhịp Jazz-Rock cổ điển"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "fusion-odd-meters": "Số chỉ nhịp lẻ trong Fusion (5/8, 7/8)",
+            "fusion-linear-vocab": "Vốn từ vựng câu Linear nâng cao",
+            "fusion-displacement": "Dịch chuyển trọng âm tiết tấu",
+            "fusion-sixteenth": "Móc kép tốc độ cao và nốt đệm",
+            "fusion-broken-time": "Tự do hóa thời gian Broken Time"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "fusion-polyrhythms": "Phức điệu đa nhịp Polyrhythms",
+            "fusion-soloing": "Tư duy solo ngẫu hứng trên khung bài",
+            "fusion-superimposition": "Chồng ghép nhịp Metric Superimposition",
+            "fusion-clave-fusion": "Đưa Clave vào khuôn khổ Fusion hiện đại",
+            "fusion-tony-williams-fusion": "Phong cách Fusion huyền thoại Tony Williams"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "fusion-metric-modulation": "Chuyển đổi nhịp điệu Metric Modulation",
+            "fusion-modern-fusion": "Fusion đương đại thế kỷ 21",
+            "fusion-prog-fusion": "Progressive Fusion độ khó cao",
+            "fusion-electronic-fusion": "Giao thoa âm nhạc điện tử Electronic Fusion",
+            "fusion-mahavishnu": "Phong cách Mahavishnu Orchestra của Billy Cobham"
+          }
+        }
+      }
+    },
+    "metal": {
+      "title": "Metal",
+      "tagline": "Tốc độ, sức mạnh, hai chân bass và sự chuẩn xác tuyệt đối",
+      "description": "Từ những cú dậm double bass uy lực đến blast beat, nhịp đảo phách chéo và phong cách djent hiện đại.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "metal-double-bass-basics": "Căn bản hai chân trống Bass (Double Bass)",
+            "metal-power-grooves": "Rãnh nhịp uy lực Power Grooves",
+            "metal-headbang": "Nhịp điệu dồn dập Headbang",
+            "metal-quarter-bass": "Nhịp chân bass nốt đen ổn định",
+            "metal-eighth-bass": "Nhịp chân bass nốt móc đơn liên tục"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "metal-blast-beats": "Kỹ thuật Blast Beats sơ khởi",
+            "metal-prog-metal": "Kỹ thuật Progressive Metal",
+            "metal-d-beat": "Nhịp D-Beat Punk / Metal kinh điển",
+            "metal-thrash": "Tốc độ cuồng nhiệt Thrash Metal",
+            "metal-groove-metal": "Phong cách dằn nhịp Groove Metal"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "metal-extreme": "Kỹ thuật Extreme Metal khắc nghiệt",
+            "metal-gravity-rolls": "Kỹ thuật lăn dùi một tay Gravity Roll",
+            "metal-bomb-blasts": "Kỹ thuật Bomb Blasts sấm sét",
+            "metal-hyperblasts": "Tốc độ siêu phàm Hyperblasts",
+            "metal-djent": "Phong cách Djent đa nhịp hiện đại"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "metal-tech-death": "Kỹ thuật Technical Death Metal",
+            "metal-polymeters": "Phức hợp Polymeter nhiều số nhịp",
+            "metal-metric-modulation": "Biến điệu nhịp độ Metric Modulation",
+            "metal-mathcore": "Cấu trúc phức tạp Mathcore",
+            "metal-gospel-chops": "Ứng dụng câu Gospel Chops tốc độ cao trong Metal"
+          }
+        }
+      }
+    },
+    "hiphop": {
+      "title": "Hip-Hop & Electronic",
+      "tagline": "Nhịp Boom-Bap, âm sắc máy 808 và cảm giác lệch nhịp Dilla",
+      "description": "Tái hiện nhịp điệu của máy sampler MPC và máy drum machine TR-808 trên bộ trống mộc. Làm chủ nhịp pocket chặt chẽ và cảm giác lơi nhịp (laid-back).",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "hiphop-boom-bap": "Khuôn vàng thước ngọc Boom-Bap cổ điển",
+            "hiphop-pocket-time": "Kỹ thuật chơi chặt chẽ trong Pocket",
+            "hiphop-classic": "Các rãnh nhịp Hip-Hop kinh điển thập niên 90",
+            "hiphop-r-and-b-basic": "Nhịp R&B Groove nền tảng",
+            "hiphop-quiet-storm": "Phong cách trữ tình Quiet Storm"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "hiphop-trap": "Mô phỏng nhịp Trap và Hi-Hat cuộn nốt",
+            "hiphop-neo-soul": "Nhịp Neo-Soul uốn lượn cảm xúc",
+            "hiphop-modern-r-and-b": "R&B hiện đại và âm hưởng phòng thu",
+            "hiphop-southern": "Phong cách Hip-Hop miền Nam nước Mỹ (Dirty South)",
+            "hiphop-questlove": "Phong cách đệm nhịp lừng danh của Questlove"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "hiphop-studio-translation": "Mô phỏng âm thanh điện tử trên bộ trống mộc",
+            "hiphop-displacement": "Dịch chuyển phách ngẫu hứng trong Hip-Hop",
+            "hiphop-808-translation": "Tái hiện tiếng Bass 808 bằng trống mộc",
+            "hiphop-chris-dave": "Phong cách phá vỡ quy ước của Chris Dave",
+            "hiphop-anderson-paak": "Lối chơi đầy sức sống của Anderson .Paak"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "hiphop-j-dilla": "Nghệ thuật lệch nhịp huyền thoại J Dilla Swing",
+            "hiphop-modern-production": "Kỹ thuật trống trong kỷ nguyên sản xuất hiện đại",
+            "hiphop-sampling": "Tái hiện kỹ thuật cắt lát mẫu âm thanh (Sample Chopping)",
+            "hiphop-louis-cole": "Phong cách tốc độ và phá cách của Louis Cole",
+            "hiphop-future-r-and-b": "Tương lai của R&B và nhạc điện tử thể nghiệm"
+          }
+        }
+      }
+    }
+  },
+  "mastery": {
+    "title": "Chủ đề nâng cao",
+    "tagline": "Nơi mọi tay trống chuyên nghiệp hội tụ",
+    "lessons": {
+      "polyrhythms-3-2": "Phức điệu cơ bản: 3 chồng lên 2 (3:2 Polyrhythm)",
+      "polyrhythms-5-4": "Phức điệu nâng cao: 5 chồng lên 4 (5:4 Polyrhythm)",
+      "odd-meters-9-8": "Làm chủ số chỉ nhịp lẻ 9/8",
+      "soloing-improvisation": "Nghệ thuật ngẫu hứng và độc tấu (Soloing)",
+      "brushes-mastery": "Bậc thầy kỹ thuật gõ chổi (Brushes)",
+      "four-way-independence": "Độc lập bốn chi toàn diện (Four-Way Independence)",
+      "reading-complex-charts": "Đọc tổng phổ ban nhạc và bản ký âm phức tạp",
+      "solo-drumming": "Biểu diễn trống độc tấu không nhạc đệm",
+      "transcription-method": "Phương pháp ký âm và chép lại bài nhạc (Transcription)",
+      "practice-systems": "Xây dựng hệ thống tự học suốt đời",
+      "accompaniment": "Nghệ thuật đệm bè và nâng đỡ người hát / nhạc công khác",
+      "clave-as-feel": "Biến nhịp Clave thành cảm giác âm nhạc tự nhiên"
+    }
+  }
+}

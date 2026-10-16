@@ -1,0 +1,37 @@
+---
+layout: base.njk
+locale: vi
+title: "Trọn bộ 40 kỹ thuật Drum Rudiments thiết yếu — Ký âm tương tác"
+description: "Tất cả 40 kỹ thuật rudiment thiết yếu với ký âm có thể phát âm thanh — từ roll, paradiddle, flam đến drag được thể hiện bằng bản nhạc tương tác."
+permalink: /vi/rudiments/
+---
+{% set locRudiments = rudiments | localizedRudiments('vi') %}
+
+<div class="container">
+  <header class="lesson-hero">
+    <p class="eyebrow">Tài liệu tra cứu</p>
+    <h1>Trọn bộ 40 kỹ thuật <em>Rudiments</em> thiết yếu</h1>
+    <p class="lede">Toàn bộ 40 kỹ thuật rudiment tiêu chuẩn — rolls, paradiddles, flams, và drags — được thể hiện bằng ký âm thực tế. Nhấn phát để nghe bất kỳ mẫu nào; nếu đã có bài học đầy đủ, liên kết sẽ xuất hiện ngay trên thẻ.</p>
+
+    <nav class="family-index" aria-label="Các nhóm kỹ thuật rudiment">
+      {%- for group in locRudiments %}
+      <a class="chip family-index__chip" href="#{{ group.slug }}">{{ group.title }} <i aria-hidden="true">{{ group.rudiments.length }}</i></a>
+      {%- endfor %}
+    </nav>
+  </header>
+
+  <article class="lesson-prose">
+    <p>Rudiments đối với người học trống cũng giống như gam (âm giai) đối với người học piano: là những tổ hợp thế tay nhỏ, lặp đi lặp lại và sẽ biến thành các câu báo (fills), tiết tấu (grooves) và các đoạn độc tấu khi đã trở thành phản xạ tự nhiên. Hiệp hội Nghệ thuật Gõ Quốc tế (PAS) đã tiêu chuẩn hóa 40 kỹ thuật này thành bốn nhóm dưới đây. Bạn không cần phải học cả 40 kỹ thuật cùng lúc — hãy bắt đầu với Single Stroke Roll, Double Stroke Roll và Single Paradiddle, sau đó mở rộng dần. Một mặt tập (pad) và một chiếc máy đếm nhịp là tất cả những gì bạn cần.</p>
+
+    {% for group in locRudiments %}
+      <header class="rud-family" id="{{ group.slug }}" tabindex="-1">
+        <p class="rud-family__kicker">Nhóm {{ loop.index }} trên {{ locRudiments.length }} · {{ group.rudiments.length }} kỹ thuật</p>
+        <h2 class="rud-family__title">{{ group.title }}</h2>
+      </header>
+      <p>{{ group.blurb }}</p>
+      {% for r in group.rudiments %}
+        {% exercise r.card, 'vi' %}
+      {% endfor %}
+    {% endfor %}
+  </article>
+</div>

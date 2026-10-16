@@ -1,0 +1,192 @@
+---
+layout: base.njk
+locale: vi
+pagination:
+  data: collections.allLessons
+  alias: lesson
+  size: 1
+  resolve: values
+permalink: "vi/lessons/{{ lesson.slug }}/"
+ogType: article
+eleventyComputed:
+  navSection: "{{ lesson.section }}"
+  title: "{{ lesson.title }}"
+  description: "{% if lessonContent[lesson.slug] %}{{ lessonContent[lesson.slug].tagline }} — bài học trống miễn phí kèm ký âm và âm thanh tương tác.{% endif %}"
+---
+
+{% set locCurr = curriculum | localizedCurriculum('vi') %}
+{% set locLesson = locCurr | findLesson(lesson.slug) or lesson %}
+{% set content = lessonContent[lesson.slug] | localizedLesson(lesson.slug, 'vi') %}
+
+{% if content %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LearningResource",
+  "name": {{ locLesson.title | inlineJson | safe }},
+  "description": {{ content.tagline | inlineJson | safe }},
+  "learningResourceType": "Lesson",
+  "inLanguage": "vi",
+  {%- if content.difficulty %}
+  "educationalLevel": {{ content.difficulty | inlineJson | safe }},
+  {%- endif %}
+  {%- if content.duration and (content.duration | isoDuration) %}
+  "timeRequired": "{{ content.duration | isoDuration }}",
+  {%- endif %}
+  {%- if site.url %}
+  "url": "{{ site.url }}{{ page.url }}",
+  {%- endif %}
+  "isPartOf": {
+    "@type": "Course",
+    "name": "Giáo trình trống Drum Town",
+    "description": {{ site.description | inlineJson | safe }},
+    "provider": { "@type": "Organization", "name": "Drum Town"{% if site.url %}, "url": "{{ site.url }}"{% endif %} }
+  }
+}
+</script>
+{% endif %}
+
+<div class="lesson-layout">
+
+{% set currentSlug = lesson.slug %}
+{% set currentSection = lesson.section %}
+{% set currentTrack = lesson.track %}
+{% set localizedCurriculumData = locCurr %}
+{% include "curriculum-sidebar.njk" %}
+
+<div class="container">
+  <header class="lesson-hero">
+    <p class="breadcrumb">
+      <a href="/vi/">Bài học</a>
+      {%- if lesson.section == 'track' %}
+        <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;<a href="/vi/genres/{{ lesson.track }}/">{{ locLesson.trackTitle or lesson.trackTitle }}</a>
+        <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;{{ locLesson.levelTitle or lesson.levelTitle }}
+      {%- elif lesson.section == 'foundations' %}
+        <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;Nền tảng
+        {%- if locLesson.subSectionTitle or lesson.subSectionTitle %}
+        <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;{{ locLesson.subSectionTitle or lesson.subSectionTitle }}
+        {%- endif %}
+      {%- elif lesson.section == 'mastery' %}
+        <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;Chủ đề nâng cao
+      {%- endif %}
+    </p>
+    <h1>{{ locLesson.title }}</h1>
+    {% if content and content.tagline %}<p class="lede">{{ content.tagline }}</p>{% endif %}
+    {% if content and (content.duration or content.focus) %}
+      <div class="lesson-chips">
+        {% if content.duration %}<span class="chip"><i aria-hidden="true">⏱︎</i><span class="sr-only">Thời lượng: </span>{{ content.duration }}</span>{% endif %}
+        {% if content.focus %}<span class="chip"><i aria-hidden="true">◎</i><span class="sr-only">Trọng tâm: </span>{{ content.focus | localizedFocus('vi') }}</span>{% endif %}
+      </div>
+    {% endif %}
+  </header>
+
+  {% if content %}
+
+    {% if content.prerequisites and content.prerequisites.length %}
+    <div class="prereqs">
+      <span class="prereqs__label">Bài học tiên quyết</span>
+      <ul>
+        {% for slug in content.prerequisites %}
+          {% set p = locCurr | findLesson(slug) %}
+          {% if p %}<li><a href="/vi/lessons/{{ p.slug }}/">{{ p.title }}</a></li>{% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <article class="lesson-prose">
+      {% if content.bodyHtml %}{{ content.bodyHtml | safe }}{% endif %}
+
+      {% if content.exercises %}
+        <h2 class="section-label" id="exercises" tabindex="-1">Bài tập thực hành</h2>
+        {% for ex in content.exercises %}
+          {% exercise ex, 'vi' %}
+        {% endfor %}
+      {% endif %}
+    </article>
+
+    {% if content.graduationCriteria and content.graduationCriteria.length %}
+    <div class="grad-criteria">
+      <span class="grad-criteria__label">Chuyển sang bài tiếp khi</span>
+      <ul>
+        {% for c in content.graduationCriteria %}
+          <li>{{ c | safe }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if content.listening and content.listening.length %}
+    <section class="listening">
+      <header class="listening__head">
+        <span class="listening__eyebrow">Lắng nghe & cảm nhận</span>
+        <span class="listening__count">{{ content.listening.length }} tác phẩm</span>
+      </header>
+      <h3 class="listening__title">Nghe để nhận biết</h3>
+      <ol class="listening__list">
+        {% for item in content.listening %}
+          <li class="listening__item">
+            <span class="listening__num">{{ loop.index | pad2 }}</span>
+            <div class="listening__body">
+              <p class="listening__head-line">
+                <span class="listening__artist">{{ item.artist }}</span>
+                <span class="listening__dot" aria-hidden="true">·</span>
+                <em class="listening__work">{{ item.work }}</em>
+              </p>
+              {% if item.note %}<p class="listening__note">{{ item.note }}</p>{% endif %}
+            </div>
+          </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {% if content.nextLessons and content.nextLessons.length %}
+    <hr class="section-rule" />
+    <h2 class="section-label">Lộ trình tiếp theo</h2>
+    <div class="lesson-row">
+      {% for slug in content.nextLessons %}
+        {% set n = locCurr | findLesson(slug) %}
+        {% if n %}
+          <a href="/vi/lessons/{{ n.slug }}/" class="is-ready">
+            <span class="lesson-row__title">{{ n.title }} →</span>
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  {% else %}
+
+    <div class="stub-message">
+      <h3>Bài học này đang được chuẩn bị nội dung</h3>
+      <p>Giáo trình đã có bài học này, nhưng nội dung chi tiết — bài tập, ký âm, gợi ý nghe — đang được biên soạn.</p>
+      <p><a href="/vi/">← Quay lại danh sách giáo trình</a></p>
+    </div>
+
+  {% endif %}
+
+</div>
+
+</div>{# /.lesson-layout #}
+
+<script>
+  (function () {
+    var sb = document.querySelector('.curriculum-sidebar');
+    if (!sb) return;
+    var cur = sb.querySelector('.curr-item.is-current');
+    if (!cur) return;
+    var sbRect = sb.getBoundingClientRect();
+    var curRect = cur.getBoundingClientRect();
+    var target = sb.scrollTop + (curRect.top - sbRect.top) - (sbRect.height / 2 - curRect.height / 2);
+    sb.scrollTop = Math.max(0, target);
+  })();
+
+  (function () {
+    function track() {
+      if (window.DCProgress) DCProgress.setLastVisited('{{ lesson.slug }}');
+      else document.addEventListener('DOMContentLoaded', track, { once: true });
+    }
+    track();
+  })();
+</script>

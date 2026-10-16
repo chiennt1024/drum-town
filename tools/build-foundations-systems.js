@@ -1,0 +1,497 @@
+// tools/build-foundations-systems.js
+const fs = require('fs');
+const path = require('path');
+
+const data = {
+  "basic-coordination": {
+    "tagline": "Tay và chân làm những việc khác nhau cùng một lúc",
+    "bodyHtml": "<p>Rào cản lớn nhất của người mới học trống không nằm ở cơ bắp, mà nằm ở hệ thần kinh: <strong>bộ não có xu hướng muốn tất cả các chi cử động cùng một lúc</strong>. Khi tay đánh xuống, chân cũng muốn đạp xuống; khi chân dừng lại, tay cũng có xu hướng dừng theo.</p><h2 class=\"section-label\">Phá vỡ sự ràng buộc cơ học</h2><p>Phối hợp (coordination) là quá trình tách rời các đường dẫn truyền thần kinh giữa hai tay và hai chân. Chúng ta bắt đầu bằng cách giữ tay phải gõ hi-hat đều đặn ở nhịp nốt móc đơn như một chiếc đồng hồ chuẩn xác, trong khi chân phải dậm kick ở các vị trí khác nhau: dậm ở phách chính (downbeat), dậm ở phách lệch (upbeat), dậm ở từng phách nốt đen hoặc dậm liên tục từng nốt móc đơn.</p>",
+    "graduationCriteria": [
+      "Chơi cả 5 mẫu hình mà đôi tay không hề ngập ngừng hay giật mình khi chân di chuyển",
+      "Cú kick ở các nốt lệch (Bài 5) giữ được sự ổn định vững vàng — chân lơ lửng giữa các cú đánh của tay",
+      "Cú kick ở mọi nốt móc đơn (Bài 4) không làm mỏi bắp chân sau 30 giây chơi liên tục"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick ở mọi phách (Tay và chân đồng bộ)",
+        "tip": "Dậm kick ở cả 4 phách (1, 2, 3, 4) cùng lúc tay đánh hi-hat. Cảm nhận sự gắn kết đồng điệu giữa tay và chân."
+      },
+      {
+        "title": "2 — Kick ở phách 1 và 3",
+        "tip": "Chân kick bỏ qua phách 2 và 4. Đảm bảo tay hi-hat không bị hụt tiếng ở những phách chân không dậm."
+      },
+      {
+        "title": "3 — Kick ở phách 2 và 4",
+        "tip": "Đảo ngược: chân kick dậm ở phách 2 và 4. Ban đầu sẽ hơi lạ lẫm, hãy để tiếng click của máy đếm nhịp dẫn đường."
+      },
+      {
+        "title": "4 — Kick ở mọi nốt móc đơn (Dồn dập)",
+        "tip": "Chân dậm theo từng nốt hi-hat: 8 nốt kick mỗi ô nhịp. Thả lỏng cổ chân, dùng kỹ thuật nhấc gót nhẹ nhàng."
+      },
+      {
+        "title": "5 — Kick ở các nốt lệch (Offbeats)",
+        "tip": "Chân kick chỉ dậm vào các nốt <em>&amp;</em> — xen kẽ vào giữa các phách chính. Đây là bước đột phá mở khóa sự độc lập tay - chân."
+      }
+    ]
+  },
+  "three-limb-patterns": {
+    "tagline": "Chi thứ ba xuất hiện là nơi sự phối hợp thực sự bắt đầu",
+    "bodyHtml": "<p>Phối hợp hai chi (tay phải + chân phải) là bước khởi đầu. Nhưng khi <strong>chi thứ ba (trống snare tay trái hoặc chân trái hi-hat)</strong> bước vào cuộc chơi, độ phức tạp của mạng lưới thần kinh tăng lên gấp bốn lần.</p><h2 class=\"section-label\">Quy tắc tam giác kiềng ba chân</h2><p>Một mẫu hình ba chi giống như một chiếc kiềng ba chân: mỗi chi đảm nhận một nhiệm vụ tiết tấu độc lập. Nếu một chi dựa dẫm vào chi khác để giữ nhịp, cả rãnh nhịp sẽ sụp đổ ngay khi bạn nhấc chi đó ra. Mục tiêu của bài tập này là giúp từng chi có thể đứng vững hoàn toàn độc lập.</p>",
+    "graduationCriteria": [
+      "Bộ ba Ride + chân hi-hat 2 và 4 + snare 2 và 4 giữ vững ở ♩=85 suốt 2 phút",
+      "Bộ ba phong cách Rock (tay hi-hat + kick 1 và 3 + snare 2 và 4) chơi tự tin ở ♩=90",
+      "Chuyển đổi giữa hai bộ ba khác nhau trong cùng một buổi tập mà không bị vấp tay tại khoảnh khắc chuyển giao",
+      "Không có chi nào phải 'dựa dẫm' vào chi khác; rút bất kỳ chi nào ra thì các chi còn lại vẫn giữ nguyên vị trí"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cặp đôi: Lá Ride + Chân Hi-Hat",
+        "tip": "Tay phải đánh lá Ride ở nốt móc đơn, chân trái dập tiếng 'chick' ở phách 2 và 4. Thiết lập chiếc khung vững vàng."
+      },
+      {
+        "title": "2 — Bộ ba A: Thêm trống Snare ở phách 2 và 4",
+        "tip": "Đưa tay trái đánh snare cùng lúc chân trái dập hi-hat ở phách 2 và 4. Hai chi tiếp xúc đồng thời như một cú dập đanh thép."
+      },
+      {
+        "title": "3 — Cặp đôi: Tay Hi-Hat + Kick ở 1 và 3",
+        "tip": "Tay phải chơi hi-hat, chân phải dậm kick ở 1 và 3. Bộ khung nhịp tim cơ sở của Rock."
+      },
+      {
+        "title": "4 — Bộ ba B: Hi-Hat + Kick + Snare (Bộ ba Rock)",
+        "tip": "Nhịp backbeat 3 chi hoàn chỉnh. Chú ý sự độc lập giữa tay trái (snare ở 2, 4) và chân phải (kick ở 1, 3)."
+      },
+      {
+        "title": "5 — Bộ ba C: Ride + Kick + Chân Hi-Hat",
+        "tip": "Chơi lá Ride ở trên, hai chân bên dưới làm việc độc lập: chân phải kick ở 1 và 3, chân trái hi-hat ở 2 và 4. Nền tảng tuyệt mỹ của Jazz và Big Band."
+      }
+    ]
+  },
+  "four-way-foundation": {
+    "tagline": "Cả bốn chi làm bốn nhiệm vụ hoàn toàn độc lập",
+    "bodyHtml": "<p>Đây chính là đỉnh Everest mà mọi người học trống đều khao khát chinh phục: <strong>độc lập bốn chi (Four-Way Independence)</strong>. Tay phải, tay trái, chân phải và chân trái — mỗi chi vận hành như một thực thể độc lập có ý thức riêng biệt.</p><h2 class=\"section-label\">Xây dựng từng lớp một</h2><p>Đừng bao giờ cố gắng bắt cả bốn chi vận hành cùng một lúc ngay từ giây đầu tiên. Bí quyết của các bậc thầy là <strong>xây dựng từng lớp (layering)</strong>: đưa chi 1 và 2 vào khóa chặt nhịp, đưa tiếp chi thứ 3, và cuối cùng mới thả chi thứ 4 vào một cách nhẹ nhàng như đặt mảnh ghép cuối cùng của bức tranh xếp hình.</p>",
+    "graduationCriteria": [
+      "Mẫu hình 4 chi cơ bản (Ride móc đơn, chân hi-hat 2 và 4, kick 1 và 3, snare 2 và 4) giữ vững ở ♩=85 suốt 2 phút",
+      "Biến thể đầu tiên (snare dời sang nốt & của 3) chơi chắc chắn ở ♩=80 mà không làm rơi rụng bất kỳ chi nào khác",
+      "Bạn có thể vừa chơi mẫu hình 4 chi vừa nói chuyện hoặc đếm số — cơ thể tự vận hành mà không cần não bộ làm cảnh sát giao thông",
+      "Có thể thêm hoặc bớt từng chi một theo ý muốn mà không làm gián đoạn nhịp điệu của các chi còn lại"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ba chi trước (Ride + Chân Hi-Hat + Kick)",
+        "tip": "Khóa chặt ba chi: tay phải trên Ride, chân trái ở 2 và 4, chân phải ở 1 và 3. Giữ cho cỗ máy 3 chi này chạy êm ru trong 1 phút."
+      },
+      {
+        "title": "2 — Cả bốn chi: Mẫu hình nền tảng hoàn chỉnh",
+        "tip": "Thả tay trái vào đánh snare ở phách 2 và 4. Chúc mừng bạn: cả bốn chi của bạn đang cùng tạo nên âm nhạc!"
+      },
+      {
+        "title": "3 — Biến thể 1: Snare rơi vào nốt & của 3",
+        "tip": "Dời cú snare thứ nhất từ phách 2 sang nốt lệch <em>&amp; của 3</em>. Kiểm tra xem chân kick và chân hi-hat có bị cuốn theo không."
+      },
+      {
+        "title": "4 — Biến thể 2: Snare lệch cả hai phách Backbeat",
+        "tip": "Cả hai cú snare đều rơi vào các nốt lệch phách. Đòi hỏi sự vững chãi tuyệt đối của hai bàn chân bên dưới."
+      },
+      {
+        "title": "5 — Dẫn dắt tiếng Snare đi dạo khắp ô nhịp",
+        "tip": "Chân và tay phải giữ nguyên chiếc khung bất biến, tay trái tự do di chuyển cú đánh snare qua các vị trí khác nhau trong ô nhịp."
+      }
+    ]
+  },
+  "limb-substitution": {
+    "tagline": "Cùng một rãnh nhịp, được chơi bởi các chi khác nhau",
+    "bodyHtml": "<p><strong>Hoán vị chi (Limb Substitution)</strong> là một trong những phương pháp tư duy phối khí đỉnh cao nhất của nghệ thuật đánh trống: thay vì nghĩ rằng một nốt nhạc bắt buộc phải do một tay nhất định chơi, bạn có thể chuyển giao nốt nhạc đó cho bàn chân hoặc bàn tay còn lại.</p><h2 class=\"section-label\">Giải phóng khả năng sáng tạo</h2><p>Bằng cách hoán vị các phần của rãnh nhịp giữa tay và chân, bạn có thể tạo ra những kết cấu âm thanh tuyến tính (linear drumming) vô cùng hiện đại, mở ra những góc nhìn hoàn toàn mới về cùng một ý tưởng âm nhạc.</p>",
+    "graduationCriteria": [
+      "Biểu diễn cùng một rãnh nhịp backbeat theo 3 cách phối khí khác nhau: hi-hat bằng tay, hi-hat bằng chân, hi-hat chia đôi giữa tay và chân",
+      "Chuyển một câu kick sang cho trống snare — rồi chuyển ngược lại — mà phần còn lại của rãnh nhịp không hề xê dịch",
+      "Có thể phân biệt bằng tai chi nào đang chơi phần nào của một bản thu groove",
+      "Chuyển đổi cách phối khí ngay giữa vòng lặp mà không làm mất vị trí ô nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Phối khí tiêu chuẩn: Hi-Hat do tay đánh",
+        "tip": "Rãnh nhịp quen thuộc: tay phải chơi hi-hat, tay trái chơi snare, chân phải chơi kick. Làm điểm tham chiếu."
+      },
+      {
+        "title": "2 — Hoán vị A: Chuyển toàn bộ Hi-Hat móc đơn xuống chân trái",
+        "tip": "Tay phải tạm nghỉ, chân trái dập nốt móc đơn liên tục trên hi-hat, tay trái và chân phải chơi backbeat như thường."
+      },
+      {
+        "title": "3 — Hoán vị B: Tuyến tính (Hi-Hat chia đều giữa tay và chân)",
+        "tip": "Tay phải đánh các nốt phách chính, chân trái dập các nốt lệch (&amp;) — so le nhau tạo thành dòng chảy nốt móc đơn."
+      },
+      {
+        "title": "4 — Hoán vị trống Kick: Chuyển nốt & của 3 lên Snare",
+        "tip": "Nốt kick ở &amp; của 3 được chuyển giao cho tay trái đánh một cú ghost note trên snare. Tiết tấu giữ nguyên, màu sắc âm thanh đổi mới."
+      }
+    ]
+  },
+  "independence-singing": {
+    "tagline": "Nếu bạn hát được nó, cơ thể bạn sẽ chơi được nó",
+    "bodyHtml": "<p>Có một bí mật mà các bậc thầy trống truyền đời cho nhau: <strong>Giọng hát là chi thứ năm của bạn</strong>. Khi bạn có thể vừa chơi trống vừa hát to một giai điệu hoặc đếm một phân nhịp độc lập, bạn đã chứng minh rằng việc đánh trống đã hoàn toàn trở thành phản xạ tiềm thức sâu sắc.</p><h2 class=\"section-label\">Tách rời tư duy khỏi tay chân</h2><p>Nếu bạn ngừng thở hoặc ngừng nói khi chuẩn bị đánh một câu fill khó, tức là não bộ của bạn đang bị quá tải xử lý. Bằng cách tập hát các nhịp đập độc lập trong khi tay chân đang chơi groove, bạn mở khóa một cấp độ tự do âm nhạc mà ít người đạt tới.</p>",
+    "graduationCriteria": [
+      "Hát nhịp nốt đen đều đặn trong khi tay chân chơi nhịp backbeat cơ bản suốt 2 phút",
+      "Hát một câu giai điệu đảo phách nốt móc đơn trên nền nhịp trống — giọng hát độc lập hoàn toàn với tiếng snare",
+      "Hát nhịp 3/4 waltz trên nền groove 4/4 của tay chân (đa nhịp giữa giọng hát và cơ thể)",
+      "Bạn có thể đột ngột ngừng hát ngay giữa ô nhịp mà tay chân vẫn tiếp tục chơi không hề sai một nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hát nốt đen trên nền Backbeat cơ bản",
+        "tip": "Tay chân chơi nhịp rock, miệng hát to đều đặn: <em>Một, Hai, Ba, Bốn</em> theo tiếng click. Giữ cho giọng nói bình thản, hơi thở đều."
+      },
+      {
+        "title": "2 — Hát câu giai điệu đảo phách nốt móc đơn",
+        "tip": "Miệng hát các nốt lệch (&amp;) trong khi tay chân chơi backbeat. Đừng để tiếng snare hút giọng hát của bạn về các phách chính."
+      },
+      {
+        "title": "3 — Hát nhịp Waltz 3/4 trên nền Groove 4/4",
+        "tip": "Thử thách đa nhịp: miệng đếm <em>1-2-3, 1-2-3</em> trong khi tay chân vận hành ô nhịp 4 phách. Sau 3 ô nhịp, miệng và tay chân sẽ gặp lại nhau ở phách 1."
+      },
+      {
+        "title": "4 — Hát nốt đen, chơi câu đệm Snare biến tấu bên dưới",
+        "tip": "Giọng hát đóng vai trò ngọn hải đăng giữ nhịp nốt đen vững chãi, trong khi tay trái tự do đệm các nốt syncopation phức tạp trên snare."
+      }
+    ]
+  },
+  "independence-chapin-method": {
+    "tagline": "Khoan sâu từng vị trí trống Snare cho đến khi thành phản xạ tự động",
+    "bodyHtml": "<p>Cuốn sách <em>Advanced Techniques for the Modern Drummer</em> của huyền thoại Jim Chapin xuất bản năm 1948 đã làm thay đổi vĩnh viễn nền sư phạm trống thế giới. Phương pháp Chapin dạy sự độc lập bằng cách <strong>cố định dòng chảy của tay phải và chân trái, sau đó dịch chuyển một nốt snare duy nhất qua từng vị trí khả dĩ trong ô nhịp</strong>.</p><h2 class=\"section-label\">Phương pháp cô lập vi mô</h2><p>Thay vì tập một câu phức tạp nhiều nốt, bạn chỉ tập đúng một nốt snare đơn lẻ ở một vị trí cụ thể (ví dụ: đúng nốt 'a của 4') cho đến khi não bộ ghi nhớ hoàn toàn cảm giác cơ học đó. Khi ghép các nốt lại với nhau, sự độc lập sẽ tự động hình thành mà không tốn công sức.</p>",
+    "graduationCriteria": [
+      "Cả 4 bài tập vị trí snare đơn lẻ lặp lại mượt mà ở ♩=85 suốt 2 phút mà nhịp Ride và chân hi-hat không hề dao động",
+      "Bạn có thể ngừng hẳn tay snare mà Ride và chân hi-hat vẫn tiếp tục chạy đúng tốc độ",
+      "Chuyển đổi từ vị trí snare này sang vị trí snare khác giữa các vòng lặp một cách sạch sẽ",
+      "Vị trí của nốt snare rơi vào ô nhịp rõ ràng, dứt khoát — nhấn mạnh nốt snare không làm lay chuyển các chi khác"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nền tảng: Chỉ lá Ride + Chân Hi-Hat",
+        "tip": "Tay phải chơi tiết tấu jazz ride, chân trái dập hi-hat ở 2 và 4. Thiết lập chiếc khung vững chắc không thể phá vỡ."
+      },
+      {
+        "title": "2 — Một nốt Snare duy nhất ở nốt '& của 2'",
+        "tip": "Thêm đúng một cú đánh snare ở nốt &amp; của 2. Lặp lại liên tục cho đến khi cú đánh này ăn khớp tự nhiên với dòng chảy của Ride."
+      },
+      {
+        "title": "3 — Một nốt Snare duy nhất ở phách 4",
+        "tip": "Nốt snare rơi đúng phách 4, trùng với cú dập chân hi-hat và nốt chính của lá Ride."
+      },
+      {
+        "title": "4 — Một nốt Snare duy nhất ở nốt '& của 4'",
+        "tip": "Snare rơi vào nốt &amp; của 4 — cú đẩy đón đầu phách 1 tiếp theo. Giữ cho phách 1 của lá Ride không bị vội vã."
+      },
+      {
+        "title": "5 — Một nốt Snare duy nhất ở nốt 'a của 4' (Vị trí trễ)",
+        "tip": "Nốt snare rơi vào nốt móc kép cuối cùng của ô nhịp. Đòi hỏi sự định vị thời gian cực kỳ tinh xảo."
+      }
+    ]
+  },
+  "independence-chester-system": {
+    "tagline": "Hát một giai điệu, chơi một bài đọc nhịp — kết hợp lại",
+    "bodyHtml": "<p>Hệ thống <em>The New Breed</em> của Gary Chester là phương pháp huấn luyện độc lập tư duy tối thượng được các tay trống phòng thu hàng đầu thế giới tôn sùng. Triết lý của Gary Chester là biến người chơi trống thành một <strong>nhạc sĩ toàn diện</strong> bằng cách kết hợp vận động cơ thể với giọng hát có ý thức.</p><h2 class=\"section-label\">Khái niệm Hệ thống (Systems)</h2><p>Bạn thiết lập ba chi chơi một mẫu hình cơ sở (Hệ thống), sau đó dùng chi còn lại (hoặc giọng hát) để đọc các bài tập tiết tấu từ một trang sách ký âm. Khi làm chủ hệ thống này, không có bất kỳ tiết tấu nào trên đời có thể làm khó bạn được nữa.</p>",
+    "graduationCriteria": [
+      "Hát nhịp xung nốt đen (Giai điệu 1) trong khi chơi bài tập đọc nhịp cơ bản — 2 phút không trôi nhịp",
+      "Hát giai điệu nốt móc đơn trong khi chân chơi câu kick đảo phách — giọng hát và tay chân thực sự tách rời",
+      "Chuyển đổi từ hát Giai điệu 1 sang Giai điệu 2 ngay giữa vòng lặp mà tay chân không bị vấp",
+      "Có thể tự nhận diện được độ khó đang nằm ở giọng hát, ở tay chân hay ở sự kết hợp giữa chúng"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hát Giai điệu 1 (Xung nốt đen) trên bài đọc nhịp",
+        "tip": "Miệng hát đều đặn từng nốt đen trong khi tay chân thực hiện bài tập đọc tiết tấu. Cảm nhận sự hòa hợp giữa ý thức và phản xạ."
+      },
+      {
+        "title": "2 — Hát Giai điệu 2 trên nền Backbeat",
+        "tip": "Miệng hát mẫu hình hai nốt trắng + một nốt đen trên nền nhịp trống rock. Rèn luyện sự kiểm soát độ dài trường độ của giọng hát."
+      },
+      {
+        "title": "3 — Hát giai điệu móc đơn trên câu Kick đảo phách",
+        "tip": "Miệng hát giai điệu nốt móc đơn lướt đi trong khi chân kick dậm các nốt syncopation phức tạp bên dưới."
+      },
+      {
+        "title": "4 — Hát nốt đen trên câu đệm Snare di chuyển",
+        "tip": "Giọng hát giữ nhịp đập thời gian vững chãi trong khi tay trái đệm ứng biến (comping) khắp mặt trống snare."
+      }
+    ]
+  },
+  "independence-melodic-snare": {
+    "tagline": "Khi đôi chân giữ vững nền tảng, trống Snare có thể cất tiếng hát",
+    "bodyHtml": "<p>Trống snare không chỉ là chiếc đồng hồ đếm nhịp — dưới bàn tay của một nghệ sĩ thực thụ, trống snare là một <strong>nhạc cụ giai điệu (melodic instrument)</strong> với vô vàn sắc thái cao thấp, to nhỏ, dồn dập và buông lơi.</p><h2 class=\"section-label\">Nền móng đôi chân vững chãi</h2><p>Để đôi tay có thể tự do vẽ nên những bức tranh giai điệu trên mặt trống snare, đôi chân của bạn phải đảm nhận trọn vẹn vai trò giữ nhịp thời gian bên dưới. Khi tiếng kick và chân hi-hat vận hành như một cỗ máy tự động, đôi tay bạn sẽ được giải phóng hoàn toàn để ứng biến và thêu dệt âm thanh.</p>",
+    "graduationCriteria": [
+      "Câu giai điệu snare 2 ô nhịp (kết hợp nốt nhấn và ghost note) giữ trọn vẹn hình hài trên nền Ride + chân hi-hat ở ♩=80",
+      "Câu giai điệu 3 ô nhịp phát triển qua đủ các cung bậc: xây dựng, cao trào và giải tỏa",
+      "Tỷ lệ âm lượng giữa nốt nhấn và ghost note đạt ít nhất 4:1 — nốt nhấn to rõ vượt trội",
+      "Trống kick tiếp tục giữ nhịp ổn định ở phách 1 mà không bị xao động bởi giai điệu của snare"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Giai điệu Snare 2 ô nhịp (Ô nhịp 1)",
+        "tip": "Luyện tập ô nhịp đầu tiên: kết hợp nốt nhấn ở phách 2 và các nốt ghost note nhảy múa xung quanh."
+      },
+      {
+        "title": "2 — Giai điệu Snare 2 ô nhịp hoàn chỉnh (Ô 1 + Ô 2)",
+        "tip": "Ghép cả hai ô nhịp lại với nhau. Lắng nghe câu chuyện âm nhạc mà đôi tay bạn đang kể trên mặt trống."
+      },
+      {
+        "title": "3 — Câu nhạc 3 ô nhịp: Xây dựng, Cao trào, Giải tỏa",
+        "tip": "Ô nhịp 1 tích lũy năng lượng, ô nhịp 2 bùng nổ cao trào với các cú rimshot, ô nhịp 3 lắng dịu giải tỏa về lại nhịp nền."
+      },
+      {
+        "title": "4 — Giai điệu tối giản: Hai nốt trong hai ô nhịp",
+        "tip": "Thử thách nghệ thuật tối giản: chỉ đánh đúng hai nốt snare đắt giá trong suốt hai ô nhịp. Đòi hỏi sự kiên nhẫn và độ đĩnh đạc phi thường."
+      }
+    ]
+  },
+  "independence-clave-foot": {
+    "tagline": "Chuyển tiết tấu Clave xuống chân, giải phóng đôi tay cho mọi biến tấu",
+    "bodyHtml": "<p>Trong âm nhạc Afro-Cuban và Latin Jazz, <strong>Clave</strong> là chiếc chìa khóa linh hồn điều khiển mọi nhạc cụ. Truyền thống thường giao Clave cho một tay gõ trên thanh gỗ (claves) hoặc vành trống. Nhưng một cuộc cách mạng đã diễn ra khi các bậc thầy Latin chuyển tiết tấu Clave xuống <strong>bàn chân trái hi-hat</strong>!</p><h2 class=\"section-label\">Tự do tuyệt đối cho đôi tay</h2><p>Khi chân trái của bạn có thể dập tiết tấu Son Clave 3-2 hoặc 2-3 một cách tự nhiên như hơi thở, cả hai bàn tay và chân phải của bạn hoàn toàn tự do để chơi mambo trên lá cowbell, cascara trên lá ride, và đệm những câu solo cuồng nhiệt trên dàn tom.</p>",
+    "graduationCriteria": [
+      "Tiết tấu Son Clave 3-2 chơi bằng chân trái hi-hat đơn lẻ giữ vững ở ♩=95 suốt 2 phút",
+      "Chân Clave 3-2 + lá Ride + cross-stick ở phách 2 và 4 giữ vững ở ♩=85",
+      "Tiết tấu đảo chiều Son Clave 2-3 chơi sạch sẽ ở cùng tốc độ mà không bị lẫn lộn",
+      "Khi được yêu cầu dừng chân, đôi tay vẫn tiếp tục chơi; khi được yêu cầu dừng tay, chân vẫn tiếp tục giữ Clave"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Son Clave 3-2: Chân trái độc lập (Hai ô nhịp)",
+        "tip": "Chỉ dùng chân trái dập bàn đạp hi-hat theo tiết tấu Son 3-2: ba cú dập ở ô 1, hai cú dập ở ô 2. Đếm to để định vị."
+      },
+      {
+        "title": "2 — Chân Clave 3-2 + Nốt móc đơn trên lá Ride",
+        "tip": "Tay phải chơi nốt móc đơn đều đặn trên Ride trong khi chân trái tiếp tục giữ nhịp Clave dập dềnh bên dưới."
+      },
+      {
+        "title": "3 — Chân Clave 3-2 + Ride + Cross-Stick ở 2 và 4",
+        "tip": "Đưa tay trái vào gõ cross-stick ở 2 và 4. Bộ ba Latin jazz kinh điển mở ra không gian biểu diễn rực rỡ."
+      },
+      {
+        "title": "4 — Son Clave 2-3: Chân trái độc lập (Chiều đảo)",
+        "tip": "Đảo chiều tiết tấu: hai cú dập ở ô 1, ba cú dập ở ô 2. Rèn luyện phản xạ định vị đầu ô nhịp mới."
+      },
+      {
+        "title": "5 — Chân Clave 2-3 + Ride + Cross-Stick ở 2 và 4",
+        "tip": "Hoàn thiện hệ thống Clave đảo chiều 2-3 với sự phối hợp đầy đủ của cả ba chi."
+      }
+    ]
+  },
+  "basic-fills": {
+    "tagline": "Điều gì xảy ra khi rãnh nhịp tạm dừng lại để lấy hơi",
+    "bodyHtml": "<p>Một câu báo trống (drum fill) không phải là cơ hội để tay trống phô diễn tốc độ hỗn loạn — một câu fill thực sự là <strong>chiếc cầu nối âm nhạc đưa ban nhạc từ đoạn nhạc này sang đoạn nhạc tiếp theo một cách an toàn và hứng khởi</strong>.</p><h2 class=\"section-label\">Quy tắc vàng của câu báo trống</h2><p>Nguyên tắc số một của một câu fill thành công: <strong>Không được làm xô lệch tốc độ tempo!</strong> Người nghe và các nhạc công khác phải cảm nhận được phách 1 tiếp theo rơi xuống chính xác như một chân lý toán học. Nếu câu fill làm bài hát bị chạy nhanh hơn hoặc chậm lại, câu fill đó đã thất bại hoàn toàn.</p><p>Hãy bắt đầu bằng công thức kinh điển: <strong>Ba ô nhịp chơi Groove + Một ô nhịp chơi Fill (3+1)</strong>.</p>",
+    "graduationCriteria": [
+      "Vòng lặp 3 ô nhịp groove + 1 ô nhịp fill giữ vững ở ♩=80 không có bất kỳ sự dao động tempo nào ở điểm nối giữa ô 3 và ô 4",
+      "Câu fill kết thúc chuẩn xác đúng thời điểm để tiếp đất an toàn ở phách 1 của ô nhịp mới — không bị vội hay bị trễ",
+      "Câu fill nốt đen (Bài 2) và câu fill nốt móc đơn (Bài 4) mang lại cảm giác tiết tấu rõ rệt, không bị lẫn lộn"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Khung sườn: Ba ô nhịp chơi Groove (Luyện nhịp nền trước)",
+        "tip": "Chơi rãnh nhịp backbeat đều đặn trong ba ô nhịp đầu tiên. Xây dựng sự vững vàng tuyệt đối trước khi tung ra câu fill."
+      },
+      {
+        "title": "2 — Fill ở ô nhịp 4: Bốn nốt đen trên Snare",
+        "tip": "Ô nhịp thứ 4: tay chuyển sang gõ 4 nốt đen trên snare: <em>1, 2, 3, 4</em>, rồi đáp xuống lá Crash ở phách 1 ô tiếp theo."
+      },
+      {
+        "title": "3 — Fill ở ô nhịp 4: Nốt đen di chuyển qua dàn Tom",
+        "tip": "Phách 1: Snare; Phách 2: High Tom; Phách 3: Mid Tom; Phách 4: Floor Tom. Chuyển động lượn từ cao xuống thấp tuyệt đẹp."
+      },
+      {
+        "title": "4 — Fill ở ô nhịp 4: Tám nốt móc đơn trên Snare",
+        "tip": "Tăng mật độ nốt lên móc đơn luân phiên hai tay: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Giữ các nốt tròn trịa, đều tiếng."
+      },
+      {
+        "title": "5 — Fill ở ô nhịp 4: Nốt móc đơn chạy quanh dàn Tom",
+        "tip": "Mỗi trống gõ hai nốt móc đơn: 2 nốt trên snare, 2 nốt trên high tom, 2 nốt trên mid tom, 2 nốt trên floor tom rồi crash ở phách 1."
+      }
+    ]
+  },
+  "pickup-fills": {
+    "tagline": "Cú đón đầu ngắn gọn đưa bạn tiếp đất hoàn hảo ở phách 1",
+    "bodyHtml": "<p>Không phải lúc nào bạn cũng cần một câu fill dài cả ô nhịp. Đôi khi, chỉ cần một cử chỉ âm nhạc ngắn ngủi dài nửa phách hoặc một phách — gọi là <strong>cú đón đầu (pickup)</strong> — là đủ để báo hiệu điệp khúc chuẩn bị bùng nổ.</p><h2 class=\"section-label\">Sự tinh tế của nốt đón đầu</h2><p>Cú pickup chiếm ít không gian hơn, không làm gián đoạn dòng chảy khiêu vũ của bài hát, và tạo ra điểm nhấn giòn giã bất ngờ hướng thẳng về cú đánh lá Crash ở đầu ô nhịp tiếp theo.</p>",
+    "graduationCriteria": [
+      "Cú snare pickup 1 phách rơi chính xác vào phách 4, đưa lá Crash tiếp đất hoàn hảo ở phách 1 tiếp theo",
+      "Cú pickup nốt móc kép (Bài 4) không làm bạn bị giật vội về phía trước",
+      "Có thể tung ra cú pickup theo ý muốn ở cuối bất kỳ chu kỳ 4 ô nhịp nào mà không bị vấp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cú đón đầu 1 phách trên trống Snare",
+        "tip": "Chơi groove suốt 3 phách đầu, đến phách 4 gõ nhanh hai nốt móc đơn trên snare (<em>4 &amp;</em>) để phóng vào lá Crash ở phách 1."
+      },
+      {
+        "title": "2 — Chuỗi Snare-Snare-Snare-CRASH (Hai ô nhịp)",
+        "tip": "Cuối ô nhịp thứ 2 gõ ba nốt dồn dập trên snare dẫn vào tiếng Crash nổ vang. Cảm nhận lực phóng tên lửa của cú đón đầu."
+      },
+      {
+        "title": "3 — Cú đón đầu 2 phách (Nửa ô nhịp hành động)",
+        "tip": "Bắt đầu câu fill từ phách 3 và 4 của ô nhịp. Đủ dài để tạo sự chuyển mình, đủ ngắn để giữ trọn vẹn rãnh nhịp."
+      },
+      {
+        "title": "4 — Cụm nốt móc kép thần tốc vào phách chính",
+        "tip": "Bốn nốt móc kép chớp nhoáng ở phách 4: <em>4 e &amp; a</em> lao thẳng vào phách 1. Đòi hỏi sự thả lỏng cổ tay tối đa."
+      },
+      {
+        "title": "5 — Cú Tom đón đầu dẫn vào đoạn Điệp khúc",
+        "tip": "Sử dụng Floor tom hoặc Mid tom cho cú pickup để tạo độ trầm uy lực, báo hiệu phân đoạn cao trào sắp bắt đầu."
+      }
+    ]
+  },
+  "fills-around-kit": {
+    "tagline": "Phối khí: Cách một câu báo trống di chuyển qua dàn trống",
+    "bodyHtml": "<p>Ký âm của một câu fill trên giấy có thể chỉ là một chuỗi nốt móc kép đơn giản. Nhưng điều biến nó thành một tác phẩm âm nhạc sống động chính là <strong>nghệ thuật phối khí (orchestration)</strong>: cách bạn phân bổ các nốt nhạc đó di chuyển qua các mặt trống khác nhau.</p><h2 class=\"section-label\">Đường nét giai điệu của dàn Tom</h2><ul class=\"bulleted\"><li><strong>Chuyển động đi xuống (Descending)</strong>: Từ Snare qua High Tom, Mid Tom rồi xuống Floor Tom. Mang lại cảm giác kết luận, hạ cánh chắc chắn và uy lực.</li><li><strong>Chuyển động đi lên (Ascending)</strong>: Từ Floor Tom ngược lên Mid Tom, High Tom rồi Snare. Mang lại cảm giác cất cánh, nâng bổng và mở rộng không gian.</li><li><strong>Phối khí hỗn hợp (Mixed shape)</strong>: Nhảy cóc giữa các mặt trống tạo nên một đường nét giai điệu uốn lượn đầy cá tính.</li></ul>",
+    "graduationCriteria": [
+      "Câu fill đi xuống nốt móc kép (Bài 1) chơi sạch sẽ ở ♩=85 với tay phải bắt chéo tay trái thoải mái",
+      "Câu fill đi lên (Bài 2) và câu fill đi xuống (Bài 1) mang lại cảm giác chuyển động không gian rõ rệt",
+      "Câu fill phối khí hỗn hợp (Bài 3) có đường nét giai điệu có chủ đích, không phải là một chuỗi gõ ngẫu nhiên"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt móc kép đi xuống: Snare → High Tom → Mid Tom → Floor Tom",
+        "tip": "Mỗi mặt trống 4 nốt móc kép: bắt đầu từ snare và lăn dần xuống sàn. Thả lỏng cánh tay di chuyển tự nhiên quanh bộ trống."
+      },
+      {
+        "title": "2 — Nốt móc đơn đi lên: Floor → Snare → Toms → Crash",
+        "tip": "Bắt đầu từ nốt trầm của Floor tom rồi leo dần lên cao. Cảm nhận năng lượng bay bổng hướng về đỉnh cao trào."
+      },
+      {
+        "title": "3 — Phối khí hỗn hợp (Đường nét giai điệu)",
+        "tip": "Đan xen giữa trống snare và các quả tom khác nhau. Tưởng tượng bạn đang chơi một giai điệu thực sự chứ không chỉ gõ nhịp."
+      },
+      {
+        "title": "4 — Câu fill định hình theo thế tay (Sticking-Driven Fill)",
+        "tip": "Sử dụng thế tay paradiddle để di chuyển bàn tay qua các mặt trống mà không bị vướng víu hay đan chéo tay."
+      },
+      {
+        "title": "5 — Kết thúc câu fill bằng một cú Snare đón đầu",
+        "tip": "Sau khi lượn qua các tom, quay trở lại gõ nốt cuối cùng trên snare trước khi giáng cú Crash ở phách 1."
+      }
+    ]
+  },
+  "warm-ups": {
+    "tagline": "Hai phút khởi động giải phóng đôi tay trước mọi buổi tập",
+    "bodyHtml": "<p>Không một vận động viên nào bước vào thi đấu mà không khởi động làm nóng cơ bắp, và người chơi trống cũng vậy. Cơ bắp bàn tay, gân cổ tay và các khớp ngón tay cần được đánh thức nhẹ nhàng trước khi bước vào những bài tập tốc độ cao.</p><h2 class=\"section-label\">Quy trình 5-10 phút vàng ngọc</h2><p>Bài tập khởi động toàn diện đưa đôi tay đi qua mọi cấu trúc kỹ thuật căn bản: từ đánh đơn (singles), đánh đôi (doubles), kết hợp paradiddle, liên ba cho đến bài tập giãn nở mật độ nốt. Thực hiện đều đặn mỗi ngày sẽ bảo vệ bạn khỏi các chấn thương ống cổ tay và nâng cao độ dẻo dai phi thường.</p>",
+    "graduationCriteria": [
+      "Thực hiện trọn vẹn quy trình 6 bài tập khởi động hàng ngày từ 5 đến 10 phút",
+      "Bài tập giãn nở mật độ nốt (Bài 6) giúp bạn nhận biết ngưỡng tốc độ thoải mái của ngày hôm nay",
+      "Các bước chuyển đổi (như từ singles sang doubles ở Bài 3) diễn ra trơn tru, không vấp váp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Đánh đơn (Nốt móc đơn)",
+        "tip": "Bắt đầu chậm rãi ở ♩=70. Thả lỏng cổ tay, để dùi rơi tự nhiên và cảm nhận máu lưu thông đều đặn đến các đầu ngón tay."
+      },
+      {
+        "title": "2 — Đánh đôi (Nốt móc đơn)",
+        "tip": "Chuyển sang đánh đôi: <em>R R L L</em>. Tận dụng độ nảy nhẹ nhàng, không dùng lực gồng ép."
+      },
+      {
+        "title": "3 — Chuyển đổi từ Đánh đơn sang Đánh đôi",
+        "tip": "Hai phách đánh đơn, hai phách đánh đôi. Rèn luyện sự chuyển đổi linh hoạt giữa cơ chế cổ tay và cơ chế ngón tay."
+      },
+      {
+        "title": "4 — Paradiddle nốt móc kép",
+        "tip": "Thế tay: <em>R L R R L R L L</em>. Đánh đều tiếng, uyển chuyển như một dòng suối chảy qua khe đá."
+      },
+      {
+        "title": "5 — Liên ba đánh đơn (8th Triplets)",
+        "tip": "Chuyển sang cảm giác ba nốt mỗi phách. Thả lỏng cánh tay theo chuyển động lượn sóng nhịp nhàng."
+      },
+      {
+        "title": "6 — Bài tập giãn nở mật độ nốt (Density Swell)",
+        "tip": "Leo từ nốt đen lên móc đơn, liên ba, rồi móc kép và từ từ hạ xuống lại. Làm nóng toàn bộ hệ thống thần kinh vận động."
+      }
+    ]
+  },
+  "recording-yourself": {
+    "tagline": "Chiếc gương chân thật không bao giờ biết nói dối",
+    "bodyHtml": "<p>Khi bạn đang ngồi trên ghế trống và phiêu theo âm nhạc, não bộ của bạn bị đánh lừa: bạn luôn nghĩ rằng mình đang chơi cực kỳ chắc nhịp và đều tiếng. Nhưng <strong>bản thu âm chính là người giám khảo trung thực và tàn nhẫn nhất</strong> sẽ cho bạn biết sự thật trần trụi.</p><h2 class=\"section-label\">Sức mạnh của chiếc điện thoại thông minh</h2><p>Bạn không cần phòng thu đắt tiền — chỉ cần đặt chiếc điện thoại cách bộ trống 2 mét và bấm Ghi âm trong 2 phút khi chơi cùng máy đếm nhịp. Khi nghe lại, bạn sẽ lập tức nhận ra những điểm mà tai bạn bỏ sót khi chơi: cú kick bị chậm một phần mười giây, tiếng hi-hat bị giật sau cú snare, hoặc lực tay trái bị lép vế so với tay phải.</p>",
+    "graduationCriteria": [
+      "Có một bản ghi âm 2 phút nhịp backbeat cơ bản được thu âm chuẩn xác cùng tiếng click",
+      "Khi nghe lại, bạn có thể chỉ ra ít nhất một lỗi cụ thể về thời gian hoặc sắc thái mà bạn không cảm nhận được khi đang chơi",
+      "Bạn phân biệt rõ ràng giữa những gì nghe có vẻ ổn trong phòng tập và những gì thực sự nghe hay trên bản thu âm"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Thử thách ghi âm: Giữ nhịp Backbeat liên tục trong 2 phút",
+        "tip": "Bấm ghi âm trên điện thoại. Bật máy đếm nhịp ở ♩=80. Chơi nhịp backbeat mộc mạc nhất trong đúng hai phút không ngừng nghỉ. Sau đó đeo tai nghe vào và lắng nghe chính mình với sự khách quan tuyệt đối."
+      }
+    ]
+  },
+  "ear-training": {
+    "tagline": "Cảm thụ phân nhịp, sắc thái và câu nhạc trước khi bạn có thể gọi tên chúng",
+    "bodyHtml": "<p>Đánh trống là một nghệ thuật âm thanh, không phải một môn thể dục ngắm nhìn bản nhạc. Một tay trống xuất chúng có đôi tai nhạy bén có thể <strong>nghe thấu cấu trúc phân nhịp bên dưới bất kỳ bài hát nào chỉ sau vài giây lắng nghe</strong>.</p><h2 class=\"section-label\">Huấn luyện đôi tai cảm thụ</h2><p>Trước khi đưa tay vào gõ, hãy học cách lắng nghe: bài hát này đang vận hành trên mạng lưới nốt móc đơn thẳng (straight 8ths), nốt móc kép (16ths) hay là nhịp nảy swing liên ba? Khi đôi tai bạn đã nghe thấy mạng lưới vô hình đó, cơ thể bạn sẽ tự động khóa chặt vào nhịp mà không cần tốn một chút nỗ lực nào.</p>",
+    "graduationCriteria": [
+      "Nghe bất kỳ bài hát nào có tiết tấu rõ ràng, bạn có thể gọi tên phân nhịp của nó (móc đơn, móc kép, liên ba) chỉ sau vài ô nhịp",
+      "Có thể phân biệt ngay lập tức giữa nốt móc đơn thẳng và nốt swing mà không cần đếm",
+      "Có thể đếm một chu kỳ 4 ô nhịp trong bài hát và đoán trúng phách 1 của chu kỳ tiếp theo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu tham chiếu: Tấm thảm nốt móc đơn (8th-Note Carpet)",
+        "tip": "Lắng nghe dòng chảy nốt móc đơn thẳng đều đặn. Hãy nhắm mắt lại và cảm nhận không gian chia đôi giữa hai nhịp đập."
+      },
+      {
+        "title": "2 — Mẫu tham chiếu: Tấm thảm nốt móc kép (16th-Note Carpet)",
+        "tip": "Lắng nghe mật độ bốn nốt trong mỗi phách. Cảm nhận dòng chảy cuộn trào của Funk và R&amp;B hiện đại."
+      }
+    ]
+  },
+  "playing-to-a-song": {
+    "tagline": "Tay trống lắng nghe cấu trúc bài hát, không chỉ đếm từng ô nhịp",
+    "bodyHtml": "<p>Chơi trống trong phòng tập một mình là một chuyện; chơi trống cùng một ban nhạc trong một bài hát hoàn chỉnh là một cảnh giới hoàn toàn khác. Trong bài học này, bạn sẽ học cách <strong>nhìn thấy bức tranh toàn cảnh của một bài hát</strong>.</p><h2 class=\"section-label\">Cấu trúc bài hát phổ biến (Verse - Chorus - Verse)</h2><p>Một bài hát đại chúng thường có cấu trúc rõ ràng:</p><ul class=\"bulleted\"><li><strong>Verse (Đoạn phiên khúc)</strong>: Nhẹ nhàng, tự sự — giữ rãnh nhịp kín đáo trên lá hi-hat đóng chặt, âm lượng vừa phải để nhường không gian cho giọng hát.</li><li><strong>Fill chuyển đoạn</strong>: Báo hiệu sự chuyển mình ở ô nhịp thứ 8.</li><li><strong>Chorus (Đoạn điệp khúc)</strong>: Bùng nổ năng lượng — chuyển tay sang lá Ride ngân vang hoặc mở hé hi-hat, dậm cú Crash ở phách 1 và chơi backbeat với uy lực tối đa.</li></ul>",
+    "graduationCriteria": [
+      "Có thể giữ vững nhịp backbeat suốt 16 ô nhịp liên tục ở ♩=80 mà không bị biến tấu lung tung",
+      "Cú đánh lá Crash ở phách 1 của ô nhịp thứ 9 (ngay sau câu fill ở ô 8) tiếp đất gọn gàng cùng tiếng kick",
+      "Có thể miêu tả cấu trúc Verse - Chorus - Verse của bất kỳ bài hát pop nào bạn yêu thích dưới góc nhìn của một tay trống"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Giữ nhịp Backbeat suốt 16 ô nhịp liên tục",
+        "tip": "Bài kiểm tra kỷ luật thép: chơi đúng một rãnh nhịp duy nhất suốt 16 ô nhịp mà không thêm thắt bất kỳ nốt thừa nào. Sự kiên định là phẩm chất số một của tay trống chuyên nghiệp."
+      },
+      {
+        "title": "2A — Rãnh nhịp Verse xuyên suốt 7 ô nhịp đầu",
+        "tip": "Chơi rãnh nhịp êm ái trên lá hi-hat đóng chặt, hỗ trợ tối đa cho giai điệu bài hát."
+      },
+      {
+        "title": "2B — Ô nhịp 8: Câu báo trống dẫn vào Điệp khúc",
+        "tip": "Tung ra câu fill dứt khoát ở ô nhịp thứ 8 để mở toang cánh cửa bước vào đoạn điệp khúc bùng nổ."
+      },
+      {
+        "title": "2C — Ô nhịp 9: Đánh Crash ở phách 1, rồi tiếp tục nhịp điệu",
+        "tip": "Giáng cú Crash cùng trống bass ở đầu phách 1, sau đó quay trở lại ngay lập tức với rãnh nhịp đầy năng lượng."
+      },
+      {
+        "title": "3 — Khuôn mẫu cấu trúc ABA (Verse · Chorus · Verse)",
+        "tip": "Thực hành toàn bộ hành trình: 8 ô nhịp Verse trên hi-hat, 8 ô nhịp Chorus trên lá Ride, rồi quay trở về Verse êm dịu."
+      }
+    ]
+  },
+  "two-minute-loops": {
+    "tagline": "Giữ một rãnh nhịp liên tục trong hai phút — khó hơn bạn tưởng rất nhiều",
+    "bodyHtml": "<p>Bất kỳ ai cũng có thể chơi một câu trống hay trong vòng mười giây. Nhưng để ngồi xuống và <strong>giữ một rãnh nhịp duy nhất hoàn toàn bất biến, không xê dịch dù chỉ một phần nghìn giây trong suốt hai phút trọn vẹn</strong> — đó chính là thước đo phân biệt giữa một người chơi nghiệp dư và một tay trống bậc thầy.</p><h2 class=\"section-label\">Khả năng duy trì dòng chảy (The Pocket)</h2><p>Các nhà sản xuất âm nhạc hàng đầu tìm kiếm điều gì ở một tay trống? Họ không tìm kiếm những câu solo lòe loẹt; họ tìm kiếm một người có thể tạo ra một chiếc \"pocket\" nhịp điệu êm ái, chắc nịch và vững chãi như một tảng đá để cả ban nhạc có thể an tâm tựa vào.</p>",
+    "graduationCriteria": [
+      "Mỗi bài tập lặp dưới đây đều được giữ vững liên tục trong 2 phút không đứt quãng ở ♩=80 cùng tiếng click",
+      "Rãnh nhịp ở phút thứ 2 giống hệt như ở phút thứ 1 — không tự ý thêm fill, không tự ý biến tấu kick",
+      "Tốc độ tempo hoàn toàn đồng nhất từ đầu đến cuối buổi tập (được kiểm chứng qua bản ghi âm)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Vòng lặp Backbeat cơ bản",
+        "tip": "Khóa chặt vào tiếng click. Đừng để tâm trí trôi dạt. Hãy chìm đắm vào vẻ đẹp mộc mạc của từng cú gõ."
+      },
+      {
+        "title": "2 — Vòng lặp Hi-Hat nốt đen",
+        "tip": "Hi-hat đánh nốt đen thưa hơn, đòi hỏi cảm nhận thời gian nội tại giữa các phách phải cực kỳ chuẩn xác."
+      },
+      {
+        "title": "3 — Vòng lặp cảm giác Half-Time",
+        "tip": "Snare chỉ rơi ở phách 3. Giữ cho không gian rộng lớn giữa các phách không bị sụp đổ hay chạy vội."
+      }
+    ]
+  }
+};
+
+const targetPath = path.join(__dirname, '../src/_data/i18n/vi/lessons/foundations-systems.json');
+fs.writeFileSync(targetPath, JSON.stringify(data, null, 2), 'utf8');
+console.log('Successfully wrote', Object.keys(data).length, 'foundations systems lessons to', targetPath);

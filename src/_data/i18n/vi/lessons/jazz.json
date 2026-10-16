@@ -1,0 +1,612 @@
+{
+  "jazz-ride-pattern": {
+    "tagline": "Mẫu câu Ride Jazz — Khung nhịp 4 phách định hình thời gian trong Jazz",
+    "bodyHtml": "\n      <p>Trong nhạc Jazz, lá <strong>cymbals ride</strong> chính là trái tim và hơi thở của bộ trống. Khác với Rock hay Funk nơi tiếng snare ở phách 2 và 4 làm cột trụ thời gian, trong Jazz, toàn bộ khái niệm thời gian, độ lượn sóng (swing feel) và năng lượng đều được truyền tải qua đầu mũi dùi chạm vào lá ride.</p>\n      <p>Mẫu câu kinh điển này thường được mô tả bằng từ tượng thanh <em>'ding-ding-a-ding'</em> hoặc <em>'spang-a-lang'</em>. Nó bao gồm:\n        <ul>\n          <li>Các nốt đen kiên định ở phách 1 và phách 3.</li>\n          <li>Một nốt đen kết hợp với một nốt lướt (skip-note) ở phách 2 và phách 4: nốt lướt này rơi vào phần ba cuối cùng của chùm ba móc đơn (triplet swing feel).</li>\n        </ul>\n      </p>\n      <p>Cùng với đó, chân trái dậm nhẹ hi-hat vào phách 2 và 4, còn chân phải dậm kick cực kỳ nhẹ (kỹ thuật <em>feathering</em>) — cảm nhận được chứ không nghe thấy thành tiếng đanh.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride + chân hi-hat ở phách 2 và 4 duy trì ổn định ở tốc độ ♩=90",
+      "Nốt lướt Swing 8ths rơi rõ rệt về phía sau so với nốt móc đơn thẳng (tỷ lệ chùm ba, không phải 50/50)",
+      "Tiếng bass drum ở phách 1 được dậm êm ái (feathered) — cảm nhận được rung động chứ không nghe lộ thành tiếng cộc"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt Đen Đều Trên Ride",
+        "tip": "Đánh 4 nốt đen đều đặn trên thân lá ride ở ♩=90. Chú ý độ nảy của đầu dùi: dùng cổ tay và ngón tay thả lỏng để tạo ra tiếng 'ping' trong trẻo, ấm áp và ngân vang tự nhiên."
+      },
+      {
+        "title": "2 — Thêm Nốt Lướt (Mẫu Ride Jazz Hoàn Chỉnh)",
+        "tip": "Thêm nốt lướt (skip-note) vào ngay sau phách 2 và phách 4. Miệng đọc nhẩm: <em>'MỘT ... HAI-và ... BA ... BỐN-và'</em> theo cảm giác chùm ba lướt sóng."
+      },
+      {
+        "title": "3 — Thêm Chân Hi-Hat ở Phách 2 và 4",
+        "tip": "Dậm chân trái khép hi-hat đúng vào phách 2 và phách 4 (tiếng 'chick' dứt khoát). Tiếng 'chick' này đóng vai trò mỏ neo giữ nhịp cho toàn bộ ban nhạc Jazz."
+      },
+      {
+        "title": "4 — Thêm Chân Kick Feathering ở Phách 1",
+        "tip": "Nhẹ nhàng áp quả đấm pedal vào mặt trống kick ở phách 1 (hoặc cả 4 phách). Âm lượng kick chỉ đủ để làm dày thêm âm trầm của cây đàn Double Bass chứ không được lấn át."
+      }
+    ]
+  },
+  "jazz-comping-foot": {
+    "tagline": "Tiếng 'chick' ở phách 2 và 4 — Trục nhịp bất biến không thể thương lượng của Jazz",
+    "bodyHtml": "\n      <p>Nếu chiếc cymbals ride là linh hồn thì <strong>tiếng hi-hat đạp ở phách 2 và 4</strong> là bộ xương sống của tay trống Jazz. Bất kể tay phải đang ngẫu hứng bay bổng, tay trái đang gõ đối đáp (comping) hay chân kick đang đá những nốt bất ngờ, tiếng 'chick' của chân trái vẫn phải giậm xuống đều đặn như một chiếc đồng hồ quả lắc Thụy Sĩ.</p>\n      <p>Rèn luyện sự độc lập cho chân trái giúp giải phóng hoàn toàn các chi còn lại, đồng thời mang lại sự tự tin tuyệt đối cho người chơi kèn solo và nghệ sĩ piano trong ban nhạc.</p>\n    ",
+    "graduationCriteria": [
+      "Chân hi-hat giậm phách 2 và 4 liên tục trong 2 phút ở ♩=90 mà không bị dao động",
+      "Âm lượng chân hi-hat giữ nguyên, không bị giật to lên khi snare hoặc kick bất ngờ tham gia",
+      "Bạn có thể ngừng đánh tay phải hoàn toàn mà chân trái vẫn giữ vững tempo chính xác"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tập Riêng Chân Hi-Hat ở Phách 2 và 4",
+        "tip": "Chỉ dùng chân trái: dậm dứt khoát vào phách 2 và 4. Đếm to thành tiếng <em>'Một, HAI, Ba, BỐN'</em>. Giữ chuyển động mắt cá chân thả lỏng, đạp gót-mũi hoặc mũi chân thoải mái."
+      },
+      {
+        "title": "2 — Chân Hi-Hat Dưới Nốt Đen Ride Đều",
+        "tip": "Tay phải gõ 4 nốt đen đều đặn trên ride trong khi chân trái dậm phách 2 và 4. Lắng nghe sự ăn khớp tuyệt đối giữa tiếng dùi và tiếng cymbal khép lại ở phách 2 và 4."
+      },
+      {
+        "title": "3 — Chân Hi-Hat Dưới Mẫu Ride Swing Hoàn Chỉnh",
+        "tip": "Đưa mẫu câu 'spang-a-lang' đầy đủ vào tay phải. Không để nốt lướt (skip-note) làm phân tâm hay kéo lệch thời điểm dậm của chân trái."
+      },
+      {
+        "title": "4 — Thêm Kick Feathering Nhẹ Nhàng",
+        "tip": "Dậm chân phải nhẹ như hơi thở ở phách 1. Lúc này bạn đã có bộ khung 3 chi tiêu chuẩn của Jazz truyền thống."
+      }
+    ]
+  },
+  "jazz-brushes-intro": {
+    "tagline": "Nhập môn chổi quét (Brushes) — Quét tay phải mềm mại và gõ gõ tay trái",
+    "bodyHtml": "\n      <p>Chơi <strong>chổi kim loại (brushes)</strong> là một môn nghệ thuật tinh tế và thanh lịch bậc nhất của người đánh trống Jazz. Khác với dùi gỗ tạo âm thanh điểm (staccato), chổi quét tạo ra âm thanh bề mặt liên tục (legato) — tiếng xào xạc <em>'shhh'</em> ấm áp như hơi thở sưởi ấm căn phòng hòa nhạc.</p>\n      <p>Kỹ thuật cơ bản nhất gồm hai vai trò:\n        <ul>\n          <li><strong>Tay phải (quét liên tục):</strong> Di chuyển theo vòng tròn hoặc số 8 trên mặt trống snare nhám, tạo ra dòng âm thanh xào xạc không bao giờ đứt đoạn.</li>\n          <li><strong>Tay trái (chấm nốt - tap):</strong> Chấm nhẹ nhàng vào mặt trống ở phách 2 và 4 để tạo điểm nhấn thời gian kín đáo.</li>\n        </ul>\n      </p>\n      <p>Chơi chổi đòi hỏi bạn phải lắng nghe ở một dải âm lượng cực nhỏ (whisper-quiet) nhưng với cường độ tập trung cao độ.</p>\n    ",
+    "graduationCriteria": [
+      "Động tác quét tay phải tạo ra tiếng 'shhh' liên tục, mịn màng, không có khoảng hở giữa các ô nhịp",
+      "Cú chạm tap của tay trái vào phách 2 và 4 chuẩn xác mà không làm giật hay ngắt quãng vòng quét tay phải",
+      "Mẫu quét + chấm duy trì ở ♩=80 trong 2 phút với kiểm soát âm lượng tuyệt đối",
+      "Âm lượng của cú tap được kiểm soát tinh tế — là một cú chạm gõ nhẹ chứ không phải cú quất mạnh"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luyện Quét Vòng Tròn Đơn Lẻ",
+        "tip": "Chỉ dùng tay phải cầm chổi: quét thành vòng tròn đều đặn theo chiều kim đồng hồ trên mặt snare tráng nhám. Lắng nghe tiếng ma sát xào xạc đều đặn, không có chỗ nào bị lạo xạo hay ngắt tiếng."
+      },
+      {
+        "title": "2 — Tay Trái Chấm Nhẹ ở Phách 2 và 4",
+        "tip": "Tay trái chấm nhẹ đầu sợi cọ xuống mặt trống ở phách 2 và phách 4. Cú chạm phải gọn gàng, như một nét phẩy bút lông chứ không phải đập dùi."
+      },
+      {
+        "title": "3 — Phối Hợp Quét và Chấm Chuẩn Mực",
+        "tip": "Kết hợp hai tay: tay phải quét vòng tròn không ngừng, tay trái chấm đều đặn ở phách 2 và 4. Giữ cả hai cổ tay thật mềm mại và thả lỏng."
+      },
+      {
+        "title": "4 — Ứng Dụng Chổi Trong Bản Ballad Chậm",
+        "tip": "Thử nghiệm trong không gian một bản nhạc Jazz Ballad chậm rãi. Cảm nhận cách tiếng chổi nâng niu giai điệu của ca sĩ hoặc tiếng kèn saxophone."
+      }
+    ]
+  },
+  "jazz-ballad": {
+    "tagline": "Điệu Ballad êm dịu ở 65 BPM — Cảm giác nhịp thở sâu lắng với chổi quét",
+    "bodyHtml": "\n      <p>Chơi một bản <strong>Jazz Ballad</strong> ở tốc độ cực chậm (60–65 BPM) là bài sát hạch khắc nghiệt nhất về bản lĩnh và độ kiên nhẫn của người chơi trống. Ở tốc độ này, khoảng cách giữa các phách vô cùng rộng lớn — người chơi thiếu kinh nghiệm rất dễ bị hối hả, vội vã hoặc làm nhịp bị chùng xuống.</p>\n      <p>Sử dụng chổi quét, bạn lấp đầy không gian mênh mông đó không phải bằng những cú gõ dày đặc, mà bằng tiếng quét mặt da mịn như nhung và những nhịp thở tự nhiên. Âm lượng của bạn phải nhẹ nhàng hơn cả một tiếng thì thầm trò chuyện.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu quét chổi ở tốc độ ♩=65 duy trì vững vàng trong 3 phút liên tục không bị vấp hay giật cục",
+      "Âm lượng tổng thể êm dịu hơn cả tiếng nói chuyện bình thường, nhường trọn không gian cho giai điệu",
+      "Chân hi-hat dậm nhẹ ở 2 và 4 với âm lượng kín đáo hơn cả cú chạm chổi của tay trái"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tốc Độ Ballad: Quét và Chấm ở Phách 2 và 4",
+        "tip": "Tập luyện ở tốc độ ♩=65. Hít thở sâu và chậm rãi. Hãy để vòng quét của tay phải mở rộng bao trọn mặt trống snare để duy trì âm thanh ma sát mượt mà."
+      },
+      {
+        "title": "2 — Thêm Nốt Chấm Đón Đầu ở Nốt '&' Của 4",
+        "tip": "Thêm một cú chấm nhẹ ở nốt '&' của phách 4 để tạo đà nâng êm đềm bước vào phách 1 của ô nhịp kế tiếp."
+      },
+      {
+        "title": "3 — Ô Nhịp Thở (Chỉ Quét, Không Chấm)",
+        "tip": "Thực hành chơi một ô nhịp chỉ quét liên tục mà không có bất kỳ cú chạm nốt nào. Đây là cách tuyệt vời để tạo khoảng lặng tĩnh mịch trong các đoạn ngẫu hứng da diết."
+      },
+      {
+        "title": "4 — Đệm Ballad Cụm 4 Ô Nhịp",
+        "tip": "Chơi một chu kỳ 4 ô nhịp hoàn chỉnh với sắc thái tinh tế, hỗ trợ hoàn hảo cho một giai điệu độc tấu tưởng tượng."
+      }
+    ]
+  },
+  "jazz-medium-swing": {
+    "tagline": "Medium Swing hoàn chỉnh — Ride + chân hi-hat + feathered kick + snare comping",
+    "bodyHtml": "\n      <p><strong>Medium Swing</strong> (tốc độ khoảng 120–140 BPM) là 'bánh mì và bơ' của mọi nghệ sĩ trống Jazz. Đây là tốc độ mà các huyền thoại như Count Basie, Duke Ellington và Miles Davis đã sáng tác nên hàng trăm tuyệt phẩm bất hủ.</p>\n      <p>Tại đây, cả 4 chi bắt đầu phối hợp thành một cỗ máy swing trơn tru:\n        <ul>\n          <li>Tay phải: Mẫu câu ride 'spang-a-lang' lướt sóng.</li>\n          <li>Chân trái: Dậm hi-hat sắc nét ở phách 2 và 4.</li>\n          <li>Chân phải: Dậm kick feathering êm nhẹ ở đầu phách.</li>\n          <li>Tay trái: Bắt đầu đưa các cú điểm xuyết (comping) bất ngờ trên mặt trống snare, mở đầu là nốt '&' của phách 2.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Bộ khung 4 chi Medium Swing hoàn chỉnh duy trì ổn định ở ♩=140 trong 2 phút",
+      "Tiếng kick feathering được cảm nhận chứ không nghe lộ — nhạc công bass không phân biệt được với nốt đàn của họ",
+      "Cú comping snare ở nốt '&' của phách 2 rơi chính xác vào vị trí nốt lướt swing, không bị trượt vào phách chính"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Ride Riêng Lẻ ở ♩ = 140",
+        "tip": "Chơi mẫu ride lướt sóng ở tốc độ ♩=140. Thả lỏng cánh tay, để dùi nảy tự nhiên theo quán tính."
+      },
+      {
+        "title": "2 — Thêm Chân Hi-Hat ở Phách 2 và 4",
+        "tip": "Khóa chân trái vào phách 2 và 4. Đảm bảo âm sắc tiếng 'chick' luôn gọn gàng và ổn định."
+      },
+      {
+        "title": "3 — Thêm Kick Feathering Nhẹ Nhàng",
+        "tip": "Dậm kick nhẹ như lông hồng ở đầu phách. Đừng dùng lực cẳng chân; chỉ cần một lực nhấn nhỏ từ cổ chân."
+      },
+      {
+        "title": "4 — Cú Comping Đầu Tiên: Snare ở Nốt '&' Của Phách 2",
+        "tip": "Thêm một cú gõ snare nhẹ ở nốt <em>'&' của phách 2</em>. Nốt này rơi đồng thời với nốt lướt của ride — hai âm thanh hòa làm một cú hích tiết tấu tuyệt đẹp."
+      }
+    ]
+  },
+  "jazz-comping-basics": {
+    "tagline": "Nhập môn Comping cơ bản — 8 vị trí nốt snare kinh điển theo Jim Chapin",
+    "bodyHtml": "\n      <p>Từ <strong>Comping</strong> bắt nguồn từ hai chữ: <em>Complementing</em> (bổ trợ) và <em>Accompanying</em> (đệm lót). Trong Jazz, tay trống không chỉ giữ nhịp mà đang tham gia vào một cuộc đối thoại sôi nổi với các nhạc công khác. Chiếc trống snare dưới tay trái chính là giọng nói của bạn.</p>\n      <p>Dựa trên phương pháp kinh điển trong cuốn sách <em>Advanced Techniques for the Modern Drummer</em> của huyền thoại Jim Chapin, bài học này rèn luyện cho tay trái khả năng gõ vào bất kỳ vị trí nào trong ô nhịp swing mà không làm lay chuyển dòng chảy của cymbals ride bên tay phải.</p>\n    ",
+    "graduationCriteria": [
+      "Mỗi mẫu comping đơn lẻ duy trì vòng lặp ở ♩=140 trong 1 phút mà lá ride không hề lay động",
+      "Bạn có thể chuyển đổi mượt mà giữa bất kỳ hai vị trí nốt nào qua từng ô nhịp mà không bị vấp",
+      "Vị trí nốt gõ của snare rõ ràng, rành mạch — người nghe nhận diện được ngay không cần đếm"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Snare ở Phách 1",
+        "tip": "Gõ một nốt snare nhẹ ngay đúng phách 1. Chú ý tay trái đánh rơi xuống đồng thời với nốt đen đầu tiên của ride."
+      },
+      {
+        "title": "2 — Snare ở Nốt '&' Của Phách 1",
+        "tip": "Gõ vào nốt nghịch phách '&' của 1 (vị trí chùm ba). Cảm nhận cú hất nhẹ nhàng kéo tai người nghe hướng về phách 2."
+      },
+      {
+        "title": "3 — Snare ở Phách 2",
+        "tip": "Gõ snare trùng khớp với phách 2 — nơi có cả tiếng nốt đen ride và tiếng dậm 'chick' của chân hi-hat."
+      },
+      {
+        "title": "4 — Snare ở Nốt '&' Của Phách 3",
+        "tip": "Một trong những vị trí comping được yêu thích nhất: nốt '&' của 3 tạo cảm giác đón đầu và nâng bước cho phách 4."
+      },
+      {
+        "title": "5 — Snare ở Phách 3 Kết Hợp Kick Nghịch Phách",
+        "tip": "Kết hợp snare ở phách 3 và một cú đá kick nhẹ ở nốt nghịch phách, mở rộng khả năng phối hợp giữa hai chi độc lập."
+      }
+    ]
+  },
+  "jazz-waltz": {
+    "tagline": "Jazz Waltz — Lướt sóng trong nhịp 3/4 lãng mạn",
+    "bodyHtml": "\n      <p>Không phải tất cả các bản Jazz đều viết ở nhịp 4/4. <strong>Jazz Waltz</strong> (nhịp 3/4 đu đưa) là một địa hạt tuyệt đẹp được khai phá rực rỡ bởi những nghệ sĩ như Bill Evans ('Someday My Prince Will Come', 'Waltz for Debby') và John Coltrane.</p>\n      <p>Cấu trúc của Jazz Waltz gồm 3 phách trong một ô nhịp:\n        <ul>\n          <li>Lá ride chơi: nốt đen ở phách 1, tiếp theo là nốt đen và nốt lướt ở phách 2 (<em>1 ... 2-và ... 3</em>).</li>\n          <li>Chân hi-hat dậm ở <strong>phách 2</strong> (hoặc phách 2 và 3), tạo độ trũng lãng mạn cho điệu nhảy.</li>\n          <li>Tay trái gõ comping nhẹ nhàng điểm xuyết vào các nốt nghịch phách.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride waltz trong nhịp 3/4 lặp lại mượt mà ở ♩=120 không bị nhầm lẫn đảo phách",
+      "Chân hi-hat dậm chuẩn xác vào phách 2 của mỗi ô nhịp và tuyệt đối không dậm lệch",
+      "Câu đệm 2 ô nhịp hoàn chỉnh duy trì trong 2 phút với cú comping rơi đúng vào nốt '&' lướt của phách 2"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Ride Trong Nhịp 3/4",
+        "tip": "Chơi mẫu ride Jazz Waltz: <em>Đen ở 1, Đen ở 2 kèm nốt lướt, Đen ở 3</em>. Đếm miệng <em>'MỘT, HAI-và, BA'</em> thật nhịp nhàng."
+      },
+      {
+        "title": "2 — Thêm Chân Hi-Hat ở Phách 2",
+        "tip": "Dậm chân hi-hat vào đúng phách 2 của ô nhịp 3/4. Tránh thói quen dậm ở phách 1 hay phách 3 — phách 2 mới là điểm neo lãng mạn đặc trưng của Jazz Waltz."
+      },
+      {
+        "title": "3 — Comping ở Nốt '&' Của Phách 2",
+        "tip": "Tay trái gõ snare nhẹ ở nốt '&' của phách 2. Cảm nhận sự nâng đỡ bay bổng của nốt nhạc trước khi hạ xuống phách 3."
+      },
+      {
+        "title": "4 — Cụm Comping Hoàn Chỉnh 2 Ô Nhịp",
+        "tip": "Ghép nối thành câu nhạc 2 ô nhịp (6 phách). Giữ cho dòng chảy luôn bồng bềnh, duyên dáng như một điệu khiêu vũ xoay vòng."
+      }
+    ]
+  },
+  "jazz-trading-fours": {
+    "tagline": "Đối đáp 4 ô nhịp (Trading Fours) — Ba ô đệm, một ô solo ngẫu hứng",
+    "bodyHtml": "\n      <p><strong>Trading Fours</strong> là hình thức đối đáp âm nhạc kinh điển trong các buổi biểu diễn Jazz: các nghệ sĩ (kèn, piano, guitar) sẽ lần lượt solo 4 ô nhịp, và tay trống sẽ đáp lại bằng 4 ô nhịp solo tương ứng.</p>\n      <p>Để trở thành một người đối thoại sắc sảo, bạn cần làm chủ cấu trúc thời gian và khả năng phát triển môtip (motivic development): lấy một ý niệm tiết tấu ngắn gọn và biến tấu nó qua các ô nhịp, đồng thời ra vào chuẩn xác ở phách 1 đầu tiên mà không bao giờ làm mất nhịp của ban nhạc.</p>\n    ",
+    "graduationCriteria": [
+      "Khuôn mẫu 3 ô đệm + 1 ô solo lặp lại ở ♩=140 với nhịp đệm quay lại chuẩn xác mỗi chu kỳ",
+      "Đoạn solo 4 ô nhịp trọn vẹn bắt đầu và kết thúc chuẩn ở phách 1 — không vội vàng nốt đầu, không tràn nốt cuối",
+      "Bài tập phát triển môtip: cùng một ý niệm tiết tấu được nhận diện rõ nét qua cả 4 ô nhịp solo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Khuôn Mẫu Solo 1 Ô Nhịp (3 Đệm + 1 Solo)",
+        "tip": "Chơi 3 ô nhịp đệm swing tiêu chuẩn, sau đó thực hiện 1 câu báo solo ngắn ở ô nhịp thứ 4 và trở về ngay phách 1 của ô nhịp kế tiếp."
+      },
+      {
+        "title": "2 — Đoạn Solo 4 Ô Nhịp Hoàn Chỉnh ở Tốc Độ Vừa",
+        "tip": "Chơi trọn vẹn 4 ô nhịp solo (16 phách) ở ♩=140. Tự đếm nhẩm trong đầu để trở về nhịp đệm ở ô nhịp thứ 5 một cách hoàn hảo."
+      },
+      {
+        "title": "3 — Phát Triển Môtip: Một Ý Tưởng, Bốn Biến Thể",
+        "tip": "Chọn một câu tiết tấu ngắn 3 nốt. Ở mỗi ô nhịp của đoạn solo 4 ô, hãy biến tấu nó: dịch chuyển vị trí, đổi sang gõ toms, hoặc kéo dài nốt."
+      },
+      {
+        "title": "4 — Tự Đối Đáp Với Chính Mình: 4 Đệm, 4 Solo",
+        "tip": "Tạo một vòng lặp liên tục: 4 ô đệm comping, 4 ô solo. Luyện tập cho đến khi cảm giác về cấu trúc 4 ô nhịp ngấm sâu vào tiềm thức."
+      }
+    ]
+  },
+  "jazz-bossa-jazz": {
+    "tagline": "Bossa Jazz — Những bản nhạc kinh điển kết hợp giữa giai điệu Bossa và ngẫu hứng Jazz",
+    "bodyHtml": "\n      <p>Khi làn sóng Bossa Nova đổ bộ vào nước Mỹ trong thập niên 1960 (với sự hợp tác huyền thoại giữa Stan Getz và Astrud/João Gilberto), các nhạc công Jazz đã ngay lập tức say mê hòa âm và vẻ đẹp trữ tình của nó. Những bài hát như <em>Wave, Desafinado, The Girl from Ipanema</em> đã trở thành các bản tiêu chuẩn (standards) bắt buộc trong Jazz.</p>\n      <p>Khác với Bossa Nova mộc mạc của Brazil, <strong>Bossa Jazz</strong> có xu hướng mở rộng sắc thái hơn: lá cymbals ride được nhấn nhá theo phong cách Jazz, và tay trái linh hoạt xen kẽ các nốt comping tự do bên cạnh câu cross-stick truyền thống.</p>\n    ",
+    "graduationCriteria": [
+      "Groove Bossa với lá ride Jazz duy trì ở ♩=130 trong 2 phút",
+      "Tiếng gõ cross-stick ở phách 2 và 4 luôn tròn trịa, đanh gọn và đồng đều",
+      "Thực hiện thành công nốt comping snare phong cách Jim Chapin mà không làm rung lắc nhịp chân kick bossa"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Bossa Cơ Bản ở Tốc Độ Jazz",
+        "tip": "Chơi mẫu Bossa Nova cơ bản nhưng nâng tốc độ lên ♩=130. Thả lỏng cổ tay để tiếng cross-stick vang trong trẻo."
+      },
+      {
+        "title": "2 — Mẫu Bossa Với Trọng Âm Ride Kiểu Jazz",
+        "tip": "Nhấn nhá các nốt đen và nốt nghịch phách trên cymbals ride để tạo chất Jazz phóng khoáng hơn trên nền nhịp Bossa."
+      },
+      {
+        "title": "3 — Thêm Câu Comping Snare Kiểu Jim Chapin",
+        "tip": "Xen kẽ một vài nốt snare nẩy nhẹ tự do vào giữa các nốt gõ cross-stick mà không làm mất liên kết với nhịp kick bên dưới."
+      },
+      {
+        "title": "4 — Câu Bossa Jazz 2 Ô Nhịp Hoàn Chỉnh",
+        "tip": "Ghép nối thành câu nhạc 2 ô nhịp hoàn chỉnh với đầy đủ màu sắc hòa quyện giữa Rio de Janeiro và New York."
+      }
+    ]
+  },
+  "jazz-up-tempo-intro": {
+    "tagline": "Khởi động Up-Tempo Jazz — Khi đạt 250 BPM, 'càng tối giản càng nhanh'",
+    "bodyHtml": "\n      <p>Chơi Jazz ở tốc độ nhanh (Up-Tempo, từ 220 đến hơn 260 BPM) là thử thách thể lực và tâm lý lớn nhất. Rất nhiều tay trống thất bại vì cố gắng gõ đầy đủ từng nốt lướt (skip-note) ở tốc độ này, dẫn đến co cứng cơ bắp và gãy nhịp.</p>\n      <p>Bí quyết của các bậc thầy: <strong>Càng nhanh thì càng phải tối giản hóa</strong>. Hãy lược bỏ bớt các nốt lướt rườm rà, tập trung vào 4 nốt đen kiên định trên cymbals ride, để chiếc chân hi-hat dậm nhẹ ở 2 và 4 làm điểm tựa thăng bằng cho cơ thể.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride chỉ gồm nốt đen ở tốc độ ♩=200 duy trì trong 2 phút mà cổ tay không bị co rút",
+      "Mẫu ride tinh gọn (nốt đen + nốt lướt thưa thớt) giữ vững ở ♩=250 trong 1 phút",
+      "Giữ nhịp Up-Tempo không dùng kick mà không làm sụp đổ khung nhịp — chân hi-hat làm mỏ neo chính"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ride Chỉ Có Nốt Đen ở Tốc Độ Cao",
+        "tip": "Đánh 4 nốt đen đều đặn trên ride ở tốc độ ♩=200. Sử dụng ngón tay và độ nảy tự nhiên của dùi, không gồng cơ cẳng tay."
+      },
+      {
+        "title": "2 — Mẫu Ride Tinh Gọn (Nốt Đen + Nốt Lướt Rải Rác)",
+        "tip": "Đẩy tốc độ lên ♩=250. Chỉ điểm xuyết nốt lướt ở một vài ô nhịp tùy hứng, phần lớn giữ nốt đen thanh thoát."
+      },
+      {
+        "title": "3 — Giữ Nhịp Up-Tempo Không Dùng Kick",
+        "tip": "Hoàn toàn không dùng chân kick để giải phóng cơ thể. Chân trái dậm hi-hat nhẹ và dứt khoát ở phách 2 và 4 làm cột trụ."
+      },
+      {
+        "title": "4 — Thêm Cú Comping Đơn Lẻ Trong Mỗi Câu Nhạc",
+        "tip": "Chỉ đưa đúng một cú chạm snare sắc bén vào mỗi cụm 4 ô nhịp để tạo điểm tựa cho người chơi solo đang lướt đi với tốc độ ánh sáng."
+      }
+    ]
+  },
+  "jazz-broken-time-intro": {
+    "tagline": "Khái niệm Broken Time — Phá vỡ khuôn mẫu ride cố định",
+    "bodyHtml": "\n      <p>Trong Jazz truyền thống, mẫu câu ride 'spang-a-lang' lặp đi lặp lại liên tục từ đầu đến cuối bài. Nhưng từ thập niên 1960 trở đi, các bậc thầy tiên phong như Roy Haynes, Tony Williams và Jack DeJohnette đã phát minh ra lối chơi <strong>Broken Time (Thời gian phân mảnh)</strong>.</p>\n      <p>Thay vì giữ một mẫu cố định, họ bắt đầu đập vỡ dòng chảy của lá ride: bỏ bớt phách, đảo phách, hoặc để các chi khác chia sẻ nhiệm vụ giữ nhịp. Mạch đập thời gian không còn nằm ở bề mặt âm thanh mà chuyển vào <em>tiềm thức ẩn sâu</em> giữa người chơi và người nghe.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride bỏ bớt phách 3 lặp lại ở ♩=140 với chân hi-hat giữ nhịp vững vàng",
+      "Mẫu ride chỉ chơi nốt lướt không bị sụp đổ — người nghe vẫn cảm nhận rõ ràng các phách 1, 2, 3, 4",
+      "Bạn có thể ngừng đánh ride hoàn toàn trong một ô nhịp và quay lại đúng nhịp ở phách tiếp theo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Ride Bỏ Phách 3",
+        "tip": "Chơi mẫu ride nhưng để trống hoàn toàn phách 3. Chân hi-hat ở phách 2 và 4 vẫn dậm đều đặn để neo giữ không gian."
+      },
+      {
+        "title": "2 — Mẫu Ride Bỏ Cả Phách 1 và Phách 3",
+        "tip": "Chỉ đánh ride ở các phách 2 và 4 (kèm nốt lướt). Cảm nhận sự thông thoáng kỳ diệu mà khoảng trống mang lại."
+      },
+      {
+        "title": "3 — Chỉ Chơi Nốt Lướt (Không Chơi Nốt Đen Chẵn)",
+        "tip": "Thử thách tư duy: chỉ gõ các nốt lướt nghịch phách trên ride. Giữ vững trục thăng bằng bên trong cơ thể."
+      },
+      {
+        "title": "4 — Ô Nhịp Broken Time Đối Đáp Solo Ảo",
+        "tip": "Tạo ra một ô nhịp ngẫu hứng tự do đan xen giữa ride và snare để phản hồi lại một câu solo tưởng tượng."
+      }
+    ]
+  },
+  "jazz-bop-vocabulary": {
+    "tagline": "Vốn từ vựng Bebop kinh điển — Ngôn ngữ của Philly Joe, Max Roach và Kenny Clarke",
+    "bodyHtml": "\n      <p>Kỷ nguyên <strong>Bebop</strong> (thập niên 1940–1950) là cuộc cách mạng vĩ đại nhất trong lịch sử Jazz, khai sinh ra ngôn ngữ hiện đại cho bộ trống qua bàn tay của các tượng đài như <em>Kenny Clarke, Max Roach, Philly Joe Jones và Art Blakey</em>.</p>\n      <p>Họ đã chuyển nhiệm vụ giữ nhịp chính từ trống bass sang cymbals ride, giải phóng chiếc trống snare và kick để chúng trở thành những công cụ phát ngôn đầy cá tính. Các câu luyến láy (licks) kinh điển của Bebop — như cú gõ giật 'Philly Joe lick' hay cú chập đồng thanh kick-snare nghịch phách — là vốn từ vựng bắt buộc của mọi tay trống Jazz nghiêm túc.</p>\n    ",
+    "graduationCriteria": [
+      "Câu 'Philly-Joe lick' (snare ở nốt '&' của 4 + kick ở phách 1 kế tiếp) vang lên sắc sảo ở ♩=160 dưới lá ride",
+      "Trọng âm trên quả chuông ride ở phách 1 và 3 phân biệt rõ rệt với tiếng gõ thân ride ở 2 và 4",
+      "Thuộc lòng và chơi kết hợp 4 câu comping Bebop kinh điển trong một khuôn khổ 4 ô nhịp",
+      "Lá ride luôn duy trì độ lướt sóng hoàn hảo dù các câu comping rơi vào những điểm đảo phách gắt"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Câu Gõ Kinh Điển 'Philly Joe Lick'",
+        "tip": "Gõ một cú rim-shot snare nhẹ ở nốt '&' của phách 4 rồi đáp ngay một tiếng kick ấm vào phách 1 tiếp theo. Cú giật nảy này đẩy cả ban nhạc tiến về phía trước."
+      },
+      {
+        "title": "2 — Nhấn Quả Chuông ở Phách 1 và 3",
+        "tip": "Đưa đầu dùi gõ vào quả chuông cymbals ride ở phách 1 và 3, trở về thân ride ở phách 2 và 4 để tạo tương phản màu sắc."
+      },
+      {
+        "title": "3 — Mẫu Ride Thêm Nốt Lướt (Extra-Skip)",
+        "tip": "Thêm một nốt lướt phụ vào sau phách 1 hoặc phách 3 để tạo cảm giác dồn dập rộn rã của phong cách Max Roach."
+      },
+      {
+        "title": "4 — Cú Chập Đồng Thanh Snare và Kick ở Nghịch Phách",
+        "tip": "Snare và Kick gõ đồng thanh đúng vào nốt '&' của một phách lướt sóng. Cú đánh phải chập vào nhau tuyệt đối như một nốt duy nhất."
+      },
+      {
+        "title": "5 — Kết Hợp Comping Bebop Trong 4 Ô Nhịp",
+        "tip": "Nối kết toàn bộ vốn từ vựng đã học thành một dòng chảy đối thoại sinh động kéo dài 4 ô nhịp."
+      }
+    ]
+  },
+  "jazz-up-tempo": {
+    "tagline": "Chinh phục Up-Tempo bền bỉ (220–280 BPM)",
+    "bodyHtml": "\n      <p>Để duy trì nhịp Swing liên tục ở tốc độ từ <strong>220 đến 280 BPM</strong> trong nhiều phút mà không bị chuột rút hay kiệt sức, bạn không thể dùng sức mạnh cơ bắp — bạn phải làm chủ kỹ thuật thả lỏng tuyệt đối (relaxation) và cơ học đòn bẩy ngón tay.</p>\n      <p>Bài học này rèn luyện các bước thang tốc độ chuẩn xác, cách điều chỉnh độ chụm của dùi và kỹ thuật 'flat hi-hat' (chân hi-hat khép vừa đủ, không nghiến chặt) để bạn có thể bay lượn ở những dải tốc độ chóng mặt nhất của Bebop.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride tinh gọn (chỉ nốt đen) duy trì ở ♩=240 trong 2 phút không hề căng cứng cẳng tay",
+      "Chân hi-hat thả lỏng, khép rõ ở 2 và 4 nhưng không nghiến chặt làm bí tiếng",
+      "Tiếng bass drum được cảm nhận chứ không nghe thấy ở tốc độ cực nhanh (không có tiếng cộc)",
+      "Tăng dần tốc độ từ ♩=200 lên ♩=280 theo từng nấc 20 BPM mà mẫu ride không hề bị vỡ"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Ride Chuẩn ở ♩ = 200",
+        "tip": "Thiết lập trạng thái cân bằng hoàn hảo ở 200 BPM. Thả lỏng hai vai và cổ tay."
+      },
+      {
+        "title": "2 — Bỏ Bớt Nốt Lướt ở ♩ = 220",
+        "tip": "Khi lên 220 BPM, chỉ giữ nốt đen là chủ đạo. Nốt lướt chỉ xuất hiện khi thật sự cần thiết."
+      },
+      {
+        "title": "3 — Điểm Xuyết Nốt Lướt Ngắt Quãng ở ♩ = 250",
+        "tip": "Ở 250 BPM, nốt lướt trở thành một nét thoáng qua lấp lánh chứ không phải một công thức cố định."
+      },
+      {
+        "title": "4 — Ride Chỉ Có Nốt Đen + Kick Feathering ở ♩ = 280",
+        "tip": "Đỉnh cao tốc độ: 280 BPM. Dùng độ bật nảy của ngón trỏ và ngón giữa để dùi tự nhảy trên mặt ride."
+      },
+      {
+        "title": "5 — Kiểm Soát Chân Hi-Hat Thả Lỏng ở ♩ = 240",
+        "tip": "Tập trung giữ cho bàn chân trái luôn thả lỏng, chỉ nhấc nhẹ mắt cá chân để lá hi-hat va vào nhau tự nhiên."
+      }
+    ]
+  },
+  "jazz-broken-time": {
+    "tagline": "Broken Time nâng cao — Đối thoại toàn diện thay vì chỉ phân mảnh tiếng ride",
+    "bodyHtml": "\n      <p>Sau khi đã làm quen với việc lược bớt các nốt ride, <strong>Broken Time nâng cao</strong> mở rộng sang việc biến toàn bộ dàn trống thành một dòng chảy đối thoại không biên giới. Chiếc trống snare không chỉ là nhạc cụ comping phụ họa mà có thể vươn lên đảm nhận vai trò định thời chính thay cho lá ride.</p>\n      <p>Đây là ngôn ngữ biểu đạt của các tay trống Modern Jazz hàng đầu như Bill Stewart, Jeff 'Tain' Watts và Brian Blade — nơi mọi thành phần của bộ trống đều có khả năng dẫn dắt hoặc lùi lại nhường chỗ cho nhau trong tích tắc.</p>\n    ",
+    "graduationCriteria": [
+      "4 ô nhịp broken time ở ♩=110 với xung nhịp ngầm định — người nghe vẫn có thể vỗ tay ở phách 2 và 4",
+      "Trống snare đóng vai trò 'tiếng giữ nhịp chính' trong ít nhất 1 ô nhịp trọn vẹn mà không mất cấu trúc bài",
+      "Một câu solo ngắn ngắt quãng dòng broken time và giải tỏa trở lại ngay phách 1",
+      "Đoạn đối thoại 8 ô nhịp với người solo tưởng tượng duy trì chuẩn xác độ dài của khúc nhạc (chorus)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Dòng Ride Phân Mảnh (4 Ô Nhịp)",
+        "tip": "Phân tán các nốt gõ ride ngẫu hứng qua 4 ô nhịp nhưng vẫn ngầm giữ vững nhịp đập bên trong tâm trí."
+      },
+      {
+        "title": "2 — Snare Thay Thế Ride Giữ Nhịp",
+        "tip": "Chuyển hẳn vai trò định thời sang tiếng cross-stick hoặc nốt ma trên snare trong khi tay phải tạm dừng."
+      },
+      {
+        "title": "3 — Câu Solo Chèn Giữa Dòng Nhịp (4 Ô Nhịp)",
+        "tip": "Bất ngờ phóng ra một câu chạy solo ngẫu hứng rồi lập tức tiếp đất êm đềm ở phách 1 tiếp theo."
+      },
+      {
+        "title": "4 — Đối Đáp 8 Ô Nhịp Với Người Độc Tấu Ảo",
+        "tip": "Tưởng tượng bạn đang đệm cho một câu kèn saxophone bay bổng: lúc nâng đỡ bằng nốt lướt, lúc đối đáp bằng cú gõ rim-shot."
+      }
+    ]
+  },
+  "jazz-modal-comping": {
+    "tagline": "Đệm Modal Jazz — Nghệ thuật đệm khi hòa âm đứng yên một chỗ",
+    "bodyHtml": "\n      <p>Khi cuộc cách mạng <strong>Modal Jazz (Jazz thang âm)</strong> bùng nổ với kiệt tác <em>Kind of Blue</em> của Miles Davis và các tác phẩm của John Coltrane ('Impressions'), các tay trống phải đối mặt với một thử thách mới: hòa âm không còn chuyển động liên tục sau mỗi 2 phách như Bebop nữa, mà một hợp âm có thể kéo dài suốt 8 đến 16 ô nhịp.</p>\n      <p>Trong không gian tĩnh lặng đó, tay trống không thể chỉ lặp lại các câu comping sáo mòn. Họ phải học cách xây dựng <strong>cung bậc kịch tính (dynamic arc)</strong> — bắt đầu từ những nốt thì thầm, cuộn sóng dần qua các chùm ba của kick và snare, rồi bùng nổ giải phóng ở điểm nút của khúc nhạc.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu comping 4 ô nhịp với chuỗi kick chùm ba cuộn sóng duy trì ở ♩=110 mà lá ride không bị cuốn theo",
+      "Xây dựng thành công cung bậc kịch tính 8 ô nhịp: dâng trào và giải tỏa chuẩn xác ở ô thứ 8",
+      "Cả snare và hi-hat cùng tăng dần cường độ mà mẫu ride vẫn giữ vững độ trong trẻo",
+      "Cảm giác chùm ba cuộn trôi mềm mại, không gượng gạo — tiếng kick như một phần hữu cơ của lá ride"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tiếng Kick Chùm Ba Dưới Lá Ride",
+        "tip": "Đưa các nốt kick rơi vào các nốt thành phần của chùm ba móc đơn, tạo cảm giác sóng biển dâng trào êm ái dưới lá ride."
+      },
+      {
+        "title": "2 — Snare và Hi-Hat Xây Dựng Cường Độ (Cung 4 Ô Nhịp)",
+        "tip": "Tăng dần âm lượng và mật độ gõ của snare và hi-hat từ ô nhịp 1 đến ô nhịp 4 để tạo độ căng hòa âm."
+      },
+      {
+        "title": "3 — Cấu Trúc Chùm Ba Cuộn Sóng (Rolling Triplet Texture)",
+        "tip": "Để tay trái và chân kick hòa quyện thành một dòng chảy chùm ba không dứt, mang phong thái huyền thoại Elvin Jones."
+      },
+      {
+        "title": "4 — Cung Bậc 8 Ô Nhịp Hoàn Chỉnh (Dâng Trào và Giải Tỏa)",
+        "tip": "Thực hiện hành trình 8 ô nhịp: 6 ô tích tụ năng lượng, 1 ô bùng nổ cao trào, và ô thứ 8 giải phóng trở về trạng thái phẳng lặng."
+      }
+    ]
+  },
+  "jazz-comping-vocab": {
+    "tagline": "Từ câu đệm đơn lẻ đến giai điệu trên Snare",
+    "bodyHtml": "\n      <p>Đỉnh cao của nghệ thuật comping không phải là gõ những nốt ngẫu nhiên để lấp chỗ trống, mà là <strong>tạo ra giai điệu thực thụ trên chiếc trống snare</strong>. Một tay trống cừ khôi có thể hát lên một câu chuyện bằng những đường nét cao thấp, to nhỏ và sắc thái phong phú của mặt trống.</p>\n      <p>Bài học này hướng dẫn bạn cách kết nối các nốt gõ đơn lẻ thành những câu nhạc 1 ô, 2 ô và 4 ô nhịp có cấu trúc đối đáp (Call and Response) hoặc cấu trúc giai điệu kinh điển (ABAB / ABAC) mà người nghe có thể ngâm nga theo được.</p>\n    ",
+    "graduationCriteria": [
+      "Câu giai điệu snare 1 ô nhịp (3–4 nốt nhấn lượn sóng) giữ vững ở ♩=130 dưới lá ride ổn định",
+      "Câu snare 2 ô nhịp kết nối mượt mà vắt qua vạch nhịp như một ý niệm duy nhất",
+      "Câu snare 4 ô nhịp có cấu trúc rõ ràng (hỏi - đáp hoặc ABAB) mà người nghe có thể hát lại được",
+      "Mẫu ride không bao giờ bị xao nhãng trước các biến tấu giai điệu phong phú của tay trái"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Điểm Tựa Vị Trí Đơn Lẻ (Phong Cách Jim Chapin)",
+        "tip": "Ôn lại các nốt đơn lẻ chuẩn xác để làm viên gạch nền tảng trước khi xây dựng giai điệu dài."
+      },
+      {
+        "title": "2 — Giai Điệu Snare 1 Ô Nhịp (3 Nốt Nhấn Có Đường Nét)",
+        "tip": "Tạo một câu 3 nốt trên snare có độ to nhỏ khác nhau: nốt ma nhẹ, nốt thường và một cú rim-shot điểm nhấn."
+      },
+      {
+        "title": "3 — Giai Điệu Snare 2 Ô Nhịp (Cấu Trúc Hỏi và Đáp)",
+        "tip": "Ô nhịp 1 đưa ra câu hỏi (kết thúc lơ lửng ở nghịch phách), ô nhịp 2 đưa ra câu trả lời (tiếp đất vững chãi)."
+      },
+      {
+        "title": "4 — Giai Điệu Snare 4 Ô Nhịp (Cấu Trúc ABAC)",
+        "tip": "Xây dựng một đoạn nhạc hoàn chỉnh 4 ô nhịp có logic phát triển như một khổ thơ trong thi ca."
+      },
+      {
+        "title": "5 — Khuôn Khổ Ngẫu Hứng (Bản Mẫu 4 Ô Nhịp)",
+        "tip": "Tự do sáng tác các giai điệu của riêng bạn trên chiếc trống snare dựa trên bộ khung 4 ô nhịp đã học."
+      }
+    ]
+  },
+  "jazz-free-jazz": {
+    "tagline": "Free Jazz — Chơi không gò bó xung nhịp: Mật độ, cấu trúc và màu sắc âm thanh",
+    "bodyHtml": "\n      <p>Ra đời từ những thử nghiệm tiên phong của Ornette Coleman, Cecil Taylor và John Coltrane giai đoạn cuối (với các tay trống như Sunny Murray, Rashied Ali và Ed Blackwell), <strong>Free Jazz</strong> giải phóng âm nhạc khỏi sự ràng buộc của nhịp phách cố định (fixed tempo) và cấu trúc hợp âm truyền thống.</p>\n      <p>Trong Free Jazz, bạn không 'đếm nhịp' — bạn vẽ tranh bằng âm thanh. Bạn tư duy về:\n        <ul>\n          <li><strong>Mật độ (Density):</strong> Thưa thớt như giọt sương mai hay dày đặc như cơn bão tuyết.</li>\n          <li><strong>Màu sắc (Color/Timbre):</strong> Tiếng xoa cymbals, tiếng vuốt mặt trống, tiếng cào viền kim loại.</li>\n          <li><strong>Xung nhịp ngầm định:</strong> Không có nhịp cố định nhưng các sự kiện âm thanh gợi mở một dòng chảy thời gian hữu cơ.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Thực hiện bài tập mật độ 30 giây: từ thưa thớt → dày đặc → thưa thớt mà không rơi vào nhịp cố định",
+      "Bài tập màu sắc: kết hợp tương phản ít nhất 3 âm sắc độc đáo (xoa cymbals, snare buzz, vê toms) trong một đoạn liên tục",
+      "Đoạn diễn xướng ngầm định xung nhịp: không có tempo cụ thể nhưng người nghe cảm nhận được dòng chảy thời gian",
+      "Đoạn ngẫu hứng thuần chất cấu trúc và màu sắc kéo dài 60 giây hoàn toàn tự do"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bài Tập Mật Độ (Thưa Thớt → Dày Đặc → Thưa Thớt)",
+        "tip": "Bắt đầu với những cú chạm nhẹ rải rác, từ từ dồn dập các nốt thành một bức tường âm thanh cuồn cuộn, rồi hạ màn lắng dịu."
+      },
+      {
+        "title": "2 — Bài Tập Màu Sắc (Ba Âm Sắc Tương Phản)",
+        "tip": "Khai thác tối đa các góc cạnh của bộ trống: dùng chuông cymbals, gõ vào thân gỗ của tom, cọ xát dùi lên mặt nhám của snare."
+      },
+      {
+        "title": "3 — Xung Nhịp Ngầm Định (Không Có Nhịp Nhưng Gợi Mở Nhịp)",
+        "tip": "Tạo ra những cụm tiết tấu có năng lượng đẩy người nghe cảm nhận được một phách '1' giả định trong không gian."
+      },
+      {
+        "title": "4 — Khung Ngẫu Hứng Tự Do (60 Giây Không Ký Âm)",
+        "tip": "Nhắm mắt lại và để đôi tai dẫn lối trong 60 giây tự do tuyệt đối. Lắng nghe từng tần số rung động của nhạc cụ."
+      }
+    ]
+  },
+  "jazz-post-bop": {
+    "tagline": "Post-Bop — Ngôn ngữ đối thoại hiện đại giữa Tony Williams và Brian Blade",
+    "bodyHtml": "\n      <p><strong>Post-Bop</strong> định hình từ giữa thập niên 1960 qua ban ngũ tấu huyền thoại thứ hai của Miles Davis (với Wayne Shorter, Herbie Hancock, Ron Carter và thần đồng Tony Williams), sau đó được tiếp nối và phát triển rực rỡ bởi các nghệ sĩ đương đại như Brian Blade, Jeff Ballard và Marcus Gilmore.</p>\n      <p>Đặc trưng của Post-Bop là sự kết hợp nhuần nhuyễn giữa cấu trúc chặt chẽ và tự do tuyệt đối. Mẫu ride biến đổi liên tục, chân kick trở thành một giọng hát giai điệu độc lập, và những câu comping môtip đóng vai trò mỏ neo định hướng cho cả dàn nhạc.</p>\n    ",
+    "graduationCriteria": [
+      "Chơi thành thục 3 biến thể ride riêng biệt theo yêu cầu (khác biệt rõ nét với mẫu skip thông thường)",
+      "Mẫu 4 ô nhịp với chân kick biến hóa giai điệu — khác nhau ở mỗi ô nhịp — dưới lá ride kiên định",
+      "Sử dụng câu môtip phong cách Brian Blade làm mỏ neo trong cấu trúc 8 ô nhịp lặp lại sau mỗi 2 ô",
+      "Câu comping trên snare tiếp diễn liên tục không gián đoạn dưới mọi biến thể của lá ride"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Biến Thể Ride A: Ride Chùm Ba Liên Hoàn",
+        "tip": "Mở rộng mẫu ride thành dòng chảy chùm ba đầy đặn hơn, tạo cảm giác bề mặt âm thanh dày và ấm áp."
+      },
+      {
+        "title": "2 — Biến Thể Ride B: Dịch Chuyển Nốt Đen Chấm Dôi",
+        "tip": "Đặt các điểm nhấn của cymbals ride cách nhau mỗi nốt đen chấm dôi, tạo hiệu ứng đa nhịp đan xen ngoạn mục."
+      },
+      {
+        "title": "3 — Biến Thể Ride C: Đảo Vị Trí Nốt Lướt",
+        "tip": "Dời nốt lướt sang các phách khác trong ô nhịp để làm mới tai nghe của ban nhạc."
+      },
+      {
+        "title": "4 — Kick Đóng Vai Trò Giai Điệu (Biến Thể 4 Ô Nhịp)",
+        "tip": "Chân phải đá những nốt trầm có cao độ và nhịp điệu phong phú như một cây kèn bass thứ hai trong dàn nhạc."
+      },
+      {
+        "title": "5 — Comping Với Môtip Mỏ Neo (Phong Cách Brian Blade)",
+        "tip": "Tạo một câu tiết tấu mỏ neo lặp lại định kỳ sau mỗi 2 ô nhịp để tạo điểm tựa cho những đoạn phiêu lãng tự do."
+      }
+    ]
+  },
+  "jazz-elvin-jones": {
+    "tagline": "Phong cách Elvin Jones — Cảm giác chùm ba móc đơn cuồn cuộn như sóng đại dương",
+    "bodyHtml": "\n      <p>Không ai định nghĩa lại bản chất của tiếng trống Jazz mạnh mẽ bằng <strong>Elvin Jones</strong> — thành viên của tứ tấu huyền thoại John Coltrane Quartet (tác giả của những tuyệt phẩm như <em>A Love Supreme, Crescent</em>). Lối chơi của ông được ví như 'một con sóng thần của nhịp điệu', cuồn cuộn, mãnh liệt nhưng vô cùng uyển chuyển.</p>\n      <p>Cốt lõi trong nghệ thuật của Elvin là <strong>dòng chảy chùm ba liên tục (rolling triplet feel)</strong>. Mọi chi trên cơ thể ông — từ chiếc ride ngân vang, chiếc snare đanh thép đến cú đá kick rung chuyển — đều vận hành như những đợt sóng trùng điệp lồng ghép vào nhau trong một cấu trúc phức điệu 3 đấu 2 kỳ ảo.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride chùm ba kết hợp snare ở nốt chùm ba thứ hai của phách 2 và 4 duy trì ở ♩=100 trong 2 phút",
+      "Tiếng kick cuộn sóng ở nốt thứ nhất và thứ ba của chùm ba duy trì bền bỉ dưới lá ride",
+      "Cảm giác chùm ba toàn diện (cả ride, snare, kick cùng tham gia dòng chảy) ở ♩=85 — ngọn lửa âm ỉ mãnh liệt",
+      "Thể hiện rõ cảm giác ngầm định 3 đấu 2 — người nghe có thể vỗ tay theo phách 2 trên nền chùm ba"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nền Tảng Ride Chùm Ba Cuộn Sóng",
+        "tip": "Chơi mẫu ride với các nốt chùm ba liên hoàn mượt mà ở ♩=100. Cảm nhận độ tròn trịa và sự liên kết không đứt đoạn của từng nốt nhạc."
+      },
+      {
+        "title": "2 — Snare ở Nốt Chùm Ba Thứ Hai",
+        "tip": "Gõ snare vào nốt ở giữa của chùm ba móc đơn ở phách 2 và 4. Vị trí nốt độc đáo này tạo nên độ nhún nhảy kỳ ảo thương hiệu của Elvin."
+      },
+      {
+        "title": "3 — Kick Cuộn Sóng Trên Các Nốt Chùm Ba",
+        "tip": "Chân kick đạp vào nốt thứ nhất và nốt thứ ba của chùm ba. Lắng nghe sự hòa quyện giữa âm trầm của kick và âm cao của ride."
+      },
+      {
+        "title": "4 — Cảm Giác Chùm Ba Toàn Diện (Ngọn Lửa Âm Ỉ)",
+        "tip": "Hạ tốc độ xuống ♩=85 và để cả bộ trống cùng rung chuyển trong dòng thác chùm ba đầy nội lực và cảm xúc."
+      },
+      {
+        "title": "5 — Cảm Giác Phức Điệu 3 Đấu 2 Ngầm Định",
+        "tip": "Lồng ghép cảm giác 2 phách lớn đối đầu với 3 phách con, tạo ra một trường lực căng nhịp điệu cuốn hút không thể cưỡng lại."
+      }
+    ]
+  },
+  "jazz-tony-williams": {
+    "tagline": "Phong cách Tony Williams — Ride nốt đen uy lực, hi-hat như ride thứ hai, tạo kịch tính bằng khoảng lặng",
+    "bodyHtml": "\n      <p>Gia nhập ban nhạc của Miles Davis khi mới 17 tuổi, <strong>Tony Williams</strong> đã vĩnh viễn thay đổi lịch sử trống hiện đại. Ông mang đến một tư duy hoàn toàn mới: tiếng cymbals ride nốt đen đanh thép, chiếc hi-hat được sử dụng như một nhạc cụ độc lập thứ hai, và sự dũng cảm tột cùng trong việc sử dụng khoảng lặng để tạo ra kịch tính tột bậc.</p>\n      <p>Lối comping của Tony đầy tính tấn công, sắc lẹm với độ tương phản động lực cực lớn (từ tiếng nổ rim-shot xé toạc không gian đến những nốt ma êm ru). Học phong cách Tony Williams là học cách làm chủ năng lượng và sự tự tin tuyệt đối sau bộ trống.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu ride nốt đen ở tốc độ ♩=200 duy trì trong 2 phút — thôi thúc, uy lực chứ không đơn điệu như tiếng máy gõ nhịp",
+      "Tay trái trên hi-hat chơi cùng mẫu skip với ride đồng thời (hai giọng ride song hành) ở ♩=140",
+      "Comping snare tấn công mạnh mẽ với độ tương phản sắc bén (trọng âm lớn xen lẫn nốt đệm nhẹ) ở ♩=160",
+      "Đoạn nhạc 4 ô nhịp nơi kịch tính dâng trào thông qua khoảng lặng tĩnh mịch thay vì đánh nhiều nốt"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Ride Nốt Đen Thôi Thúc Uy Lực",
+        "tip": "Chơi 4 nốt đen trên ride ở ♩=200 với một thái độ kiên định, rắn rỏi. Mỗi nốt đánh xuống là một tuyên ngôn về thời gian."
+      },
+      {
+        "title": "2 — Hi-Hat Như Giọng Ride Thứ Hai",
+        "tip": "Dùng tay trái chơi trên mặt hi-hat bán mở cùng mẫu câu với lá ride bên tay phải. Tạo nên âm thanh dày dặn và hiện đại."
+      },
+      {
+        "title": "3 — Comping Snare Tấn Công Táo Bạo",
+        "tip": "Đưa ra những cú rim-shot nảy lửa xen kẽ nốt ma ở tốc độ ♩=160. Độ tương phản âm lượng phải thật sự rõ rệt và bùng nổ."
+      },
+      {
+        "title": "4 — Kịch Tính Bằng Khoảng Lặng (Cụm 4 Ô Nhịp)",
+        "tip": "Thực hành dừng lại đột ngột trong 2 phách rồi dội lại bằng một cú crash sấm sét. Khoảng lặng chính là nốt nhạc uy lực nhất."
+      },
+      {
+        "title": "5 — Vốn Từ Vựng Thời Kỳ Miles Davis (Tổng Hợp)",
+        "tip": "Tổng hòa tất cả các yếu tố: ride nốt đen, hi-hat mở, comping bùng nổ và khoảng trống đầy ma mị của thời kỳ 'Nefertiti'."
+      }
+    ]
+  },
+  "jazz-modern-jazz": {
+    "tagline": "Đỉnh cao Jazz Hiện đại (Capstone) — Swing linh hoạt, broken-time và giai điệu snare",
+    "bodyHtml": "\n      <p>Bài học tốt nghiệp của Track Jazz tổng hợp toàn bộ tinh hoa của hơn một thế kỷ phát triển nghệ thuật trống Jazz: từ nhịp swing truyền thống của New Orleans, sự tinh quái của Bebop, tính cuộn sóng của Elvin Jones, sự sắc bén của Tony Williams, cho đến nét phóng khoáng, đầy chất thơ của các nghệ sĩ thế kỷ 21 như Brian Blade, Bill Stewart, Jorge Rossy và Kendrick Scott.</p>\n      <p>Tại đây, ranh giới giữa người đệm và người solo hoàn toàn biến mất. Bạn sẽ điều khiển một cấu trúc 12 ô nhịp (Blues form) bằng sự linh hoạt tuyệt đối: chuyển dịch độ nghiêng của nốt swing (swing placement), phá vỡ thời gian bằng broken-time, và đối thoại giai điệu đa chiều giữa snare và kick.</p>\n    ",
+    "graduationCriteria": [
+      "Nắm vững và triển khai 3 câu môtip mỏ neo phong cách Brian Blade trong ngữ cảnh comping thực tế",
+      "Khả năng co giãn Swing linh hoạt — chuyển từ móc đơn thẳng sang swing chùm ba sâu trong 4 ô nhịp mà không lệch nhịp",
+      "Làm chủ Broken Time trong khuôn khổ 12 ô nhịp Blues: giữ trọn cấu trúc dù lá ride biến mất cả ô nhịp",
+      "Cuộc đối thoại giai điệu hoàn chỉnh: snare và kick đối đáp qua lại như hai nhạc công solo độc lập trong 4 ô nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bài Tập Câu A: Hình Tượng Mỏ Neo (Cấu Trúc Phong Cách Brian Blade)",
+        "tip": "Xây dựng câu môtip mỏ neo vững chãi làm điểm tựa tinh thần xuyên suốt bài nhạc."
+      },
+      {
+        "title": "2 — Bài Tập Câu B: Dồn Dập và Giải Tỏa",
+        "tip": "Tạo một chuỗi nốt dồn dập nhiều màu sắc rồi tiếp đất êm đềm vào đầu phách."
+      },
+      {
+        "title": "3 — Bài Tập Câu C: Đối Thoại Snare và Kick",
+        "tip": "Để tay trái trên snare và chân phải trên kick tung hứng qua lại như hai ca sĩ đang hát đối đáp."
+      },
+      {
+        "title": "4 — Bài Tập Câu D: Co Giãn Độ Nghiêng Swing Linh Hoạt",
+        "tip": "Thử nghiệm thay đổi độ trễ của nốt lướt: lúc thẳng thớm như Jazz hiện đại châu Âu, lúc trĩu nặng chùm ba như Blues miền Nam nước Mỹ."
+      },
+      {
+        "title": "5 — Bài Tập Tốt Nghiệp: Cấu Trúc 12 Ô Nhịp Hoàn Chỉnh",
+        "tip": "Kết hợp tất cả các kỹ năng và câu nhạc đã học vào một vòng 12 ô nhịp trọn vẹn. Chơi với tâm hồn tự do và niềm tự hào của một nghệ sĩ trống Jazz thực thụ."
+      }
+    ]
+  }
+}

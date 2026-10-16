@@ -1,0 +1,169 @@
+{
+  "site": {
+    "title": "Drum Town — Free Drum Lessons with Real Notation",
+    "description": "Free drum lessons with real notation and audio playback — a full curriculum from your first backbeat to advanced vocabulary across rock, jazz, funk, Latin, fusion, metal, and hip-hop."
+  },
+  "skip": {
+    "content": "Skip to content",
+    "exercises": "Skip to exercises",
+    "chapters": "Jump to a chapter",
+    "footer": "Skip to footer"
+  },
+  "nav": {
+    "foundations": "Foundations",
+    "genres": "Genres",
+    "mastery": "Other Topics",
+    "rudiments": "Rudiments",
+    "metronome": "Metronome",
+    "theme_toggle_dark": "Switch to dark theme",
+    "theme_toggle_light": "Switch to light theme",
+    "menu": "Menu",
+    "menu_close": "Close menu"
+  },
+  "metronome": {
+    "pill": {
+      "stopped": "Metronome, {bpm} beats per minute, stopped",
+      "running": "Metronome, {bpm} beats per minute, running",
+      "paused": "Metronome, {bpm} beats per minute, paused"
+    },
+    "dock": {
+      "bpm": "BPM",
+      "tempo": "Tempo",
+      "meter": "Meter",
+      "beat": "Beat",
+      "volume": "Volume",
+      "start": "Start metronome",
+      "stop": "Stop metronome",
+      "resume": "Play, resume metronome at {bpm} BPM",
+      "collapse": "Collapse metronome",
+      "status_armed": "Paused. Press play.",
+      "bpm_label": "BPM, tempo in beats per minute",
+      "tempo_label": "Tempo slider",
+      "meter_label": "Meter, beats per bar"
+    },
+    "page": {
+      "eyebrow": "Tool",
+      "hero_title": "The <em>Metronome</em>",
+      "lede": "Every page on Drum Town carries a metronome — the tempo pill in the header opens it. Tap the pill and the controls appear across the bottom of the screen. Set a tempo, pick a time signature, and press play. This page is about using it well.",
+      "open_btn": "Open the metronome",
+      "jump_btn": "Jump to the metronome",
+      "quick_start": "Quick Start",
+      "quick_start_desc": "Tap the tempo pill in the header to open the metronome along the bottom of the screen. Type a tempo (or drag the slider), choose beats per bar — 2/4 through 7/8 — and press play. The first beat of each bar is accented so you always know where \"1\" is.",
+      "what_tempo": "What Tempo Should I Practice At?",
+      "item_new": "Learning something new:",
+      "item_new_desc": "slower than feels necessary — ♩ = 50–70. If it feels boring, it's right. (See <a href=\"/lessons/slow-practice/\">Slow Practice</a>.)",
+      "item_clean": "Cleaning something up:",
+      "item_clean_desc": "10 BPM below the tempo where it falls apart, then move up in small steps.",
+      "item_speed": "Building speed:",
+      "item_speed_desc": "raise the tempo ~10% only after a passage is 100% clean for two unbroken minutes.",
+      "three_games": "Three Metronome Games",
+      "three_games_desc": "A click doesn't have to mark every beat. Three ways to make it harder and more useful, from <a href=\"/lessons/metronome-practice/\">Practicing with a Metronome</a>:",
+      "game_2_4": "Click on 2 and 4",
+      "game_2_4_desc": "halve the tempo and hear the click as the backbeat. The click becomes a bandmate instead of a ruler.",
+      "game_bar": "Click once per bar",
+      "game_bar_desc": "you hold the time for three beats alone and the click grades you on beat 1.",
+      "game_subdiv": "Subdivision check",
+      "game_subdiv_desc": "play 8ths or 16ths against a quarter click and listen for the notes between clicks drifting.",
+      "dock_follow": "The metronome follows you to every lesson on the site. The sound does not: a browser only lets audio start from a tap on the page you are looking at, so opening a new lesson pauses the click. The dock comes back open with your tempo and meter still set and the play button waiting — one press and it is running again."
+    }
+  },
+  "footer": {
+    "motto": "The door's open. Bring sticks.",
+    "fine": "A free town for learning the drums. No accounts, no sign-ups — your progress lives in your own browser.",
+    "lessons_heading": "Lessons",
+    "reference_heading": "Reference",
+    "town_heading": "The town",
+    "foundations": "Foundations",
+    "genre_tracks": "Genre tracks",
+    "other_topics": "Other topics",
+    "the_rudiments": "The {count} rudiments",
+    "the_metronome": "The metronome",
+    "start_lesson_one": "Start at lesson one",
+    "base_stats": "drum.town · {lessons} lessons · {exercises} playable exercises · {rudiments} rudiments · notation rendered with VexFlow at build time · built on Eleventy"
+  },
+  "exercise": {
+    "drum_kit_sound": "Drum kit sound",
+    "electronic": "Electronic",
+    "acoustic": "Acoustic",
+    "play": "Play",
+    "stop": "Stop",
+    "loading": "Loading",
+    "play_label": "Play exercise",
+    "stop_label": "Stop exercise",
+    "loading_label": "Loading samples",
+    "default_title": "Exercise",
+    "open_full_lesson": "Open the full lesson →",
+    "drum_notation": "Drum notation"
+  },
+  "home": {
+    "eyebrow": "drum.town · a free town for learning the drums",
+    "hero_title": "The whole town practices to the same <em>clock.</em>",
+    "hero_dek": "A complete curriculum you can walk: <strong>{lessons} lessons</strong> with real notation you can press play on, <strong>{exercises} exercises</strong>, <strong>40 rudiments</strong> — free, in your browser, no sign-up.",
+    "start_cta": "Start here — your first lesson",
+    "continue_cta": "Continue —",
+    "town_remembers": "<strong>The town remembers.</strong> Your progress lives in this browser — no account, nothing to join.",
+    "last_stop": "That's the last stop on the walk. <a href=\"https://github.com/dylanpjenkins/drum-town/issues\">What should the town build next? →</a>",
+    "walked_all": "You've walked every street in town. <a href=\"https://github.com/dylanpjenkins/drum-town/issues\">What should the town build next? →</a>",
+    "legend": "✓ streets you've walked · ● you are here · ○ still to visit",
+    "chapters_panel_title": "Chapters",
+    "chapters_panel_close": "Close",
+    "chapter_x_of_y": "Chapter {current} of {total}",
+    "n_lessons": "{count} lessons",
+    "other_topics": "Other Topics",
+    "visited": "visited",
+    "current_lesson": "current lesson"
+  },
+  "lesson": {
+    "breadcrumb_root": "Lessons",
+    "foundations": "Foundations",
+    "other_topics": "Other Topics",
+    "duration": "Duration: ",
+    "focus": "Focus: ",
+    "prerequisites": "Prerequisites",
+    "exercises_heading": "Exercises",
+    "move_on_when": "Move on when",
+    "listening_eyebrow": "Listening",
+    "listening_records": "{count} record",
+    "listening_records_plural": "{count} records",
+    "listen_for_it": "Listen for it",
+    "where_next": "Where Next",
+    "stub_title": "This lesson is scaffolded, not yet written",
+    "stub_desc": "The curriculum includes this lesson, but the full content — exercises, notation, listening recommendations — hasn't been authored yet.",
+    "back_to_curriculum": "← Back to the curriculum"
+  },
+  "sidebar": {
+    "in_this_chapter": "In this chapter",
+    "all_sections": "← All sections",
+    "sections": "Sections",
+    "all_paths": "All paths",
+    "curriculum_home": "← Curriculum home",
+    "section_1": "Section I",
+    "section_2": "II · Genre",
+    "section_3": "Section III"
+  },
+  "genre": {
+    "breadcrumb_root": "Lessons",
+    "breadcrumb_genres": "Genres",
+    "level": "Level {level}",
+    "n_lessons": "{count} lessons"
+  },
+  "rudiments": {
+    "eyebrow": "Reference",
+    "hero_title": "The 40 Essential <em>Rudiments</em>",
+    "lede": "Every one of the forty standard rudiments — rolls, paradiddles, flams, and drags — rendered as real notation. Press play to hear any of them; where we have a full lesson, it's linked right on the card.",
+    "family_x_of_y": "Family {current} of {total} · {count} rudiments",
+    "intro": "Rudiments are to drumming what scales are to piano: small, repeatable sticking patterns that turn into fills, grooves, and solos once they're automatic. The Percussive Arts Society standardized forty of them, in the four families below. You don't need all forty at once — start with the single stroke roll, double stroke roll, and single paradiddle, then work outward. A practice pad and a metronome are all you need."
+  },
+  "error404": {
+    "eyebrow": "404",
+    "title": "Page not found",
+    "lede": "That page doesn't exist — maybe a lesson moved, or the URL has a typo.",
+    "back_btn": "Back to the lessons",
+    "rudiments_btn": "The 40 rudiments"
+  },
+  "lang": {
+    "switch_label": "Select language",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  }
+}

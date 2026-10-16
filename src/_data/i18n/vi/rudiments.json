@@ -1,0 +1,342 @@
+{
+  "groups": {
+    "roll-rudiments": {
+      "title": "Kỹ thuật Roll (Đánh cuộn liên tục)",
+      "blurb": "Mười lăm kỹ thuật rudiment được xây dựng từ cú đánh đơn, đánh nảy nhiều lần và đánh đôi. Nhóm đánh đôi — các bài cuộn theo số nốt — được đặt tên theo tổng số cú đánh, bao gồm cả phần cuộn lẫn cú đánh kết thúc."
+    },
+    "diddle-rudiments": {
+      "title": "Kỹ thuật Diddle (Đảo tay kết hợp)",
+      "blurb": "Bốn kỹ thuật paradiddle kinh điển kết hợp giữa cú đánh đơn và đánh đôi: R L R R và L R L L. Nền tảng cốt lõi mở ra khả năng phối hợp tự do giữa hai tay trên khắp bộ trống."
+    },
+    "flam-rudiments": {
+      "title": "Kỹ thuật Flam (Nốt hoa mỹ)",
+      "blurb": "Mười ba kỹ thuật rudiment bắt đầu bằng một nốt phụ nhẹ (grace note) rơi ngay sát trước nốt chính: lR hoặc rL. Mang đến độ dày âm sắc và độ đanh vang cho từng cú gõ."
+    },
+    "drag-rudiments": {
+      "title": "Kỹ thuật Drag (Nốt vuốt kéo)",
+      "blurb": "Tám kỹ thuật rudiment sử dụng hai nốt đệm phụ đánh đôi lướt nhanh trước nốt chính: llR hoặc rrL. Đem lại cảm giác luyến láy giòn tan và sự tinh tế đặc trưng của bộ gõ."
+    }
+  },
+  "items": {
+    "1": {
+      "name": "Single Stroke Roll (Đánh đơn liên tục)",
+      "description": "Các cú đánh luân phiên — R L R L — hoàn toàn đồng đều về âm lượng và khoảng cách thời gian. Mọi câu báo trống và những pha chạy nốt thần tốc trên bộ trống đều bắt nguồn từ chuyển động này.",
+      "card": {
+        "description": "Các cú đánh luân phiên — R L R L — hoàn toàn đồng đều về âm lượng và khoảng cách thời gian. Mọi câu báo trống và những pha chạy nốt thần tốc trên bộ trống đều bắt nguồn từ chuyển động này.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "2": {
+      "name": "Single Stroke Four (Đánh đơn cụm bốn)",
+      "description": "Bốn cú đánh luân phiên được xếp thành một cụm liên ba chảy vào phách mạnh — R L R L. Cú dứt điểm kinh điển thường dùng để kết thúc một câu báo trống.",
+      "card": {
+        "description": "Bốn cú đánh luân phiên được xếp thành một cụm liên ba chảy vào phách mạnh — R L R L. Cú dứt điểm kinh điển thường dùng để kết thúc một câu báo trống.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "3": {
+      "name": "Single Stroke Seven (Đánh đơn cụm bảy)",
+      "description": "Bảy cú đánh luân phiên — một cụm liên sáu (sextuplet) tuôn trào rồi đáp xuống phách mạnh. Người anh em lớn hơn của Single Stroke Four, lấp đầy trọn vẹn một phách trước khi tiếp đất.",
+      "card": {
+        "description": "Bảy cú đánh luân phiên — một cụm liên sáu (sextuplet) tuôn trào rồi đáp xuống phách mạnh. Người anh em lớn hơn của Single Stroke Four, lấp đầy trọn vẹn một phách trước khi tiếp đất.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "4": {
+      "name": "Multiple Bounce Roll (Đánh nảy nhiều lần / Buzz Roll)",
+      "description": "Cú đánh buzz cuộn mượt mà: mỗi cú đánh được ấn nhẹ vào mặt trống để dùi nảy nhiều lần liên tiếp, các tiếng nảy xen kẽ gối lên nhau tạo thành một dải âm thanh ngân vang liền mạch.",
+      "card": {
+        "description": "Cú đánh buzz cuộn mượt mà: mỗi cú đánh được ấn nhẹ vào mặt trống để dùi nảy nhiều lần liên tiếp, các tiếng nảy xen kẽ gối lên nhau tạo thành một dải âm thanh ngân vang liền mạch.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "5": {
+      "name": "Triple Stroke Roll (Đánh ba liên tục)",
+      "description": "Ba cú đánh liên tiếp trên mỗi tay — R R R L L L — trong nhịp liên ba. Luyện tập khả năng nảy kiểm soát và là nền tảng để chơi câu trống phong cách jazz bằng chổi (brushes).",
+      "card": {
+        "description": "Ba cú đánh liên tiếp trên mỗi tay — R R R L L L — trong nhịp liên ba. Luyện tập khả năng nảy kiểm soát và là nền tảng để chơi câu trống phong cách jazz bằng chổi (brushes).",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "6": {
+      "name": "Double Stroke Open Roll (Đánh đôi mở)",
+      "description": "Các cú đánh đôi luân phiên — R R L L — hoàn toàn tách bạch và rõ ràng từng nốt. Khối xây dựng căn bản cho mọi kỹ thuật cuộn nốt cao cấp.",
+      "card": {
+        "description": "Các cú đánh đôi luân phiên — R R L L — hoàn toàn tách bạch và rõ ràng từng nốt. Khối xây dựng căn bản cho mọi kỹ thuật cuộn nốt cao cấp.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "7": {
+      "name": "Five Stroke Roll (Đánh cuộn 5 nốt)",
+      "description": "Hai cú đánh đôi kết thúc bằng một nốt đơn nhấn mạnh — R R L L R hoặc L L R R L. Thường được gõ mở đầu trên phách lệch (offbeat) và hạ cánh ngay tại phách mạnh đầu ô nhịp.",
+      "card": {
+        "description": "Hai cú đánh đôi kết thúc bằng một nốt đơn nhấn mạnh — R R L L R hoặc L L R R L. Thường được gõ mở đầu trên phách lệch (offbeat) và hạ cánh ngay tại phách mạnh đầu ô nhịp.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "8": {
+      "name": "Six Stroke Roll (Đánh cuộn 6 nốt)",
+      "description": "Một nốt đơn nhấn, hai cú đánh đôi nhẹ, và một nốt đơn nhấn kết thúc — R l l r r L. Kỹ thuật rudiment được sử dụng nhiều nhất trong các câu báo trống của phong cách Fusion và Gospel Chops.",
+      "card": {
+        "description": "Một nốt đơn nhấn, hai cú đánh đôi nhẹ, và một nốt đơn nhấn kết thúc — R l l r r L. Kỹ thuật rudiment được sử dụng nhiều nhất trong các câu báo trống của phong cách Fusion và Gospel Chops.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "9": {
+      "name": "Seven Stroke Roll (Đánh cuộn 7 nốt)",
+      "description": "Ba cú đánh đôi theo sau bởi một nốt đơn kết — R R L L R R L. Tự nhiên bắt đầu và kết thúc bằng cùng một tay nếu đi từ phách lệch sang phách chính.",
+      "card": {
+        "description": "Ba cú đánh đôi theo sau bởi một nốt đơn kết — R R L L R R L. Tự nhiên bắt đầu và kết thúc bằng cùng một tay nếu đi từ phách lệch sang phách chính.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "10": {
+      "name": "Nine Stroke Roll (Đánh cuộn 9 nốt)",
+      "description": "Bốn cú đánh đôi dẫn vào một nốt đơn nhấn mạnh — kéo dài đúng một phách nốt đen ở nhịp móc kép. Kỹ thuật cuộn nốt chuẩn mực nhất trong marching và nhạc kèn.",
+      "card": {
+        "description": "Bốn cú đánh đôi dẫn vào một nốt đơn nhấn mạnh — kéo dài đúng một phách nốt đen ở nhịp móc kép. Kỹ thuật cuộn nốt chuẩn mực nhất trong marching và nhạc kèn.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "11": {
+      "name": "Ten Stroke Roll (Đánh cuộn 10 nốt)",
+      "description": "Bốn cú đánh đôi kẹp giữa hai nốt đơn nhấn mạnh — R · L L R R L L R R · L. Mang tính bất đối xứng mạnh mẽ và tạo cảm giác chuyển động cuốn hút.",
+      "card": {
+        "description": "Bốn cú đánh đôi kẹp giữa hai nốt đơn nhấn mạnh — R · L L R R L L R R · L. Mang tính bất đối xứng mạnh mẽ và tạo cảm giác chuyển động cuốn hút.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "12": {
+      "name": "Eleven Stroke Roll (Đánh cuộn 11 nốt)",
+      "description": "Năm cú đánh đôi và một nốt đơn kết thúc, hoàn toàn lấp đầy một nhịp móc đơn liên ba. Giữ vai trò sống còn trong phong cách diễu hành truyền thống.",
+      "card": {
+        "description": "Năm cú đánh đôi và một nốt đơn kết thúc, hoàn toàn lấp đầy một nhịp móc đơn liên ba. Giữ vai trò sống còn trong phong cách diễu hành truyền thống.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "13": {
+      "name": "Thirteen Stroke Roll (Đánh cuộn 13 nốt)",
+      "description": "Sáu cú đánh đôi dẫn vào một nốt kết — kéo dài trọn vẹn ba phách nốt móc đơn. Thường dùng để chuyển đoạn mượt mà giữa các phân khúc bài nhạc.",
+      "card": {
+        "description": "Sáu cú đánh đôi dẫn vào một nốt kết — kéo dài trọn vẹn ba phách nốt móc đơn. Thường dùng để chuyển đoạn mượt mà giữa các phân khúc bài nhạc.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "14": {
+      "name": "Fifteen Stroke Roll (Đánh cuộn 15 nốt)",
+      "description": "Bảy cú đánh đôi và một nốt kết thúc — lấp đầy trọn vẹn hai phách nốt đen trong nhịp 4/4. Cú cuộn nốt dài nửa ô nhịp kinh điển.",
+      "card": {
+        "description": "Bảy cú đánh đôi và một nốt kết thúc — lấp đầy trọn vẹn hai phách nốt đen trong nhịp 4/4. Cú cuộn nốt dài nửa ô nhịp kinh điển.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "15": {
+      "name": "Seventeen Stroke Roll (Đánh cuộn 17 nốt)",
+      "description": "Tám cú đánh đôi nối vào một nốt kết đơn — trải dài trọn vẹn một ô nhịp nhịp 4/4 ở tốc độ trung bình. Thử thách tối thượng về độ bền và tính chuẩn xác của kỹ thuật đánh đôi.",
+      "card": {
+        "description": "Tám cú đánh đôi nối vào một nốt kết đơn — trải dài trọn vẹn một ô nhịp nhịp 4/4 ở tốc độ trung bình. Thử thách tối thượng về độ bền và tính chuẩn xác của kỹ thuật đánh đôi.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "16": {
+      "name": "Single Paradiddle (Đánh đảo tay đơn)",
+      "description": "Kỹ thuật hai cú đánh đơn kèm một cú đánh đôi — R L R R · L R L L. Nền tảng thay đổi cuộc đời của mọi tay trống, cho phép tay dẫn đầu đảo chiều linh hoạt.",
+      "card": {
+        "description": "Kỹ thuật hai cú đánh đơn kèm một cú đánh đôi — R L R R · L R L L. Nền tảng thay đổi cuộc đời của mọi tay trống, cho phép tay dẫn đầu đảo chiều linh hoạt.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "17": {
+      "name": "Double Paradiddle (Đánh đảo tay đôi)",
+      "description": "Bốn cú đánh đơn theo sau bởi một cú đánh đôi — R L R L R R · L R L R L L. Tự nhiên vừa vặn hoàn hảo trong nhịp liên ba (triplet) hoặc nhịp 6/8.",
+      "card": {
+        "description": "Bốn cú đánh đơn theo sau bởi một cú đánh đôi — R L R L R R · L R L R L L. Tự nhiên vừa vặn hoàn hảo trong nhịp liên ba (triplet) hoặc nhịp 6/8.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "18": {
+      "name": "Triple Paradiddle (Đánh đảo tay ba)",
+      "description": "Sáu cú đánh đơn luân phiên rồi kết thúc bằng một cú đánh đôi — R L R L R L R R. Tạo ra những cụm tiết tấu trải dài tự nhiên qua nhiều ô nhịp.",
+      "card": {
+        "description": "Sáu cú đánh đơn luân phiên rồi kết thúc bằng một cú đánh đôi — R L R L R L R R. Tạo ra những cụm tiết tấu trải dài tự nhiên qua nhiều ô nhịp.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "19": {
+      "name": "Paradiddle-Diddle (Đảo tay kết hợp hai cú đánh đôi)",
+      "description": "Hai cú đánh đơn theo sau bởi hai cú đánh đôi liên tiếp — R L R R L L. Vũ khí lợi hại bậc nhất để tạo nên các câu báo trống mượt như nhung ở tốc độ cao.",
+      "card": {
+        "description": "Hai cú đánh đơn theo sau bởi hai cú đánh đôi liên tiếp — R L R R L L. Vũ khí lợi hại bậc nhất để tạo nên các câu báo trống mượt như nhung ở tốc độ cao.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "20": {
+      "name": "Flam (Cú đánh hoa mỹ)",
+      "description": "Một nốt phụ gõ nhẹ ngay sát trước nốt chính — lR hoặc rL. Hai đầu dùi chạm mặt trống cách nhau một phần nghìn giây, tạo nên một tiếng nổ dày và đanh.",
+      "card": {
+        "description": "Một nốt phụ gõ nhẹ ngay sát trước nốt chính — lR hoặc rL. Hai đầu dùi chạm mặt trống cách nhau một phần nghìn giây, tạo nên một tiếng nổ dày và đanh.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "21": {
+      "name": "Flam Accent (Flam có nhấn)",
+      "description": "Cú đánh Flam ở đầu cụm ba nốt móc đơn — lR L R · rL R L. Chuẩn mực cổ điển trong các bài tập diễu hành và là rãnh nhịp liên ba giàu sức biểu cảm.",
+      "card": {
+        "description": "Cú đánh Flam ở đầu cụm ba nốt móc đơn — lR L R · rL R L. Chuẩn mực cổ điển trong các bài tập diễu hành và là rãnh nhịp liên ba giàu sức biểu cảm.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "22": {
+      "name": "Flam Tap (Flam kết hợp gõ đệm)",
+      "description": "Cú đánh Flam theo sau bởi một nốt gõ cùng tay — lR R · rL L. Rèn luyện khả năng kiểm soát độ cao đầu dùi sau cú đánh nhấn.",
+      "card": {
+        "description": "Cú đánh Flam theo sau bởi một nốt gõ cùng tay — lR R · rL L. Rèn luyện khả năng kiểm soát độ cao đầu dùi sau cú đánh nhấn.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "23": {
+      "name": "Flamacue",
+      "description": "Một kỹ thuật Flam mở đầu, tiếp theo là một nốt đơn nhấn mạnh ở phách thứ hai — lR L R L lR. Điểm độc đáo là nốt nhấn mạnh lại rơi vào nốt móc kép thứ hai chứ không phải nốt đầu.",
+      "card": {
+        "description": "Một kỹ thuật Flam mở đầu, tiếp theo là một nốt đơn nhấn mạnh ở phách thứ hai — lR L R L lR. Điểm độc đáo là nốt nhấn mạnh lại rơi vào nốt móc kép thứ hai chứ không phải nốt đầu.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "24": {
+      "name": "Flam Paradiddle (Flam đảo tay)",
+      "description": "Một cú đánh Single Paradiddle với nốt đầu tiên được biến tấu thành Flam — lR L R R · rL R L L. Mang lại sức sống mới cho khuôn mẫu đảo tay quen thuộc.",
+      "card": {
+        "description": "Một cú đánh Single Paradiddle với nốt đầu tiên được biến tấu thành Flam — lR L R R · rL R L L. Mang lại sức sống mới cho khuôn mẫu đảo tay quen thuộc.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "25": {
+      "name": "Single Flammed Mill (Flam cối xay đơn)",
+      "description": "Một cú đánh paradiddle đảo ngược (R R L R) bắt đầu bằng Flam — lR R L R · rL L R L. Đưa cú đánh đôi lên ngay đầu cụm tiết tấu.",
+      "card": {
+        "description": "Một cú đánh paradiddle đảo ngược (R R L R) bắt đầu bằng Flam — lR R L R · rL L R L. Đưa cú đánh đôi lên ngay đầu cụm tiết tấu.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "26": {
+      "name": "Flam Paradiddle-Diddle",
+      "description": "Kỹ thuật Paradiddle-Diddle bắt đầu bằng cú đánh Flam uy lực — lR L R R L L. Rất phổ biến khi dứt điểm câu solo trên dàn trống.",
+      "card": {
+        "description": "Kỹ thuật Paradiddle-Diddle bắt đầu bằng cú đánh Flam uy lực — lR L R R L L. Rất phổ biến khi dứt điểm câu solo trên dàn trống.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "27": {
+      "name": "Pataflafla",
+      "description": "Bốn nốt móc đơn xen kẽ hai cú đánh Flam ở nốt số 1 và số 4 — lR L R rL. Tạo cảm giác lộc cộc vó ngựa phi vô cùng đặc trưng.",
+      "card": {
+        "description": "Bốn nốt móc đơn xen kẽ hai cú đánh Flam ở nốt số 1 và số 4 — lR L R rL. Tạo cảm giác lộc cộc vó ngựa phi vô cùng đặc trưng.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "28": {
+      "name": "Swiss Army Triplet (Liên ba kiểu quân đội Thụy Sĩ)",
+      "description": "Cú đánh Flam tay phải, tiếp theo là tay phải gõ đơn, rồi đến tay trái — lR R L. Không bao giờ đổi tay dẫn, giúp bạn đánh liên ba cực nhanh và ổn định.",
+      "card": {
+        "description": "Cú đánh Flam tay phải, tiếp theo là tay phải gõ đơn, rồi đến tay trái — lR R L. Không bao giờ đổi tay dẫn, giúp bạn đánh liên ba cực nhanh và ổn định.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "29": {
+      "name": "Inverted Flam Tap (Flam Tap đảo ngược)",
+      "description": "Cú đánh Flam theo sau bởi một nốt phụ cùng tay đánh nốt hoa mỹ — lR L · rL R. Một trong những bài tập tốt nhất để làm chủ độ độc lập của ngón tay.",
+      "card": {
+        "description": "Cú đánh Flam theo sau bởi một nốt phụ cùng tay đánh nốt hoa mỹ — lR L · rL R. Một trong những bài tập tốt nhất để làm chủ độ độc lập của ngón tay.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "30": {
+      "name": "Flam Drag (Flam kết hợp vuốt Drag)",
+      "description": "Cú đánh Flam dẫn thẳng vào một cú vuốt đôi drag — lR llR L. Sự hòa quyện giữa hai kỹ thuật hoa mỹ tinh tế bậc nhất.",
+      "card": {
+        "description": "Cú đánh Flam dẫn thẳng vào một cú vuốt đôi drag — lR llR L. Sự hòa quyện giữa hai kỹ thuật hoa mỹ tinh tế bậc nhất.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "31": {
+      "name": "Drag (Cú vuốt nốt Drag / Ruff)",
+      "description": "Hai nốt phụ đánh đôi gõ thật nhẹ lướt vào nốt chính — llR hoặc rrL. Mang lại âm thanh giòn và dày dặn hơn cả cú đánh Flam.",
+      "card": {
+        "description": "Hai nốt phụ đánh đôi gõ thật nhẹ lướt vào nốt chính — llR hoặc rrL. Mang lại âm thanh giòn và dày dặn hơn cả cú đánh Flam.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "32": {
+      "name": "Single Drag Tap (Drag đơn kèm gõ nốt)",
+      "description": "Một cú vuốt Drag theo sau bởi một nốt gõ nhấn luân phiên — llR L · rrL R. Thường xuất hiện trong các đoạn dạo đầu của bài nhạc jazz hoặc hành khúc.",
+      "card": {
+        "description": "Một cú vuốt Drag theo sau bởi một nốt gõ nhấn luân phiên — llR L · rrL R. Thường xuất hiện trong các đoạn dạo đầu của bài nhạc jazz hoặc hành khúc.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "33": {
+      "name": "Double Drag Tap (Drag đôi kèm gõ nốt)",
+      "description": "Hai cú vuốt Drag liên tiếp trước khi đáp vào nốt nhấn — llR llR L. Thử thách khả năng thả lỏng cổ tay khi thực hiện nhiều cú nảy liên tiếp.",
+      "card": {
+        "description": "Hai cú vuốt Drag liên tiếp trước khi đáp vào nốt nhấn — llR llR L. Thử thách khả năng thả lỏng cổ tay khi thực hiện nhiều cú nảy liên tiếp.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "34": {
+      "name": "Lesson 25 (Bài học số 25)",
+      "description": "Kỹ thuật kinh điển mang tính lịch sử: hai nốt móc kép dẫn vào một cú Drag và kết thúc bằng nốt đơn — R L rrL R. Giữ nguyên tên gọi truyền thống từ thời kỳ đầu của hội PAS.",
+      "card": {
+        "description": "Kỹ thuật kinh điển mang tính lịch sử: hai nốt móc kép dẫn vào một cú Drag và kết thúc bằng nốt đơn — R L rrL R. Giữ nguyên tên gọi truyền thống từ thời kỳ đầu của hội PAS.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "35": {
+      "name": "Single Dragadiddle (Drag đảo tay đơn)",
+      "description": "Kỹ thuật Paradiddle bắt đầu bằng cú vuốt Drag ở nốt đầu tiên — llR L R R · rrL R L L. Tạo độ bật nảy bất ngờ cho rãnh nhịp.",
+      "card": {
+        "description": "Kỹ thuật Paradiddle bắt đầu bằng cú vuốt Drag ở nốt đầu tiên — llR L R R · rrL R L L. Tạo độ bật nảy bất ngờ cho rãnh nhịp.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "36": {
+      "name": "Drag Paradiddle #1",
+      "description": "Một nốt đơn nhấn, một cú vuốt Drag, rồi đến một cú paradiddle — R llR L R R. Sự phối hợp đa dạng giữa các tầng cường độ âm thanh.",
+      "card": {
+        "description": "Một nốt đơn nhấn, một cú vuốt Drag, rồi đến một cú paradiddle — R llR L R R. Sự phối hợp đa dạng giữa các tầng cường độ âm thanh.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "37": {
+      "name": "Drag Paradiddle #2",
+      "description": "Thêm một cú vuốt Drag nữa vào Drag Paradiddle #1 — R llR L llR L R R. Phức hợp tiết tấu dày đặc thử thách độ dẻo dai của đôi tay.",
+      "card": {
+        "description": "Thêm một cú vuốt Drag nữa vào Drag Paradiddle #1 — R llR L llR L R R. Phức hợp tiết tấu dày đặc thử thách độ dẻo dai của đôi tay.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "38": {
+      "name": "Single Ratamacue",
+      "description": "Một cú vuốt Drag mở đầu bốn nốt móc đơn liên ba kết thúc bằng nốt nhấn — llR L R L. Khuôn mẫu tiết tấu huyền thoại trong diễu hành và jazz cổ điển.",
+      "card": {
+        "description": "Một cú vuốt Drag mở đầu bốn nốt móc đơn liên ba kết thúc bằng nốt nhấn — llR L R L. Khuôn mẫu tiết tấu huyền thoại trong diễu hành và jazz cổ điển.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "39": {
+      "name": "Double Ratamacue",
+      "description": "Hai cú vuốt Drag liên tiếp mở đầu cụm nốt Ratamacue — llR llR L R L. Đòi hỏi độ kiểm soát khoảng cách giữa các nốt cực kỳ chặt chẽ.",
+      "card": {
+        "description": "Hai cú vuốt Drag liên tiếp mở đầu cụm nốt Ratamacue — llR llR L R L. Đòi hỏi độ kiểm soát khoảng cách giữa các nốt cực kỳ chặt chẽ.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    },
+    "40": {
+      "name": "Triple Ratamacue",
+      "description": "Ba cú vuốt Drag mở đường cho cú dứt điểm Ratamacue — llR llR llR L R L. Đỉnh cao của họ kỹ thuật Drag trong 40 rudiment quốc tế.",
+      "card": {
+        "description": "Ba cú vuốt Drag mở đường cho cú dứt điểm Ratamacue — llR llR llR L R L. Đỉnh cao của họ kỹ thuật Drag trong 40 rudiment quốc tế.",
+        "lessonLabel": "Xem bài học trọn vẹn →"
+      }
+    }
+  }
+}

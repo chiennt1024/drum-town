@@ -719,18 +719,19 @@
   function setBtnState(btn, state) {
     const icon = btn.querySelector('.play-btn__icon');
     const label = btn.querySelector('.play-btn__label');
+    const isVi = document.documentElement.lang === 'vi';
     if (state === 'playing') {
       if (icon) icon.textContent = '■';
-      if (label) label.textContent = 'Stop';
-      btn.setAttribute('aria-label', 'Stop exercise');
+      if (label) label.textContent = isVi ? 'Dừng' : 'Stop';
+      btn.setAttribute('aria-label', isVi ? 'Dừng bài tập' : 'Stop exercise');
     } else if (state === 'loading') {
       if (icon) icon.textContent = '⏳';
-      if (label) label.textContent = 'Loading';
-      btn.setAttribute('aria-label', 'Loading samples');
+      if (label) label.textContent = isVi ? 'Đang tải' : 'Loading';
+      btn.setAttribute('aria-label', isVi ? 'Đang tải âm thanh' : 'Loading samples');
     } else {
       if (icon) icon.textContent = '▶';
-      if (label) label.textContent = 'Play';
-      btn.setAttribute('aria-label', 'Play exercise');
+      if (label) label.textContent = isVi ? 'Phát' : 'Play';
+      btn.setAttribute('aria-label', isVi ? 'Phát bài tập' : 'Play exercise');
     }
   }
 

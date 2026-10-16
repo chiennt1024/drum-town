@@ -1,0 +1,177 @@
+---
+layout: base.njk
+locale: vi
+permalink: /vi/
+eleventyComputed:
+  title: "Drum Town — Học Trống Miễn Phí với Ký Âm Tương Tác"
+  description: "Các bài học trống miễn phí kèm ký âm thực tế và phát âm thanh tương tác — trọn bộ lộ trình từ nhịp đệm cơ bản đầu tiên đến kỹ thuật nâng cao."
+---
+
+{% set locCurr = curriculum | localizedCurriculum('vi') %}
+{% set locChapters = chapters | localizedChapters('vi') %}
+
+<div class="container container--wide">
+
+  {# ======================  CHAPTER PANEL  ====================== #}
+  <nav class="chapter-index" id="chapter-index" tabindex="-1" aria-label="Danh sách chương">
+    {%- for ch in locChapters %}
+    <a class="chapter-index__row" href="#{{ ch.id }}"><span class="chapter-index__num">{{ loop.index | pad2 }}</span><span class="chapter-index__title">{{ ch.title }}</span></a>
+    {%- endfor %}
+    <a class="chapter-index__row chapter-index__close" href="#main"><span class="chapter-index__num" aria-hidden="true">×</span><span class="chapter-index__title">Đóng</span></a>
+  </nav>
+
+  {# ======================  HERO  ====================== #}
+  <section class="hero">
+    <p class="eyebrow">drum.town · không gian học trống tự do và miễn phí</p>
+    <h1>Cả thị trấn cùng luyện tập theo một <em>nhịp đồng hồ.</em></h1>
+    <p class="hero__dek">Toàn bộ giáo trình theo lộ trình hoàn chỉnh: <strong>{{ locCurr | lessonCount }} bài học</strong> với ký âm thực tế có thể nhấn phát âm thanh, <strong>{{ lessonContent | exerciseCount }} bài tập</strong>, <strong>40 kỹ thuật rudiment</strong> — hoàn toàn miễn phí, ngay trên trình duyệt của bạn, không cần đăng ký.</p>
+    <div class="hero__actions">
+      <a class="btn btn--primary" href="/vi/lessons/{{ locCurr.foundations.sections[0].lessons[0].slug }}/">Bắt đầu tại đây — Bài học đầu tiên <span aria-hidden="true">→</span></a>
+      <a class="btn btn--ghost" id="cta-continue" href="#" hidden>Tiếp tục — <span data-slot="title"></span> <span aria-hidden="true">→</span></a>
+    </div>
+    <p class="hero__honesty"><strong>Trình duyệt ghi nhớ tiến độ của bạn.</strong> Dữ liệu học tập được lưu trực tiếp trên thiết bị này — không cần tài khoản, không cần đăng nhập.</p>
+    <p class="hero__honesty" id="hero-end-msg" hidden>Đó là điểm dừng cuối cùng của lộ trình. <a href="https://github.com/dylanpjenkins/drum-town/issues">Bạn muốn cộng đồng xây dựng nội dung gì tiếp theo? →</a></p>
+    <p class="hero__honesty" id="hero-completed-msg" hidden>Bạn đã hoàn thành mọi nẻo đường trong thị trấn. <a href="https://github.com/dylanpjenkins/drum-town/issues">Bạn muốn cộng đồng xây dựng nội dung gì tiếp theo? →</a></p>
+  </section>
+
+  <p class="ledger-legend">✓ bài đã học · ● bạn đang ở đây · ○ bài chưa học</p>
+
+  {# ======================  THE LEDGER  ====================== #}
+  {% set foundationsCount = locCurr.foundations.sections.length %}
+  {% set tracksCount = locCurr.tracks.length %}
+  {% set chapterTotal = foundationsCount + tracksCount + 1 %}
+
+  {% for sec in locCurr.foundations.sections %}
+    {%- set chId = locChapters[loop.index0].id %}
+    <section class="ledger" id="{{ chId }}" tabindex="-1" aria-labelledby="{{ chId }}-title">
+      <header class="ledger__head">
+        <span class="ledger__kicker">Chương {{ loop.index }} trên {{ chapterTotal }}</span>
+        <h2 class="ledger__title" id="{{ chId }}-title">{{ sec.title }}</h2>
+        <span class="ledger__count">{{ sec.lessons.length }} bài học</span>
+      </header>
+      {% if sec.tagline %}<p class="ledger__tagline">{{ sec.tagline }}</p>{% endif %}
+      <ol class="ledger__rows">
+        {% for lesson in sec.lessons %}
+          <li><a class="ledger-row" href="/vi/lessons/{{ lesson.slug }}/">
+            <span class="ledger-row__num">{{ loop.index | pad2 }}</span>
+            <span class="ledger-row__title">{{ lesson.title }}</span>
+            <span class="ledger-row__leader" aria-hidden="true"></span>
+            <span class="ledger-row__meta"><span class="ledger-row__min">{{ lessonContent[lesson.slug].duration }}</span><span class="ledger-row__mark" aria-hidden="true"></span></span>
+          </a></li>
+        {% endfor %}
+      </ol>
+    </section>
+  {% endfor %}
+
+  {% for track in locCurr.tracks %}
+    {% set trackLessons = track | flatTrackLessons %}
+    {%- set chId = locChapters[foundationsCount + loop.index0].id %}
+    <section class="ledger" id="{{ chId }}" tabindex="-1" aria-labelledby="{{ chId }}-title">
+      <header class="ledger__head">
+        <span class="ledger__kicker">Chương {{ foundationsCount + loop.index }} trên {{ chapterTotal }}</span>
+        <h2 class="ledger__title" id="{{ chId }}-title">{{ track.title }}</h2>
+        <span class="ledger__count">{{ trackLessons.length }} bài học</span>
+      </header>
+      {% if track.tagline %}<p class="ledger__tagline">{{ track.tagline }}</p>{% endif %}
+      <ol class="ledger__rows">
+        {% for lesson in trackLessons %}
+          <li><a class="ledger-row" href="/vi/lessons/{{ lesson.slug }}/">
+            <span class="ledger-row__num">{{ loop.index | pad2 }}</span>
+            <span class="ledger-row__title">{{ lesson.title }}</span>
+            <span class="ledger-row__leader" aria-hidden="true"></span>
+            <span class="ledger-row__meta"><span class="ledger-row__min">{{ lessonContent[lesson.slug].duration }}</span><span class="ledger-row__mark" aria-hidden="true"></span></span>
+          </a></li>
+        {% endfor %}
+      </ol>
+    </section>
+  {% endfor %}
+
+  {%- set chId = locChapters[chapterTotal - 1].id %}
+  <section class="ledger" id="{{ chId }}" tabindex="-1" aria-labelledby="{{ chId }}-title">
+    <header class="ledger__head">
+      <span class="ledger__kicker">Chương {{ chapterTotal }} trên {{ chapterTotal }}</span>
+      <h2 class="ledger__title" id="{{ chId }}-title">{{ locCurr.mastery.title or 'Chủ đề nâng cao' }}</h2>
+      <span class="ledger__count">{{ locCurr.mastery.lessons.length }} bài học</span>
+    </header>
+    {% if locCurr.mastery.tagline %}<p class="ledger__tagline">{{ locCurr.mastery.tagline }}</p>{% endif %}
+    <ol class="ledger__rows">
+      {% for lesson in locCurr.mastery.lessons %}
+        <li><a class="ledger-row" href="/vi/lessons/{{ lesson.slug }}/">
+          <span class="ledger-row__num">{{ loop.index | pad2 }}</span>
+          <span class="ledger-row__title">{{ lesson.title }}</span>
+          <span class="ledger-row__leader" aria-hidden="true"></span>
+          <span class="ledger-row__meta"><span class="ledger-row__min">{{ lessonContent[lesson.slug].duration }}</span><span class="ledger-row__mark" aria-hidden="true"></span></span>
+        </a></li>
+      {% endfor %}
+    </ol>
+  </section>
+
+</div>
+
+{# ======================  EMBEDDED DATA + ACTIVATION  ====================== #}
+<script type="application/json" id="lessons-data">{{ lessonsData | inlineJson | safe }}</script>
+
+<script>
+  (function () {
+    function ready(fn) {
+      if (window.DCProgress) { fn(); return; }
+      document.addEventListener('DOMContentLoaded', fn, { once: true });
+    }
+
+    ready(function () {
+      if (!window.DCProgress) return;
+      var dataEl = document.getElementById('lessons-data');
+      if (!dataEl) return;
+      var data;
+      try { data = JSON.parse(dataEl.textContent); } catch (e) { return; }
+
+      var last = DCProgress.getLastVisited();
+      var visited = DCProgress.getVisited();
+      var visitedSet = {};
+      for (var i = 0; i < visited.length; i++) visitedSet[visited[i]] = true;
+
+      function announce(row, text) {
+        var s = document.createElement('span');
+        s.className = 'sr-only';
+        s.textContent = text;
+        row.appendChild(s);
+      }
+
+      var rows = document.querySelectorAll('.ledger-row');
+      for (var j = 0; j < rows.length; j++) {
+        var href = rows[j].getAttribute('href') || '';
+        var m = href.match(/\/lessons\/([^\/]+)\/?$/);
+        if (!m) continue;
+        var slug = m[1];
+        if (visitedSet[slug]) rows[j].classList.add('is-visited');
+        if (slug === last) rows[j].classList.add('is-last-visited');
+        if (slug === last) announce(rows[j], 'bài học hiện tại');
+        else if (visitedSet[slug]) announce(rows[j], 'đã học');
+      }
+
+      if (!last) return;
+
+      var order = data.order || [];
+      var idx = order.indexOf(last);
+      if (idx === -1) return;
+
+      if (idx === order.length - 1) {
+        var walkedAll = order.length > 0 && order.every(function (s) { return visited.indexOf(s) !== -1; });
+        var msg = document.getElementById(walkedAll ? 'hero-completed-msg' : 'hero-end-msg');
+        if (msg) msg.hidden = false;
+        return;
+      }
+
+      var nextSlug = order[idx + 1];
+      var lesson = (data.bySlug || {})[nextSlug];
+      if (!lesson) return;
+
+      var cta = document.getElementById('cta-continue');
+      if (!cta) return;
+      var titleSlot = cta.querySelector('[data-slot="title"]');
+      if (titleSlot) titleSlot.textContent = lesson.title;
+      cta.setAttribute('href', '/vi/lessons/' + nextSlug + '/');
+      cta.hidden = false;
+    });
+  })();
+</script>

@@ -1,0 +1,140 @@
+{
+  "first-beat": {
+    "tagline": "Nơi khởi nguồn của rock, pop và hầu hết nền âm nhạc hiện đại",
+    "bodyHtml": "<p>Đây chính là điệu trống đã kiến tạo nên hơn một nửa nền âm nhạc đương đại: hi-hat giữ nhịp nốt móc đơn, snare dằn ở phách 2 và 4, và trống bass (kick) đặt ở phách 1 và 3. Về mặt cấu trúc, nó cực kỳ mộc mạc; nhưng về mặt âm nhạc, nó là một nguồn cảm hứng vô tận — nền móng vững chãi cho rock, pop, country và phần lớn các thể loại đại chúng.</p><p>Thay vì bắt cả bốn chi phải phối hợp ngay từ đầu, chúng ta sẽ xây dựng từng lớp một. Hãy bắt đầu bằng cách lắng nghe chiếc máy đếm nhịp và xây dựng sự vững vàng từ bên trong.</p>",
+    "exercises": [
+      {
+        "title": "1 — Chỉ đánh Hi-Hat, nhịp nốt đen",
+        "tip": "Mỗi phách gõ một tiếng hi-hat. Hãy đếm to thành tiếng: <em>1, 2, 3, 4</em>. Mục tiêu ở đây không phải là tốc độ hay biến tấu — mà là sự <em>vững chãi, đều đặn</em>. Hãy khóa chặt vào tiếng gõ của máy đếm nhịp và duy trì trạng thái đó trong hai phút trước khi sang bài tiếp theo."
+      },
+      {
+        "title": "2 — Thêm trống Bass (Kick) ở phách 1 và 3",
+        "tip": "Bây giờ chân phải bắt đầu nhập cuộc: dậm trống bass ở phách <em>1</em> và <em>3</em>. Trống kick chính là nhịp đập trái tim — nó báo cho người nghe biết ô nhịp bắt đầu từ đâu và điểm giữa ô nhịp nằm ở đâu. Tay và chân hãy cùng tiếp xúc đúng một khoảnh khắc; hãy để chúng khóa chặt vào nhau."
+      },
+      {
+        "title": "3 — Tạm bỏ Kick, thêm Snare ở phách 2 và 4",
+        "tip": "Hãy tạm dừng chân một lát và đưa tiếng trống snare vào phách <em>2</em> và <em>4</em>. Đây chính là <strong>backbeat</strong> — tiếng nổ đanh giòn phân biệt rạch ròi giữa rock/pop với một bản nhạc hành khúc. Hãy cảm nhận sức đẩy nội tại mạnh mẽ của nó ngay cả khi trống kick chưa xuất hiện trở lại."
+      },
+      {
+        "title": "4 — Đưa trống Kick trở lại",
+        "tip": "Bây giờ là sự phối hợp của ba chi: hi-hat gõ đều từng phách, kick ở <em>1</em> và <em>3</em>, snare ở <em>2</em> và <em>4</em>. Đây là <em>khung nhịp backbeat căn bản nhất</em>. Từ đây, điều duy nhất còn lại là lấp đầy các khoảng trống giữa các phách bằng một nốt hi-hat thứ hai ở mỗi nốt lệch <em>&amp;</em>."
+      },
+      {
+        "title": "5 — Nhịp Backbeat hoàn chỉnh",
+        "tip": "Hãy đếm to thành tiếng: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Snare ở phách 2 và 4 chính là <em>backbeat</em> — cú đánh mang lại linh hồn và độ nảy cho cả rãnh nhịp rock."
+      }
+    ],
+    "graduationCriteria": [
+      "Chơi lặp lại vòng nhịp Backbeat hoàn chỉnh (Bài tập 5) mượt mà trong 2 phút liên tục ở ♩=80",
+      "Tiếng trống Snare ở phách 2 và 4 rơi chuẩn xác, đanh gọn cùng tiếng click của máy đếm nhịp",
+      "Nhịp móc đơn trên Hi-hat giữ đều đặn — không bị tăng tốc hay giật mình sau mỗi cú đánh snare"
+    ],
+    "listening": [
+      {
+        "note": "Kick nốt đen, snare dằn ở 2 và 4, hi-hat móc đơn thẳng đều: bộ khung kinh điển của bài học này nằm trọn vẹn trong một trong những rãnh nhịp nổi tiếng nhất mọi thời đại, được giữ vững với kỷ luật thép."
+      },
+      {
+        "note": "Một trong những cú đánh backbeat vững chắc và dứt khoát nhất từng được thu âm. Hãy lắng nghe độ vang và sự ổn định tuyệt đối trong từng nhịp gõ."
+      }
+    ]
+  },
+  "the-drum-kit": {
+    "tagline": "Hiểu rõ từng bộ phận trước khi bắt đầu",
+    "bodyHtml": "<p>Bộ trống mộc tiêu chuẩn là sự kết hợp khéo léo giữa các loại trống có màng rung và các lá kim loại (cymbal). Mỗi nhạc cụ phục vụ một vai trò tiết tấu riêng biệt:</p><ul><li><strong>Trống Bass (Kick)</strong>: Chiếc trống to nhất đặt trên sàn, được chơi bằng bàn chân phải qua một pedal. Đây là nền tảng nhịp tim cho cả ban nhạc.</li><li><strong>Trống Snare</strong>: Đặt giữa hai đùi, có dây tem (snare wires) kim loại căng bên dưới đáy. Cho ra âm thanh đanh, giòn, dứt khoát — tạo nên nhịp backbeat.</li><li><strong>Hi-Hat</strong>: Cặp lá cymbal úp vào nhau gắn trên một chân đỡ có bàn đạp điều khiển chân trái. Đóng vai trò máy đếm thời gian chính.</li><li><strong>Dàn Tom</strong>: Các trống tạo cao độ giai điệu (High Tom, Mid Tom, Floor Tom), chủ yếu dùng cho các câu báo trống (fills).</li><li><strong>Cymbal (Crash &amp; Ride)</strong>: Lá Ride dùng để duy trì dòng chảy thời gian, lá Crash dùng để nhấn mạnh các điểm cao trào.</li></ul>"
+  },
+  "paradiddle": {
+    "tagline": "Nền tảng chuyển động luân phiên thay đổi cuộc đời mọi tay trống",
+    "bodyHtml": "<p>Kỹ thuật <strong>Single Paradiddle</strong> là sự kết hợp hoàn hảo giữa hai cú đánh đơn và một cú đánh đôi: <strong>R L R R</strong> theo sau bởi <strong>L R L L</strong>. Bằng cách thêm cú đánh đôi (diddle) vào cuối, bàn tay dẫn đầu sẽ tự động đổi từ phải sang trái sau mỗi nhóm bốn nốt.</p><p>Sự đảo tay này chính là chiếc chìa khóa giải phóng bạn: nó cho phép bạn di chuyển tự do khắp bộ trống mà không bị khóa chặt vào một bên tay.</p>",
+    "exercises": [
+      {
+        "title": "1 — Single Paradiddle trên trống Snare",
+        "tip": "Giữ cho tất cả các nốt hoàn toàn đồng đều về âm lượng và khoảng cách thời gian. Đừng vội nhấn nốt nào — hãy tập trung vào sự trôi chảy, thả lỏng cổ tay và ngón tay."
+      }
+    ],
+    "graduationCriteria": [
+      "Đánh kỹ thuật Single Paradiddle mượt mà, không vấp trong 2 phút liên tục ở ♩=90",
+      "Âm lượng của cú đánh đơn và cú đánh đôi hoàn toàn đồng đều, không bị nốt to nốt nhỏ"
+    ]
+  },
+  "the-practice-mindset": {
+    "tagline": "Cách người chơi trống tiếp cận việc luyện tập hiệu quả",
+    "bodyHtml": "<p>Luyện tập không phải là cố gắng chơi đi chơi lại những gì bạn đã biết. Luyện tập là quá trình kiên nhẫn đối thoại với những phần bạn chưa làm được.</p><p>Ba nguyên tắc vàng của người học trống:</p><ol><li><strong>Tập chậm lại</strong>: Nếu bạn không thể đánh sạch ở tốc độ chậm, bạn sẽ không bao giờ đánh sạch ở tốc độ nhanh. Tốc độ chỉ là sản phẩm phụ của sự chuẩn xác.</li><li><strong>Luyện tập cùng máy đếm nhịp</strong>: Thời gian bên trong tâm trí chúng ta rất dễ dao động. Máy đếm nhịp là người bạn trung thực duy nhất nói cho bạn biết bạn đang chạy nhanh hay bị chậm lại.</li><li><strong>Thả lỏng cơ thể</strong>: Căng thẳng là kẻ thù số một của tốc độ và độ bền. Hãy luôn kiểm tra vai, cổ tay và hơi thở của bạn.</li></ol>"
+  },
+  "slow-practice": {
+    "tagline": "Nếu bạn thấy chậm đến mức nhàm chán, bạn đang tập đúng cách",
+    "bodyHtml": "<p>Bộ não con người xây dựng các đường dẫn dẫn truyền thần kinh (myelin) cho cơ bắp khi các chuyển động được thực hiện lặp đi lặp lại một cách hoàn hảo. Khi bạn tập ở tốc độ nhanh và mắc lỗi, não bạn thực chất đang ghi nhớ chính những lỗi sai đó.</p><p>Khi bạn hạ tốc độ xuống ♩ = 50, bạn buộc cơ thể phải thực sự kiểm soát từng li từng tí của chuyển động dùi. Không có quán tính để dựa dẫm — chỉ có sự tập trung thuần khiết.</p>"
+  },
+  "metronome-practice": {
+    "tagline": "Ba vị trí đặt tiếng click, ba tư duy luyện tập hoàn toàn khác biệt",
+    "bodyHtml": "<p>Máy đếm nhịp là thiết bị luyện tập hữu ích nhất mà một tay trống sở hữu. Nhưng <em>cách</em> bạn cài đặt nó sẽ thay đổi hoàn toàn điều bạn đang rèn luyện. Cùng một nhịp backbeat được luyện tập theo ba cách với ba vị trí đặt tiếng click khác nhau sẽ trở thành ba bài tập hoàn toàn khác nhau.</p><h2 class=\"section-label\">1. Click ở mọi phách (Bánh xe tập đi)</h2><p>Mỗi nốt đen đều có một tiếng click. Đây là cách bắt đầu. Tiếng click như một bức tường vững chắc để bạn tựa vào; mọi cú đánh đều rơi trúng hoặc sát nút với tiếng click, do đó bạn nhận được phản hồi ngay lập tức.</p><h2 class=\"section-label\">2. Click ở phách 2 và 4 (Click ở Backbeat)</h2><p>Bây giờ tiếng click chỉ vang lên hai lần mỗi ô nhịp — ở phách 2 và 4. Trong cảm nhận nội tại, nó <em>giống như tiếng trống snare</em>. Bạn phải tự cảm nhận phách 1 và 3 ở giữa hai tiếng click. Hầu hết các tay trống chuyên nghiệp đều luyện tập ở chế độ này vì nó buộc họ phải tự cảm thụ phần còn lại của ô nhịp.</p><h2 class=\"section-label\">3. Click chỉ ở phách 1 (Click ở đầu ô nhịp)</h2><p>Mỗi ô nhịp chỉ có đúng một tiếng click. Bây giờ bạn phải tự giữ nhịp suốt ba phách trọn vẹn mà không có bất kỳ tín hiệu nào hỗ trợ, chỉ gặp lại tiếng click khi chạm vào phách 1 tiếp theo. Cách này phơi bày mọi sai số vi mô trong khả năng giữ nhịp của bạn.</p>",
+    "graduationCriteria": [
+      "Nhịp backbeat cơ bản ở ♩=80 bám chặt tiếng click ở mọi nốt đen trong 1 phút liên tục",
+      "Giữ vững groove đó khi tiếng click chỉ ở phách 2 và 4 mà không bị lật ngược cảm giác nhịp",
+      "Giữ vững groove khi tiếng click chỉ ở phách 1 mà không bị trôi nhịp trước khi tiếng click tiếp theo xuất hiện"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Click ở mọi phách (♩ = 80)",
+        "tip": "Cài đặt máy đếm nhịp ở <strong>♩ = 80, 4 tiếng click mỗi ô nhịp</strong>. Mỗi cú kick, mỗi cú đánh hi-hat và snare ở phách 2 và 4 phải rơi chuẩn xác vào tiếng click. Lắng nghe tiếng click <em>biến mất</em> khi bạn đánh trúng nó — đó chính là âm thanh của sự đồng điệu thời gian tuyệt đối."
+      },
+      {
+        "title": "2 — Click chỉ ở phách 2 và 4 (♩ = 80, giảm một nửa tiếng click)",
+        "tip": "Hãy tưởng tượng tiếng click chính là cú vỗ tay của khán giả ở phách 2 và 4. Bạn phải tự chịu trách nhiệm hoàn toàn cho phách 1 và phách 3."
+      },
+      {
+        "title": "3 — Click chỉ ở phách 1 (1 tiếng click mỗi ô nhịp)",
+        "tip": "Bài kiểm tra sự độc lập tối thượng. Bạn tự đếm 2, 3, 4 trong đầu và kiểm tra xem phách 1 có đáp trúng tiếng click tiếp theo hay không."
+      }
+    ]
+  },
+  "rock-eighth-grooves": {
+    "tagline": "Từ vựng rock kinh điển xây dựng trên nền nhịp backbeat",
+    "bodyHtml": "<p>Nhạc rock về bản chất chính là nhịp backbeat nền tảng được chơi với thái độ mạnh mẽ và đầy tự tin. Các bài tập ở đây là những tiết tấu móc đơn (8th-note grooves) bạn sẽ gặp trong hàng trăm bài hát rock đầu tiên của mình — nhịp móc đơn dồn dập, kick đảo phách, kick kép ở đầu ô nhịp và cảm giác hào sảng khi mở lá hi-hat.</p><h2 class=\"section-label\">Sự tự tin là một sắc thái cường độ</h2><p>Điều phân biệt một rãnh nhịp rock thực thụ với một bài tập gõ lễ phép chính là hình thái cường độ: snare backbeat đanh giòn, không sợ hãi; hi-hat chắc chắn; kick vững chãi. Chơi một rãnh nhịp với sự tự tin cùng một lỗi nhỏ vẫn hay hơn nhiều so với việc chơi rụt rè từng nốt.</p>",
+    "graduationCriteria": [
+      "Chơi cả 4 groove với sự tự tin, chắc tiếng ở ♩=100",
+      "Các biến tấu của trống Kick không làm lay chuyển nhịp Hi-hat trên tiếng click",
+      "Cú mở hi-hat (Bài tập 4) thở nhịp nhàng ở cuối mỗi ô nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rock 8ths dồn dập",
+        "tip": "Giữ tiếng hi-hat đều đặn. Kick ở 1 và 3, snare ở 2 và 4. Đánh dứt khoát và tự tin ở ♩=100."
+      },
+      {
+        "title": "2 — Kick kép ở phách 1 (1 &amp;)",
+        "tip": "Chân phải dậm nhanh hai tiếng kick liên tiếp ở đầu ô nhịp: <em>1 &amp;</em>. Chú ý tiếng hi-hat không được bị giật theo chân."
+      },
+      {
+        "title": "3 — Kick đảo phách ở &amp; của 3",
+        "tip": "Cú kick rơi vào nốt lệch <em>&amp;</em> của phách 3 tạo lực đẩy cực mạnh hướng về phách 4."
+      },
+      {
+        "title": "4 — Mở Hi-Hat ở cuối ô nhịp (&amp; của 4)",
+        "tip": "Nhấc chân trái mở nhẹ hi-hat đúng ở nốt <em>&amp;</em> cuối cùng, rồi dập chân đóng chặt lại ngay phách 1 ô nhịp tiếp theo."
+      }
+    ]
+  },
+  "rock-disco-four": {
+    "tagline": "Trống bass gõ ở mọi phách — cỗ máy động cơ của disco, dance-pop và country two-step",
+    "bodyHtml": "<p><strong>Four-on-the-floor</strong> là mẫu trống kick tối giản nhất có thể: trống bass gõ đều đặn ở từng phách một, không đảo phách, không biến tấu phức tạp. Nhưng nó cũng là một trong những mẫu nhịp quyền lực và hữu dụng nhất. Nhạc disco đã khai sinh ra phiên bản hiện đại của nó, dance-pop không bao giờ từ bỏ nó, và country two-step luôn gắn liền với nó. Hầu hết âm nhạc khiêu vũ hiện đại — house, techno, EDM, và nửa sau của các bảng xếp hạng Top 40 — đều mang âm hưởng của four-on-the-floor.</p><p>Thử thách kỹ thuật ở đây chính là sức bền. Dậm kick nốt đen ở tốc độ <em>♩=120</em> tương đương với 120 cú dậm mỗi phút, lặp đi lặp lại suốt chiều dài một bài hát. Kỹ thuật nhấc gót (heel-up) là tối quan trọng; kỹ thuật hạ gót (heel-down) sẽ khiến chân bạn mỏi rã rời chỉ sau ba mươi giây. Giữ dùi đạp dính vào mặt trống (bury the beater) để có âm thanh chắc gọn, hiện đại kiểu dance-pop; hoặc để dùi nảy tự nhiên cho phong cách disco cổ điển nơi tiếng kick cần độ vang nhẹ.</p><p>Bài tập thứ ba sẽ kết hợp thêm <strong>chân hi-hat</strong> ở các nốt móc đơn lệch phách (offbeat 8ths) — tạo nên tiếng dập nhịp \"open chick\" kinh điển bạn thường nghe trong các bản thu disco: chân phải dậm nốt đen trên kick và chân trái dập nốt đen trên bàn đạp hi-hat, so le nhau nửa phách. Mẫu hình hai chân luân phiên này là một trong những kết cấu nền tảng của âm nhạc khiêu vũ.</p>",
+    "graduationCriteria": [
+      "Xung nhịp Four-on-the-floor (Bài 1) giữ đều đặn ở ♩=110 với âm lượng kick đồng đều ở cả 4 phách",
+      "Disco backbeat (Bài 2) ở ♩=116 — kick gõ ở mọi phách cùng lúc với snare ở phách 2 và 4",
+      "Phiên bản hi-hat foot \"open chick\" (Bài 3) giữ vững xung nhịp nốt đen chân phải trong khi chân trái chơi các nốt lệch phách (&amp;)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Four-on-the-Floor + Hi-Hat móc đơn (8ths)",
+        "tip": "Dậm kick ở mọi phách, tay chơi hi-hat nốt móc đơn ở trên, chưa vội thêm snare. Hãy dùng kỹ thuật nhấc gót (heel-up) cho chân kick — hạ gót sẽ làm bạn mỏi trước khi ô nhịp lặp lại hai mươi lần. Mỗi cú kick phải có cùng âm lượng; bản năng tự nhiên thường muốn nhấn mạnh vào phách 1 và 3, nhưng trong nhạc dance mọi phách đều là trụ cột cấu trúc. Cốt lõi của cỗ máy này là sự <em>đồng đều tuyệt đối</em>."
+      },
+      {
+        "title": "2 — Disco Backbeat (Thêm Snare ở phách 2 và 4)",
+        "tip": "Bây giờ trống snare xuất hiện ở phách 2 và 4 — nhưng kick vẫn tiếp tục dậm ở mọi phách, bao gồm cả phách 2 và 4. Tay và chân sẽ tiếp xúc đồng thời ở các phách backbeat; điều này có thể hơi lạ lẫm nếu bạn quen với nhịp rock cơ bản (nơi kick thường nhường chỗ cho snare). Nhưng khi đã khóa chặt vào nhịp, bạn đã nắm giữ trọn vẹn linh hồn disco. Hãy nhẩm bất kỳ bản hit disco kinh điển nào — tiếng kick luôn có mặt ở từng phách một."
+      },
+      {
+        "title": "3 — Disco \"Open Chick\" (Chân Hi-Hat dập ở nốt &amp;)",
+        "tip": "Chân phải dậm ở các phách chính (1, 2, 3, 4), chân trái dập ở các nốt lệch (<em>&amp;</em>) — tạo thành tám nốt móc đơn so le luân phiên giữa hai chân. Ban đầu bạn có thể thấy như bất khả thi; bí quyết là tập theo từng lớp: chỉ tập hai chân trước không dùng tay, sau đó thêm hi-hat tay phải, và cuối cùng mới đưa snare vào. Nhịp sẽ ăn khớp một cách kỳ diệu."
+      }
+    ]
+  }
+}

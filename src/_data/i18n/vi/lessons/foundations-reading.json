@@ -1,0 +1,273 @@
+{
+  "reading-101": {
+    "tagline": "Cách thức ký âm trống hoạt động, từ khuông nhạc đi lên",
+    "bodyHtml": "<p>Ký âm trống trông giống hệt như bản nhạc thông thường dành cho piano hay violin: cũng có năm dòng kẻ, các vạch nhịp và những nốt nhạc quen thuộc. Nhưng có một điểm khác biệt then chốt: <strong>trên bộ trống, cao độ không quyết định bạn hát nốt Đô hay nốt Rê — mà quyết định bạn gõ vào nhạc cụ nào.</strong></p><p>Khuông nhạc sử dụng <em>khóa trung tính (neutral clef)</em> — biểu tượng hai thanh thẳng đứng song song ở đầu mỗi dòng — báo cho bạn biết đây là bản nhạc dành cho các nhạc cụ gõ không định âm.</p><h2 class=\"section-label\">Vị trí các nhạc cụ trên khuông nhạc</h2><ul class=\"bulleted\"><li><strong>Trống Bass (Kick)</strong>: Nằm ở khe dưới cùng (khe thứ nhất từ dưới lên) hoặc dòng dưới cùng. Nốt tròn đặc với đuôi quay xuống.</li><li><strong>Trống Snare</strong>: Nằm ở khe thứ ba từ dưới lên (khe C5). Đây là vị trí trung tâm, dễ nhận biết nhất trên khuông nhạc.</li><li><strong>Hi-Hat (dùng tay đánh)</strong>: Nằm ở trên cùng khuông nhạc (khe trên dòng kẻ thứ năm), được ký hiệu bằng hình <strong>dấu chữ X</strong> thay vì hình tròn oval.</li><li><strong>Chân Hi-Hat</strong>: Dấu X nằm ở dưới cùng bên dưới dòng kẻ thứ nhất (với đuôi quay xuống).</li><li><strong>Dàn Tom</strong>: Xếp theo thứ tự từ cao xuống thấp: Tom cao ở dòng kẻ thứ tư, Tom trung ở khe thứ tư, và Floor Tom ở khe thứ hai.</li><li><strong>Cymbal Ride &amp; Crash</strong>: Ride nằm trên dòng kẻ phụ trên cùng hình dấu X; Crash nằm cao hơn hẳn với một đường gạch chéo qua đầu nốt.</li></ul><h2 class=\"section-label\">Các giá trị trường độ cơ bản</h2><p>Trường độ thể hiện một nốt nhạc kéo dài trong bao lâu trước khi nốt tiếp theo xuất hiện:</p><ul class=\"bulleted\"><li><strong>Nốt tròn (Whole note)</strong>: Đầu nốt rỗng, không có đuôi — chiếm trọn vẹn <strong>4 phách</strong>.</li><li><strong>Nốt trắng (Half note)</strong>: Đầu nốt rỗng có đuôi — kéo dài <strong>2 phách</strong>.</li><li><strong>Nốt đen (Quarter note)</strong>: Đầu nốt đặc có đuôi — tương đương <strong>1 phách</strong> (nhịp đập cơ sở).</li><li><strong>Nốt móc đơn (Eighth note)</strong>: Đầu nốt đặc có một móc ở đuôi (hoặc nối với nhau bằng một thanh ngang) — kéo dài <strong>nửa phách</strong> (1/2).</li><li><strong>Nốt móc kép (Sixteenth note)</strong>: Có hai móc ở đuôi (hoặc hai thanh ngang song song) — kéo dài <strong>một phần tư phách</strong> (1/4).</li></ul>",
+    "graduationCriteria": [
+      "Có thể nêu tên chính xác từng giá trị nốt (từ nốt tròn đến móc kép) và số phách tương ứng trong nhịp 4/4",
+      "Nhận diện ngay lập tức vị trí của trống Snare, Kick và Hi-hat trên khuông nhạc mà không cần nhìn bảng tra cứu",
+      "Chơi Bài tập 4 và 5 sạch sẽ, vừa chơi vừa đếm to thành tiếng không bị vấp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt tròn (Bốn phách)",
+        "tip": "Đánh một tiếng snare ở phách 1, sau đó giữ yên lặng suốt ba phách tiếp theo. Hãy đếm to: <em>1, 2, 3, 4</em> trong suốt ô nhịp. Âm thanh mặt trống không ngân dài 4 phách — nhưng <em>giá trị trường độ</em> của nó vẫn chiếm trọn không gian 4 phách."
+      },
+      {
+        "title": "2 — Nốt trắng (Hai phách)",
+        "tip": "Hai cú đánh mỗi ô nhịp — một cú ở phách 1 và một cú ở phách 3. Vẫn tiếp tục đếm to cả bốn phách. Hãy để ý đầu nốt trắng rỗng ruột — đó là cách bạn phân biệt nó với nốt đen trong nháy mắt."
+      },
+      {
+        "title": "3 — Nốt đen (Mỗi phách một nốt)",
+        "tip": "Mỗi phách đánh một cú. Nốt đen có đầu nốt đặc và đuôi thẳng — đây là đơn vị nhịp làm việc chính trong ký âm trống. Cách đếm: <em>1, 2, 3, 4</em>."
+      },
+      {
+        "title": "4 — Nốt móc đơn (Nửa phách mỗi nốt)",
+        "tip": "Nhanh gấp đôi nốt đen. Mỗi nốt móc đơn có một đuôi móc, nhưng khi đứng cạnh nhau chúng được <em>nối đuôi (beam)</em> lại bằng một thanh ngang — đây chỉ là cách gom nhóm thị giác cho dễ nhìn, trường độ vẫn giữ nguyên. Đếm: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>."
+      },
+      {
+        "title": "5 — Nốt móc kép (Một phần tư phách mỗi nốt)",
+        "tip": "Bốn cú đánh trong mỗi phách. Nốt móc kép được nối bằng hai thanh ngang song song. Hãy đếm to: <em>1 e &amp; a · 2 e &amp; a · 3 e &amp; a · 4 e &amp; a</em> — mỗi âm tiết tương ứng đúng một cú đánh. Nếu bị rối, hãy giảm tốc độ metronome xuống. Đọc bản nhạc là một kỹ năng độc lập với tốc độ."
+      },
+      {
+        "title": "6 — Ô nhịp phối hợp (Kết hợp các giá trị nốt)",
+        "tip": "Một nốt trắng, tiếp theo là một nốt đen, rồi đến hai nốt móc đơn. Cách đếm: <em>1 (2), 3, 4 &amp;</em>. Nốt trắng bao trùm cả phách 1 và 2 — hãy đọc to số <em>2</em> ngay cả khi tay bạn không đánh xuống. Đọc nhạc cốt lõi chính là đọc to các phách tĩnh lặng."
+      }
+    ]
+  },
+  "reading-time-signatures": {
+    "tagline": "Ý nghĩa thực sự của hai con số xếp chồng lên nhau ở đầu khuông nhạc",
+    "bodyHtml": "<p>Số chỉ nhịp (time signature) xuất hiện ngay sau khóa nhạc ở đầu bản nhạc. Nó gồm hai con số xếp chồng lên nhau và là tấm bản đồ định hình cách thức ô nhịp được phân chia thời gian:</p><ul class=\"bulleted\"><li><strong>Con số phía trên</strong>: Cho biết có <em>bao nhiêu phách</em> trong mỗi ô nhịp.</li><li><strong>Con số phía dưới</strong>: Cho biết <em>loại nốt nào</em> được tính là một phách (4 = nốt đen, 8 = nốt móc đơn, 2 = nốt trắng).</li></ul><h2 class=\"section-label\">Các số chỉ nhịp phổ biến nhất</h2><ul class=\"bulleted\"><li><strong>4/4 (Nhịp thông dụng - Common Time)</strong>: Bốn phách nốt đen trong một ô nhịp. Đây là nhịp đo mặc định của hơn 90% các bài hát rock, pop và hip-hop.</li><li><strong>2/4</strong>: Hai phách nốt đen mỗi ô nhịp. Mang lại cảm giác nảy, dồn dập của hành khúc (marches) hoặc điệu polka.</li><li><strong>3/4</strong>: Ba phách nốt đen mỗi ô nhịp — nhịp điệu kinh điển của các bản điệu waltz: <em>MỘT-hai-ba, MỘT-hai-ba</em>.</li><li><strong>6/8 (Nhịp phức phân đôi - Compound Duple)</strong>: Sáu nốt móc đơn mỗi ô nhịp, nhưng được gom thành <em>hai nhóm lớn, mỗi nhóm 3 nốt</em>. Cảm giác như hai bước chân dập dềnh: <em>1-2-3, 4-5-6</em>.</li><li><strong>12/8 (Nhịp phức phân bốn)</strong>: Mười hai nốt móc đơn chia thành bốn nhóm ba. Đây là linh hồn của slow blues, soul ballads và các điệu shuffle sâu lắng.</li></ul>",
+    "graduationCriteria": [
+      "Có thể giải thích rõ ràng ý nghĩa số phách và loại nốt cho bất kỳ số chỉ nhịp nào trong số 2/4, 3/4, 4/4, 6/8 và 12/8",
+      "Bài tập 3/4 mang lại cảm giác khiêu vũ dập dềnh của điệu waltz, không bị lẫn thành \"4/4 thiếu một phách\"",
+      "Bài tập 6/8 được gom thành hai phách lớn — đếm rõ <em>1-2-3 4-5-6</em> chứ không chia thành <em>1-2 3-4 5-6</em>"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 4/4: Nhịp đo tiêu chuẩn",
+        "tip": "Bốn nốt đen, nhấn vào phách 1. Đếm: <em>MỘT, hai, ba, bốn</em>. Nốt nhấn giúp cả ô nhịp được người nghe cảm nhận như một khối thống nhất — không có nó, bốn nốt đen liên tiếp chỉ là một dòng chảy đơn điệu."
+      },
+      {
+        "title": "2 — 2/4: Ô nhịp hai phách",
+        "tip": "Hai phách mỗi ô nhịp. 2/4 là nhịp của hành khúc và nhạc lễ hội — ô nhịp ngắn và nảy. Đếm: <em>MỘT, hai · MỘT, hai</em>. Cùng nhịp nốt đen như 4/4 nhưng vạch nhịp xuất hiện thường xuyên gấp đôi."
+      },
+      {
+        "title": "3 — 3/4: Điệu Waltz",
+        "tip": "Ba phách mỗi ô nhịp. Nhấn mạnh vào phách 1 để tạo cảm giác <em>waltz</em> lãng mạn: <em>MỘT-hai-ba · MỘT-hai-ba</em>. Nếu bạn cảm thấy như 4/4 bị hụt một phách, hãy chậm lại và nhấn mạnh hơn vào phách 1."
+      },
+      {
+        "title": "4 — 6/8: Nhịp kép phân đôi (Compound Duple)",
+        "tip": "Sáu nốt móc đơn mỗi ô nhịp — nhưng chúng gom lại thành <em>hai nhóm</em> ba nốt. Đếm: <em>MỘT-hai-ba BỐN-năm-sáu</em>. Tiếng click ở đây tương ứng nốt móc đơn (♪ = 160 nghĩa là mỗi phút có 160 tiếng click). Cảm nhận hai nhịp dập lớn 1 và 4 bên dưới."
+      },
+      {
+        "title": "5 — 12/8: Nhịp phức bốn phách (Compound Quadruple)",
+        "tip": "Mười hai nốt móc đơn gom thành <em>bốn</em> nhóm ba. Đây là số chỉ nhịp của slow blues, nhạc trữ tình doo-wop và phần lớn các điệu shuffle. Cảm nhận bốn nhịp đập lớn, bên trong mỗi nhịp là ba nốt móc đơn nhỏ. Đếm: <em>MỘT-hai-ba HAI-hai-ba BA-hai-ba BỐN-hai-ba</em>."
+      }
+    ]
+  },
+  "reading-rests": {
+    "tagline": "Khoảng lặng cũng có trường độ, và bạn bắt buộc phải đếm nó",
+    "bodyHtml": "<p>Trong âm nhạc, khoảng lặng (rest) có sức mạnh và ý nghĩa biểu cảm không kém gì những nốt gõ ra tiếng. Một tay trống vội vàng chơi tràn vào khoảng lặng sẽ phá vỡ toàn bộ độ nảy và không gian thở của tác phẩm.</p><h2 class=\"section-label\">Ký hiệu các dấu lặng tương ứng</h2><ul class=\"bulleted\"><li><strong>Dấu lặng tròn (Whole rest)</strong>: Chiếc hộp chữ nhật màu đen <em>treo bên dưới</em> dòng kẻ thứ tư — lặng trọn vẹn 4 phách (hoặc toàn bộ ô nhịp).</li><li><strong>Dấu lặng trắng (Half rest)</strong>: Chiếc hộp màu đen <em>nằm phía trên</em> dòng kẻ thứ ba (nhìn giống chiếc mũ) — lặng 2 phách.</li><li><strong>Dấu lặng đen (Quarter rest)</strong>: Ký hiệu ngoằn ngoèo nhìn hơi giống chữ Z ngược — lặng 1 phách.</li><li><strong>Dấu lặng đơn (Eighth rest)</strong>: Nhìn giống số 7 nghiêng có một chấm móc tròn — lặng nửa phách (1/2).</li><li><strong>Dấu lặng kép (Sixteenth rest)</strong>: Nhìn giống số 7 với hai nhánh móc tròn — lặng một phần tư phách (1/4).</li></ul><p>Quy tắc vàng khi đọc dấu lặng: <strong>Hãy đọc to phách đó bằng miệng nhưng giữ yên tay dùi</strong>. Ví dụ, nếu phách 2 là dấu lặng đen, bạn vẫn đếm to số \"2\" trong miệng trong khi tay không chạm vào mặt trống.</p>",
+    "graduationCriteria": [
+      "Đếm to mọi dấu lặng trong khi chơi, bao gồm cả những phách tĩnh lặng hoàn toàn",
+      "Nhận diện ngay các ký hiệu dấu lặng tròn, trắng, đen, đơn và kép chỉ trong một cái liếc mắt",
+      "Bài tập 5 (dấu lặng ở phách chính) chơi chắc chắn mà không bị vội vàng lao vào phách 1 tiếp theo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt đen xen kẽ dấu lặng đen",
+        "tip": "Đánh, lặng, đánh, lặng. Đếm to: <em>1, (2), 3, (4)</em> — đọc to mọi con số, nhưng chỉ hạ dùi ở phách 1 và 3. Dấu lặng đen là biểu tượng ngoằn ngoèo giống chữ Z ngược."
+      },
+      {
+        "title": "2 — Nốt móc đơn xen kẽ dấu lặng đơn",
+        "tip": "Đánh ở mỗi phách chính, giữ lặng ở mỗi nốt lệch (&). Đếm: <em>1 (&amp;) 2 (&amp;) 3 (&amp;) 4 (&amp;)</em>. Dấu lặng đơn nhìn giống nét nghiêng có một móc tròn — cùng số móc với một nốt móc đơn."
+      },
+      {
+        "title": "3 — Dấu lặng trắng",
+        "tip": "Hai nốt đen ở phách 1 và 2, sau đó là một dấu lặng trắng bao trọn cả phách 3 và 4. Dấu lặng trắng nằm <em>ngay trên</em> dòng kẻ giữa — đó là cách bạn phân biệt nó với lặng tròn (vốn treo lơ lửng <em>bên dưới</em>). Đếm: <em>1, 2, (3), (4)</em>. Đừng nôn nóng nhảy về phách 1."
+      },
+      {
+        "title": "4 — Kết hợp nốt và dấu lặng",
+        "tip": "Đếm: <em>1, (&amp;) của 2 — &amp;, 3, (4)</em>. Phách 1 là nốt đen; phách 2 bắt đầu bằng dấu lặng đơn rồi gõ vào nốt &amp;; phách 3 là nốt đen; phách 4 là dấu lặng đen. Đọc bài tập này thật chậm và đếm to từng vị trí."
+      },
+      {
+        "title": "5 — Dấu lặng ở phách chính (Chỉ đánh phách lệch)",
+        "tip": "Chỉ đánh vào các nốt lệch (&amp;). Các phách chính 1, 2, 3 và 4 đều là dấu lặng đơn. Đếm: <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em>. Đây là bài kiểm tra cảm giác nhịp nội tại — đánh trúng các phách nghịch trong khi giữ vững phách thuận trong tâm trí."
+      }
+    ]
+  },
+  "counting-eighths": {
+    "tagline": "Bước phân chia nhịp đầu tiên vượt qua nhịp đập cơ sở",
+    "bodyHtml": "<p>Phách nốt đen là nhịp tim cơ bản, nhưng sự chuyển động nhịp nhàng của âm nhạc nằm ở cách chúng ta phân chia (subdivide) khoảng cách giữa các phách tim đó. Bước phân chia đầu tiên và quan trọng nhất chính là <strong>nốt móc đơn (eighth notes)</strong>: chia mỗi phách nốt đen thành hai nửa bằng nhau hoàn hảo.</p><h2 class=\"section-label\">Quy tắc đếm âm tiết chuẩn quốc tế</h2><p>Để đảm bảo độ chính xác cơ học, chúng ta gán cho mỗi nốt một âm tiết cụ thể:</p><p class=\"center-formula\"><strong>1 &amp; 2 &amp; 3 &amp; 4 &amp;</strong> (Đọc là: <em>Một Và Hai Và Ba Và Bốn Và</em>)</p><p>Các con số (<em>1, 2, 3, 4</em>) rơi trùng khít vào tiếng click của máy đếm nhịp — gọi là <strong>phách chính (downbeat)</strong>. Các dấu <em>&amp;</em> rơi chính xác vào điểm giữa hai tiếng click — gọi là <strong>phách lệch (upbeat / offbeat)</strong>.</p><p>Sai lầm phổ biến nhất của người mới là để các nốt &amp; dạt lại quá gần con số tiếp theo. Khoảng thời gian từ <em>1</em> đến <em>&amp;</em> phải bằng chính xác khoảng thời gian từ <em>&amp;</em> đến <em>2</em>. Hãy đếm to và nghe tiếng nói của bạn hòa quyện vào tiếng click.</p>",
+    "graduationCriteria": [
+      "Chơi cả 4 bài tập trong khi đếm to thành tiếng liên tục, không bị ngắc ngứ",
+      "Bài tập chỉ đánh phách lệch (Bài 4) giữ được sự ổn định vững vàng xuyên suốt các khoảng lặng",
+      "Dấu lặng đen không làm bạn vô thức tăng tốc hay chạy vội về phía trước"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chỉ đánh nốt đen (Nhịp tim cơ sở)",
+        "tip": "Mỗi phách gõ một tiếng snare. Đếm to đều đặn: <em>1, 2, 3, 4</em> cùng nhịp. Mỗi từ thốt ra phải rơi chính xác vào lúc đầu dùi chạm mặt trống."
+      },
+      {
+        "title": "2 — Đánh toàn bộ nốt móc đơn",
+        "tip": "Số cú đánh tăng gấp đôi trong mỗi ô nhịp. Đếm to: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Các con số vẫn nằm trúng tiếng click — các nốt &amp; nằm chính giữa hai tiếng click."
+      },
+      {
+        "title": "3 — Trộn lẫn nốt đen và móc đơn",
+        "tip": "Mẫu hình: một nốt đen, hai nốt móc đơn, một nốt đen, hai nốt móc đơn. Đếm: <em>1, 2 &amp;, 3, 4 &amp;</em>. Tiếp tục đếm to mọi phách — ngay cả khi tay bạn không đánh xuống ở nốt &amp; của 1."
+      },
+      {
+        "title": "4 — Nốt móc đơn có dấu lặng ở phách chính",
+        "tip": "Chỉ đánh vào các nốt <em>&amp;</em> — phách nghịch. Phách 1 giữ yên lặng, nhưng bạn bắt buộc phải đọc nó lên: <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em>. Việc chỉ đánh vào phách lệch trong khi giữ vững nhịp bên trong là một trong những kỹ năng nền móng khó nhất."
+      }
+    ]
+  },
+  "counting-sixteenths": {
+    "tagline": "Bốn xung nhịp ẩn sâu bên trong mỗi phách nốt đen",
+    "bodyHtml": "<p>Nếu nốt móc đơn chia một phách làm đôi, thì <strong>nốt móc kép (sixteenth notes)</strong> chia một phách thành bốn phần bằng nhau tuyệt đối. Đây là mạng lưới phân nhịp cốt lõi của funk, hip-hop, R&amp;B và hầu hết các câu báo trống (drum fills) trong âm nhạc hiện đại.</p><h2 class=\"section-label\">Hệ thống đếm 1-e-&amp;-a kinh điển</h2><p>Để phát âm được cả bốn nốt trong tích tắc của một phách, các tay trống trên toàn thế giới sử dụng hệ thống bốn âm tiết:</p><p class=\"center-formula\"><strong>1 e &amp; a · 2 e &amp; a · 3 e &amp; a · 4 e &amp; a</strong></p><ul class=\"bulleted\"><li><strong>1, 2, 3, 4</strong>: Phách chính (downbeat), trùng khít với tiếng click của máy đếm nhịp.</li><li><strong>&amp;</strong>: Điểm chính giữa phách (nốt móc đơn lệch).</li><li><strong>e</strong>: Nốt móc kép thứ hai, nằm giữa số và dấu &amp;.</li><li><strong>a</strong>: Nốt móc kép thứ tư, nằm giữa dấu &amp; và phách tiếp theo.</li></ul><p>Mỗi âm tiết phải có khoảng cách thời gian giống hệt nhau. Đừng vội tăng tốc — nếu bạn phát âm lắp bắp hoặc các nốt nghe dính chùm vào nhau, hãy giảm tempo xuống ♩=60 cho đến khi miệng đếm và tay gõ đạt độ trơn tru hoàn hảo.</p>",
+    "graduationCriteria": [
+      "Đếm to hệ thống <em>1 e &amp; a</em> trôi chảy, không vấp ở ♩=75 trong 2 phút liên tục",
+      "Bài tập 2 và 3 (kết hợp nốt đen, móc đơn và móc kép) chuyển đổi mật độ nốt mượt mà, không giật cục",
+      "Bài tập 4 (mẫu hình e-a) đặt đúng vị trí các nốt vi mô mà không làm dao động tiếng click"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Toàn bộ nốt móc kép liên tục",
+        "tip": "Mỗi phách đánh 4 nốt luân phiên hai tay: <em>R L R L</em>. Đếm to: <em>1 e &amp; a 2 e &amp; a 3 e &amp; a 4 e &amp; a</em>. Giữ các nốt hoàn toàn đồng đều về âm lượng và khoảng cách thời gian."
+      },
+      {
+        "title": "2 — Một nốt móc đơn + hai nốt móc kép",
+        "tip": "Mẫu hình 8th + 16th + 16th. Đếm: <em>1 &amp; a 2 &amp; a 3 &amp; a 4 &amp; a</em>. Nốt đầu tiên dài gấp đôi hai nốt sau. Cảm nhận độ nảy tự nhiên hướng về phách tiếp theo."
+      },
+      {
+        "title": "3 — Hai nốt móc kép + một nốt móc đơn",
+        "tip": "Mẫu hình 16th + 16th + 8th. Đếm: <em>1 e &amp; 2 e &amp; 3 e &amp; 4 e &amp;</em>. Hai nốt nhanh xuất phát ngay tại đầu phách, nốt thứ ba ngân dài nửa phách còn lại."
+      },
+      {
+        "title": "4 — Mẫu hình kết hợp nâng cao",
+        "tip": "Một ô nhịp kết hợp linh hoạt mật độ nốt từ bài 1 đến bài 3. Đừng ghi nhớ vẹt hình thù — hãy đọc bằng cách đếm xuyên suốt từng phách: <em>1 &amp; a · 2 &amp; a · 3 e &amp; a · 4 &amp; a</em>."
+      }
+    ]
+  },
+  "triplet-feel": {
+    "tagline": "Ba xung nhịp trong một phách — và nguồn gốc của nốt Swing",
+    "bodyHtml": "<p>Cho đến lúc này, chúng ta đều phân chia thời gian theo hệ nhị phân: chia 2 (móc đơn), chia 4 (móc kép). Nhưng âm nhạc còn một thế giới song song vô cùng quyến rũ dựa trên <strong>hệ tam phân: liên ba (triplets)</strong>.</p><h2 class=\"section-label\">Liên ba nốt móc đơn (Eighth-Note Triplets)</h2><p>Thay vì chia một phách nốt đen thành 2 nốt bằng nhau, chúng ta nhồi <strong>ba nốt cách đều nhau</strong> vào trong cùng một phách nốt đen đó:</p><p class=\"center-formula\"><strong>1-trip-let · 2-trip-let · 3-trip-let · 4-trip-let</strong></p><p>Đây là cảm giác nhịp đập tròn trịa, dập dềnh của nhạc blues, shuffle, R&amp;B cổ điển và jazz swing.</p><h2 class=\"section-label\">Bản chất của nhịp Swing</h2><p>Rất nhiều người bối rối không hiểu \"swing\" thực chất là gì. Về mặt toán học âm nhạc, <strong>nhịp swing chính là một chùm liên ba bị khuyết nốt ở giữa!</strong></p><p>Trong mỗi nhóm ba nốt <em>1 - trip - let</em>, bạn đánh nốt thứ nhất (<em>1</em>), giữ im lặng ở nốt giữa (<em>trip</em>), và đánh nốt thứ ba (<em>let</em>). Kết quả là một cặp nốt \"Dài - Ngắn\" với tỷ lệ thời gian chuẩn 2:1. Đó chính là cách chiếc cymbal Ride reo vang đầy quyến rũ trong những bản nhạc Jazz bất hủ.</p>",
+    "graduationCriteria": [
+      "Đếm to liên ba thành <em>1-trip-let</em> với khoảng cách hoàn toàn đều đặn",
+      "Có thể chuyển đổi qua lại giữa Bài tập 2 (móc đơn thẳng) và Bài tập 3 (liên ba) trên cùng một tiếng click mà không bị trôi nhịp",
+      "Bài tập 4 (swing 8ths) vang lên rõ rệt sắc thái Dài - Ngắn mượt mà, không bị cứng như nốt chấm dôi"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt đen (Nhịp xung tham chiếu)",
+        "tip": "Khóa chặt vào tiếng click. Đây là nhịp tham chiếu — xung 80 BPM mà bạn sẽ dùng để phân chia theo các cách khác nhau trong bốn bài tập tiếp theo. <em>1, 2, 3, 4</em>."
+      },
+      {
+        "title": "2 — Nốt móc đơn thẳng (Hai nốt mỗi phách)",
+        "tip": "Hai nốt móc đơn cách đều nhau trong mỗi phách. Đếm: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Cùng tốc độ metronome với Bài 1; bây giờ bạn đặt thêm một nốt phụ vào chính giữa hai tiếng click."
+      },
+      {
+        "title": "3 — Liên ba nốt móc đơn (Ba nốt mỗi phách)",
+        "tip": "Ba cú đánh cách đều nhau trong một phách. Đếm: <em>1-trip-let 2-trip-let 3-trip-let 4-trip-let</em>. Giữ nguyên metronome — chỉ có mật độ nốt bên trong thay đổi. Khả năng chuyển đổi giữa Bài 2 và Bài 3 trên cùng tiếng click là một kỹ năng vô giá."
+      },
+      {
+        "title": "4 — Nốt móc đơn Swing (Liên ba khuyết nốt giữa)",
+        "tip": "Đánh nốt thứ nhất và nốt thứ ba của mỗi chùm liên ba — nốt ở giữa nghỉ. Đếm: <em>1-(trip)-let 2-(trip)-let 3-(trip)-let 4-(trip)-let</em>, chỉ hạ dùi ở <em>1</em> và <em>let</em>. Đây chính là điệu swing nốt móc đơn: cặp nốt dài - ngắn bắt nguồn từ liên ba."
+      },
+      {
+        "title": "5 — So sánh giữa móc đơn thẳng và liên ba",
+        "tip": "Phách 1 và 2 là nốt móc đơn thẳng (<em>1 &amp; 2 &amp;</em>). Phách 3 và 4 là liên ba (<em>3-trip-let 4-trip-let</em>). Cùng một ô nhịp nhưng hai cảm giác khác nhau. Thử thách là chuyển đổi giữa chừng mà tiếng click không bị xô lệch."
+      }
+    ]
+  },
+  "counting-subdivision": {
+    "tagline": "Chuyển số ngay giữa ô nhịp — móc đơn, móc kép và liên ba",
+    "bodyHtml": "<p>Một tay trống giỏi là người có thể thay đổi mật độ nốt (subdivision) trong nháy mắt mà không làm dao động chiếc đồng hồ thời gian bên trong cơ thể dù chỉ một phần nghìn giây. Giống như một chiếc xe hơi chuyển số mượt mà từ số 2 sang số 3 rồi số 4, động cơ nhịp tim cơ sở vẫn giữ nguyên một tốc độ quay vững chãi.</p><h2 class=\"section-label\">Chiếc thang phân nhịp (The Subdivision Ladder)</h2><p>Hãy hình dung các nốt như các bậc thang xếp chồng lên cùng một phách nốt đen:</p><ul class=\"bulleted\"><li><strong>Bậc 1</strong>: 1 nốt mỗi phách (Nốt đen — Quarter notes)</li><li><strong>Bậc 2</strong>: 2 nốt mỗi phách (Móc đơn — 8th notes)</li><li><strong>Bậc 3</strong>: 3 nốt mỗi phách (Liên ba — Triplets)</li><li><strong>Bậc 4</strong>: 4 nốt mỗi phách (Móc kép — 16th notes)</li></ul><p>Thử thách lớn nhất của não bộ là khi chuyển từ <strong>Bậc 3 sang Bậc 4</strong>: não bộ có xu hướng muốn giữ nguyên cảm giác nhịp liên ba hoặc làm xô lệch phách chính tiếp theo. Bí quyết duy nhất là đếm to rõ từng âm tiết để định hình không gian cho đôi tay.</p>",
+    "graduationCriteria": [
+      "Chơi Bài tập 4 ở ♩=70 sạch sẽ trong khi đếm to rõ từng phân đoạn nhịp",
+      "Tốc độ của nhịp tim nốt đen giữ ổn định tuyệt đối xuyên suốt các lần đổi mật độ nốt (đối chiếu chuẩn cùng click)",
+      "Có thể nói rõ phân đoạn nhịp nào đang diễn ra ở mỗi phách mà không cần nhìn vào bản nhạc sau một lần đọc qua"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Từ móc đơn sang móc kép (Mỗi loại 2 phách)",
+        "tip": "Phách 1–2: móc đơn thẳng (<em>1 &amp; 2 &amp;</em>). Phách 3–4: móc kép (<em>3 e &amp; a 4 e &amp; a</em>). Vị trí <em>2 &amp;</em> và <em>3</em> phải đặt thật chuẩn xác — đó là nơi bạn chuyển số. Nhịp phách nốt đen bên dưới không bao giờ dịch chuyển."
+      },
+      {
+        "title": "2 — Từ móc đơn sang liên ba (Mỗi loại 2 phách)",
+        "tip": "Hai phách móc đơn thẳng, tiếp theo là hai phách liên ba. Đếm: <em>1 &amp; 2 &amp; 3-trip-let 4-trip-let</em>. Điểm nguy hiểm là phách <em>3</em> — nó phải đáp trúng tiếng click sau cú chuyển số, không được sớm hay muộn."
+      },
+      {
+        "title": "3 — Từ liên ba sang móc kép (Thử thách khó nhất)",
+        "tip": "Liên ba ở phách 1–2 (<em>1-trip-let 2-trip-let</em>), móc kép ở phách 3–4 (<em>3 e &amp; a 4 e &amp; a</em>). Đây là cú chuyển số khó nhất — não bộ thường có quán tính kéo rê các nốt móc kép về cảm giác liên ba chậm hơn. Hãy đếm to từng âm tiết."
+      },
+      {
+        "title": "4 — Một ô nhịp, ba cấp độ phân nhịp",
+        "tip": "Phách 1: một nốt đen (<em>1</em>). Phách 2: hai nốt móc đơn (<em>2 &amp;</em>). Phách 3: một chùm liên ba (<em>3-trip-let</em>). Phách 4: bốn nốt móc kép (<em>4 e &amp; a</em>). Một ô nhịp với bốn mật độ khác nhau. Hãy tập thật chậm trong mười lần đầu tiên."
+      }
+    ]
+  },
+  "reading-syncopation": {
+    "tagline": "Nốt lệch phách, nốt nối qua ô nhịp và nốt dằn sớm ở & của 3",
+    "bodyHtml": "<p><strong>Đảo phách (Syncopation)</strong> là hành động đặt điểm nhấn hoặc nốt đánh vào những vị trí không ai ngờ tới — những phách yếu, những nốt lệch phách — thay vì rơi vào các phách chính quen thuộc. Đảo phách tạo ra sự bất ngờ, lực đẩy và năng lượng cuộn trào cho tác phẩm.</p><h2 class=\"section-label\">Dấu nối (Ties) và Nốt dằn đón đầu (Anticipation)</h2><p>Dấu nối là một đường cong nối liền hai nốt nhạc có cùng cao độ. Bạn đánh nốt thứ nhất và giữ nguyên âm thanh (hoặc khoảng cách thời gian) qua nốt thứ hai mà <strong>không đánh lại</strong>.</p><p>Trong nhạc rock và pop đương đại, mẫu hình đảo phách phổ biến nhất là <strong>nốt dằn sớm ở &amp; của 3 (&amp;-of-3 anticipation)</strong>: cú đánh dằn mạnh xuất hiện ở nốt lệch <em>&amp;</em> của phách 3 và được nối thẳng qua phách 4. Người nghe cảm nhận như phách 4 bị hút về phía trước, tạo lực lao vun vút cho bài hát.</p>",
+    "graduationCriteria": [
+      "Chơi Bài tập 4 (cú dằn sớm ở & của 3) mà không làm trễ phách 1 của ô nhịp tiếp theo",
+      "Đếm chính xác các dấu nối — tuyệt đối không đánh đúp vào nốt được nối",
+      "Có thể nhận diện ngay nốt lệch đang nằm ở vị trí '&', 'e' hay 'a' của phách nào ngay lần đọc đầu tiên"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chỉ đánh phách lệch (Không có phách chính)",
+        "tip": "Chỉ đánh vào các nốt &amp;. Đếm to: <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em>. Các nốt nhấn đẩy ô nhịp lao về phía trước — đó là dạng đảo phách đơn giản nhất: nhấc mọi thứ ra khỏi phách chính."
+      },
+      {
+        "title": "2 — Pha trộn kiểu Backbeat",
+        "tip": "Sự kết hợp giữa phách chính, nốt &amp; và dấu lặng. Đếm: <em>1 (&amp;) &amp;-của-2 3 (&amp;) &amp; 4 (&amp;)</em>. Nốt nhấn rơi vào nốt &amp; của 2 và phách 4 — đều là những thời điểm lệch tâm. Hãy đọc bằng cách đếm, không dựa vào cảm tính."
+      },
+      {
+        "title": "3 — Nốt nối xuyên qua phách",
+        "tip": "Phách 1: nốt đen (<em>1</em>). Phách 2: hai nốt móc đơn (<em>2 &amp;</em>). Phách 3: dấu nối xuất hiện — đánh ở nốt &amp; của 2, giữ xuyên qua phách 3, không đánh lại. Sau đó đánh nốt &amp; của 3 và nốt đen ở 4. Dấu nối giúp nốt &amp; của 2 mang cảm giác đón đầu bất ngờ."
+      },
+      {
+        "title": "4 — Cú dằn đón đầu ở & của 3",
+        "tip": "Phách 1, 2: nốt đen (<em>1, 2</em>). Phách 3: móc đơn + móc đơn có nhấn nối sang phách 4 (<em>3 &amp;</em> — đánh mạnh vào &amp;, giữ qua phách 4, phách 4 lặng). Nốt nhấn nằm ở nốt &amp; của 3, phách 4 im lặng. Mẫu hình này ngập tràn trong pop và rock — cú \"dằn trước phách 4\" kinh điển."
+      },
+      {
+        "title": "5 — Đảo phách ở cấp độ nốt móc kép",
+        "tip": "Đảo phách vi mô ở tầng nốt móc kép. Phách 1: nhấn ở &amp;. Phách 2: nhấn ở a. Phách 3: nhấn ở e. Phách 4: đủ 4 nốt. Hãy tập thật chậm và đếm từng âm tiết — các nốt nhấn này ngự trị tại e và a, hai xung nhịp thường biến mất trong lối tư duy móc đơn thông thường."
+      }
+    ]
+  },
+  "reading-dotted-rhythms": {
+    "tagline": "Dấu chấm dôi cộng thêm một nửa — nhịp điệu dài-ngắn của hành khúc và rock",
+    "bodyHtml": "<p>Một dấu chấm nhỏ đặt ngay sau đầu nốt nhạc có sức mạnh thay đổi hoàn toàn tính chất của tiết tấu. Quy tắc toán học của nó vô cùng đơn giản và bất biến:</p><p class=\"center-formula\"><strong>Dấu chấm dôi cộng thêm một nửa giá trị của chính nốt đứng trước nó.</strong></p><ul class=\"bulleted\"><li><strong>Nốt đen chấm dôi (Dotted quarter)</strong> = 1 phách + 0.5 phách = <strong>1.5 phách</strong> (tương đương 3 nốt móc đơn). Thường đi kèm với một nốt móc đơn phía sau để làm tròn 2 phách.</li><li><strong>Nốt móc đơn chấm dôi (Dotted eighth)</strong> = 0.5 phách + 0.25 phách = <strong>0.75 phách</strong> (tương đương 3 nốt móc kép). Thường đi kèm với một nốt móc kép phía sau để làm tròn 1 phách.</li></ul><h2 class=\"section-label\">Cảm giác nảy giòn giã (Scotch Snap)</h2><p>Mẫu hình nốt móc đơn chấm dôi theo sau bởi nốt móc kép tạo nên cảm giác diễu hành dứt khoát, hào hùng. Ngược lại, khi bạn đảo ngược thứ tự: <strong>nốt móc kép đứng trước, nốt chấm dôi theo sau</strong>, bạn tạo ra cú nảy giật độc đáo gọi là <em>Scotch snap</em> — một nét đặc trưng trong âm nhạc Celtic và nhiều câu fill funk đầy cá tính.</p>",
+    "graduationCriteria": [
+      "Nắm vững quy tắc dấu chấm dôi cộng thêm nửa giá trị của nốt đứng trước (đen chấm dôi = 1.5 phách; đơn chấm dôi = 0.75 phách)",
+      "Chơi Bài tập 3 (đơn chấm dôi + móc kép) gãy gọn, không bị nhầm lẫn sang cảm giác liên ba",
+      "Có thể phân biệt rõ ràng bằng tai giữa cặp nốt đơn chấm dôi/móc kép với cặp nốt swing khi nghe"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt đen chấm dôi + nốt móc đơn",
+        "tip": "Đánh ở phách 1, giữ dài một phách rưỡi, sau đó gõ nốt &amp; của phách 2. Lặp lại tương tự cho phách 3–4. Đếm: <em>1 (2) &amp; 3 (4) &amp;</em>. Nốt đen chấm dôi + móc đơn là mẫu hình đón đầu căn bản — nốt ngắn <em>tựa mình lao vào</em> phách chính tiếp theo."
+      },
+      {
+        "title": "2 — Nốt đơn chấm dôi + móc kép, đánh luân phiên hai tay",
+        "tip": "Mỗi phách: đánh, chờ, chờ, đánh. Đếm: <em>1 (e) (&amp;) a · 2 (e) (&amp;) a · 3 (e) (&amp;) a · 4 (e) (&amp;) a</em>. Đừng để cú đánh thứ hai bị vo tròn thành liên ba — nó phải nằm vuông vức trên vị trí <em>a</em> của lưới nốt móc kép. Đánh luân phiên R-L ở mỗi cặp."
+      },
+      {
+        "title": "3 — Nốt đơn chấm dôi + móc kép, một tay dẫn đầu",
+        "tip": "Hai phách chỉ dùng tay phải, hai phách chuyển sang tay trái. Vẫn giữ nguyên nhịp chấm dôi. Đây là bài tập hoán vị theo trường phái George Lawrence Stone: giữ cố định tiết tấu, thay đổi cách sắp xếp tay để rèn luyện bàn tay yếu."
+      },
+      {
+        "title": "4 — Đảo ngược: Móc kép + Đơn chấm dôi (Scotch Snap)",
+        "tip": "Hình ảnh đối xứng của Bài 2: nốt <em>ngắn</em> rơi ngay phách chính, nốt dài theo sau. Đây là điệu <em>Scotch snap</em>, rất phổ biến trong âm nhạc Celtic và các câu fill nhạc funk. Cú gõ nốt móc kép ở đầu phách tạo ra tiếng nảy giòn tan."
+      },
+      {
+        "title": "5 — Mẫu hình chấm dôi lồng trong ô nhịp",
+        "tip": "Phách 1: nốt đen (<em>1</em>). Phách 2: đơn chấm dôi + móc kép (<em>2 (e) (&amp;) a</em>). Phách 3: hai nốt móc đơn (<em>3 &amp;</em>). Phách 4: nốt đen (<em>4</em>). Mẫu hình chấm dôi ở phách 2 không được làm xô lệch phần còn lại của ô nhịp — ngay sau khi kết thúc, bạn trở lại ngay với nốt móc đơn thẳng ở phách 3."
+      }
+    ]
+  }
+}

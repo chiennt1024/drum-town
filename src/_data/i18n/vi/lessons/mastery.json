@@ -1,0 +1,314 @@
+{
+  "polyrhythms-3-2": {
+    "tagline": "Phức điệu 3:2 — Hai mạch xung cơ bản nhất của âm nhạc",
+    "bodyHtml": "\n      <p><strong>Phức điệu 3:2 (Three against Two)</strong> là mối quan hệ đa nhịp điệu căn bản nhất và đẹp đẽ nhất trong âm nhạc loài người. Nó xuất hiện ở khắp mọi nơi: từ các bài dân ca châu Phi, điệu Rumba Cuba, âm nhạc cổ điển thời kỳ Lãng mạn của Chopin/Brahms, cho đến những câu solo bất hủ của Elvin Jones và Steve Gadd.</p>\n      <p>Trong một khoảng thời gian bằng nhau:\n        <ul>\n          <li>Một chi chơi <strong>3 nốt chia đều</strong> (mạch xung tam phân).</li>\n          <li>Một chi khác chơi <strong>2 nốt chia đều</strong> (mạch xung nhị phân).</li>\n        </ul>\n      </p>\n      <p>Hai mạch xung này chỉ gặp nhau ở phách đầu tiên, các nốt còn lại đan cài vào nhau theo câu thần chú quen thuộc: <em>'CÙNG - phải - TRÁI - phải'</em> hoặc <em>'hot - cup - of - tea'</em>. Khi bạn đã ngấm vào cơ thể, bạn có thể dễ dàng chuyển đổi tâm trí: lúc thì nghe mạch 3 làm giai điệu chính, lúc lại coi mạch 2 là điểm tựa.</p>\n    ",
+    "graduationCriteria": [
+      "Bạn có thể cảm nhận đồng thời cả mạch xung 3 và mạch xung 2 — chuyển đổi trọng tâm nghe mà không làm rơi mạch nào",
+      "Vỗ tay nhịp 3 trong khi gõ chân nhịp 2 (và ngược lại) liên tục trong 1 phút không bị cuốn vào nhau",
+      "Groove 3 trên snare đối đầu 2 trên kick duy trì ở ♩=80 trong 2 phút với hai bè âm thanh rõ rệt"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Vỗ Tay 3, Dậm Chân 2 (Bài Tập Cơ Thể)",
+        "tip": "Tay đánh vào các điểm 1, 3, 5; chân dậm vào điểm 1 và 4 — chập nhau ở phách 1, so le ở mọi nơi khác. Đọc nhẩm theo nhịp chân <em>'hot — cup — of — tea'</em> trong khi tay hát <em>'pass-the-but-ter'</em>. Sau đó đổi ngược lại: chân 3, tay 2."
+      },
+      {
+        "title": "2 — 3 Trên Snare Đối Đầu 2 Trên Kick",
+        "tip": "Snare chơi mạch 3 (chùm ba nốt đen trải qua 2 phách). Kick chơi mạch 2 ở phách 1 và 3. Hai chi chỉ chập vào nhau ở phách 1. Hãy bật máy đếm nhịp theo nốt đen của kick, để tiếng snare trôi bồng bềnh bên trên tiếng click."
+      },
+      {
+        "title": "3 — Chuyển Đổi Trọng Tâm Lắng Nghe",
+        "tip": "Không thay đổi chuyển động cơ thể, chỉ thay đổi sự tập trung của tâm trí: 4 ô đầu lắng nghe tiếng snare làm chủ đạo, 4 ô sau chuyển sự chú ý sang tiếng kick. Tựa như bức tranh ảo giác con thỏ/con vịt: cả hai hình khối luôn hiện diện, chỉ do bạn chọn nhìn hình nào."
+      },
+      {
+        "title": "4 — 3:2 Phân Tách Trên Dàn Trống (Tom Cao + Tom Sàn)",
+        "tip": "Đưa mạch 3 lên tom cao và mạch 2 xuống tom sàn. Sự tách biệt cao độ giữa hai chiếc tom cho phép người nghe thưởng thức phức điệu trong không gian âm thanh nổi (stereo) sống động như cách chơi của Tony Williams."
+      }
+    ]
+  },
+  "polyrhythms-5-4": {
+    "tagline": "Phức điệu 5:4 — Năm nốt chia đều trên độ dài bốn phách",
+    "bodyHtml": "\n      <p>Nếu phức điệu 3:2 mang lại cảm giác lắc lư dân gian ấm áp, thì <strong>phức điệu 5:4 (Five against Four)</strong> đưa bạn lên một tầm cao mới về kiểm soát thời gian. Đây là lãnh địa của các nhà soạn nhạc đương đại, các tay trống Progressive Metal (như Danny Carey của Tool, Matt Garstka của Animals as Leaders) và các bậc thầy Modern Jazz như Vinnie Colaiuta.</p>\n      <p>Trong 5:4, bạn phải phân chia không gian của 4 nốt đen đều đặn thành <strong>5 nốt có khoảng cách bằng nhau tuyệt đối</strong> (quintuplet). Cú va chạm duy nhất giữa hai bè chỉ diễn ra ở phách 1 đầu ô nhịp. Điểm khó nhất là giữ cho 5 nốt luôn thẳng thớm và kiên định, không bị bóp nghẹt hay co cụm lại ở cuối ô nhịp.</p>\n    ",
+    "graduationCriteria": [
+      "Vỗ tay 5 đối đầu dậm chân 4 (và ngược lại) liên tục trong 1 phút không bị trượt nhịp",
+      "Groove 5 trên snare đối đầu 4 trên kick duy trì ở ♩=70 trong 1 phút với hai bè âm vang rõ",
+      "Câu báo fill 5:4 trong ô nhịp 4/4 tiếp đất chuẩn xác ở phách 1 của ô nhịp kế tiếp mà không bị vội"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Vỗ Tay 5 Đối Đầu Dậm Chân 4 (Bài Tập Cơ Thể)",
+        "tip": "Bật máy đếm nhịp ở mạch 4 phách (♩=60). Miệng đọc đều từ có 5 âm tiết như <em>'u-ni-ver-si-ty'</em> trải đều qua 4 tiếng bíp. Tuyệt đối không đánh ép nốt: 5 nốt phải có khoảng cách bằng chằn chặn. Khi đã vững, đảo ngược lại: tay 4, chân 5."
+      },
+      {
+        "title": "2 — 5 Trên Snare Đối Đầu 4 Trên Kick",
+        "tip": "Đưa bài tập lên dàn trống: Kick đạp 4 nốt đen kiên định, Snare chơi 5 nốt trải đều cả ô nhịp. Chỉ chập nhau ở phách 1. Hãy tin tưởng vào tiếng máy đếm nhịp của chân kick và để chiếc snare bay lượn độc lập bên trên."
+      },
+      {
+        "title": "3 — Biến 5:4 Thành Một Groove Nhún Nhảy",
+        "tip": "Đôi chân giữ nhịp four-on-the-floor hoàn chỉnh (kick ở 1 và 3, hi-hat ở 2 và 4). Đôi tay chơi 5 nốt snare trải đều với nốt đầu tiên nhấn mạnh. Hãy cảm nhận 5:4 như một điệu nhảy tự nhiên chứ không còn là một bài toán khô khan."
+      },
+      {
+        "title": "4 — Câu Báo Fill 5:4 Trong Ô Nhịp 4/4",
+        "tip": "Chơi 5 nốt đều hạ dần từ tom cao → tom trung → snare → tom sàn → tom sàn, đón phách 1 tiếp theo bằng một cú crash nảy lửa. Nếu đến sớm hay muộn dù chỉ một nốt móc kép, bạn đã chia sai khoảng cách của chùm 5."
+      }
+    ]
+  },
+  "odd-meters-9-8": {
+    "tagline": "Nhịp lẻ 9/8, 11/8, 13/8 — Vượt ra ngoài vùng an toàn",
+    "bodyHtml": "\n      <p>Sau khi đã chinh phục nhịp 5/4 và 7/8, cánh cửa bước vào thế giới số chỉ nhịp siêu lẻ sẽ mở toang: <strong>9/8, 11/8 và 13/8</strong>. Chúng trông có vẻ đáng sợ trên trang giấy nhạc, nhưng sẽ trở nên vô cùng logic và cuốn hút ngay khi bạn hiểu được nguyên lý phân nhóm:</p>\n      <p>\n        <ul>\n          <li><strong>Nhịp 9/8 bất đối xứng:</strong> <em>2 + 2 + 2 + 3</em> (ba nhóm ngắn và một nhóm dài ở cuối).</li>\n          <li><strong>Nhịp 9/8 phức hợp truyền thống:</strong> <em>3 + 3 + 3</em> (ba nhóm chùm ba đều đặn kiểu điệu nhảy Địa Trung Hải).</li>\n          <li><strong>Nhịp 11/8:</strong> <em>3 + 3 + 3 + 2</em> (ba nhóm dài và một nhóm ngắn chốt đuôi).</li>\n          <li><strong>Nhịp 13/8:</strong> <em>3 + 2 + 3 + 2 + 3</em> (cấu trúc đối xứng gương: dài - ngắn - dài - ngắn - dài).</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Groove 9/8 (2+2+2+3) duy trì ở ♩=90 trong 2 phút với nhóm dài cuối không bao giờ bị bóp ngắn thành 2",
+      "Groove 11/8 (3+3+3+2) lặp lại trơn tru mà không làm mất cấu trúc phân nhóm",
+      "Groove 13/8 (3+2+3+2+3) giữ vững trong 1 phút với từng nhóm nhịp nghe rõ mồn một"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Groove 9/8 Bất Đối Xứng (2+2+2+3)",
+        "tip": "Đếm nhẩm: <em>1-2 / 3-4 / 5-6 / 7-8-9</em>. Cú snare đánh dấu ở nốt 3 và 7, kick phóng đi ở nhóm 1 và 3. Toàn bộ linh hồn nằm ở nhóm 3 nốt cuối cùng: nếu cắt ngắn nó thành 2, ô nhịp sẽ lập tức sụp đổ thành 8/8."
+      },
+      {
+        "title": "2 — Groove 9/8 Phức Hợp (3+3+3)",
+        "tip": "Cùng số chỉ nhịp nhưng cảm xúc hoàn toàn khác biệt: ba phách đen chấm dôi đều đặn (<em>1-2-3 / 4-5-6 / 7-8-9</em>). Đây là nhịp điệu của các điệu múa dân gian Balkan và Celtic rực rỡ sắc màu."
+      },
+      {
+        "title": "3 — Groove 11/8 (3+3+3+2)",
+        "tip": "Đếm: <em>1-2-3 / 4-5-6 / 7-8-9 / 10-11</em>. Cái bẫy ở đây là cố tình kéo dài nhóm cuối thành 3 nốt (biến thành 12/8). Hãy đếm to thành tiếng cho đến khi hình dáng bất đối xứng ngấm vào tiềm thức."
+      },
+      {
+        "title": "4 — Groove 13/8 Đối Xứng Gương (3+2+3+2+3)",
+        "tip": "Đếm: <em>1-2-3 / 4-5 / 6-7-8 / 9-10 / 11-12-13</em>. Một cấu trúc hồi quy tuyệt đẹp (dài - ngắn - dài - ngắn - dài). Hãy nhớ: 13/8 sẽ không còn kỳ lạ nữa ngay khoảnh khắc bạn ngừng đếm và bắt đầu cảm nhận nó như một câu nhạc duy nhất!"
+      }
+    ]
+  },
+  "soloing-improvisation": {
+    "tagline": "Nghệ thuật Độc tấu và Ngẫu hứng — Kiến trúc của một bài solo trống thực thụ",
+    "bodyHtml": "\n      <p>Phần lớn các câu 'solo' của những người mới chơi thực chất chỉ là một chuỗi các câu licks rời rạc được cóp nhặt trong phòng tập rồi ném dồn dập vào tai khán giả. Một bài solo đích thực đòi hỏi phải có <strong>kiến trúc âm nhạc (architecture)</strong>:</p>\n      <p>\n        <ul>\n          <li><strong>Chủ đề (Motif):</strong> Một ý niệm tiết tấu ngắn gọn, dễ nhớ làm hạt nhân ban đầu.</li>\n          <li><strong>Phát triển (Development):</strong> Lặp lại chủ đề với những biến tấu tinh tế về cao độ (chuyển mặt trống), dịch chuyển phách hoặc biến đổi sắc thái.</li>\n          <li><strong>Cao trào & Giải tỏa (Climax & Resolution):</strong> Đưa năng lượng lên đỉnh điểm rồi tiếp đất ngọt ngào.</li>\n        </ul>\n      </p>\n      <p>Học cách solo như Max Roach hay Buddy Rich: kể một câu chuyện có mở đầu, thân bài và kết luận bằng chính những chiếc trống của bạn.</p>\n    ",
+    "graduationCriteria": [
+      "Chơi một ý niệm 1 ô nhịp, lặp lại hai lần với một yếu tố được biến đổi mỗi lần (nêu ý · lặp lại · biến tấu)",
+      "Đoạn solo 4 ô nhịp phát triển từ một môtip duy nhất thay vì ghép 4 câu licks không liên quan",
+      "Thể hiện rõ sự phối khí đa tầng âm sắc — sử dụng đầy đủ các vùng âm cao, âm trung và âm trầm"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ý Niệm 1 Ô Nhịp, Lặp Lại Hai Lần Kèm Biến Tấu",
+        "tip": "Ô 1 nêu ý tưởng: 3 nốt snare kèm khoảng trống. Ô 2 lặp lại nhưng đổi nốt thứ ba lên tom cao (biến tấu cao độ). Ô 3 tự do biến đổi tiết tấu hoặc lực đánh nhưng vẫn giữ cốt lõi của ý niệm ban đầu."
+      },
+      {
+        "title": "2 — Solo 4 Ô Nhịp Phát Triển Từ Một Môtip",
+        "tip": "Xây dựng câu chuyện 4 ô nhịp như một câu văn hoàn chỉnh: mở đầu êm đềm, phát triển môtip qua các tom, dồn nén thành chuỗi nốt rền và kết thúc dứt khoát ở đầu ô nhịp thứ 5."
+      },
+      {
+        "title": "3 — Solo 8 Ô Nhịp 'Hỏi và Đáp' (Snare Hỏi · Tom Trả Lời)",
+        "tip": "Tạo cuộc đối thoại sinh động: chiếc snare đưa ra câu hỏi, những chiếc tom cất tiếng trả lời. Khán giả sẽ nghe thấy hai nhân vật đang trò chuyện chứ không phải một tay trống đang gõ điên cuồng."
+      },
+      {
+        "title": "4 — Tương Phản Ride và Snare Như Màu Sắc Solo",
+        "tip": "Khai thác sự tương phản giữa âm cao lanh lảnh của cymbals ride và âm trung đanh thép của snare. Sự đối lập màu sắc âm thanh chính là chất liệu solo tinh tế nhất."
+      }
+    ]
+  },
+  "brushes-mastery": {
+    "tagline": "Làm chủ Chổi quét bậc thầy — Quét số 8, comping, fills và dải sắc thái từ thì thầm đến bùng nổ",
+    "bodyHtml": "\n      <p>Chơi <strong>chổi quét (brushes)</strong> ở trình độ bậc thầy vượt xa những vòng quét đơn giản. Đây là nơi bạn khám phá toàn bộ dải âm sắc vô tận của mặt trống snare tráng nhám:</p>\n      <p>\n        <ul>\n          <li><strong>Kỹ thuật quét số 8 (Figure-8 sweep):</strong> Hai bàn tay vẽ hai vòng số 8 vô tận lồng vào nhau, duy trì một dải âm thanh xào xạc <em>'shhh'</em> tuyệt đối không có khe hở khi hai tay bắt chéo qua nhau.</li>\n          <li><strong>Kiểm soát sắc thái vi mô:</strong> Khả năng chuyển dịch mượt mà từ âm lượng thì thầm (whisper - gần như không trọng lượng) đến cú nổ mạnh mẽ (forte) rồi thu mình trở lại.</li>\n          <li><strong>Fills bằng chổi:</strong> Những câu lướt phẩy chổi mềm mại qua các tom mà không làm rách hay vỡ kết cấu nhịp điệu của bản Ballad.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Quét hình số 8 tạo ra tiếng xì xào mịn màng, liên tục, không có khoảng hở nghe thấy khi hai tay đan chéo",
+      "Groove quét tay phải + chấm nốt tay trái ở mỗi nốt '&' duy trì ở ♩=70 trong 2 phút với hai âm sắc tách bạch",
+      "Câu báo fill bằng chổi trong bản Ballad chậm tiếp đất hoàn hảo ở phách 1 mà không làm đứt quãng dòng quét trước đó"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kỹ Thuật Quét Hình Số 8 (Figure-8 Sweep)",
+        "tip": "Hai tay luân phiên vẽ hình số 8 nằm ngang trên mặt trống snare. Lắng nghe thật kỹ thời điểm hai cổ tay giao nhau: phải duy trì áp lực tiếp xúc liên tục để không bị hụt tiếng."
+      },
+      {
+        "title": "2 — Tay Phải Quét + Tay Trái Chấm Nốt ở Mỗi Nốt '&'",
+        "tip": "Phân chia vai trò rõ nét: tay phải quét liên tục, tay trái chấm nhẹ đầu sợi cọ vào mỗi nốt nghịch phách '&' tạo độ nảy lãng mạn cho điệu nhạc."
+      },
+      {
+        "title": "3 — Bài Tập Động Lực Học (Thì Thầm → Forte → Thì Thầm)",
+        "tip": "Trong một ô nhịp duy nhất: hai phách đầu quét êm ru như hơi thở, phách 3 dựng chổi nhấn mạnh, và phách 4 thu hẹp dải cọ trở về trạng thái tĩnh lặng."
+      },
+      {
+        "title": "4 — Câu Báo Fill Bằng Chổi Trong Bản Ballad Chậm",
+        "tip": "Dùng chổi lướt các nốt móc kép 16ths quét qua snare, tom cao, tom trung và tom sàn. Âm thanh mềm như lụa nhưng cấu trúc thời gian phải chính xác tuyệt đối."
+      }
+    ]
+  },
+  "four-way-independence": {
+    "tagline": "Độc lập 4 chi toàn diện — 4 chi, 4 tiếng nói độc lập tại đỉnh núi",
+    "bodyHtml": "\n      <p>Chào mừng bạn đến với đỉnh Everest của kỹ thuật trống: <strong>Độc lập 4 chi toàn diện (Four-Way Independence)</strong>. Tại đây, ranh giới giữa bản năng và sự điều khiển ý thức được nâng lên tầm cao tối thượng:</p>\n      <p>\n        <ul>\n          <li><strong>Tay phải:</strong> Mẫu câu ride jazz hoặc câu ostinato biến hóa.</li>\n          <li><strong>Chân trái:</strong> Dậm Clave Afro-Cuban hoặc câu ostinato hi-hat nghịch phách.</li>\n          <li><strong>Chân phải:</strong> Chơi câu kick độc lập tự do.</li>\n          <li><strong>Tay trái:</strong> Vẽ nên những giai điệu ngẫu hứng phong phú trên chiếc trống snare.</li>\n        </ul>\n      </p>\n      <p>Cả 4 chi đều có bản sắc nhịp điệu riêng biệt — không chi nào chia sẻ cùng một mẫu câu. Bạn có thể tự do đưa bất kỳ chi nào lên tiền tuyến làm giai điệu chính trong khi ba chi còn lại tiếp tục vận hành hoàn hảo phía sau.</p>\n    ",
+    "graduationCriteria": [
+      "Lá ride + chân trái dậm Clave + câu kick độc lập + giai điệu snare — cả 4 chi tách bạch — giữ vững ở ♩=80 trong 1 phút",
+      "Câu nhạc 4 ô nhịp nơi mỗi chi mang một bản sắc tiết tấu riêng (không có hai chi nào trùng mẫu) chơi trơn tru",
+      "Bạn có thể tùy ý đưa một chi bất kỳ nổi bật lên phía trước (tăng âm lượng) mà không làm xao động các chi khác"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bốn Chi Tách Bạch: Ride · Clave Chân · Kick · Snare Giai Điệu",
+        "tip": "Chân trái đạp Son Clave, tay phải giữ ride, chân phải đá nốt bombo, tay trái dệt giai điệu trên snare. Ghép chậm từng nốt ở tốc độ cực chậm (♩=50–60) cho đến khi não bộ lập trình xong phản xạ."
+      },
+      {
+        "title": "2 — Cụm 4 Ô Nhịp: Mỗi Chi Một Câu Chuyện",
+        "tip": "Mỗi chi có một cung bậc riêng kéo dài suốt 4 ô nhịp. Hãy lắng nghe bản hòa tấu phức hợp này như 4 nghệ sĩ tứ tấu đang trò chuyện ăn ý."
+      },
+      {
+        "title": "3 — Đoạn Solo Kết Phong Cách Jim Chapin",
+        "tip": "Ride và chân hi-hat neo chặt thời gian Jazz bất biến; trong khi snare và kick trở thành hai giọng nói ngẫu hứng tự do tung hoành."
+      },
+      {
+        "title": "4 — Hệ Thống Đa Năng Phong Cách Gary Chester",
+        "tip": "Đảo ngược lại vai trò: Snare và Kick trở thành chiếc mỏ neo cố định, trong khi đôi tay và chân trái tự do biến hóa cymbals và sắc thái."
+      }
+    ]
+  },
+  "reading-complex-charts": {
+    "tagline": "Đọc bản nhạc & tổng phổ phức tạp — Ký hiệu gạch chéo, D.S. al Coda và dẫn dắt ban nhạc",
+    "bodyHtml": "\n      <p>Một tay trống chuyên nghiệp trong phòng thu (studio session) hoặc dàn nhạc lớn (big band) không có thời gian để học thuộc lòng từng bài hát. Họ phải nhìn vào một tờ tổng phổ (chart) và chơi chuẩn xác ngay trong lần đọc đầu tiên (sight-reading).</p>\n      <p>Bài học này giải mã các quy ước ký âm thực chiến cao cấp:\n        <ul>\n          <li><strong>Ký hiệu vạch chéo (Slash bars):</strong> Biểu thị bạn phải chơi groove tự do phù hợp với phong cách của ca khúc.</li>\n          <li><strong>Câu nhấn đồng bộ (Hits / Kicks over time):</strong> Bắt chuẩn xác các nốt nhấn cùng dàn kèn đồng mà không làm sụp đổ nhịp đệm.</li>\n          <li><strong>Dẫn hướng bản nhạc:</strong> Làm chủ các ký hiệu nhảy cóc như <em>D.S. al Coda, D.C. al Fine, To Coda</em> và các ô nhịp lấy đà (pickup bars).</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Câu lấy đà (pickup) 2 phách bước vào ô nhịp 1 dứt khoát, tự tin không hề ngập ngừng",
+      "Các ô nhịp gạch chéo (slash bars) được lấp đầy bằng groove phong cách chuẩn mực trong khi các nốt nhấn được bắt chính xác",
+      "Bản tổng phổ 16 ô nhịp có D.S. al Coda được thị tấu hoàn hảo ngay lần đầu tiên ở ♩=110 không mất cấu trúc"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Câu Lấy Đà 2 Phách Bước Vào Ô Nhịp 1",
+        "tip": "Bản nhạc bắt đầu từ giữa ô nhịp: phách 3 và 4 là câu lấy đà đưa cả ban nhạc phóng vào phách 1 của ô nhịp đầu tiên. Cú đánh phải dứt khoát và tràn đầy năng lượng."
+      },
+      {
+        "title": "2 — Câu Nhấn Đồng Bộ Kết Hợp Ký Hiệu Gạch Chéo",
+        "tip": "Bốn dấu gạch chéo có nghĩa là: giữ nhịp vững vàng! Khi câu nhấn của dàn kèn xuất hiện trên trang nhạc, hãy dùng kick và cymbals bắt gọn gàng cùng họ."
+      },
+      {
+        "title": "3 — Ô Nhịp Chuyển Đoạn Coda",
+        "tip": "Thực hiện cú nhảy từ dấu 'To Coda' sang đoạn kết. Ô nhịp này thường bao gồm: tiếp đất, câu báo fill cao trào và tiếng nổ dứt điểm toàn bài."
+      },
+      {
+        "title": "4 — Trích Đoạn Cấu Trúc 16 Ô Nhịp: Ô Nhịp 9 (Đoạn Cầu Nối Bridge)",
+        "tip": "Bước vào đoạn điệp khúc hoặc cầu nối: mở rộng không gian bằng cách chuyển từ hi-hat sang cymbals ride, để âm thanh thăng hoa nâng đỡ ban nhạc."
+      }
+    ]
+  },
+  "solo-drumming": {
+    "tagline": "Nghệ thuật Độc tấu trống chuyên sâu — Bộ trống như một nhạc cụ giai điệu, không phải nơi phô diễn kỹ nghệ",
+    "bodyHtml": "\n      <p>Trong tâm thức của đại chúng, độc tấu trống thường bị gắn với những màn đập phá ầm ĩ phô trương tốc độ. Nhưng đối với các nghệ sĩ vĩ đại như <strong>Max Roach, Joe Morello, Paul Motian hay Terry Bozzio</strong>, bộ trống là một <strong>nhạc cụ giai điệu và giao hưởng hoàn chỉnh</strong>.</p>\n      <p>Một tác phẩm độc tấu trống đích thực có thể được biểu diễn trên một chiếc cymbals duy nhất suốt 60 giây mà vẫn lôi cuốn người nghe nhờ sắc thái và kỹ thuật chạm dùi. Nó có thể là một bản nhạc êm đềm hoàn toàn bằng nốt ma và chổi quét, mang lại cảm xúc sâu lắng như một khúc độc tấu dương cầm.</p>\n    ",
+    "graduationCriteria": [
+      "Tác phẩm độc tấu trống 16 ô nhịp được biểu diễn với chủ đề nhận diện được, có phát triển, cao trào và giải tỏa",
+      "Bài độc tấu giới hạn trên một lá cymbals duy nhất duy trì sự hấp dẫn âm nhạc trong 60 giây nhờ sắc thái và điểm chạm",
+      "Một tác phẩm chơi bằng chổi và nốt ma lôi cuốn sự chú ý của người nghe mà không cần bất kỳ cú đánh forte nào"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tác Phẩm Độc Tấu Trống 16 Ô Nhịp: Phác Thảo Mở Đầu (Ô 1–2)",
+        "tip": "Ghi nhớ hình tượng âm nhạc bao gồm cả khoảng lặng: điểm nhấn ở 1, nốt lướt nghịch phách vào 2, và để âm vang tự nhiên lan tỏa khắp căn phòng."
+      },
+      {
+        "title": "2 — Bài Tập Một Cymbals Duy Nhất: Toàn Tác Phẩm Trên Lá Ride",
+        "tip": "Chỉ dùng một lá ride: biến hóa màu sắc qua quả chuông, thân lá, mép cymbals, dùng đầu dùi, thân dùi và các mức lực to nhỏ khác nhau."
+      },
+      {
+        "title": "3 — Ghost Notes và Chổi Quét: Khúc Solo Thì Thầm",
+        "tip": "Tất cả các nốt đều chơi ở mức ma quái (gần như vô thanh), chỉ để lộ một vài điểm nhấn tinh tế. Thử thách khả năng tập trung thính giác tột bậc của khán giả."
+      },
+      {
+        "title": "4 — Sáu Nốt Mỗi Ô Nhịp: Bài Tập Về Sự Tinh Giản",
+        "tip": "Mỗi ô nhịp chỉ đánh đúng 6 nốt. Để mỗi nốt ngân vang trọn vẹn trước khi nốt tiếp theo xuất hiện. Đỉnh cao của nghệ thuật là sự chắt lọc."
+      }
+    ]
+  },
+  "transcription-method": {
+    "tagline": "Phương pháp Ký âm & Chép nhạc — Cách đưa từ vựng từ tai vào đôi tay",
+    "bodyHtml": "\n      <p>Làm thế nào các tay trống huyền thoại có thể hấp thu hàng ngàn phong cách âm nhạc khác nhau? Bí quyết số một chính là <strong>Ký âm và Chép nhạc (Transcription)</strong>. Đây là cây cầu trực tiếp nối liền thính giác với hệ cơ bắp vận động.</p>\n      <p>Khi bạn tự tay lắng nghe một câu hát của trống trên đĩa thu âm, bóc tách từng chi (Kick → Snare → Hi-Hat → Cymbals), ghi lại nó trên khuông nhạc và tập luyện lại, bạn không chỉ học một câu lick — bạn đang giải mã tư duy và linh hồn của nghệ sĩ đó.</p>\n    ",
+    "graduationCriteria": [
+      "Ký âm chuẩn xác một groove 1 ô nhịp từ lời mô tả khẩu ngữ (vị trí kick, snare, hat) ngay lần thử đầu tiên",
+      "Chép lại câu nhạc 4 ô nhịp theo từng chi riêng biệt (kick → snare → hat → ride) và ráp lại hoàn chỉnh",
+      "Điền đúng các nốt còn thiếu trong một ô nhịp bán hoàn chỉnh bằng cách đối chiếu thính giác với bản phát lại chậm"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ký Âm Từ Mô Tả Khẩu Ngữ",
+        "tip": "Đọc mô tả bằng lời: kick ở 1 và & của 3, snare ở 2 và 4, hi-hat móc đơn. Tự tay viết lại nó lên giấy khuông nhạc một cách chuẩn xác trước khi nhìn đáp án."
+      },
+      {
+        "title": "2 — Chép Đoạn Nhạc 4 Ô Nhịp Từ Mô Tả",
+        "tip": "Lắng nghe hoặc đọc phân tích của câu báo fill ở ô thứ 4: hai nốt móc đơn trên mỗi trống đi từ tom cao → tom trung → snare → tom sàn. Ký âm lại toàn bộ cấu trúc."
+      },
+      {
+        "title": "3 — Hoàn Thành Ô Nhịp Ký Âm Dang Dở",
+        "tip": "Trang nhạc chỉ cho sẵn bè hi-hat và kick. Hãy lắng nghe bản audio và dùng đôi tai điền nốt trống snare và các nốt ma còn thiếu vào chỗ trống."
+      }
+    ]
+  },
+  "practice-systems": {
+    "tagline": "Hệ thống Luyện tập hiệu quả — Biến một giờ luyện tập thành một giờ tiến bộ vượt bậc",
+    "bodyHtml": "\n      <p>Sự khác biệt giữa một người chơi mãi không tiến bộ và một bậc thầy không nằm ở số giờ họ ngồi sau bộ trống, mà nằm ở <strong>Hệ thống Luyện tập (Practice Systems)</strong>. Ngồi gõ vô định những gì mình đã biết trong 2 tiếng không phải là luyện tập — đó chỉ là giải trí.</p>\n      <p>Một buổi tập có chủ đích (Deliberate Practice) luôn tuân thủ nguyên tắc:\n        <ul>\n          <li><strong>Khởi động & Kỹ thuật cơ bản (20% thời gian):</strong> Giãn cơ, pad tập, độ nảy và rudiments.</li>\n          <li><strong>Thử thách mới tại vùng biên giới năng lực (50% thời gian):</strong> Bài tập mà bạn hiện CHƯA chơi được, tập cực chậm với máy đếm nhịp.</li>\n          <li><strong>Ứng dụng âm nhạc & Sáng tạo (30% thời gian):</strong> Chơi cùng bài hát, ngẫu hứng và ghi âm lại để đánh giá.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Lập kế hoạch luyện tập bằng văn bản theo một trong ba khung thời gian (30 phút / 60 phút / 2 giờ) và thực hiện liên tục trong 1 tuần",
+      "Ghi chép nhật ký luyện tập sau mỗi buổi: ghi nhận ít nhất một mốc tốc độ tempo và một dòng tự đánh giá trung thực",
+      "Nghe lại bản ghi âm 1 phút của chính mình và chỉ ra được một điểm cụ thể cần khắc phục trong buổi tập kế tiếp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Lộ Trình 30 Phút: Ô Nhịp Khởi Động",
+        "tip": "Phân bổ 30 phút mẫu: <em>0:00–5:00:</em> Khởi động nảy dùi và rudiment trên pad. <em>5:00–20:00:</em> Tập trung giải quyết một groove hoặc kỹ năng khó nhất ở tempo chậm. <em>20:00–30:00:</em> Đánh cùng nhạc và thả lỏng."
+      },
+      {
+        "title": "2 — Mẫu Nhật Ký Luyện Tập Chuẩn Mực",
+        "tip": "Ghi chép lại sau mỗi buổi tập: <em>Ngày / Mục tiêu / Tốc độ khởi điểm / Tốc độ đạt được sạch sẽ / Khó khăn gặp phải / Việc cần làm ngày mai</em>. Đây là tấm gương phản chiếu sự trưởng thành của bạn."
+      }
+    ]
+  },
+  "accompaniment": {
+    "tagline": "Nghệ thuật Đệm nhạc — Lắng nghe, đối thoại và sự tiết chế của người chơi trống",
+    "bodyHtml": "\n      <p>Vai trò thiêng liêng nhất của người chơi trống là <strong>phụng sự âm nhạc và nâng đỡ những người xung quanh</strong>. Khán giả không bao giờ nhớ một tay trống đã đánh bao nhiêu nốt trong một ca khúc; họ chỉ nhớ ca khúc đó có khiến họ rung động hay không.</p>\n      <p>Nghệ thuật đệm nhạc đỉnh cao đòi hỏi ba phẩm chất:\n        <ul>\n          <li><strong>Sự tiết chế (Restraint):</strong> Giữ vững một rãnh nhịp vững chãi suốt 16 ô nhịp mà không thêm thắt hoa mỹ thừa thãi. Công việc của bạn là xây sàn nhà vững chãi, không phải xây trần nhà che khuất ca sĩ.</li>\n          <li><strong>Lắng nghe & Phản hồi động lực:</strong> Thở cùng ca sĩ, tăng giảm âm lượng tương ứng với từng câu kèn độc tấu.</li>\n          <li><strong>Dũng cảm tạo khoảng trống:</strong> Một ô nhịp hoàn toàn tĩnh lặng đúng lúc có giá trị hơn hàng trăm cú gõ ầm ĩ.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Giữ vững một groove duy nhất trong 16 ô nhịp không thêm nốt báo thừa trong khi người độc tấu đang biểu diễn",
+      "Phản hồi sắc thái qua cấu trúc 12 ô nhịp bám sát cường độ của nghệ sĩ solo (4 ô nhẹ → 4 ô vừa → 4 ô bùng nổ) mà không vội nhịp",
+      "Cụm 4 ô nhịp chứa một ô nhịp hoàn toàn im lặng (không gõ trống) mang lại cảm giác chủ đích nghệ thuật, không phải lỗi đánh rơi nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Giữ Vững Rãnh Nhịp Trong 16 Ô Nhịp Tuyệt Đối Không Thêm Thắt",
+        "tip": "Chơi đúng một ô nhịp này 16 lần liên tiếp: không câu báo fill, không tiếng crash mở màn, không trang trí cymbals. Hãy để rãnh nhịp ngấm sâu và trở thành điểm tựa vững chãi nhất cho ban nhạc."
+      },
+      {
+        "title": "2 — Đồng Hành Cùng Cường Độ Của Người Độc Tấu (12 Ô Nhịp)",
+        "tip": "Ba dải sắc thái: <em>Ô 1–4: ÊM NHẸ (Soft)</em> dùng cross-stick. <em>Ô 5–8: VỪA PHẢI (Medium)</em> mở dần cymbals. <em>Ô 9–12: BÙNG NỔ (Loud)</em> với rim-shot toàn lực."
+      },
+      {
+        "title": "3 — Tạo Khoảng Lặng: Cụm 4 Ô Nhịp Với Ô Thứ 3 Hoàn Toàn Tĩnh Lặng",
+        "tip": "Ở ô nhịp thứ 3: dừng lại hoàn toàn, hai tay thả lỏng, để không gian âm nhạc tràn ngập sự hồi hộp trước khi tiếp đất ngọt ngào ở ô thứ 4."
+      },
+      {
+        "title": "4 — Đệm Cho Bản Ballad: Chổi Quét + Cymbals Tối Giản",
+        "tip": "Tốc độ ♩=60: tay phải quét vòng tròn êm ru trên snare, tay trái chấm nhẹ, chân kick chỉ thở nhẹ nhàng. Hãy nâng niu từng giai điệu ngọt ngào của bản tình ca."
+      }
+    ]
+  },
+  "clave-as-feel": {
+    "tagline": "Clave như một cảm giác nội tâm — Mạch đập 2 ô nhịp ẩn sâu trong Bo Diddley, Blues và Rock",
+    "bodyHtml": "\n      <p>Bài học bế mạc toàn bộ giáo trình Drum Town đưa bạn trở về với cội nguồn sâu xa nhất của nhịp điệu: <strong>Clave không chỉ là một công thức âm nhạc Cuba — nó là một cảm giác nội tâm (Feel)</strong> đã ăn sâu vào cấu trúc của toàn bộ nền âm nhạc phương Tây hiện đại.</p>\n      <p>Bạn sẽ nhận ra mạch đập 2 ô nhịp của Clave ẩn mình trong:\n        <ul>\n          <li>Nhịp điệu Bo Diddley bất hủ khai sinh ra Rock 'n' Roll.</li>\n          <li>Những bản Blues kinh điển của New Orleans và Chicago.</li>\n          <li>Những câu riff guitar huyền thoại của The Rolling Stones ('Not Fade Away'), The Beatles và vô số bản Pop đương đại.</li>\n        </ul>\n      </p>\n      <p>Khi Clave đã trở thành một phần hơi thở tự nhiên bên trong bạn, bạn không còn cần phải đếm nhịp nữa. Bạn lắng nghe thế giới qua lăng kính của nhịp điệu, và bạn đã sẵn sàng bước ra ngoài để tự viết nên câu chuyện âm nhạc của chính cuộc đời mình.</p>\n    ",
+    "graduationCriteria": [
+      "Câu Bo Diddley với các trọng âm uốn lượn theo hình dáng Rumba Clave duy trì ở ♩=104 trong 2 phút",
+      "Backbeat Rock kết hợp Son Clave 3-2 trên cross-stick chơi độc lập hoàn hảo mà không làm mất tiếng nào",
+      "Phân tích theo thời gian thực một bài hát bất kỳ: nhận diện được bài hát đó đang tựa trên biến thể Clave nào và rơi vào những phách nào"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Nhịp Bo Diddley (Hình Dáng Rumba 3-2)",
+        "tip": "Dòng nốt móc đơn liên tục trên snare với 5 điểm nhấn mang linh hồn của Rumba Clave: <em>Ô 1: phách 1, & của 2, & của 4. Ô 2: phách 2 và 3</em>. Đây là nhịp đập đã làm rung chuyển lịch sử âm nhạc thế giới!"
+      },
+      {
+        "title": "2 — Backbeat Rock Kết Hợp Son Clave 3-2 Trên Cross-Stick",
+        "tip": "Hi-hat đánh móc đơn thẳng, kick nện ở 1 và 3; đối đầu với nó là câu cross-stick Son Clave uyển chuyển của tay trái. Cảm nhận sự giao thoa kỳ diệu giữa Rock và Latin."
+      },
+      {
+        "title": "3 — Cymbals Ride Jazz Với Trọng Âm Son 3-2",
+        "tip": "Mẫu câu lướt sóng ride không bao giờ đổi, chỉ có các nốt nhấn di chuyển nhẹ nhàng phác họa nên hình bóng Son Clave bên dưới."
+      },
+      {
+        "title": "4 — Mẫu Tham Chiếu Son 3-2: Trò Chơi Lắng Nghe Toàn Diện",
+        "tip": "Gõ Son Clave 3-2 trên cross-stick 8 lần cho đến khi nó trở thành chiếc la bàn vĩnh cửu trong tâm trí bạn. Chúc mừng bạn đã hoàn thành trọn vẹn giáo trình Drum Town!"
+      }
+    ]
+  }
+}

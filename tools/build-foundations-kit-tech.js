@@ -1,0 +1,440 @@
+// tools/build-foundations-kit-tech.js
+const fs = require('fs');
+const path = require('path');
+
+const data = {
+  "first-beat-kicks": {
+    "tagline": "Dịch chuyển vị trí trống bass, thay đổi toàn bộ linh hồn bài hát",
+    "bodyHtml": "<p>Trong bài học trước, bạn đã học nhịp backbeat với trống bass (kick) gõ cố định ở phách 1 và 3. Nhưng điều kỳ diệu của nhịp điệu chính là: <strong>chỉ cần xê dịch vị trí của tiếng kick dù chỉ nửa phách, bạn đã biến một bản nhạc rock thẳng thớm thành một rãnh nhịp pop nhún nhảy hoặc một câu funk đầy năng lượng.</strong></p><h2 class=\"section-label\">Sức mạnh của cú Kick đảo phách (The Syncopated Kick)</h2><p>Khi tiếng kick không rơi vào phách 3 mà rơi vào nốt lệch <strong>&amp; của 3</strong>, nó tạo ra một cú hích bất ngờ hướng thẳng về cú backbeat của trống snare ở phách 4. Cảm giác này giống như bạn đang hụt một bước chân rồi được một lực đẩy vô hình nâng bổng lên.</p><p>Thử thách lớn nhất đối với bàn chân phải là <em>sự độc lập với tay phải</em>: bàn tay phải đang gõ hi-hat nốt móc đơn đều đặn theo tiếng máy đếm nhịp. Khi chân phải dậm vào nốt lệch <em>&amp;</em>, tay phải không được phép tăng tốc hay giật mình theo chân.</p>",
+    "graduationCriteria": [
+      "Chơi cả 5 biến thể kick ở ♩=90 với nhịp hi-hat hoàn toàn ổn định",
+      "Cú kick ở nốt lệch & rơi chính xác vào điểm giữa hai tiếng click của máy đếm nhịp",
+      "Tiếng trống Snare ở phách 2 và 4 luôn đanh gọn, không bị xê dịch khi chân kick thay đổi mẫu hình"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick ở nốt & của 3",
+        "tip": "Kick rơi vào phách 1 và nốt lệch <em>&amp;</em> của 3: <em>1, 2, (3) &amp;, 4</em>. Hãy đếm to và cảm nhận cú kick ở nốt & lao mình vào cú dằn snare ở phách 4."
+      },
+      {
+        "title": "2 — Kick đón đầu ở nốt & của 2",
+        "tip": "Cú kick xuất hiện ngay sau cú snare đầu tiên: <em>1, 2 &amp;, 3, 4</em>. Chân dậm cùng lúc với nốt hi-hat ở nốt & của phách 2."
+      },
+      {
+        "title": "3 — Đảo phách kết hợp cả hai cú Kick",
+        "tip": "Kết hợp cả hai cú kick lệch: kick ở 1, nốt &amp; của 2, và nốt &amp; của 3. Tạo nên một rãnh nhịp rock hiện đại đầy cuốn hút."
+      },
+      {
+        "title": "4 — Kick kép ở phách 1 (1 &)",
+        "tip": "Chân phải dậm nhanh hai tiếng kick liên tiếp ở đầu ô nhịp: <em>1 &amp;</em>. Dùng kỹ thuật nhấc gót nhẹ để hai cú dậm dứt khoát và đều tiếng."
+      },
+      {
+        "title": "5 — Mẫu Kick nhạc Pop kinh điển",
+        "tip": "Mẫu hình: <em>1, &amp; của 2, 3, &amp; của 4</em>. Đây là rãnh nhịp xuất hiện trong hàng ngàn bài hát Pop và Dance trên sóng phát thanh toàn cầu."
+      }
+    ]
+  },
+  "first-beat-color": {
+    "tagline": "Những cử chỉ vi mô biến một nhịp gõ đơn giản thành một tác phẩm nghệ thuật",
+    "bodyHtml": "<p>Một cỗ máy đánh trống có thể gõ nhịp backbeat hoàn hảo suốt cả ngày, nhưng điều khiến một con người chơi trống trở nên lay động lòng người chính là <strong>màu sắc và gia vị biểu cảm (color &amp; nuance)</strong>.</p><h2 class=\"section-label\">Những nét chấm phá đắt giá</h2><p>Chỉ cần thêm một cú <strong>mở nhẹ hi-hat</strong> ở cuối ô nhịp, một cú <strong>đánh đón đầu (pickup)</strong> của trống snare, hoặc chuyển đổi sang <strong>cảm giác Half-time</strong>, bạn đã tạo ra những khoảnh khắc chuyển giao đầy ma thuật giữa các phân đoạn bài hát (từ Verse sang Chorus).</p>",
+    "graduationCriteria": [
+      "Cú mở hi-hat (Bài 1) thở nhịp nhàng ở cuối ô nhịp và đóng chặt khít khao đúng phách 1 tiếp theo",
+      "Cú snare pickup (Bài 2) không làm nặng nề phách 1",
+      "Cảm giác Half-time (Bài 3) giữ được độ đầm chắc ở ♩=85",
+      "Bài tổng hợp (Bài 4) phối hợp nhịp nhàng giữa tay mở hi-hat và chân dậm kick"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mở Hi-Hat ở nốt & của 4",
+        "tip": "Nhấc nhẹ mũi chân trái mở hi-hat đúng nốt <em>&amp;</em> cuối cùng của ô nhịp, rồi dập chân đóng chặt lại ngay phách 1 ô nhịp sau. Tiếng 'xèo... chách' mở ra không gian thở tuyệt vời."
+      },
+      {
+        "title": "2 — Snare đón đầu ở nốt & của 4",
+        "tip": "Thêm một cú gõ snare nhẹ ở nốt <em>&amp;</em> của 4 trước khi quay về kick ở phách 1. Cú đánh đón đầu này như một lời báo hiệu ô nhịp chuẩn bị quay vòng."
+      },
+      {
+        "title": "3 — Cảm giác Half-Time (Snare chỉ ở phách 3)",
+        "tip": "Bỏ cú snare ở phách 2 và 4, chỉ đánh đúng một cú snare uy lực ở <strong>phách 3</strong>. Cảm giác nhịp điệu lập tức chậm lại một nửa, tạo độ nặng và không gian mênh mông cho đoạn điệp khúc."
+      },
+      {
+        "title": "4 — Kết hợp mở Hi-Hat và Kick đón đầu",
+        "tip": "Tổng hợp mọi sắc thái: chân phải dậm kick đón đầu trong khi chân trái mở hi-hat. Đòi hỏi sự độc lập hai chân vô cùng tinh tế."
+      }
+    ]
+  },
+  "two-bar-phrasing": {
+    "tagline": "Khi ô nhịp thứ hai cất tiếng trả lời ô nhịp thứ nhất",
+    "bodyHtml": "<p>Trong âm nhạc, một ô nhịp đơn lẻ hiếm khi đứng độc lập. Âm nhạc thở theo những chu kỳ dài hơn: <strong>câu nhịp hai ô nhịp (two-bar phrase)</strong>. Ô nhịp thứ nhất đặt ra câu hỏi (Call), và ô nhịp thứ hai đưa ra câu trả lời (Response).</p><h2 class=\"section-label\">Tư duy theo chu kỳ lớn</h2><p>Thay vì lặp lại một ô nhịp giống hệt nhau một cách máy móc, người chơi trống chuyên nghiệp luôn tạo ra sự biến tấu nhỏ ở cuối ô nhịp thứ hai — có thể là một cú dậm kick thêm, một nốt mở hi-hat, hoặc một cú gõ snare báo hiệu. Điều này giúp người nghe cảm nhận bài hát đang liên tục tiến về phía trước.</p>",
+    "graduationCriteria": [
+      "Chơi cả chu kỳ hai ô nhịp mà không bị nhầm lẫn giữa ô nhịp 1 và ô nhịp 2",
+      "Cú chuyển biến ở cuối ô nhịp 2 (Bài 1, 2, 3) báo hiệu rõ ràng sự kết thúc của một chu kỳ",
+      "Giữ vững tốc độ ♩=90 suốt 2 phút liên tục"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Snare đón đầu ở cuối ô nhịp 2",
+        "tip": "Ô nhịp 1 chơi backbeat tiêu chuẩn. Ô nhịp 2 thêm một cú snare ở nốt <em>&amp;</em> của phách 4 để khép lại chu kỳ 2 ô nhịp."
+      },
+      {
+        "title": "2 — Biến tấu trống Kick ở ô nhịp 2",
+        "tip": "Ô nhịp 1 kick ở 1 và 3. Ô nhịp 2 dậm thêm kick ở nốt <em>&amp;</em> của 3. Tạo nên cấu trúc câu hỏi - câu trả lời sinh động."
+      },
+      {
+        "title": "3 — Mở Hi-Hat ở cuối ô nhịp 2",
+        "tip": "Chỉ mở hi-hat ở nốt &amp; của 4 trong ô nhịp thứ hai, ô nhịp thứ nhất giữ đóng hoàn toàn. Tiếng mở hi-hat trở thành dấu chấm câu đắt giá."
+      },
+      {
+        "title": "4 — Chu kỳ hai ô nhịp hoàn chỉnh kèm Pickup",
+        "tip": "Kết hợp nhịp nhàng giữa kick biến tấu và snare pickup. Hãy đếm thầm: <em>Ô nhịp một: 1, 2, 3, 4 · Ô nhịp hai: 1, 2, 3, 4 &amp;</em>."
+      },
+      {
+        "title": "5 — Tay biến đổi ở ô nhịp 2, chân giữ nguyên",
+        "tip": "Chân kick giữ nguyên mẫu hình cố định ở cả hai ô nhịp, trong khi đôi tay thực hiện các biến tấu sắc thái ở ô nhịp thứ hai."
+      }
+    ]
+  },
+  "the-shuffle": {
+    "tagline": "Nhịp móc đơn Swing cưỡi trên lưng chiếc Backbeat Rock vững chãi",
+    "bodyHtml": "<p><strong>Điệu Shuffle</strong> là cây cầu giao thoa huyền thoại giữa Blues, R&amp;B và Rock &amp; Roll: bàn tay phải chơi các nốt móc đơn nhún nhảy theo cảm giác liên ba (swing 8ths), trong khi trống snare và kick giáng những cú đòn backbeat đanh thép, vuông vức ở phách 2 và 4.</p><h2 class=\"section-label\">Cảm giác Dài - Ngắn trên chiếc lá Hi-Hat</h2><p>Mỗi phách trên hi-hat là một cặp nốt <em>1 - let</em> (bỏ nốt giữa của liên ba). Điệu shuffle có thể biến hóa từ sự nhẹ nhàng, tinh tế của Texas blues cho đến sức mạnh cuồng bạo của Hard rock (như bài hát kinh điển của Led Zeppelin hay Toto).</p>",
+    "graduationCriteria": [
+      "Nhịp shuffle trên hi-hat (Bài 1) mang lại cảm giác nhún nhảy dập dềnh rõ rệt, không bị cứng như nốt chấm dôi",
+      "Tiếng kick ở 1 và 3 (Bài 2) và snare ở 2 và 4 (Bài 3) đáp xuống vuông vức trên tiếng click",
+      "Rãnh nhịp Shuffle hoàn chỉnh (Bài 4) tuôn chảy tự nhiên ở ♩=110 trong 2 phút liên tục"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nhịp Shuffle trên lá Hi-Hat đơn lẻ",
+        "tip": "Chỉ chơi tay phải trên hi-hat: <em>1-(trip)-let 2-(trip)-let 3-(trip)-let 4-(trip)-let</em>. Hãy đếm to và cảm nhận nhịp dập dềnh của cặp nốt dài - ngắn."
+      },
+      {
+        "title": "2 — Thêm trống Bass ở phách 1 và 3",
+        "tip": "Chân phải dậm kick ngay ở phách 1 và 3. Chú ý tiếng kick rơi trùng khít với nốt đầu tiên của chùm liên ba trên hi-hat."
+      },
+      {
+        "title": "3 — Thêm trống Snare ở phách 2 và 4",
+        "tip": "Đưa chiếc backbeat snare vào phách 2 và 4. Đánh dứt khoát và tự tin — tiếng snare chính là điểm tựa giữ cho chiếc xe shuffle không bị lật."
+      },
+      {
+        "title": "4 — Rãnh nhịp Shuffle hoàn chỉnh",
+        "tip": "Cả ba chi phối hợp mượt mà. Giữ cho tiếng hi-hat nảy tưng bừng ở trên trong khi bộ khung kick/snare bên dưới đầm chắc như bê tông cốt thép."
+      }
+    ]
+  },
+  "bass-drum-technique": {
+    "tagline": "Hạ gót, nhấc gót, dùi đạp dính mặt trống và độ nảy tự nhiên",
+    "bodyHtml": "<p>Bàn chân phải điều khiển chiếc trống to nhất và mang năng lượng trầm mạnh nhất trong toàn bộ dàn nhạc. Cách bạn sử dụng bàn chân quyết định độ bền thể lực, tốc độ và âm sắc của cả bộ trống.</p><h2 class=\"section-label\">Hai kỹ thuật bàn chân cơ bản</h2><ul class=\"bulleted\"><li><strong>Hạ gót (Heel-Down)</strong>: Toàn bộ gót chân đặt cố định trên bàn đạp, chỉ dùng mũi bàn chân và cơ cẳng chân để nhấn pedal. Cho khả năng kiểm soát âm lượng nhỏ tuyệt vời, cực kỳ phù hợp cho Jazz và các bản ballad nhẹ nhàng.</li><li><strong>Nhấc gót (Heel-Up)</strong>: Gót chân nhấc nhẹ lên khỏi bàn đạp, trọng lượng của toàn bộ cẳng chân và đùi hỗ trợ lực giáng xuống. Cho âm lượng lớn, độ đầm và tốc độ bùng nổ — là kỹ thuật tiêu chuẩn của Rock, Pop, Metal và Funk.</li></ul><h2 class=\"section-label\">Dùi dính mặt trống vs Dùi nảy tự do</h2><p><strong>Burying the beater (Dùi dính mặt trống)</strong>: Sau khi đạp, bạn giữ lực chân để đầu dùi đạp áp chặt vào mặt trống. Cách này triệt tiêu độ vang, cho ra âm thanh \"bịch\" gọn gàng, hiện đại. Ngược lại, <strong>Rebound stroke (Dùi nảy tự do)</strong>: bạn nhấc nhẹ chân ngay sau khi chạm để dùi bật ngược trở lại, cho phép trống bass ngân vang trầm ấm tự nhiên.</p>",
+    "graduationCriteria": [
+      "Có thể biểu diễn rõ ràng sự khác biệt âm thanh giữa dùi dính mặt trống và dùi nảy tự do",
+      "Kỹ thuật nhấc gót (Bài 2) không gây mỏi khớp cổ chân sau 2 phút chơi nốt móc đơn ở ♩=100",
+      "Âm lượng của 4 cú dậm Four-on-the-floor (Bài 3) hoàn toàn đồng đều ở cả 4 phách"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick nốt đen, kỹ thuật Hạ gót (Heel-Down)",
+        "tip": "Đặt gót chân trên bàn đạp, dùng cơ bắp chân nhấn mũi bàn đạp. Giữ âm lượng vừa phải, êm dịu ở ♩=70."
+      },
+      {
+        "title": "2 — Kick nốt móc đơn, kỹ thuật Nhấc gót (Heel-Up)",
+        "tip": "Nhấc nhẹ gót chân lên khoảng 2-3 cm. Tận dụng trọng lượng của chân thả xuống pedal. Âm thanh lập tức trở nên dày dặn và mạnh mẽ."
+      },
+      {
+        "title": "3 — Dùi dính mặt trống, xung nhịp Four-on-the-Floor",
+        "tip": "Dậm kick ở cả 4 phách, giữ đầu dùi đạp ép sát vào mặt trống sau mỗi cú dậm. Âm thanh đanh gọn, không có đuôi vang um."
+      },
+      {
+        "title": "4 — Cú đánh nảy tự nhiên ở tốc độ cao",
+        "tip": "Thả lỏng chân để pedal tự nảy về sau khi chạm mặt trống. Lắng nghe tiếng trầm ấm ngân vang của trống bass mở rộng."
+      }
+    ]
+  },
+  "hi-hat-foot": {
+    "tagline": "Nhịp xung vô hình mà bạn không thể sống thiếu",
+    "bodyHtml": "<p>Nhiều người mới học trống để mặc bàn chân trái nghỉ ngơi thụ động trên bàn đạp hi-hat. Nhưng trong thế giới của các tay trống chuyên nghiệp, <strong>chân trái hi-hat chính là chiếc máy đếm nhịp nội tại số một</strong>.</p><h2 class=\"section-label\">Tiếng dập \"Chick\" ở phách 2 và 4</h2><p>Bằng cách dập nhẹ chân trái tạo tiếng gõ <em>\"chick\"</em> sắc sảo ở phách 2 và 4, bạn giải phóng đôi tay: ngay cả khi tay bạn đang chơi lá Ride mênh mang hay bay lượn khắp các quả tom, cả ban nhạc vẫn cảm nhận được nhịp đập backbeat vững chắc từ tiếng dập chân hi-hat của bạn.</p>",
+    "graduationCriteria": [
+      "Tiếng dập chân 'chick' ở 2 và 4 (Bài 1) rơi chuẩn xác cùng tiếng click của máy đếm nhịp",
+      "Duy trì được tiếng dập chân trái ổn định trong khi tay phải chơi rãnh nhịp trên lá Ride",
+      "Bài tập xung móc đơn chân trái (Bài 4) không làm loạn nhịp chân kick bên phải"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tiếng 'Chick' ở phách 2 và 4, chân trái độc lập",
+        "tip": "Chỉ dùng chân trái dập bàn đạp hi-hat ở phách 2 và 4. Đếm to: <em>1, CHICK, 3, CHICK</em>. Nhấc gót dập dứt khoát mũi chân."
+      },
+      {
+        "title": "2 — Tiếng 'Chick' ở 2 và 4 kết hợp tay đánh Hi-Hat móc đơn",
+        "tip": "Tay phải đánh móc đơn trên hi-hat, chân trái dập chặt ở phách 2 và 4. Chú ý tiếng dập chân làm cho cú đánh tay ở 2 và 4 nghe đanh giòn hơn."
+      },
+      {
+        "title": "3 — Tiếng 'Chick' dưới một nhịp Backbeat cơ bản",
+        "tip": "Chuyển tay phải sang chơi lá Ride, chân kick ở 1 và 3, snare ở 2 và 4, chân trái dập hi-hat ở 2 và 4. Đây là bộ khung nền tảng của nhạc Jazz và Rock cổ điển."
+      },
+      {
+        "title": "4 — Xung nhịp dập chân trên từng nốt móc đơn",
+        "tip": "Thử thách nâng cao: chân trái dập nhịp ở tất cả các nốt móc đơn (<em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>). Giữ cho cơ thể thăng bằng trên ghế ngồi."
+      }
+    ]
+  },
+  "bass-drum-doubles": {
+    "tagline": "Hai cú kick trong một phách — ba phương pháp làm chủ",
+    "bodyHtml": "<p>Chơi một tiếng kick thì ai cũng làm được. Nhưng để dậm <strong>hai tiếng kick liên tiếp cực nhanh và tròn trịa (kick doubles)</strong> bằng một bàn chân duy nhất mà không bị hụt hơi là thử thách phân loại trình độ tay trống rõ rệt nhất.</p><h2 class=\"section-label\">Ba kỹ thuật đỉnh cao cho cú dậm đúp</h2><ul class=\"bulleted\"><li><strong>Kỹ thuật Slide (Trượt bàn chân)</strong>: Cú dậm thứ nhất thực hiện ở phần giữa bàn đạp, sau đó bàn chân trượt nhanh về phía trước (hướng lên trên) để mũi chân dậm cú thứ hai. Lực quán tính trượt tạo ra hai cú đánh nhanh như chớp.</li><li><strong>Kỹ thuật Heel-Toe (Gót - Mũi)</strong>: Hạ gót chân (hoặc phần đệm bàn chân) xuống tạo cú đánh thứ nhất, sau đó búng mũi chân xuống tạo cú đánh thứ hai. Cực kỳ lợi hại cho tốc độ cao và sức bền dài lâu.</li><li><strong>Kỹ thuật Swivel (Xoay cổ chân)</strong>: Cổ chân xoay nhẹ sang trái ở cú thứ nhất và xoay sang phải ở cú thứ hai. Phổ biến trong dòng nhạc Metal và Punk.</li></ul>",
+    "graduationCriteria": [
+      "Hai nốt kick trong cú đánh đúp có âm lượng và độ rõ nét ngang bằng nhau — nốt thứ hai không bị thều thào",
+      "Chơi sạch cú kick kép nốt móc kép ở ♩=80 không làm trôi nhịp tay hi-hat",
+      "Bài tập 4 (rãnh nhịp Kick-Double-Snare) giữ được độ bốc và đầm chắc suốt 2 phút"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cú dậm đúp nốt móc kép (Tập chậm)",
+        "tip": "Chân dậm nhanh hai nốt: <em>1 e</em>. Thử nghiệm kỹ thuật trượt (slide): dậm nốt 1 ở giữa pedal rồi trượt mũi chân lên phía trên cho nốt 'e'."
+      },
+      {
+        "title": "2 — Một cú dậm đúp ở phách 4 của mỗi ô nhịp",
+        "tip": "Cả ô nhịp chơi bình thường, dậm đúp hai cú kick ở phách 4 (<em>4 e</em>) để tạo lực đẩy bắn ngược về phách 1 của ô tiếp theo."
+      },
+      {
+        "title": "3 — Dậm đúp ngay trước mỗi cú Backbeat",
+        "tip": "Dậm đúp kick ở nốt &amp; của 1 và nốt &amp; của 3: tiếng kick nép sát ngay trước cú snare. Đây là đặc sản của Funk và R&amp;B."
+      },
+      {
+        "title": "4 — Rãnh nhịp Kick-Double-Snare hoàn chỉnh",
+        "tip": "Đẩy tốc độ lên ♩=95. Giữ cho hai cú kick dậm dứt khoát như một khẩu súng hai nòng nạp đạn."
+      }
+    ]
+  },
+  "snare-voicings": {
+    "tagline": "Một chiếc trống, sáu giọng nói biểu cảm hoàn toàn khác biệt",
+    "bodyHtml": "<p>Nhiều người nghĩ trống snare chỉ có một âm thanh duy nhất: tiếng gõ bùm bụp ở giữa mặt trống. Thực tế, trống snare là nhạc cụ biểu cảm đa dạng nhất trong dàn trống mộc, sở hữu ít nhất <strong>sáu âm sắc (voicings)</strong> đặc thù:</p><ul class=\"bulleted\"><li><strong>Center Stroke (Đánh tâm mặt trống)</strong>: Vị trí mặc định. Âm thanh trầm ấm, tròn trịa, đầy đặn.</li><li><strong>Rimshot</strong>: Đánh sao cho thân dùi chạm đồng thời vào vành kim loại (hoop) trong khi đầu dùi chạm vào mặt trống. Cho ra âm thanh như một phát súng nổ đanh vang, quyền lực — âm thanh thương hiệu của Rock và Pop.</li><li><strong>Edge / Blade Voicing (Đánh sát mép)</strong>: Gõ đầu dùi cách vành trống chỉ 1-2 cm. Âm thanh mỏng, thanh mảnh, giàu tiếng thì thầm của dây tem — hoàn hảo cho các nốt ghost note.</li><li><strong>Cross-Stick / Side-Stick (Đánh chéo thân dùi)</strong>: Úp đầu dùi xuống mặt trống, đặt cườm tay lên mặt trống và dùng thân dùi gõ vào vành kim loại. Cho ra âm thanh \"cốc, cốc\" lách cách mộc mạc của Bossa Nova, Reggae và Ballad.</li></ul>",
+    "graduationCriteria": [
+      "Tạo ra cú đánh Rimshot đanh giòn, ổn định 10 lần liên tiếp không bị trượt vành",
+      "Âm thanh Cross-stick phát ra tiếng gõ gỗ chắc nịch, không bị phô hay rè",
+      "Có thể chuyển đổi mượt mà giữa 4 sắc thái âm thanh khác nhau trong cùng một ô nhịp (Bài 5)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Backbeat đánh tâm trống (Âm thanh mặc định)",
+        "tip": "Đầu dùi rơi chính xác vào tâm mặt trống ở phách 2 và 4. Âm thanh ấm áp, chắc nịch."
+      },
+      {
+        "title": "2 — Cùng nhịp Backbeat nhưng chuyển sang Rimshot",
+        "tip": "Hạ góc đánh sao cho thân dùi đập vào vành kim loại cùng lúc đầu dùi chạm mặt trống. Cảm nhận âm lượng và độ đanh nổ tăng vọt gấp ba lần."
+      },
+      {
+        "title": "3 — Ghost note ở sát mép trống",
+        "tip": "Gõ nhẹ đầu dùi sát mép vành trống. Âm thanh thì thầm tinh tế, dây tem rung rền êm ái."
+      },
+      {
+        "title": "4 — Cross-Stick cho các bản Ballad nhẹ nhàng",
+        "tip": "Xoay ngược dùi, đặt đầu dùi tựa lên mặt trống, cườm tay ép nhẹ mặt trống để giảm âm, dùng thân dùi gõ vào vành kim loại. Tìm điểm ngọt (sweet spot) cho tiếng 'cốc' vang nhất."
+      },
+      {
+        "title": "5 — Hành trình âm sắc: Một ô nhịp, bốn giọng nói",
+        "tip": "Phách 1: ghost note ở mép; phách 2: cross-stick; phách 3: đánh tâm trống; phách 4: rimshot bùng nổ. Làm chủ toàn bộ dải biểu cảm của trống snare."
+      }
+    ]
+  },
+  "hi-hat-articulation": {
+    "tagline": "Năm sắc thái âm thanh tuyệt diệu từ cặp lá kim loại",
+    "bodyHtml": "<p>Cặp lá Hi-Hat là trái tim nhịp điệu của bộ trống. Bằng cách điều khiển linh hoạt lực ép của bàn chân trái và vị trí gõ của dùi tay phải, bạn có thể tạo ra ít nhất <strong>năm sắc thái âm sắc</strong> khác nhau:</p><ul class=\"bulleted\"><li><strong>Closed Tight (Đóng chặt)</strong>: Chân trái ép chặt pedal, đầu dùi gõ trên mặt lá trên. Âm thanh \"tích, tích\" khô giòn, cực kỳ chính xác.</li><li><strong>Half-Open Sizzle (Mở hé xèo xèo)</strong>: Nới lỏng nhẹ chân trái để hai lá cọ xát vào nhau khi rung. Cho ra âm thanh xào xạc đầy năng lượng của Hard Rock và Punk.</li><li><strong>Open Hat (Mở hoàn toàn)</strong>: Nhấc chân trái mở hẳn hai lá, gõ vào cạnh dùi để tạo độ vang rền lớn, sau đó dập chân đóng lại để ngắt tiếng.</li><li><strong>Foot Chick (Dập chân)</strong>: Dập chân trái tạo tiếng gõ máy đếm thời gian.</li><li><strong>Foot Splash (Dập chân nhả nhanh)</strong>: Dập mạnh chân trái rồi nhấc gót lên ngay lập tức để hai lá va vào nhau rồi ngân rung lấp lánh.</li></ul>",
+    "graduationCriteria": [
+      "Phân biệt rõ ràng bằng âm thanh giữa Hi-hat đóng chặt, mở hé (sizzle) và mở hoàn toàn",
+      "Cú Foot Splash (Bài 5) ngân vang lấp lánh mà không làm mất thăng bằng cơ thể",
+      "Kiểm soát độ dài ngắn của tiếng mở hi-hat chính xác theo từng giá trị nốt nhạc"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hi-Hat đóng chặt (Âm thanh tham chiếu)",
+        "tip": "Ép chặt chân trái. Dùng đầu dùi gõ trên bề mặt lá trên ở nhịp nốt móc đơn. Âm thanh gọn gàng, sắc sảo."
+      },
+      {
+        "title": "2 — Mở Hi-Hat ở nốt & của 4",
+        "tip": "Nhấc nhẹ chân trái ở nốt &amp; của 4, đánh cạnh dùi vào viền lá hi-hat, rồi dập chân đóng sập lại ở phách 1."
+      },
+      {
+        "title": "3 — Mở hé tạo tiếng xèo xèo (Half-Open Sizzle)",
+        "tip": "Nới lỏng chân vừa đủ để hai lá kim loại va đập vào nhau liên tục khi gõ. Tiếng xèo xèo sôi sục của nhạc Rock đích thực."
+      },
+      {
+        "title": "4 — Chân dập ở 2 và 4 kết hợp chơi lá Ride",
+        "tip": "Tay phải chơi tiết tấu swing trên lá Ride, chân trái dập tiếng 'chick' đều đặn ở phách 2 và 4."
+      },
+      {
+        "title": "5 — Foot Splash ở nốt & của 4",
+        "tip": "Dập nhanh mũi chân trái rồi nhả ngay để hai lá hi-hat va vào nhau tạo tiếng 'xoang' ngân vang như một chiếc cymbal nhỏ."
+      }
+    ]
+  },
+  "cymbal-voicings": {
+    "tagline": "Vị trí bạn chạm dùi trên mặt cymbal sẽ thay đổi tất cả",
+    "bodyHtml": "<p>Một chiếc lá cymbal không phải là một tấm kim loại đồng nhất — nó là một nhạc cụ có nhiều vùng âm sắc riêng biệt từ tâm ra đến rìa ngoài:</p><ul class=\"bulleted\"><li><strong>Thân lá (Bow)</strong>: Vùng phẳng rộng lớn giữa lá. Dùng đầu dùi gõ nhẹ cho ra âm thanh lách cách trong trẻo (ping) kèm độ ngân êm dịu — đây là vùng chơi chính của lá Ride.</li><li><strong>Núm chóp (Bell)</strong>: Phần gồ cao ở chính giữa tâm lá cymbal. Dùng thân dùi gõ vào đây cho ra âm thanh chói chang, đanh thép, xuyên thủng mọi bức tường âm thanh của ban nhạc.</li><li><strong>Rìa cạnh (Edge)</strong>: Mép ngoài cùng của lá. Dùng thân dùi chém một góc nghiêng để kích hoạt toàn bộ độ rung của kim loại — cách chúng ta đánh lá Crash.</li></ul>",
+    "graduationCriteria": [
+      "Âm thanh gõ núm chuông (Bell) trên lá Ride vang lên dứt khoát, không bị lẫn tiếng thân lá",
+      "Cú đánh lá Crash ở phách 1 rơi trùng khít cùng tiếng kick mà không làm xô lệch nhịp",
+      "Biết cách chém dùi nghiêng (glancing blow) để bảo vệ cymbal không bị nứt vỡ"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tiết tấu Ride trên thân lá (Bow)",
+        "tip": "Dùng đầu dùi gõ trên thân lá Ride ở góc 45 độ. Lắng nghe tiếng gõ hạt tròn trịa hòa quyện cùng làn mây ngân phía sau."
+      },
+      {
+        "title": "2 — Nhấn núm chuông (Bell) ở phách 1 và 3",
+        "tip": "Dùng phần thân dày của dùi gõ vào núm chuông ở phách 1 và 3. Âm thanh đanh thép bừng sáng cả ô nhịp."
+      },
+      {
+        "title": "3 — Đánh lá Crash mở màn ở phách 1",
+        "tip": "Đánh lá Crash đồng thời cùng tiếng trống Bass ở phách 1. Hãy chém dùi lướt ngang qua mép lá cymbal, đừng đâm bổ dùi thẳng góc."
+      },
+      {
+        "title": "4 — Cymbal China làm điểm nhấn chuyển đoạn",
+        "tip": "Lá China mang âm sắc dữ dội, chát chúa. Dùng nó như một cú dằn uy lực để báo hiệu kết thúc một phân đoạn cao trào."
+      }
+    ]
+  },
+  "ghost-notes-found": {
+    "tagline": "Lời thì thầm có thể nghe thấy — xây dựng từ sự kiểm soát ngón tay",
+    "bodyHtml": "<p><strong>Ghost notes (nốt ma)</strong> là những nốt gõ cực nhẹ, êm như tiếng thở dài trên mặt trống snare, thường được lấp đầy vào các khoảng trống giữa các cú backbeat mạnh mẽ.</p><h2 class=\"section-label\">Bí quyết: Độ cao dùi chỉ 2 cm</h2><p>Điều phân biệt một tay trống tầm thường với một bậc thầy Funk chính là khả năng kiểm soát độ cao dùi: cú backbeat giơ cao 20 cm tạo tiếng nổ vang dội, trong khi các nốt ghost note chỉ cách mặt trống từ 2 đến 3 cm. Bạn không dùng lực cánh tay — bạn chỉ dùng sự đàn hồi của ba ngón tay sau để thả dùi rơi nhẹ tựa lông hồng.</p>",
+    "graduationCriteria": [
+      "Tạo ra sự đối lập âm lượng cực đại: tiếng backbeat to rõ và nốt ghost note thì thầm êm ái",
+      "Dòng chảy ghost note nốt móc kép (Bài 2) không bị phô hay đập mạnh tay bất thường",
+      "Rãnh nhịp Funk có ghost note (Bài 4) tuôn chảy tự nhiên ở ♩=85"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luyện độ cao dùi: Lời thì thầm và Tiếng tát",
+        "tip": "Luân phiên giữa một cú nổ lớn (accent) và một cú chạm siêu nhẹ (ghost). Giữ đầu dùi nốt nhẹ cách mặt trống không quá 2 cm."
+      },
+      {
+        "title": "2 — Dòng chảy Ghost note nốt móc kép trên Snare",
+        "tip": "Chơi nốt móc kép êm ái bằng ngón tay trên snare. Âm thanh nghe như tiếng hạt cát lăn trên mặt kính."
+      },
+      {
+        "title": "3 — Xung nhịp Nhẹ - Mạnh - Nhẹ",
+        "tip": "Mẫu hình: ghost note, backbeat, ghost note. Rèn luyện phản xạ hạ thấp dùi ngay lập tức sau cú đánh mạnh."
+      },
+      {
+        "title": "4 — Rãnh nhịp Backbeat Funk hoàn chỉnh kèm Ghost Note",
+        "tip": "Đưa các nốt ghost note vào giữa rãnh nhịp cơ bản. Nhịp trống lập tức biến đổi từ một bài tập khô khan thành một câu Funk đầy ma mị."
+      }
+    ]
+  },
+  "accent-tap": {
+    "tagline": "Hai độ cao, một chuyển động mượt mà — nền tảng của mọi nốt nhấn",
+    "bodyHtml": "<p>Kỹ thuật <strong>Accent / Tap</strong> là chiếc chìa khóa vạn năng mở ra sự uyển chuyển của đôi tay. Trong bài tập này, bạn học cách luân phiên giữa một cú đánh mạnh từ trên cao (Accent) và một cú gõ nhẹ sát mặt trống (Tap) trên cùng một bàn tay.</p><h2 class=\"section-label\">Quy tắc hai tầng độ cao</h2><ul class=\"bulleted\"><li><strong>Nốt nhấn (Accent)</strong>: Bắt đầu từ độ cao 20-30 cm, giáng xuống mặt trống và dùng ngón tay giữ đầu dùi dừng lại ở sát mặt trống (Down stroke).</li><li><strong>Nốt gõ nhẹ (Tap)</strong>: Bắt đầu từ vị trí thấp 3-5 cm, gõ nhẹ và ở lại vị trí thấp.</li><li><strong>Nốt nâng (Up stroke)</strong>: Gõ nhẹ ở vị trí thấp và nhấc dùi lên cao để chuẩn bị cho nốt nhấn tiếp theo.</li></ul>",
+    "graduationCriteria": [
+      "Âm thanh nốt nhấn và nốt tap có sự tương phản âm lượng rõ rệt gấp ít nhất 3 lần",
+      "Không bị giật cục cổ tay khi chuyển đổi giữa nốt cao và nốt thấp",
+      "Bài tập hoán vị của George Stone (Bài 5) chơi sạch sẽ ở ♩=80"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Luân phiên Nhấn và Gõ nhẹ (Đánh đơn)",
+        "tip": "Tay phải nhấn (cao), tay trái gõ nhẹ (thấp): <em>R l R l</em>. Sau đó đổi ngược lại: <em>r L r L</em>."
+      },
+      {
+        "title": "2 — Đảo ngược: Gõ nhẹ trước, Nhấn sau",
+        "tip": "Bắt đầu bằng nốt tap rồi mới đến nốt accent. Dùng cú đánh nâng (up stroke) để đưa dùi lên cao mượt mà."
+      },
+      {
+        "title": "3 — Nhấn ở phách 1 trên nền nốt móc kép",
+        "tip": "Mỗi phách 4 nốt: nốt đầu nhấn mạnh, 3 nốt sau gõ nhẹ: <strong>R</strong> l r l · <strong>R</strong> l r l."
+      },
+      {
+        "title": "4 — Nhấn ở nốt & trên nền nốt móc kép",
+        "tip": "Di chuyển nốt nhấn về nốt lệch <em>&amp;</em>: r l <strong>R</strong> l · r l <strong>R</strong> l."
+      },
+      {
+        "title": "5 — Bài tập dịch chuyển nốt nhấn của Stone",
+        "tip": "Dịch chuyển nốt nhấn tuần tự qua từng vị trí vi mô. Thử thách đỉnh cao về khả năng kiểm soát độ cao dùi."
+      }
+    ]
+  },
+  "moeller-stroke": {
+    "tagline": "Vung roi, gõ nhẹ, nâng dùi — chuyển động kỳ diệu chơi mạnh-nhẹ không tốn sức",
+    "bodyHtml": "<p>Được đặt theo tên của tay trống huyền thoại Sanford A. Moeller, <strong>kỹ thuật Moeller (Moeller Technique)</strong> là bí mật vĩ đại nhất giúp các tay trống hàng đầu thế giới có thể chơi cực nhanh, cực mạnh suốt nhiều giờ liền mà không hề bị căng cơ hay mệt mỏi.</p><h2 class=\"section-label\">Nguyên lý ngọn roi quất (The Whip Principle)</h2><p>Thay vì gồng cơ bắp đập dùi vào trống, kỹ thuật Moeller sử dụng chuyển động lượn sóng tự nhiên của cánh tay: <strong>khuỷu tay dẫn dắt, cổ tay uốn lượn theo sau, và bàn tay quất dùi xuống như một ngọn roi</strong>. Một chuyển động vung tay duy nhất có thể sinh ra ba hoặc bốn cú đánh liên tiếp nhờ tận dụng quán tính và độ nảy.</p>",
+    "graduationCriteria": [
+      "Thực hiện được chuyển động quất roi lượn sóng từ khuỷu tay đến cổ tay thả lỏng hoàn toàn",
+      "Chu kỳ 3 nốt Moeller (Bài 2) vang lên mượt mà theo nhịp liên ba ở ♩=90",
+      "Không hề có cảm giác căng cứng cơ cẳng tay hay đau khớp cổ tay sau 3 phút luyện tập"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chỉ tập chuyển động vung roi (Từng tay một)",
+        "tip": "Nâng khuỷu tay lên trước, để cổ tay rũ xuống tự nhiên, rồi hạ khuỷu tay quất đầu dùi vào mặt trống như một ngọn roi. Cảm nhận lực phóng cực đại không tốn sức."
+      },
+      {
+        "title": "2 — Chu kỳ Moeller 3 nốt hoàn chỉnh (Liên ba)",
+        "tip": "Cú 1: Vung roi nhấn mạnh (Whip/Accent). Cú 2: Để dùi nảy gõ nhẹ (Tap). Cú 3: Nâng cổ tay lên gõ nhẹ (Up stroke). Ba nốt trong một chuyển động tay duy nhất!"
+      },
+      {
+        "title": "3 — Đánh luân phiên hai tay: Nhấn Moeller ở đầu phách",
+        "tip": "Áp dụng kỹ thuật Moeller cho cả hai tay trên nền nốt móc đơn hoặc liên ba. Cú nhấn đầu phách vang lên tự nhiên và hào sảng."
+      },
+      {
+        "title": "4 — Liên ba Moeller, nhấn mạnh ở cả hai tay",
+        "tip": "Đẩy tốc độ lên ♩=110. Cảm nhận đôi cánh tay như đang lượn sóng bồng bềnh trên mặt trống."
+      }
+    ]
+  },
+  "finger-control": {
+    "tagline": "Ba ngón tay sau làm động cơ cho những nốt đánh siêu nhanh và êm ái",
+    "bodyHtml": "<p>Khi bạn cần chơi những nốt nảy thần tốc ở âm lượng nhỏ (như ghost note, nhịp jazz ride nhanh, hoặc câu buzz roll mượt mà), khớp cổ tay sẽ trở nên quá cồng kềnh. Đó là lúc <strong>kỹ thuật điều khiển bằng ngón tay (Finger Control)</strong> tiếp quản cuộc chơi.</p><h2 class=\"section-label\">Động cơ ngón tay</h2><p>Ngón trỏ và ngón cái giữ điểm tựa (fulcrum), trong khi <strong>ba ngón tay sau (giữa, áp út, út)</strong> liên tục búng nhẹ và ôm lấy thân dùi. Cổ tay giữ gần như bất động; toàn bộ chuyển động do các đốt ngón tay sinh ra — nhẹ nhàng, chính xác và không tiêu tốn chút thể lực nào.</p>",
+    "graduationCriteria": [
+      "Có thể đánh nốt móc kép liên tục chỉ bằng chuyển động ngón tay (cổ tay hoàn toàn giữ yên) ở ♩=75",
+      "Chuyển đổi trơn tru giữa lực cổ tay (cho nốt nhấn) và lực ngón tay (cho nốt êm)",
+      "Câu buzz roll (Bài 4) đạt độ mịn màng như dải lụa không đứt quãng"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nốt móc kép thuần bằng ngón tay (Không dùng cổ tay)",
+        "tip": "Cố định cổ tay phẳng. Dùng các ngón tay sau búng dùi nảy trên mặt trống. Cảm nhận các đầu ngón tay như những lò xo tí hon."
+      },
+      {
+        "title": "2 — Kết hợp ngón tay và cổ tay: Nhấn ở đầu phách",
+        "tip": "Cổ tay phát động nốt nhấn mạnh ở phách 1, ba nốt móc kép phía sau do các ngón tay đảm nhiệm êm ái."
+      },
+      {
+        "title": "3 — Backbeat với dòng chảy ngón tay bên dưới",
+        "tip": "Tay phải chơi hi-hat, tay trái dùng ngón tay thì thầm các nốt ghost note bên dưới cú backbeat uy lực."
+      },
+      {
+        "title": "4 — Kỹ thuật Buzz Roll điều khiển bằng ngón tay",
+        "tip": "Dùng các ngón tay ép nhẹ dùi nảy nhiều lần liên tiếp, gối lên nhau tạo thành tiếng đổ trống cuộn êm ru như tiếng thác đổ xa xa."
+      }
+    ]
+  },
+  "dynamic-spectrum": {
+    "tagline": "Năm nấc thang âm lượng rõ rệt mà bạn phải luôn làm chủ",
+    "bodyHtml": "<p>Âm nhạc không chỉ có hai trạng thái \"Bật\" và \"Tắt\". Một tay trống vĩ đại sở hữu khả năng kiểm soát âm lượng tinh tế như một kỹ sư âm thanh chỉnh cần gạt âm lượng trong phòng thu.</p><h2 class=\"section-label\">Năm nấc thang cường độ chuẩn</h2><ul class=\"bulleted\"><li><strong>pp (Pianissimo - Rất nhỏ)</strong>: Đầu dùi chỉ cách mặt trống 2 cm. Tiếng thì thầm kín đáo của ghost notes.</li><li><strong>p (Piano - Nhỏ)</strong>: Độ cao dùi khoảng 5-8 cm. Êm dịu, dùng cho các đoạn đệm giọng hát nhẹ nhàng.</li><li><strong>mf (Mezzo-Forte - Vừa phải)</strong>: Độ cao dùi khoảng 15 cm. Âm lượng trò chuyện tự nhiên, khung nhịp tiêu chuẩn.</li><li><strong>f (Forte - Lớn)</strong>: Độ cao dùi khoảng 25-30 cm. Cú giáng mạnh mẽ của đoạn điệp khúc.</li><li><strong>ff (Fortissimo - Cực lớn)</strong>: Dùi vung hết tầm tay kết hợp rimshot uy lực. Tiếng sấm sét ở các cao trào đỉnh điểm.</li></ul>",
+    "graduationCriteria": [
+      "Có thể giữ vững bất kỳ mức âm lượng nào trong 5 mức suốt 1 phút mà không bị trôi âm lượng",
+      "Bài tập chiếc thang âm lượng (Bài 5) leo từ pp lên ff rồi hạ về pp một cách đều đặn, mượt mà",
+      "Âm sắc của mặt trống không bị vỡ hay bẹp tiếng ở mức ff"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tám nốt đen ở từng mức âm lượng",
+        "tip": "Chơi 8 nốt đen ở mức <em>p</em>, sau đó chuyển sang 8 nốt ở <em>mf</em>, rồi 8 nốt ở <em>f</em>. Lắng nghe ranh giới rõ rệt giữa từng cấp độ."
+      },
+      {
+        "title": "2 — Nốt móc đơn ở mức Mezzo-Forte (Mức tham chiếu)",
+        "tip": "Mức âm lượng làm việc tiêu chuẩn. Thả lỏng cơ thể, dùi nảy ở độ cao 15 cm êm ái, đĩnh đạc."
+      },
+      {
+        "title": "3 — Ô nhịp đan xen: Ghost / Forte / Ghost / Forte",
+        "tip": "Chuyển đổi đột ngột giữa hai cực đoan: nốt cực nhỏ (pp) và cú nổ lớn (f). Rèn luyện khả năng phanh hãm lực của cổ tay."
+      },
+      {
+        "title": "4 — Bốn cấp độ âm lượng trong cùng một ô nhịp",
+        "tip": "Phách 1: pp; phách 2: p; phách 3: mf; phách 4: f. Mỗi phách là một bậc thang âm thanh vươn lên."
+      },
+      {
+        "title": "5 — Chiếc thang âm lượng (The Dynamic Ladder)",
+        "tip": "Leo dần đều từ nốt thì thầm pp lên đỉnh điểm sấm sét ff, rồi từ từ hạ cánh an toàn về lại pp. Làm chủ hoàn toàn ma thuật của sắc thái âm nhạc."
+      }
+    ]
+  }
+};
+
+const targetPath = path.join(__dirname, '../src/_data/i18n/vi/lessons/foundations-kit-tech.json');
+fs.writeFileSync(targetPath, JSON.stringify(data, null, 2), 'utf8');
+console.log('Successfully wrote', Object.keys(data).length, 'kit and tech lessons to', targetPath);

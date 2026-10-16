@@ -1,0 +1,55 @@
+---
+layout: base.njk
+locale: vi
+pagination:
+  data: curriculum.tracks
+  alias: track
+  size: 1
+permalink: "vi/genres/{{ track.slug }}/"
+eleventyComputed:
+  title: "{{ track.title }} — Bài học trống"
+  description: "{{ track.description }}"
+---
+
+{% set locCurr = curriculum | localizedCurriculum('vi') %}
+{% set locTrack = locCurr | findTrack(track.slug) or track %}
+
+<div class="lesson-layout">
+
+{% set currentTrack = track.slug %}
+{% include "section-nav.njk" %}
+
+<div class="container">
+  <header class="genre-hero">
+    <p class="breadcrumb">
+      <a href="/vi/">Bài học</a>
+      <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;<a href="/vi/#tracks">Thể loại</a>
+      <span class="breadcrumb__sep" aria-hidden="true">/</span>&nbsp;{{ locTrack.title }}
+    </p>
+    <h1>{{ locTrack.title }}</h1>
+    <p class="lede">{{ locTrack.tagline }}</p>
+    <p class="genre-hero__desc">{{ locTrack.description }}</p>
+  </header>
+
+  {% for level in locTrack.levels %}
+  <section class="level-block">
+    <header class="level-block__header">
+      <h2 class="level-block__title">{{ level.title }}</h2>
+      <span class="level-block__tag">{{ level.lessons.length }} bài học</span>
+    </header>
+
+    <ol class="ledger__rows">
+      {% for lesson in level.lessons %}
+        <li><a class="ledger-row" href="/vi/lessons/{{ lesson.slug }}/">
+          <span class="ledger-row__num">{{ loop.index | pad2 }}</span>
+          <span class="ledger-row__title">{{ lesson.title }}</span>
+          <span class="ledger-row__leader" aria-hidden="true"></span>
+          <span class="ledger-row__meta"><span class="ledger-row__min">{{ lessonContent[lesson.slug].duration }}</span></span>
+        </a></li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+</div>
+
+</div>{# /.lesson-layout #}

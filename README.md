@@ -1,31 +1,53 @@
-# Drum Town
+# Drum Town (Multilingual Edition)
 
-Drum Town is a drum curriculum site, built with [Eleventy (11ty)](https://www.11ty.dev/) and [VexFlow](https://www.vexflow.com/). Notation is rendered server-side at build time, so the published site has zero JavaScript dependencies for the music notation.
+Drum Town is an open-source drum curriculum site, built with [Eleventy (11ty)](https://www.11ty.dev/) and [VexFlow](https://www.vexflow.com/). Notation is rendered server-side at build time, so the published site has zero JavaScript dependencies for the music notation.
+
+> **Note on Fork & Affiliation**: This project is an independent multilingual fork of the original [Drum Town](https://github.com/dylanpjenkins/drum-town) created by Dylan Jenkins. It introduces a modular localization architecture supporting English (`en` - default & fallback) and Vietnamese (`vi`), without modifying the musical engine, core curriculum logic, or upstream functionality.
+
+## Supported Languages
+
+- **English (`en`)**: Default language and automatic fallback. Available at standard URLs (`/`, `/lessons/:slug/`, `/genres/:slug/`, `/rudiments/`, `/metronome/`).
+- **Vietnamese (`vi`)**: First localized language edition. Available with `/vi/` prefix (`/vi/`, `/vi/lessons/:slug/`, `/vi/genres/:slug/`, `/vi/rudiments/`, `/vi/metronome/`).
+- **Extensible Architecture**: Additional locales (such as `zh-CN`, `es`, `ja`) can be added cleanly via declarative JSON dictionaries without altering application code.
 
 ## Structure
 
 ```
 drum-town/
 ├── package.json              ← npm config, scripts
-├── .eleventy.js              ← 11ty config + custom shortcodes
+├── .eleventy.js              ← 11ty config, custom shortcodes, and i18n filters
 ├── tools/
 │   ├── notation-renderer.js  ← server-side VexFlow → SVG
 │   ├── audit-lessons.js      ← validates exercise beat counts vs. time signatures
-│   └── review-middleware.js  ← dev-only API behind the /dev/review/ dashboard
+│   ├── audit-site.js         ← integrity and performance audit gates
+│   └── checks/               ← 22 automated accessibility and verification suites
 ├── src/
 │   ├── _data/
-│   │   ├── curriculum.js     ← the full curriculum (foundations, tracks, mastery)
-│   │   └── lessonContent.js  ← rich content for "ready" lessons
+│   │   ├── curriculum.js     ← master curriculum data
+│   │   ├── lessonContent.js  ← rich content for "ready" lessons (musical specs & base text)
+│   │   └── i18n/             ← localization subsystem
+│   │       ├── index.js      ← i18n engine with fallback to English
+│   │       ├── en/           ← English UI, curriculum, rudiments & lessons dictionaries
+│   │       └── vi/           ← Vietnamese dictionaries (UTF-8)
 │   ├── _includes/
-│   │   ├── base.njk          ← global layout (header, footer)
+│   │   ├── base.njk          ← global layout (multilingual head, nav, lang selector, footer)
+│   │   ├── curriculum-sidebar.njk
+│   │   └── section-nav.njk
 │   ├── assets/
-│   │   └── css/style.css     ← global stylesheet
-│   ├── dev/
-│   │   └── review.njk        ← lesson review dashboard (dev server only, not in builds)
-│   ├── index.njk             ← homepage with the curriculum overview
-│   ├── genres.njk            ← generates one page per genre
-│   └── lessons.njk           ← generates one page per lesson
-└── _site/                    ← built output (gitignored)
+│   │   ├── css/style.css     ← global stylesheet
+│   │   └── js/               ← client scripts (chrome.js, player.js, progress.js, metronome.js)
+│   ├── index.njk             ← English homepage (/)
+│   ├── genres.njk            ← English genre pages (/genres/:slug/)
+│   ├── lessons.njk           ← English lesson pages (/lessons/:slug/)
+│   ├── rudiments.njk         ← English rudiments page (/rudiments/)
+│   ├── metronome.njk         ← English metronome page (/metronome/)
+│   └── vi/                   ← Vietnamese localized pages (/vi/...)
+│       ├── index.njk         ← Vietnamese homepage (/vi/)
+│       ├── genres.njk        ← Vietnamese genre pages (/vi/genres/:slug/)
+│       ├── lessons.njk       ← Vietnamese lesson pages (/vi/lessons/:slug/)
+│       ├── rudiments.njk     ← Vietnamese rudiments (/vi/rudiments/)
+│       └── metronome.njk     ← Vietnamese metronome (/vi/metronome/)
+└── _site/                    ← built static output (456 pages across en + vi)
 ```
 
 ## Getting started
@@ -33,8 +55,46 @@ drum-town/
 ```bash
 npm install
 npm start          # dev server at http://localhost:8080 with live reload
-npm run build      # one-off production build
+npm run build      # production build (renders both English and Vietnamese static pages)
+npm test           # run automated test suites
 ```
+
+## Localization Architecture
+
+The localization system is built to be lightweight, zero-dependency, and strictly non-intrusive to the Web Audio engine and musical data:
+
+1. **Separation of Prose & Music**: Musical data structures (`bpm`, `timeSignature`, `hands`, `feet`, `tuplets`, `beamGroups`, note pitches, and durations) remain untranslated and intact. Only human-facing prose (titles, taglines, instructions, practice tips, and UI strings) is localized.
+2. **Fallback to English (`en`)**: If any key, lesson, or string is missing in a localized dictionary, the system automatically falls back to English without throwing errors or breaking page layout.
+3. **Locale-Prefixed Routing**:
+   - English (default): `/`, `/lessons/:slug/`, `/genres/:slug/`, `/rudiments/`, `/metronome/`
+   - Vietnamese: `/vi/`, `/vi/lessons/:slug/`, `/vi/genres/:slug/`, `/vi/rudiments/`, `/vi/metronome/`
+   - Each page emits canonical URLs and `<link rel="alternate" hreflang="..." />` tags for SEO.
+4. **State Persistence**:
+   - Language choice is remembered across visits in `localStorage.getItem('dt_locale')`.
+   - Practice progress (`localStorage.getItem('dc_progress')`) and metronome settings (`dc_metro_bpm`, `dc_metro_sig`) are shared across all languages by slug, so switching language preserves 100% of the user's progress.
+
+## Adding a New Language (e.g. Simplified Chinese `zh-CN`)
+
+To add a new language without changing core business logic:
+
+1. **Register the Locale**:
+   In `src/_data/i18n/index.js`, add the locale identifier to `SUPPORTED_LOCALES`:
+   ```javascript
+   const SUPPORTED_LOCALES = ['en', 'vi', 'zh-CN'];
+   ```
+2. **Create the Dictionary Directory**:
+   Create `src/_data/i18n/zh-CN/` and add the JSON resources:
+   - `ui.json`: Navigation, footer, player button labels, skip links, and status messages.
+   - `curriculum.json`: Localized section, track, and level titles.
+   - `rudiments.json`: Localized rudiment names and family descriptions.
+   - `lessons.json`: Localized lesson prose, tips, and graduation criteria.
+3. **Add Page Templates**:
+   Create `src/zh-CN/` mirroring `src/vi/` with `locale: zh-CN` and corresponding permalinks (e.g. `permalink: "zh-CN/lessons/{{ lesson.slug }}/"`).
+4. **Add Selector Option**:
+   Add the language link to the `.lang-switch` component in `src/_includes/base.njk`.
+5. **Build and Validate**:
+   Run `npm run build && npm test` to verify zero regressions.
+
 
 ## Adding a lesson
 

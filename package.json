@@ -5,7 +5,8 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "clean": "node -e \"require('fs').rmSync('_site',{recursive:true,force:true})\""
+    "clean": "node -e \"require('fs').rmSync('_site',{recursive:true,force:true})\"",
+    "test": "node tools/audit-site.js --gate && node tools/audit-lessons.js && node tools/checks/check-nav-a11y.js && node tools/checks/check-tempo-handoff.js && node tools/checks/check-focus-vocab.js && node tools/checks/check-skip-targets.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",

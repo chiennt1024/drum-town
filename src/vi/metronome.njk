@@ -1,0 +1,65 @@
+---
+layout: base.njk
+locale: vi
+title: "Máy Đếm Nhịp Trực Tuyến Miễn Phí (Metronome)"
+description: "Máy đếm nhịp trực tuyến miễn phí với thanh trượt tốc độ, số chỉ nhịp từ 2/4 đến 7/8 và điều chỉnh âm lượng — kèm hướng dẫn luyện tập thực tế."
+permalink: /vi/metronome/
+---
+<div class="container">
+  <header class="lesson-hero">
+    <p class="eyebrow">Công cụ</p>
+    <h1>Máy đếm nhịp <em>(Metronome)</em></h1>
+    <p class="lede">Mọi trang trên Drum Town đều tích hợp máy đếm nhịp — chỉ cần chạm vào biểu tượng nhịp độ ở đầu trang để mở. Bảng điều khiển sẽ xuất hiện ở cuối màn hình. Hãy chọn tốc độ, số chỉ nhịp và nhấn phát. Trang này hướng dẫn bạn cách luyện tập hiệu quả nhất.</p>
+    <button class="btn btn--primary" id="metronome-open" type="button" aria-controls="site-metronome" hidden>Mở máy đếm nhịp <span aria-hidden="true">↓</span></button>
+  </header>
+
+  <article class="lesson-prose">
+    <h2 class="section-label">Bắt đầu nhanh</h2>
+    <p>Chạm vào biểu tượng nhịp độ ở đầu trang để mở thanh điều khiển máy đếm nhịp ở chân màn hình. Nhập tốc độ (hoặc kéo thanh trượt), chọn số phách mỗi ô nhịp — từ 2/4 đến 7/8 — rồi nhấn phát. Phách đầu tiên của mỗi ô nhịp luôn được nhấn mạnh để bạn luôn biết đâu là phách 1.</p>
+
+    <h2 class="section-label">Nên luyện tập ở tốc độ (BPM) nào?</h2>
+    <ul class="bulleted">
+      <li><strong>Khi học kỹ thuật mới:</strong> chậm hơn mức bạn nghĩ là cần thiết — ♩ = 50–70. Nếu bạn cảm thấy chậm đến mức nhàm chán, đó chính là tốc độ chuẩn xác. (Xem bài <a href="/vi/lessons/slow-practice/">Luyện tập ở tốc độ chậm</a>.)</li>
+      <li><strong>Khi gọt giũa cho sạch tiếng:</strong> hạ bớt 10 BPM dưới ngưỡng tốc độ mà bạn bắt đầu đánh vấp, sau đó tăng dần từng bước nhỏ.</li>
+      <li><strong>Khi rèn luyện tốc độ:</strong> chỉ tăng tốc độ lên khoảng 10% sau khi bạn đã đánh chuẩn xác 100% liên tục trong hai phút trọn vẹn.</li>
+    </ul>
+
+    <h2 class="section-label">3 Bài tập thử thách cùng máy đếm nhịp</h2>
+    <p>Tiếng click không nhất thiết phải gõ ở mọi phách. Dưới đây là ba phương pháp biến máy đếm nhịp thành bạn diễn đắc lực, trích từ bài học <a href="/vi/lessons/metronome-practice/">Luyện tập cùng máy đếm nhịp</a>:</p>
+    <ul class="bulleted">
+      <li><strong>Gõ ở phách 2 và 4</strong> — giảm một nửa tốc độ và cảm nhận tiếng click như một cú đánh backbeat. Máy đếm nhịp giờ đây là một người bạn cùng chơi nhạc chứ không còn là chiếc thước kẻ cứng nhắc.</li>
+      <li><strong>Gõ 1 lần mỗi ô nhịp</strong> — bạn tự giữ nhịp cho ba phách còn lại và tiếng click sẽ là bài kiểm tra độ chuẩn xác ngay tại phách 1.</li>
+      <li><strong>Kiểm tra sự phân chia phách (Subdivision)</strong> — chơi nốt móc đơn (8ths) hoặc móc kép (16ths) trên nền tiếng click nốt đen và lắng nghe xem các nốt rơi giữa hai tiếng click có bị chệch không.</li>
+    </ul>
+
+    <p>Máy đếm nhịp luôn đồng hành cùng bạn trên mọi bài học. Tuy nhiên âm thanh sẽ tạm dừng khi chuyển bài: trình duyệt chỉ cho phép phát âm thanh khi có tương tác trực tiếp trên trang đang xem. Thanh điều khiển sẽ tự động mở lại với tốc độ và số nhịp bạn đã chọn sẵn — chỉ cần nhấn một nút là nhịp lại tiếp tục vang lên.</p>
+  </article>
+</div>
+
+<script>
+  (function () {
+    document.addEventListener('DOMContentLoaded', function () {
+      var opener = document.getElementById('metronome-open');
+      var pill   = document.getElementById('metronome-pill');
+      var dock   = document.getElementById('site-metronome');
+      if (!opener || !pill || !dock) return;
+
+      function syncOpener() {
+        var open = !dock.classList.contains('is-collapsed');
+        opener.firstChild.nodeValue = open ? 'Chuyển đến máy đếm nhịp ' : 'Mở máy đếm nhịp ';
+      }
+      syncOpener();
+      new MutationObserver(syncOpener).observe(dock, { attributes: true, attributeFilter: ['class'] });
+      opener.hidden = false;
+
+      opener.addEventListener('click', function () {
+        if (dock.classList.contains('is-collapsed')) {
+          pill.click();
+          return;
+        }
+        var go = document.getElementById('metronome-toggle');
+        if (go) go.focus();
+      });
+    }, { once: true });
+  })();
+</script>

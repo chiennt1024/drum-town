@@ -1,0 +1,542 @@
+{
+  "latin-clave-intro": {
+    "tagline": "Khái niệm Clave — Mạch đập linh hồn của âm nhạc Afro-Cuban",
+    "bodyHtml": "\n      <p>Trong âm nhạc Afro-Cuban, <strong>clave</strong> (phát âm là <em>KLAH-vay</em>) không đơn thuần là một câu tiết tấu — nó là chiếc la bàn định hướng cho toàn bộ dàn nhạc. Mọi giai điệu của kèn, câu riff của piano (tumbao), đường bass, và từng câu gõ của bộ gõ đều phải tuân thủ và neo mình vào clave. Chơi nghịch hoặc lệch clave bị coi là lỗi tối kỵ trong truyền thống này.</p>\n      <p>Clave là một chu kỳ tiết tấu kéo dài 2 ô nhịp gồm 5 nốt, chia thành hai vế: một vế có <strong>3 nốt</strong> (mặt 3 nốt mang tính chủ động, nghịch phách) và một vế có <strong>2 nốt</strong> (mặt 2 nốt mang tính ổn định, thuận phách). Tùy vào vế nào đi trước, chúng ta có <strong>Son 3-2</strong> hoặc <strong>Son 2-3</strong>. Khi nốt thứ ba của mặt 3 bị đẩy trễ đi một nốt móc kép, ta có <strong>Rumba clave</strong> mang tính nhảy múa mãnh liệt.</p>\n      <p>Trên bộ trống dàn, mục tiêu đầu tiên là biến clave thành một phản xạ tự nhiên trong cơ thể: bạn có thể chơi nó bằng tay trái (cross-stick) hoặc dậm pedal bằng chân trái trong khi các chi khác tự do vận hành xung quanh nó.</p>\n    ",
+    "graduationCriteria": [
+      "Chơi Son Clave 3-2 bằng cross-stick vững vàng ở tốc độ ♩=100 trong 2 phút không lệch nhịp",
+      "Chuyển đổi mượt mà giữa Son 3-2 và Son 2-3 theo yêu cầu mà không bị vấp",
+      "Phân biệt rõ ràng giữa Son clave và Rumba clave (độ trễ đặc trưng của nốt thứ 3)",
+      "Vừa chơi clave vừa hát đếm miệng các phách chính 1, 2, 3, 4"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Son Clave 3-2 Cơ bản",
+        "tip": "Sử dụng kỹ thuật cross-stick (rim-click) trên snare. Ô nhịp đầu có 3 nốt: phách 1, nốt '&' của phách 2, và phách 4. Ô nhịp thứ hai có 2 nốt: phách 2 và phách 3. Hãy đếm to thành tiếng: <em>'MỘT ... và-HAI ... BỐN | ... HAI ... BA ...'</em> để cảm nhận rõ độ nảy của vế 3 nốt so với vế 2 nốt."
+      },
+      {
+        "title": "2 — Son Clave 2-3 (Đảo chiều)",
+        "tip": "Bắt đầu với vế 2 nốt trước (phách 2 và 3 ở ô nhịp 1), sau đó mới tới vế 3 nốt ở ô nhịp 2. Chú ý giữ vững cảm giác nhịp: dù cấu trúc đảo ngược, trọng âm của từng nốt vẫn phải giữ nguyên độ nảy tương đối."
+      },
+      {
+        "title": "3 — Rumba Clave 3-2",
+        "tip": "So với Son clave, nốt thứ 3 trong vế 3 nốt bị dời trễ đi nửa phách — rơi vào nốt <em>'và' của phách 4</em> thay vì phách 4 chẵn. Khoảng cách này tạo ra một độ căng (tension) tiết tấu cực kỳ kích thích, đặc trưng của điệu rumba đường phố Cuba."
+      },
+      {
+        "title": "4 — Clave Kết hợp Chân Giữ Nhịp",
+        "tip": "Dậm chân trái trên hi-hat ở các phách 2 và 4 (hoặc phách 1, 2, 3, 4) trong khi tay trái tiếp tục chơi Son Clave 3-2. Đây là bước đầu tiên để rèn luyện tính độc lập giữa tay chơi clave và trục nhịp của chân."
+      }
+    ]
+  },
+  "latin-bossa-nova": {
+    "tagline": "Điệu Bossa Nova — Nét thanh lịch trữ tình của âm nhạc Brazil",
+    "bodyHtml": "\n      <p>Ra đời tại Rio de Janeiro vào cuối thập niên 1950 qua bàn tay của các tượng đài như João Gilberto và Antônio Carlos Jobim, <strong>Bossa Nova</strong> là sự kết hợp tinh tế giữa nhịp điệu Samba của Brazil với hòa âm phức tạp và phong thái ung dung, thư thái của Cool Jazz.</p>\n      <p>Trên bộ trống, Bossa Nova được định hình bởi ba tầng âm thanh hòa quyện chặt chẽ:\n        <ul>\n          <li><strong>Chân phải (Kick):</strong> Mô phỏng tiếng trống Surdo với nhịp dậm hai nốt đặc trưng (nốt đen chấm dôi và nốt móc đơn, hoặc hai nốt có trọng âm lệch: nhẹ ở phách 1, nặng và sâu ở phách 2).</li>\n          <li><strong>Tay phải (Hi-Hat / Ride):</strong> Duy trì dòng nốt móc đơn đều đặn, mượt mà và êm ái như tiếng thì thầm của gió biển.</li>\n          <li><strong>Tay trái (Cross-stick):</strong> Tái hiện các hợp âm gảy đồng điệu trên đàn guitar acoustic của João Gilberto — một chuỗi nghịch phách uyển chuyển kéo dài 2 ô nhịp.</li>\n        </ul>\n      </p>\n      <p>Chìa khóa của Bossa Nova không nằm ở lực đánh mạnh mẽ, mà ở sự kiểm soát sắc thái cực kỳ nhẹ nhàng, thư giãn (laid-back) và độ trôi chảy tuyệt đối.</p>\n    ",
+    "graduationCriteria": [
+      "Duy trì câu chân kick Bossa Nova đều đặn ở ♩=130 mà không làm ảnh hưởng đến độ mượt của tay phải",
+      "Câu cross-stick 2 ô nhịp được chơi tự nhiên, không gò bó, âm sắc rim-click vang ấm và tròn trịa",
+      "Giữ vững toàn bộ groove ở tốc độ ♩=140 trong 3 phút liên tục với sắc thái êm dịu (mezzo-piano)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chân Kick Baiao và Hi-Hat Đều",
+        "tip": "Tập riêng phần chân và tay phải. Kick chơi phách 1 và nốt '&' của phách 2 (nhẹ ở 1, nảy ở &), tay phải đánh nốt móc đơn đều trên hi-hat đóng. Giữ âm lượng vừa phải, không để tiếng kick lấn át tiếng rì rào của cymbals."
+      },
+      {
+        "title": "2 — Thêm Cross-Stick Ô Nhịp 1",
+        "tip": "Thêm tay trái gõ rim-click vào phách 1, nốt '&' của 2, và phách 4. Luyện tập vòng lặp 1 ô nhịp này cho đến khi tay trái và chân phải phối hợp hoàn toàn ăn khớp."
+      },
+      {
+        "title": "3 — Câu Bossa Hoàn Chỉnh 2 Ô Nhịp",
+        "tip": "Ghép trọn vẹn mẫu câu 2 ô nhịp của guitar: Ô 1 (1, & của 2, 4) và Ô 2 (& của 1, 3, & của 4). Lắng nghe sự hòa quyện: tay trái gõ như tiếng gảy đàn guitar, chân đệm như hơi thở êm dịu."
+      },
+      {
+        "title": "4 — Chuyển sang Cymbals Ride và Tăng Tốc",
+        "tip": "Đưa tay phải sang mặt chuông hoặc thân cymbals ride, đồng thời dùng chân trái dậm hi-hat nhẹ ở các phách 2 và 4. Đẩy dần tốc độ lên ♩=135–140 với sự thả lỏng tối đa ở cổ tay."
+      }
+    ]
+  },
+  "latin-samba-feel": {
+    "tagline": "Cảm giác Samba — Tiếng trống Surdo và năng lượng rực lửa của Carnaval",
+    "bodyHtml": "\n      <p>Nếu Bossa Nova là ly cà phê êm đềm bên bãi biển Ipanema, thì <strong>Samba</strong> là cơn bão năng lượng cuồng nhiệt của lễ hội Carnaval tại Rio de Janeiro. Đó là một dòng chảy nhịp điệu dồn dập, thôi thúc và đầy sức sống.</p>\n      <p>Để tái hiện cả một đoàn diễu hành (Bateria) trên một dàn trống đơn lẻ, bạn phải phân chia vai trò cho từng chi:\n        <ul>\n          <li><strong>Kick & Hi-hat chân:</strong> Mô phỏng tiếng trống trầm <em>Surdo</em> luân phiên — chân phải đạp kick vào phách chính, chân trái dậm hi-hat vào nốt '&' để tạo nhịp nhún nhảy liên tục.</li>\n          <li><strong>Tay phải:</strong> Chơi liên tục các nốt móc kép trên hi-hat đóng hoặc ride, mô phỏng tiếng lắc xập xình không ngừng nghỉ của <em>Chocalho</em> hoặc <em>Reco-reco</em>.</li>\n          <li><strong>Tay trái:</strong> Chơi các trọng âm nghịch phách (Telecoteco) trên cross-stick hoặc snare gõ viền, mô phỏng tiếng đàn <em>Tamborim</em> sắc nhọn.</li>\n        </ul>\n      </p>\n    ",
+    "graduationCriteria": [
+      "Phần chân (Surdo kick + Hi-hat pedal) luân phiên ổn định ở tốc độ ♩=110 trong 2 phút",
+      "Tay phải duy trì dòng móc kép 16ths sắc sảo mà không bị mỏi hay căng cứng bắp tay",
+      "Câu nhấn Telecoteco của tay trái vang lên rõ ràng, đúng vị trí nghịch phách trên nền dòng chảy móc kép",
+      "Chinh phục groove ở tốc độ Carnaval thực tế ♩=125–130"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nền Tảng Chân: Surdo và Pedal Hi-Hat",
+        "tip": "Kick vào mỗi đầu phách, dậm pedal hi-hat vào mỗi nốt '&' — tạo bước chân luân phiên móc đơn. Phân biệt trọng lượng: tiếng kick trầm và sâu, tiếng pedal nhẹ và nảy nhấc lên. Giữ như vậy trong 2 phút trước khi cho tay vào."
+      },
+      {
+        "title": "2 — Thêm Tay Phải Móc Kép",
+        "tip": "Tay phải chơi các nốt móc kép 16th đều đặn trên hi-hat đóng (lớp shaker/güiro). Chân tiếp tục giữ nền surdo bên dưới. Nếu tay bắt đầu bị ríu hoặc đuối, hãy hạ tốc độ xuống ♩=85 để xây dựng độ dẻo dai."
+      },
+      {
+        "title": "3 — Thêm Cross-Stick ở Phách 2 và 4",
+        "tip": "Thêm một điểm nhấn cross-stick đơn giản vào phách 2 và phách 4. Đây là phiên bản Samba cơ bản nhập môn giúp bạn làm quen với việc phối hợp cả 4 chi trước khi bước vào các mẫu nhấn phức tạp hơn."
+      },
+      {
+        "title": "4 — Trọng Âm Telecoteco Hoàn Chỉnh",
+        "tip": "Telecoteco — mẫu nhấn nghịch phách truyền thống của trống tamborim chơi trên cross-stick: rơi vào <em>&-của-1, 2, &-của-3, 4</em>. Lắng nghe giai điệu: các nốt gõ nghịch phách phải uyển chuyển và hát lên như lời ca chứ không cứng nhắc như máy móc."
+      },
+      {
+        "title": "5 — Đẩy Lên Tốc Độ Carnaval",
+        "tip": "Tăng tốc độ lên ♩=120–135. Ở tốc độ này, dòng móc kép của tay phải hòa thành một dải âm thanh lấp lánh và nhịp kick surdo sẽ là động lực chính đẩy người nhảy tiến bước dọc đại lộ."
+      }
+    ]
+  },
+  "latin-cha-cha": {
+    "tagline": "Cha-cha-cha — Tiết tấu Latin thân thiện và dễ tích hợp nhất với Rock",
+    "bodyHtml": "\n      <p><strong>Cha-cha-cha</strong> (thường gọi tắt là Cha-cha) được nhạc sĩ người Cuba Enrique Jorrín phát triển vào giữa thập niên 1950 dựa trên nền tảng điệu Danzón. Đây là một trong những điệu nhạc khiêu vũ Latin phổ biến nhất trên toàn thế giới nhờ tiết tấu vừa phải, dễ nghe và cực kỳ duyên dáng.</p>\n      <p>Tên gọi \"Cha-cha-cha\" xuất phát trực tiếp từ tiếng bước chân xoay chuyển <em>sột-soạt-soạt</em> của các vũ công trên sàn nhảy, tương ứng với chuỗi tiết tấu 3 nốt đặc trưng ở cuối ô nhịp (hai nốt móc đơn ở phách 4 và nốt giáng mạnh ở phách 1 tiếp theo: <em>cha - cha - CHA!</em>).</p>\n      <p>Đối với tay trống hiện đại, Cha-cha là điệu nhạc lý tưởng để rèn luyện kỹ năng gõ chuông (cowbell), cross-stick chắc chắn và tạo ra những bản phối Latin-Pop / Latin-Rock mượt mà như tác phẩm kinh điển \"Oye Como Va\" của Santana.</p>\n    ",
+    "graduationCriteria": [
+      "Giữ vững tiếng chuông nốt đen bằng thân dùi cùng cross-stick phách 2 và 4 ở tốc độ ♩=104",
+      "Tiếng kick thực hiện chính xác cụm 'cha-cha-cha' vắt qua vạch nhịp (phách 4, &-của-4, sang phách 1)",
+      "Groove duy trì liên tục trong 2 phút với cảm giác ung dung, thư thái và vững chãi"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chuông Nốt Đen + Cross-Stick Phách 2 & 4",
+        "tip": "Đánh chuông cowbell (hoặc quả chuông cymbals ride) nốt đen đều đặn bằng thân dùi để tạo tiếng leng keng đanh gọn. Tay trái gõ cross-stick sắc nét ở phách 2 và 4. Chỉ dùng hai tay, chân tạm thời thả lỏng."
+      },
+      {
+        "title": "2 — Thêm Tiếng Kick ở Phách 1",
+        "tip": "Đạp một tiếng kick gọn gàng duy nhất vào phách 1 của ô nhịp. Nền tảng của Cha-cha rất thông thoáng: tiếng chuông giữ thời gian, cross-stick giữ nhịp sau (backbeat), tiếng kick chỉ đóng dấu mốc đầu ô nhịp."
+      },
+      {
+        "title": "3 — Cụm Kick 'Cha-Cha-Cha'",
+        "tip": "Đưa linh hồn của điệu nhảy vào chân phải: kick ở phách 1, sau đó đá hai nốt móc đơn nhanh <em>cha · cha</em> ở phách 4 và nốt '&' của 4. Khi ô nhịp lặp lại, tiếng kick phách 1 kế tiếp chính là nốt <em>cha</em> thứ ba hoàn tất cụm 3 nốt vắt qua vạch nhịp!"
+      },
+      {
+        "title": "4 — Thêm Chân Hi-Hat và Hoàn Thiện Groove",
+        "tip": "Dậm chân trái trên hi-hat ở phách 2 và 4 để tăng cường độ nén cho tiếng cross-stick. Luyện tập vòng lặp này trong 2 phút với thái độ chơi thảnh thơi, tự tin."
+      }
+    ]
+  },
+  "latin-mambo-intro": {
+    "tagline": "Mambo cơ bản — Mẫu chuông rực lửa dẫn dắt dòng nhạc Salsa",
+    "bodyHtml": "\n      <p><strong>Mambo</strong> là điệu nhảy Cuba sôi nổi, dồn dập được định hình vào cuối thập niên 1930 bởi anh em nhạc sĩ Israel 'Cachao' López và Orestes López, sau đó bùng nổ tại các vũ trường New York (như Palladium Ballroom) trong thập niên 1940–1950 qua những dàn nhạc lẫy lừng của Tito Puente, Machito và Pérez Prado.</p>\n      <p>Trọng tâm của Mambo là câu chuông <em>Mambo Bell</em> chơi trên cowbell hoặc chuông ride — một chuỗi nốt đan xen giữa thuận phách và nghịch phách tạo lực đẩy thôi thúc không thể cưỡng lại. Trên bộ trống, tiếng kick phối hợp mật thiết với câu chuông bằng cách đánh đúng vào nốt <strong>bombo</strong> (nốt '&' của phách 2) và phách 4.</p>\n      <p>Học Mambo giúp bạn thấu hiểu cách chia sẻ không gian âm nhạc với các nhạc cụ gõ khác và tạo nên khung nhịp thép cho Salsa hiện đại.</p>\n    ",
+    "graduationCriteria": [
+      "Câu chuông Mambo được chơi chuẩn xác, các nốt nghịch phách nảy lên rõ ràng ở tốc độ ♩=108",
+      "Tiếng kick ăn khớp hoàn hảo với nốt bombo (& của 2) mà không bị lôi kéo dậm vào phách 1",
+      "Chơi trọn vẹn câu Mambo 2 ô nhịp theo Son Clave 3-2 liên tục trong 2 phút mà không bị phân tán nhịp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Chuông Mambo Đơn Lẻ",
+        "tip": "Chơi câu chuông 1 ô nhịp: gõ vào <em>1, &-của-2, 3, 4, &-của-4</em> trên chuông ride hoặc cowbell. <strong>Đẩy mạnh các nốt nghịch phách:</strong> nốt &-của-2 và &-của-4 chính là động cơ tạo sức kéo về phía trước cho toàn bộ ô nhịp."
+      },
+      {
+        "title": "2 — Thêm Tiếng Kick Nghịch Phách",
+        "tip": "Hai nốt kick: nốt <em>&-của-2</em> (nốt bombo) và <em>phách 4</em>. Lưu ý rằng tiếng kick ở &-của-2 rơi đồng thời với một tiếng chuông — hai âm thanh này phải chập vào nhau tuyệt đối. Phách 1 hoàn toàn không có kick!"
+      },
+      {
+        "title": "3 — Thêm Cross-Stick ở Vế 2 Nốt",
+        "tip": "Tay trái gõ cross-stick vào phách 2 và 3 — đại diện cho vế 2 nốt của son clave. Lắng nghe ba luồng âm thanh độc lập: tiếng chuông, tiếng kick và tiếng rim-click như ba nhạc công đang đối thoại."
+      },
+      {
+        "title": "4 — Cấu Trúc Mambo Hoàn Chỉnh 2 Ô Nhịp (Son 3-2)",
+        "tip": "Ô nhịp 1 là vế 3 nốt (chỉ có chuông và kick). Ô nhịp 2 là vế 2 nốt (chuông, kick kết hợp cùng cross-stick ở phách 2 và 3). Chân hi-hat dậm nhẹ ở phách 4 của mỗi ô nhịp để neo nhịp."
+      }
+    ]
+  },
+  "latin-songo": {
+    "tagline": "Songo — Chiếc cầu nối thập niên 1970 giữa Cuba truyền thống và Fusion thế giới",
+    "bodyHtml": "\n      <p><strong>Songo</strong> là một cuộc cách mạng trong âm nhạc Cuba, được sáng tạo vào đầu thập niên 1970 bởi huyền thoại bộ gõ <em>José Luis 'Changuito' Quintana</em> cùng trưởng ban nhạc Juan Formell trong ban nhạc bất hủ <strong>Los Van Van</strong>.</p>\n      <p>Songo đã phá vỡ khuôn mẫu truyền thống bằng cách đưa bộ trống hiện đại vào âm nhạc khiêu vũ Cuba, kết hợp các hoa mỹ của trống Timbales, Congas với nhịp điệu Funk và Rock phương Tây. Đặc điểm nhận dạng của Songo gồm:\n        <ul>\n          <li>Tay phải chơi dòng móc kép liên tục trên hi-hat đóng (hoặc chuông ride).</li>\n          <li>Chân kick đánh nghịch phách bombo (& của 2) và phách 4, thường kết hợp nhấc chân hi-hat mở (splash).</li>\n          <li>Tay trái chơi kết hợp giữa cross-stick, nốt ma (ghost notes) và những cú quất tom sống động.</li>\n        </ul>\n      </p>\n      <p>Nắm vững Songo mở ra cánh cửa dẫn bạn thẳng vào phong cách chơi của các bậc thầy thế giới như Dave Weckl, Steve Gadd và Horacio 'El Negro' Hernandez.</p>\n    ",
+    "graduationCriteria": [
+      "Duy trì groove Songo cơ bản (hi-hat móc kép + cross-stick + kick bombo) ở tốc độ ♩=104 trong 2 phút",
+      "Thực hiện kỹ thuật quét mở hi-hat (sweep wash) nhịp nhàng mà không làm dao động tốc độ",
+      "Chơi biến thể Funky Songo với tiếng backbeat đanh giòn và ghost notes mềm mại ở ♩=110"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Songo Cơ Bản (Hi-Hat 16ths + Cross-Stick + Kick Bombo)",
+        "tip": "Tay phải chơi móc kép đều trên hi-hat đóng. Tay trái gõ cross-stick ở phách 2 và 4. Chân kick đánh nốt bombo (& của 2) và phách 4. Khóa chặt tiếng kick vào đúng nốt &-của-2; nếu bị trượt sang &-của-3, cấu trúc sẽ bị đảo lộn hoàn toàn."
+      },
+      {
+        "title": "2 — Biến Thể Quét Hi-Hat (Joel Rosenblatt)",
+        "tip": "Mở hé chân hi-hat ở nốt móc kép thứ hai của mỗi cặp để tạo tiếng xì xào óng ánh như tiếng gõ nhạc cụ güiro. Tiếng mở cymbals chỉ là một thoáng điểm xuyết nhẹ nhàng, đừng đạp ầm ĩ làm đục tổng thể."
+      },
+      {
+        "title": "3 — Songo với Chuông Ride Mở Rộng",
+        "tip": "Chuyển tay phải sang gõ trên quả chuông của cymbals ride theo mẫu tiết tấu móc đơn nghịch phách (tương tự chuông mambo). Đây là sắc thái thường dùng cho đoạn điệp khúc rực lửa khi cả ban nhạc bùng nổ."
+      },
+      {
+        "title": "4 — Funky Songo (Backbeat Toàn Lực)",
+        "tip": "Thay thế cross-stick bằng những cú gõ snare toàn lực ở phách 2 và 4, kèm theo một nốt snare phụ nảy nhẹ ở nốt &-của-3. Phong cách này mang hơi thở Funk-Fusion kinh điển của Yellowjackets và Weather Report."
+      },
+      {
+        "title": "5 — Songo Đón Đầu Nhịp (Bass Anticipation)",
+        "tip": "Thêm một cú kick đón đầu ở nốt &-của-4 cuối ô nhịp. Nốt kick này cùng với phách 1 của ô nhịp kế tiếp tạo nên sức bật dồn dập đặc thù của phong cách bass hiện đại Cuba."
+      }
+    ]
+  },
+  "latin-mozambique": {
+    "tagline": "Mozambique — Tiết tấu đường phố Havana chuyển thể lên chuông và toms",
+    "bodyHtml": "\n      <p><strong>Mozambique</strong> được phát triển tại Cuba vào đầu những năm 1960 bởi Pedro Izquierdo (nghệ danh <em>Pello el Afrokán</em>). Ban đầu, đây là một vũ điệu đường phố sôi nổi của các nhóm nhảy Carnaval, sử dụng nhiều loại chuông to nhỏ và trống gõ để tạo nên bức tường âm thanh cuồn cuộn.</p>\n      <p>Khi du nhập vào Hoa Kỳ, các tay trống huyền thoại — đặc biệt là Steve Gadd — đã sáng tạo nên một phiên bản Mozambique phương Tây nổi tiếng thế giới (được ghi dấu ấn trong ca khúc 'Late in the Evening' của Paul Simon). Bản chuyển soạn cho bộ trống kết hợp tiếng chuông nảy lửa ở tay phải với các câu đối đáp phong phú trên tom cao, tom sàn và chân kick.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu chuông Mozambique tay phải được chơi liên tục và sắc bén ở tốc độ ♩=108",
+      "Tay trái di chuyển nhịp nhàng giữa snare và các tom mà không bị chạm dùi",
+      "Chinh phục toàn bộ groove ở tốc độ chuẩn ♩=116 trong 2 phút không vấp"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Chuông Mozambique Cơ Bản",
+        "tip": "Tập riêng tay phải gõ chuông cowbell hoặc chuông ride: nốt đen ở phách 1, tiếp theo là chùm nốt móc kép nghịch phách đặc trưng. Dùng cổ tay linh hoạt để các nốt nhấn đanh gọn và rõ tiếng."
+      },
+      {
+        "title": "2 — Thêm Chân Kick và Hi-Hat Giữ Nhịp",
+        "tip": "Chân kick đánh ở phách 1 và nốt '&' của phách 2. Chân trái dậm hi-hat đều đặn ở các nốt nốt móc đơn lẻ hoặc phách 2 và 4 để làm cột trụ thời gian."
+      },
+      {
+        "title": "3 — Thêm Tay Trái Đối Đáp Trên Toms",
+        "tip": "Tay trái xen kẽ các nốt gõ viền snare và nốt trầm trên tom cao/tom sàn vào những khoảng trống giữa các tiếng chuông, tạo nên âm sắc đa tầng của một dàn trống hội Carnaval."
+      },
+      {
+        "title": "4 — Chơi Mozambique Ở Tốc Độ Chuẩn (♩ = 116)",
+        "tip": "Ghép nối hoàn chỉnh tất cả các chi ở tốc độ ♩=116. Giữ cho chuyển động của hai tay luôn thanh thoát, mềm dẻo và cảm nhận sức sống rạo rực của lễ hội đường phố Havana."
+      }
+    ]
+  },
+  "latin-merengue": {
+    "tagline": "Merengue — Cơn lốc tốc độ từ Cộng hòa Dominica với tiếng trống Tambora",
+    "bodyHtml": "\n      <p><strong>Merengue</strong> là điệu nhảy dân tộc tràn đầy năng lượng của Cộng hòa Dominica. Đặc trưng của Merengue là tốc độ cực nhanh (thường từ 140 đến hơn 160 bpm) và cấu trúc nhịp 2/4 dồn dập, thôi thúc không ngừng.</p>\n      <p>Hai nhạc cụ linh hồn của Merengue là:\n        <ul>\n          <li><strong>Güira:</strong> Chiếc ống cạo bằng kim loại phát ra chuỗi âm thanh xào xạc móc kép liên hồi.</li>\n          <li><strong>Tambora:</strong> Trống hai mặt đánh bằng một tay trần và một dùi, tạo ra tiếng gõ thân gỗ đanh giòn xen lẫn tiếng vỗ mặt da trầm ấm.</li>\n        </ul>\n      </p>\n      <p>Trên bộ trống dàn, bạn sẽ dùng chân tạo tiếng dậm bập-bùng (boom-chick), tay phải gãi móc kép trên hi-hat đóng (güira) và tay trái tái hiện các câu gõ gỗ/mặt da của tambora trên viền snare và các tom.</p>\n    ",
+    "graduationCriteria": [
+      "Bộ chân 'boom-chick' (kick ở 1, hi-hat pedal ở 2) duy trì ổn định ở tốc độ ♩=160 trong 1 phút",
+      "Tay phải chơi móc kép güira đều tăm tắp trên hi-hat đóng ở ♩=160 mà không bị dính nốt",
+      "Kết hợp câu tambora trên tom ăn khớp tuyệt đối với nhịp chân bên dưới"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tập Riêng Chân: Nhịp Boom-Chick ở ♩ = 120",
+        "tip": "Kick vào phách 1, chân trái dậm hi-hat vào phách 2: tạo thành nhịp điệu bập-bùng đều đặn như bước diễu hành. Khởi động ở tốc độ 120 bpm cho đến khi đôi chân vận hành hoàn toàn tự động."
+      },
+      {
+        "title": "2 — Thêm Câu Tambora Trên Toms",
+        "tip": "Tay trái luân chuyển giữa viền snare (mô phỏng gõ vỏ tambora) và mặt tom cao/tom sàn. Tập trung vào các nốt đảo phách đặc thù của âm nhạc Dominica."
+      },
+      {
+        "title": "3 — Thêm Dòng Móc Kép Güira Trên Hi-Hat Đóng",
+        "tip": "Tay phải chơi chuỗi móc kép liên tục, đều và nhẹ nhàng trên hi-hat đóng. Sử dụng chuyển động gập cổ tay nhỏ và thả lỏng ngón tay để không bị co cứng cơ khi tăng tốc độ."
+      },
+      {
+        "title": "4 — Merengue Toàn Diện (Đẩy Lên ♩ = 160)",
+        "tip": "Kết hợp cả 4 chi ở tốc độ cao ♩=160. Thư giãn toàn bộ cơ thể; nếu cảm thấy căng cứng, hãy hạ bớt lực đánh xuống — Merengue cần sự dẻo dai và thanh thoát chứ không cần cơ bắp."
+      }
+    ]
+  },
+  "latin-cumbia": {
+    "tagline": "Cumbia — Giai điệu Colombia đằm thắm với trọng âm đặc trưng ở nốt & của phách 2",
+    "bodyHtml": "\n      <p>Bắt nguồn từ bờ biển Caribe của Colombia như một điệu múa tán tỉnh truyền thống kết hợp giữa di sản châu Phi, bản địa và Tây Ban Nha, <strong>Cumbia</strong> đã lan tỏa khắp Mỹ Latinh và trở thành một trong những điệu nhạc khiêu vũ được yêu thích nhất châu lục.</p>\n      <p>Cumbia có tốc độ khoan thai hơn Merengue (khoảng 80–100 bpm) và mang một dáng vẻ nhún nhảy, lắc lư rất đặc trưng. Dấu ấn không thể nhầm lẫn của Cumbia nằm ở <strong>trọng âm nảy lên ở nốt '&' của phách 2</strong> — một cú giật nhẹ nâng bổng cả ô nhịp lên trước khi hạ cánh êm đềm vào các phách sau.</p>\n      <p>Học Cumbia rèn luyện cho bạn sự nhạy cảm tuyệt vời về sắc thái vi mô (micro-timing) và cách kiểm soát không gian thư giãn của âm nhạc Mỹ Latinh.</p>\n    ",
+    "graduationCriteria": [
+      "Bộ chân kick 4 nốt đen kết hợp cross-stick ở phách 3 và 4 giữ vững ở ♩=92",
+      "Trọng âm ở nốt '&' của phách 2 vang lên ngọt ngào, chính xác mà không làm xô lệch tiếng kick",
+      "Groove duy trì liên tục và mượt mà trong 2 phút không bị hụt hơi"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick Nốt Đen + Hi-Hat Móc Đơn",
+        "tip": "Đạp kick đều đặn ở cả 4 phách (1, 2, 3, 4). Tay phải đánh nốt móc đơn trên hi-hat đóng thật mượt. Đây là khung nhịp lắc lư cơ bản của Cumbia."
+      },
+      {
+        "title": "2 — Thêm Cross-Stick ở Phách 3 và 4",
+        "tip": "Tay trái gõ cross-stick nhẹ nhàng vào phách 3 và phách 4. Cảm nhận nhịp thở của điệu nhảy: hai phách đầu thông thoáng, hai phách sau được nâng đỡ bởi tiếng rim-click."
+      },
+      {
+        "title": "3 — Thêm Trọng Âm Chữ Ký ở Nốt '&' Của Phách 2",
+        "tip": "Tạo một điểm nhấn sắc nét mở nhẹ hi-hat hoặc gõ chuông ở nốt <em>'&' của phách 2</em>. Đây chính là linh hồn của Cumbia — cú nhún nhảy khiến người nghe không thể ngồi yên."
+      },
+      {
+        "title": "4 — Cumbia Biến Tấu Màu Sắc Với Toms",
+        "tip": "Điểm xuyết thêm các nốt gõ tom trầm ấm ở tay trái để mô phỏng tiếng trống truyền thống Alegre và Llamador của Colombia."
+      }
+    ]
+  },
+  "latin-cascara": {
+    "tagline": "Cáscara — Mẫu tiết tấu vỏ trống Timbales chuyển soạn cho bộ trống dàn",
+    "bodyHtml": "\n      <p>Trong tiếng Tây Ban Nha, từ <em>Cáscara</em> có nghĩa là 'vỏ' hoặc 'vỏ bọc'. Trong dàn nhạc Salsa và Afro-Cuban, đây là thuật ngữ chỉ kỹ thuật người chơi Timbales dùng dùi gõ liên tục lên phần vỏ kim loại của thân trống trong các đoạn dạo đầu hoặc đoạn lĩnh xướng (verse) của ca khúc.</p>\n      <p>Mẫu tiết tấu Cáscara là một chuỗi nốt móc đơn liên hoàn kéo dài 2 ô nhịp, gắn kết hữu cơ với nhịp điệu Clave. Khi chuyển soạn lên bộ trống dàn, Cáscara thường được chơi trên thân cymbals ride, quả chuông ride, hoặc trực tiếp lên vành kim loại của tom sàn.</p>\n      <p>Làm chủ Cáscara là cột mốc bắt buộc nếu bạn muốn chơi nhạc Latin và Salsa chuyên nghiệp, bởi nó là cầu nối tiết tấu xuyên suốt giữa các nhạc cụ gõ với nhau.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu Cáscara gõ trên vành tom sàn duy trì hoàn hảo trong 2 phút ở ♩=104",
+      "Chơi Cáscara trên quả chuông ride ở ♩=104 với chân hi-hat dậm đều ở 2 và 4",
+      "Kết hợp Cáscara ở tay phải với Son Clave 3-2 dậm bằng chân trái ở ♩=92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Cáscara Đơn Lẻ Trên Vành Tom Sàn",
+        "tip": "Dùng thân dùi gõ vào vành kim loại của tom sàn (hoặc thân cymbals ride). Chú ý mẫu nhấn 2 ô nhịp ăn khớp với Clave 3-2: các nốt nhấn phải bật lên rõ ràng so với các nốt đệm nhẹ."
+      },
+      {
+        "title": "2 — Cáscara Trên Quả Chuông Của Cymbals Ride",
+        "tip": "Chuyển câu gõ sang quả chuông của cymbals ride để tạo tiếng ping đanh giòn, đồng thời dậm chân hi-hat ở phách 2 và 4 để giữ nhịp cố định."
+      },
+      {
+        "title": "3 — Cáscara Phối Hợp Clave Bằng Chân Trái (Son 3-2)",
+        "tip": "Thử thách độc lập cao cấp: tay phải đánh Cáscara trên chuông, chân trái đạp pedal cowbell hoặc dậm hi-hat theo đúng mẫu Son Clave 3-2. Chậm rãi ghép từng nốt cho đến khi hai dòng tiết tấu khóa chặt vào nhau."
+      },
+      {
+        "title": "4 — Cáscara Trong Cấu Trúc Nhịp Mambo Hoàn Chỉnh",
+        "tip": "Đưa Cáscara vào ngữ cảnh ban nhạc: tay phải chơi Cáscara, tay trái gõ cross-stick, chân phải đạp kick nốt bombo (& của 2) và phách 4."
+      }
+    ]
+  },
+  "latin-rumba": {
+    "tagline": "Rumba Cuba — Nhịp tim dân gian với rumba clave, cáscara và cross-stick",
+    "bodyHtml": "\n      <p><strong>Rumba</strong> là cội nguồn dân gian sâu sắc nhất của âm nhạc thế tục Cuba, nảy mầm từ các khu phố cảng nghèo của Havana và Matanzas trong cộng đồng người nô lệ gốc Phi vào thế kỷ 19. Ba hình thức rumba chính là <em>Yambú</em> (chậm rãi, thanh tao), <em>Guaguancó</em> (quyến rũ, kịch tính) và <em>Columbia</em> (nhanh, dành cho vũ công đơn nam phô diễn kỹ nghệ).</p>\n      <p>Trọng tâm của Rumba là <strong>Rumba Clave</strong> — biến thể với nốt thứ ba bị đẩy trễ, tạo ra một sức căng nhịp điệu vô cùng lôi cuốn. Trên bộ trống dàn, chúng ta tái hiện không gian rumba bằng cách kết hợp câu cáscara/palitos trên vành trống, tiếng cross-stick sắc lẹm và tiếng kick trầm mô phỏng trống Tumbadora.</p>\n    ",
+    "graduationCriteria": [
+      "Chơi Rumba Clave bằng cross-stick ở tốc độ ♩=92 với độ trễ nốt thứ ba rõ ràng",
+      "Tay phải chơi cáscara trên vành tom, tay trái chơi rumba clave độc lập trong 2 phút",
+      "Toàn bộ mẫu Rumba hoàn chỉnh (cáscara + clave + kick) duy trì vững chãi ở ♩=96"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rumba Clave Trên Cross-Stick",
+        "tip": "Tập riêng tay trái: phách 1, nốt '&' của 2, nốt <em>'&' của 4</em> (lưu ý không đánh vào phách 4 như son clave!), sau đó là phách 2 và 3 ở ô tiếp theo. Lắng nghe khoảng trống dài giữa nốt '&' của 2 và '&' của 4."
+      },
+      {
+        "title": "2 — Thêm Cáscara Trên Vành Tom Sàn",
+        "tip": "Tay phải gõ mẫu cáscara trên vành kim loại của tom sàn. Giữ cho hai tay hoàn toàn độc lập, không để tiếng gõ của tay này làm méo mó nhịp của tay kia."
+      },
+      {
+        "title": "3 — Thêm Tiếng Kick Khóa Vào Bombo",
+        "tip": "Chân kick đạp vào nốt bombo (& của phách 2) và phách 4, neo chặt vào câu rumba clave của tay trái để tạo độ sâu cho phần trầm."
+      },
+      {
+        "title": "4 — Mẫu Rumba Hoàn Chỉnh Toàn Bộ Dàn Trống",
+        "tip": "Kết hợp tất cả các thành phần: Cáscara (tay phải), Rumba Clave (tay trái), Kick bombo (chân phải) và Hi-hat pedal dậm nhẹ ở phách 2 và 4. Cảm nhận nhịp thở dân gian Cuba đầy mê hoặc."
+      }
+    ]
+  },
+  "latin-6-8-afro-cuban": {
+    "tagline": "Nhịp 6/8 Afro-Cuban — Hai mạch xung lồng ghép trong một ô nhịp",
+    "bodyHtml": "\n      <p>Nhịp <strong>6/8 Afro-Cuban</strong> là một trong những viên ngọc quý nhất của di sản âm nhạc Tây Phi được bảo tồn và thăng hoa tại châu Mỹ. Sức hấp dẫn bí ẩn của nó nằm ở hiện tượng <strong>hai mạch xung cùng tồn tại song song</strong> (Metric Polycentrism):\n        <ul>\n          <li>Bạn có thể cảm nhận nó như <strong>2 phách lớn</strong> (mỗi phách là một nốt đen chấm dôi chia thành 3 nốt móc đơn — cảm giác tam phân).</li>\n          <li>Hoặc bạn có thể cảm nhận nó như <strong>3 phách kép</strong> (mỗi phách gồm 2 nốt móc đơn — cảm giác nhị phân 3/4).</li>\n        </ul>\n      </p>\n      <p>Cây chuông sắt (Agogô hoặc Guataca) là trung tâm dẫn đường với mẫu tiết tấu 7 nốt bất hủ. Khi chơi trên bộ trống, bạn phải học cách cảm nhận cả hai chiều không gian này cùng một lúc.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu chuông 6/8 tiêu chuẩn chơi vững vàng ở tốc độ nốt đen chấm dôi = 92",
+      "Kết hợp mẫu chuông với chân dậm xung nốt đen chấm dôi liên tục trong 2 phút",
+      "Groove 6/8 hoàn chỉnh (chuông + cross-stick + kick) ổn định ở nốt đen chấm dôi = 100"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Chuông 6/8 Tiêu Chuẩn",
+        "tip": "Gõ mẫu chuông 7 nốt trên chuông ride hoặc cowbell: <em>X . X . X X . X . X . X</em>. Tập trung vào các khoảng ngắt và nốt nhấn để tiếng chuông có độ lượn sóng tự nhiên."
+      },
+      {
+        "title": "2 — Thêm Xung Chân Nốt Đen Chấm Dôi",
+        "tip": "Chân trái đạp pedal hi-hat vào 2 phách chính của ô nhịp 6/8 (phách 1 và phách 4 theo đếm móc đơn). Đôi chân đóng vai trò mỏ neo giúp bạn không bị lạc trôi khi tay gõ chùm ba."
+      },
+      {
+        "title": "3 — Chuông + Clave 6/8 Trên Cross-Stick",
+        "tip": "Tay trái gõ cross-stick đối đáp lại tiếng chuông. Cả hai tay lúc này tạo nên một cuộc đối thoại đa tầng đậm chất nghi lễ tôn giáo truyền thống."
+      },
+      {
+        "title": "4 — Groove 6/8 Hoàn Chỉnh Kết Hợp Kick",
+        "tip": "Đưa tiếng kick vào các nốt nhấn chiến lược để tạo nền móng trầm vững chắc. Cảm nhận sự uyển chuyển như dòng nước của nhịp 6/8 Afro-Cuban."
+      }
+    ]
+  },
+  "latin-bembe": {
+    "tagline": "Bembé — Nhịp lễ hội 6/8 của người Yoruba với tiếng chuông là trọng tâm",
+    "bodyHtml": "\n      <p><strong>Bembé</strong> là lễ hội âm nhạc và nghi lễ tôn giáo linh thiêng bắt nguồn từ người Yoruba (Tây Phi) du nhập vào Cuba. Trong nghi lễ Bembé, âm nhạc được sử dụng như một phương tiện giao tiếp trực tiếp với các vị thần thánh (Orishas).</p>\n      <p>Chiếc chuông đồng không chỉ giữ nhịp mà là <em>trung tâm lực hấp dẫn</em> của toàn bộ không gian âm nhạc. Mọi biến tấu của các cựu tay trống, tiếng lắc hạt Shekere, và tiếng nhảy múa của tín đồ đều phải xoay quanh quỹ đạo của tiếng chuông này.</p>\n      <p>Chơi Bembé trên bộ trống đòi hỏi sự tôn trọng tuyệt đối đối với phân cấp âm lượng: tiếng chuông phải luôn trong trẻo, tiếng kick trầm lắng như tiếng đất mẹ, và tiếng hi-hat giữ vai trò của chiếc shaker Shekere rộn ràng.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu chuông Bembé chơi đơn độc sắc sảo ở tốc độ nốt đen chấm dôi = 92",
+      "Kết hợp tiếng chuông với hiệu ứng shekere trên hi-hat đóng trong 2 phút",
+      "Toàn bộ mô hình Bembé 4 chi vận hành mượt mà ở nốt đen chấm dôi = 100"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Chuông Bembé Đơn Lẻ",
+        "tip": "Đánh mẫu chuông Bembé cổ truyền trên chuông ride bằng thân dùi. Lắng nghe điểm nhấc bổng ở phách chính thứ hai — đó là nốt thần thoại tạo nên sự bay bổng của giai điệu."
+      },
+      {
+        "title": "2 — Thêm Mô Phỏng Shekere Trên Hi-Hat Đóng",
+        "tip": "Chân trái hoặc tay trái chơi các nốt móc đơn nhấp nhô trên hi-hat để tái hiện âm thanh hạt cườm cọ xát trên vỏ bầu khô của nhạc cụ Shekere."
+      },
+      {
+        "title": "3 — Thêm Chân Clave Theo Phách Chấm Dôi",
+        "tip": "Dậm chân giữ nhịp theo các phách đen chấm dôi kiên định, giúp toàn bộ cấu trúc giữ được sự thăng bằng hoàn hảo."
+      },
+      {
+        "title": "4 — Bembé Hoàn Chỉnh với Tiếng Kick Trầm",
+        "tip": "Thêm kick mô phỏng tiếng trống mẹ Iya lớn nhất trong dàn trống. Giữ âm lượng kick trầm ấm, nâng đỡ chứ không lấn át tiếng chuông thanh thoát."
+      }
+    ]
+  },
+  "latin-guaguanco": {
+    "tagline": "Guaguancó — Chuyển soạn bộ ba trống Conga lên một dàn trống duy nhất",
+    "bodyHtml": "\n      <p><strong>Guaguancó</strong> là điệu thức quyến rũ và kịch tính nhất trong nghệ thuật Rumba Cuba, mô tả trò chơi tán tỉnh đuổi-bắt đầy tinh tế giữa người nam và người nữ (đỉnh điểm là cú xoay hông <em>vacunao</em> mang tính biểu tượng).</p>\n      <p>Trong truyền thống, Guaguancó cần ít nhất một dàn gõ gồm: người gõ thanh tre (palitos), người chơi Rumba clave, và ba người đánh ba chiếc trống Conga có cao độ khác nhau: <em>Tumbadora</em> (trống trầm), <em>Tres Golpes / Conga</em> (trống trung giữ nhịp), và <em>Quinto</em> (trống cao biến tấu ngẫu hứng).</p>\n      <p>Chuyển soạn Guaguancó lên bộ trống dàn là một trong những bài tập tuyệt vời nhất để rèn luyện tư duy phối khí đa âm sắc: bạn biến mỗi chiếc trống và lá cymbals thành một thành viên trong dàn nhạc.</p>\n    ",
+    "graduationCriteria": [
+      "Câu palitos phối hợp cùng rumba clave cross-stick duy trì ở ♩=92 trong 2 phút",
+      "Mẫu Guaguancó cơ bản (palitos + clave + phân bè toms + kick) chơi rõ 3 bè âm sắc ở ♩=96",
+      "Thực hiện thành công biến thể Bo Diddley mang âm hưởng Rock mà vẫn giữ cốt lõi rumba clave"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Palito + Rumba Clave",
+        "tip": "Tay phải gõ mẫu palito đều trên vành tom hoặc thân ride, tay trái chơi Rumba Clave trên cross-stick. Hai dòng âm thanh này phải hòa quyện thành một bộ khung tiết tấu không thể tách rời."
+      },
+      {
+        "title": "2 — Mẫu Guaguancó Cơ Bản Cho Bộ Trống",
+        "tip": "Phân chia vai trò conga: kick làm trống trầm (tumbadora), tom sàn và tom cao làm trống trung và trống cao. Chơi chậm rãi để các nốt tom trầm bổng vang lên rành mạch."
+      },
+      {
+        "title": "3 — Thêm Câu Báo Phong Cách Quinto",
+        "tip": "Tập các câu ngẫu hứng ngắn của trống Quinto trên snare mở và tom cao vào những khoảng trống tiết tấu, tạo cảm giác sôi động như vũ công đang biểu diễn xoay hông."
+      },
+      {
+        "title": "4 — Biến Thể Bo Diddley",
+        "tip": "Khám phá cách huyền thoại Bo Diddley biến tấu Guaguancó thành nhịp Rock 'n' Roll kinh điển của nước Mỹ — một sự kết hợp lịch sử giữa nhạc dân gian Cuba và nhịp đập Blues."
+      }
+    ]
+  },
+  "latin-comparsa": {
+    "tagline": "Comparsa — Carnaval Cuba với tiếng trống diễu hành và sức nóng lễ hội",
+    "bodyHtml": "\n      <p>Khi lễ hội Carnaval tràn qua các đường phố Santiago de Cuba và Havana, những đoàn diễu hành khổng lồ gọi là <strong>Comparsas</strong> rầm rộ tiến bước. Âm nhạc của Comparsa là sự kết hợp bùng nổ giữa tiếng còi kèn kèn kẹt (Corneta China), tiếng xẻng sắt gõ vang lừng (Campana/Cencerro), và những hàng dài trống diễu hành gõ nhịp thôi thúc.</p>\n      <p>Điệu <em>Conga de Comparsa</em> đặc trưng bởi bước chân giậm mạnh mẽ ở phách 4 và cú hất nẩy ở nốt '&' của 4 — thời điểm hàng ngàn người nhảy đồng loạt nhấc chân xoay mình. Trên bộ trống, đây là một groove đầy lửa, đòi hỏi thể lực và sự hưng phấn tột độ.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu chuông + Son Clave cross-stick ổn định ở ♩=108 với xung nhịp diễu hành ở cả hai chân",
+      "Mô hình diễu hành trên tom sàn kết hợp tiếng chuông ở ♩=112 không bị va dùi",
+      "Toàn bộ mô hình Comparsa duy trì năng lượng cao ở tốc độ ♩=116 trong 2 phút"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Chuông Lễ Hội + Son Clave",
+        "tip": "Tay phải gõ mẫu chuông Carnaval rộn rã, tay trái gõ Son Clave chắc nịch. Đôi chân dậm đều nhịp bước chân diễu hành để giữ vững trục chuyển động."
+      },
+      {
+        "title": "2 — Hàng Trống Conga Trên Tom Sàn",
+        "tip": "Đưa tay trái xuống gõ chuỗi trọng âm thôi thúc trên tom sàn mô phỏng cả một hàng dài trống diễu hành Carnaval đang tiến lại gần."
+      },
+      {
+        "title": "3 — Mẫu Comparsa Hoàn Chỉnh Toàn Lực",
+        "tip": "Ghép nối tất cả các chi ở tốc độ ♩=116. Chơi với tinh thần lễ hội: tiếng chuông lanh lảnh, tiếng tom rền vang và tiếng kick dồn dập kéo dòng người diễu hành bước đi."
+      }
+    ]
+  },
+  "latin-folkloric": {
+    "tagline": "Diễn xướng dân gian — Mô phỏng toàn bộ dàn nhạc gõ dân gian trên một bộ trống",
+    "bodyHtml": "\n      <p>Đỉnh cao nghệ thuật của tay trống Latin là khả năng biến một bộ trống phương Tây thành một <strong>dàn nhạc gõ dân gian hoàn chỉnh</strong> (One-kit percussion ensemble). Bạn không chỉ đơn thuần là người đệm nhịp, mà đang điều hành cùng lúc ba tầng nhạc cụ:</p>\n      <p>\n        <ul>\n          <li><strong>Tầng chuông định thời (Timekeeper):</strong> Chuông sắt hoặc palitos mang linh hồn Clave.</li>\n          <li><strong>Tầng phản hồi trung âm:</strong> Các nốt vỗ, nốt mở trên snare và tom cao đại diện cho trống Conga giữ nhịp.</li>\n          <li><strong>Tầng trầm nền móng:</strong> Tiếng kick và tom sàn đại diện cho tiếng trống cái Tumbadora linh thiêng.</li>\n        </ul>\n      </p>\n      <p>Bài học này hướng dẫn bạn cách chuyển hóa linh hoạt giữa hệ nhịp 4/4 của Guaguancó và hệ nhịp 6/8 của Bembé — khả năng chuyển đổi then chốt của các nghệ sĩ bậc thầy.</p>\n    ",
+    "graduationCriteria": [
+      "Chuyển đổi mượt mà giữa Guaguancó (4/4) và Bembé (6/8) ở tốc độ ♩=92 mà không bị đứt nhịp chuông",
+      "Duy trì mô phỏng dàn rumba đầy đủ (palitos + quinto + tumbadora) trong 16 ô nhịp ở ♩=104",
+      "Âm sắc của 3 bè nhạc cụ được thể hiện rõ ràng, phân biệt được bằng thính giác ở ♩=96"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Guaguancó: Ô Nhịp 4/4 Trước Khi Chuyển Nhịp",
+        "tip": "Chơi mẫu Guaguancó chuẩn mực ở 4/4 với sự phân định âm sắc cực kỳ rõ nét giữa các chi, chuẩn bị tinh thần cho cú lật nhịp sang 6/8."
+      },
+      {
+        "title": "2 — Mô Phỏng Dàn Rumba Dân Gian (Palitos + Quinto + Tumbadora)",
+        "tip": "Tái hiện cả ba chiếc trống conga và tiếng gõ gỗ palitos trên các thành phần của bộ trống. Cần phân bổ lực tay khéo léo để tiếng solo quinto không đè bẹp bè đệm tumbadora."
+      },
+      {
+        "title": "3 — Mô Phỏng Toàn Bộ Dàn Nhạc Trong Nhịp 6/8 (Họ Bembé)",
+        "tip": "Chuyển toàn bộ tư duy sang nhịp 6/8 tam phân. Tiếng chuông dẫn dắt, các tom đối đáp đa tầng tạo nên không gian âm thanh huyền bí của lễ nghi châu Phi."
+      },
+      {
+        "title": "4 — Phối Khí Hoàn Chỉnh: Ô Nhịp Dân Gian Chèn Vào Nhạc Hiện Đại",
+        "tip": "Thực hành đưa một ô nhịp dân gian nguyên bản vào giữa một bản nhạc pop hoặc funk hiện đại rồi quay trở về nhịp chính một cách ngọt ngào."
+      }
+    ]
+  },
+  "latin-modern-hybrid": {
+    "tagline": "Hybrid Latin hiện đại — Giao thoa giữa Clave và Jazz Fusion đỉnh cao",
+    "bodyHtml": "\n      <p>Chào mừng bạn đến với thế giới của những quái kiệt đương đại như <strong>Antonio Sanchez, Horacio 'El Negro' Hernandez, Dafnis Prieto và Ignacio Berroa</strong> — nơi các nguyên lý khắt khe của Clave Afro-Cuban được hòa quyện tuyệt đỉnh với tư duy tự do, kỹ thuật độc lập 4 chi và những số chỉ nhịp lẻ của Modern Jazz Fusion.</p>\n      <p>Tại đây, Clave không còn bị bó hẹp trong các mẫu gõ truyền thống. Chân trái có thể liên tục dậm Clave trên một chiếc pedal cowbell riêng biệt, trong khi hai tay và chân phải thỏa sức ngẫu hứng tuyến tính (linear drumming), chơi nốt ma tinh vi, hoặc đảo phách trên các số chỉ nhịp phức tạp như 5/4 hay 7/8.</p>\n    ",
+    "graduationCriteria": [
+      "Groove lai Songo + Funk (hi-hat 16th, ghost-note snare, kick bombo) giữ vững 16 ô nhịp ở ♩=104",
+      "Mô hình Mozambique tuyến tính (mỗi chi gõ một nốt móc kép riêng biệt, không trùng nốt) ở ♩=92",
+      "Chân trái dậm Son Clave 3-2 ổn định dưới câu đệm comping fusion tự do trong 8 ô nhịp ở ♩=96",
+      "Chơi thành thục biến thể Clave trong số chỉ nhịp lẻ 5/4 ở tốc độ ♩=92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Lai Ghép Songo + Funk (Snare Đầy Ghost Notes)",
+        "tip": "Kết hợp câu kick bombo của Songo với lối rải nốt ma tinh vi trên snare của Funk. Tạo nên một dòng chảy tiết tấu vừa nảy lửa chất Cuba vừa ma mị chất New Orleans."
+      },
+      {
+        "title": "2 — Mozambique Tuyến Tính (Linear Ghost Notes)",
+        "tip": "Mỗi nốt móc kép trong ô nhịp chỉ do đúng một chi phát ra âm thanh — không có hai chi nào đánh cùng lúc. Lối chơi này tạo nên độ trong trẻo, sắc sảo cực độ."
+      },
+      {
+        "title": "3 — Chân Trái Clave Dưới Câu Đệm Fusion",
+        "tip": "Chân trái đạp đều đặn Son Clave 3-2 trên pedal cowbell, trong khi tay phải đánh ride và tay trái ngẫu hứng đệm comping trên snare theo ngôn ngữ Jazz Fusion."
+      },
+      {
+        "title": "4 — Clave Trong Số Chỉ Nhịp Lẻ (Biến Thể Son 3-2 Trong 5/4)",
+        "tip": "Thử thách đỉnh cao: kéo dài chu kỳ Clave sang số chỉ nhịp 5/4. Bạn phải luôn cảm nhận được dòng chảy của Clave xuyên suốt qua ô nhịp lẻ mà không bị mất phương hướng."
+      }
+    ]
+  },
+  "latin-bata-rhythms": {
+    "tagline": "Trống Batá linh thiêng — Khảo sát truyền thống trống thiêng Yoruba trên dàn trống",
+    "bodyHtml": "\n      <p>Trống <strong>Batá</strong> là bộ ba trống hình đồng hồ cát hai đầu bọc da linh thiêng nhất trong truyền thống tôn giáo Santería / Lucumí của người Cuba gốc Yoruba. Ba chiếc trống này có quan hệ thứ bậc và trò chuyện mật thiết với nhau:\n        <ul>\n          <li><strong>Iyá:</strong> Trống mẹ lớn nhất, âm thanh trầm hùng nhất, mang quyền năng ngẫu hứng và đối thoại với các linh thần.</li>\n          <li><strong>Itótele:</strong> Trống nhì kích thước trung bình, đóng vai trò đàm thoại trực tiếp với trống mẹ.</li>\n          <li><strong>Okónkolo:</strong> Trống con nhỏ nhất, giữ câu nhịp ostinato kiên định không bao giờ thay đổi.</li>\n        </ul>\n      </p>\n      <p>Khảo sát các giai điệu Batá (như điệu <em>Chachalokafun</em>) trên dàn trống là một bài học sâu sắc về sự tôn kính văn hóa và nghệ thuật phối khí phức điệu (polyrhythm) ở đẳng cấp cao nhất.</p>\n    ",
+    "graduationCriteria": [
+      "Nhận diện và chơi chuẩn xác ba bè Batá (okonkolo, itotele, iya) trên các tom được chỉ định ở ♩=80",
+      "Kết hợp cả ba bè trong tiết tấu Chachalokafun trên bộ trống duy trì trong 8 ô nhịp ở ♩=80",
+      "Chuyển đổi câu tiết tấu sang hệ nhịp 6/8 giữ vững cấu trúc câu nhạc ở nốt đen chấm dôi = 72"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bè Okónkolo (Tom Cao)",
+        "tip": "Tập riêng bè của chiếc trống con trên tom cao: một chuỗi tiết tấu đều đặn, chính xác như đồng hồ để làm điểm tựa cho hai chiếc trống lớn trò chuyện."
+      },
+      {
+        "title": "2 — Bè Itótele (Tom Trung)",
+        "tip": "Chơi bè trống nhì trên tom trung: lắng nghe các nốt đối đáp lại bè okónkolo, chuẩn bị đón nhận những câu hiệu lệnh từ trống mẹ."
+      },
+      {
+        "title": "3 — Bè Iyá (Tom Sàn và Kick)",
+        "tip": "Tái hiện tiếng trống mẹ trầm hùng bằng tom sàn và kick. Đây là bè mang linh hồn của bản nhạc với những khoảng nhấn sâu thẳm."
+      },
+      {
+        "title": "4 — Ghép Trọn Vẹn Chachalokafun (Hệ 4/4 và 6/8)",
+        "tip": "Hợp nhất cả ba bè trên toàn bộ dàn trống. Cảm nhận sự giao thoa kỳ diệu khi nhiều tầng âm sắc hòa làm một dưới sự kiểm soát điêu luyện của bạn."
+      }
+    ]
+  },
+  "latin-iyesa": {
+    "tagline": "Iyesá — Người anh em họ 6/8 bắt nguồn từ Yoruba với tiếng chuông độc bản",
+    "bodyHtml": "\n      <p><strong>Iyesá</strong> (hay Ijesha) là một nhánh văn hóa Afro-Cuban thiêng liêng khác bắt nguồn từ một phân nhóm người Yoruba cùng tên. Dù cùng thuộc hệ nhịp 6/8 như Bembé, Iyesá sở hữu một chiếc chuông với mẫu tiết tấu hoàn toàn riêng biệt và một phong thái khoan thai, trang nghiêm khác lạ.</p>\n      <p>Thay vì sử dụng trống Batá bọc da hai đầu, người Iyesá sử dụng các loại trống hình trụ mộc mạc đánh bằng dùi và tay trần, tạo nên một sự đan cài tiết tấu (interlock) cực kỳ chặt chẽ và trong trẻo.</p>\n      <p>Luyện tập Iyesá giúp bạn mở rộng vốn từ vựng nhịp 6/8 vượt ra ngoài khuôn mẫu Bembé thông thường và làm giàu thêm cảm thụ nhịp điệu nguyên bản châu Phi.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu chuông Iyesá đơn lẻ chơi đều đặn, chuẩn xác ở tốc độ nốt đen chấm dôi = 80",
+      "Bè trống đệm đối xứng giữa tom cao và tom trầm ăn khớp hoàn hảo trên nền kick ở ♩=80",
+      "Groove Iyesá hoàn chỉnh duy trì liên tục trong 16 ô nhịp mà không làm mất đi độ lượn sóng 6/8"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu Chuông Iyesá Đơn Lẻ",
+        "tip": "Gõ mẫu chuông Iyesá trên chuông ride: chú ý khoảng cách đều đặn giữa các nốt. Mẫu chuông này có cảm giác vững chãi và thong dong hơn hẳn chuông Bembé."
+      },
+      {
+        "title": "2 — Bè Trống Đệm Phụ Họa (Đối Cài Trên Toms)",
+        "tip": "Tay trái và chân phối hợp các nốt đan cài giữa tom cao và tom sàn, tạo thành lớp sóng âm đối xứng nâng đỡ tiếng chuông."
+      },
+      {
+        "title": "3 — Mẫu Iyesá Hoàn Chỉnh Toàn Diện",
+        "tip": "Kết hợp chuông, toms và kick ở tốc độ nốt đen chấm dôi = 80. Giữ cho chuyển động luôn tròn trịa và để tiếng chuông ngân vang tự nhiên."
+      }
+    ]
+  },
+  "latin-yoruba": {
+    "tagline": "Khảo sát di sản Yoruba — Chiếc nôi sản sinh ra Bembé, Iyesá và Batá",
+    "bodyHtml": "\n      <p>Người <strong>Yoruba</strong> ở miền tây nam Nigeria và Benin đã để lại một dấu ấn bất tử trong nền âm nhạc của toàn bộ châu Mỹ — từ Cuba (Lucumí), Brazil (Candomblé Ketu) cho đến Trinidad và Hoa Kỳ. Sự giàu có về phức điệu, khái niệm thời gian co giãn, và nghệ thuật trò chuyện bằng trống (talking drums) của họ là di sản vô giá cho mọi nghệ sĩ trống đương đại.</p>\n      <p>Bài học tổng kết này là một cuộc khảo sát hệ thống hóa lại ba trụ cột nhịp điệu lớn của dòng họ Yoruba:\n        <ul>\n          <li><strong>Mẫu A:</strong> Mẫu chuông 6/8 Bembé tiêu chuẩn.</li>\n          <li><strong>Mẫu B:</strong> Nền tảng tụng ca 12/8 với cảm giác 3 đấu 4 (three against four) kỳ ảo.</li>\n          <li><strong>Mẫu C:</strong> Nhịp điệu dâng hiến Orisha 6/8 với hệ thống trống đối đáp rộn ràng.</li>\n        </ul>\n      </p>\n      <p>Sau bài học này, bạn sẽ không chỉ nắm vững kỹ thuật ngón đàn mà còn có được sự thấu hiểu văn hóa sâu sắc để tiếp tục con đường học hỏi từ các nghệ nhân bậc thầy.</p>\n    ",
+    "graduationCriteria": [
+      "Mẫu A (chuông Bembé 6/8) duy trì kiên định trong 16 ô nhịp ở nốt đen chấm dôi = 76",
+      "Mẫu B (nền tụng ca 12/8) thể hiện rõ cảm giác 3 đấu 4 nhịp nhàng ở nốt đen chấm dôi = 72",
+      "Mẫu C (nhịp xung Orisha 6/8) phối hợp hoàn hảo giữa chuông, toms và kick trong 8 ô nhịp",
+      "Bạn có thể gọi tên từng truyền thống, xuất xứ và hiểu được ranh giới giữa khảo sát trên kit và nghi lễ thực tế"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mẫu A: Chuông 6/8 Tiêu Chuẩn (Nền Tảng Dòng Họ Bembé)",
+        "tip": "Chơi mẫu chuông tiêu chuẩn với âm sắc mộc mạc nhất. Cảm nhận nhịp đập vũ trụ mà hàng thế hệ người dân Tây Phi đã gìn giữ qua bao biến thiên lịch sử."
+      },
+      {
+        "title": "2 — Mẫu B: Nền Tụng Ca 12/8 (Cảm Giác 3 Đấu 4)",
+        "tip": "Trải nghiệm cảm giác nhịp 3 đấu 4: một tầng gõ theo nhịp tam phân, một tầng gõ theo nhịp tứ phân lồng vào nhau, tạo nên hiệu ứng không trọng lực kỳ diệu."
+      },
+      {
+        "title": "3 — Mẫu C: Nhịp Xung Orisha với Hệ Thống Trống Đối Đáp",
+        "tip": "Kết hợp tất cả các kỹ năng phối khí toms, chuông và kick để tạo nên một bản hòa tấu nghi lễ thu nhỏ trên bộ trống của bạn."
+      }
+    ]
+  }
+}

@@ -1,17 +1,20 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ locale or 'en' }}">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{% if title %}{{ title }} — Drum Town{% else %}Drum Town — Free Drum Lessons with Real Notation{% endif %}</title>
-  <meta name="description" content="{{ description or site.description }}" />
+  <title>{% if title %}{{ title }} — Drum Town{% else %}{{ 'Drum Town — Free Drum Lessons with Real Notation' if (locale or 'en') == 'en' else 'Drum Town — Học Trống Miễn Phí với Ký Âm Tương Tác' }}{% endif %}</title>
+  <meta name="description" content="{{ description or (site.description if (locale or 'en') == 'en' else 'Các bài học trống miễn phí kèm ký âm thực tế và phát âm thanh tương tác.') }}" />
   {%- if site.url %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url | localeUrl('en') }}" />
+  <link rel="alternate" hreflang="vi" href="{{ site.url }}{{ page.url | localeUrl('vi') }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url | localeUrl('en') }}" />
   {%- endif %}
   <meta property="og:site_name" content="Drum Town" />
   <meta property="og:type" content="{{ ogType or 'website' }}" />
-  <meta property="og:title" content="{% if title %}{{ title }} — Drum Town{% else %}Drum Town — Free Drum Lessons with Real Notation{% endif %}" />
-  <meta property="og:description" content="{{ description or site.description }}" />
+  <meta property="og:title" content="{% if title %}{{ title }} — Drum Town{% else %}{{ 'Drum Town — Free Drum Lessons with Real Notation' if (locale or 'en') == 'en' else 'Drum Town — Học Trống Miễn Phí với Ký Âm Tương Tác' }}{% endif %}" />
+  <meta property="og:description" content="{{ description or (site.description if (locale or 'en') == 'en' else 'Các bài học trống miễn phí kèm ký âm thực tế và phát âm thanh tương tác.') }}" />
   {%- if site.url %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:image" content="{{ site.url }}/assets/img/og-card.png" />
@@ -44,45 +47,22 @@
 </head>
 <body>
 
-{#- The skip rail (BL-073). One focus-revealed group of bypass links, extending
-    the single skip link that used to sit here.
-
-    Two things were wrong with that one link. It only cleared the header, which
-    on a lesson page leaves the curriculum column and on the homepage leaves 217
-    ledger rows still between the reader and the content — 79 Tab presses to the
-    first Play button on /lessons/paradiddle/ at 1280px, 227 to the first footer
-    link on the homepage, both measured in Edge. And it did not work at all: a
-    fragment target that is not focusable leaves document.activeElement on
-    <body>, so pressing Enter on "Skip to content" set the hash, moved no focus
-    and announced nothing. Every target in this rail therefore carries
-    tabindex="-1" — that is not a tab-order hack (a negative value adds no tab
-    stop), it is the only thing that makes a fragment focusable at all.
-    tools/checks/check-skip-targets.js enforces both halves of that across all
-    228 built pages, so a future anchor cannot go back to lying.
-
-    The links are contextual: the rail names the destinations a given page type
-    actually has, and #main stays first because dom-smoke.js pins the first <a>
-    in the body to it. -#}
-<nav class="skip-rail" aria-label="Skip links">
-  <a class="skip-link" href="#main">Skip to content</a>
+{#- The skip rail (BL-073). -#}
+<nav class="skip-rail" aria-label="{{ 'Skip links' if (locale or 'en') == 'en' else 'Liên kết bỏ qua' }}">
+  <a class="skip-link" href="#main">{{ 'Skip to content' if (locale or 'en') == 'en' else 'Chuyển đến nội dung chính' }}</a>
   {%- if '/lessons/' in page.url %}
-  <a class="skip-link" href="#exercises">Skip to exercises</a>
+  <a class="skip-link" href="#exercises">{{ 'Skip to exercises' if (locale or 'en') == 'en' else 'Chuyển đến bài tập' }}</a>
   {%- endif %}
-  {%- if page.url == '/' %}
-  <a class="skip-link" href="#chapter-index">Jump to a chapter</a>
+  {%- if page.url == '/' or page.url == '/vi/' %}
+  <a class="skip-link" href="#chapter-index">{{ 'Jump to a chapter' if (locale or 'en') == 'en' else 'Nhảy đến một chương' }}</a>
   {%- endif %}
-  <a class="skip-link" href="#site-footer">Skip to footer</a>
+  <a class="skip-link" href="#site-footer">{{ 'Skip to footer' if (locale or 'en') == 'en' else 'Chuyển xuống chân trang' }}</a>
 </nav>
 
 <header class="site-header">
   <div class="site-header__inner">
-    <a href="/" class="site-logo">
-      {#- The seal (BL-059). A snare drum in elevation, not the ring-and-dots
-          mark it replaced — that geometry read as a vinyl label. Shell fills
-          with currentColor (--accent via .site-logo__seal); head, rods and lug
-          casings inherit fill: var(--gold). Same shape as
-          /assets/img/seal.svg, which hard-codes the same token values because
-          a favicon has no cascade to inherit from. -#}
+    <a href="{{ '/' | localeUrl(locale or 'en') }}" class="site-logo">
+      {#- The seal (BL-059). -#}
       <svg class="site-logo__seal" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
         <rect x="1" y="13.7" width="2.8" height="4.6" rx="1.3" />
         <rect x="28.2" y="13.7" width="2.8" height="4.6" rx="1.3" />
@@ -95,41 +75,35 @@
       </svg>
       <span class="site-logo__wm">drum<em>.town</em></span>
     </a>
-    {#- Current-section highlight. Lesson pages pass navSection (foundations |
-        track | mastery); everything else is derived from the URL. -#}
+    {#- Current-section highlight. -#}
     {%- set sec = navSection or (
           'track' if '/genres/' in page.url else (
           'rudiments' if '/rudiments/' in page.url else (
           'metronome' if '/metronome/' in page.url else ''))) %}
     <nav class="site-nav" id="site-nav" aria-label="Site">
-      <a href="/#foundations"{% if sec == 'foundations' %} class="active" aria-current="true"{% endif %}>Foundations</a>
-      <a href="/#tracks"{% if sec == 'track' %} class="active" aria-current="true"{% endif %}>Genres</a>
-      <a href="/#mastery"{% if sec == 'mastery' %} class="active" aria-current="true"{% endif %}>Other Topics</a>
-      <a href="/rudiments/"{% if sec == 'rudiments' %} class="active" aria-current="page"{% endif %}>Rudiments</a>
-      <a href="/metronome/"{% if sec == 'metronome' %} class="active" aria-current="page"{% endif %}>Metronome</a>
-      {#- The theme control's second home (BL-064 step 4). The header row sheds
-          in a fixed priority order, and the theme toggle is the one control in
-          it that is a preference rather than the only route to something — so
-          it is the first thing allowed to leave. It does not disappear when it
-          does: it lands here, inside the menu, behind the hamburger, which by
-          rule never sheds.
-
-          There is exactly one theme control on the page at any width. This
-          button and #theme-toggle are gated on the same container-query
-          condition in both directions, and check-header-shed.js asserts the
-          count is 1 at every width x root-size cell it measures.
-
-          No aria-label. Its visible text is its accessible name, so the two
-          cannot drift apart and there is no WCAG 2.5.3 containment to get wrong
-          — chrome.js rewrites this one string, the same string it writes into
-          the header toggle's aria-label. The static text below is the state a
-          light-themed page loads in; with JS off this button is unreachable
-          anyway, because with JS off the panel that holds it never opens (and
-          with JS off the header toggle does nothing either, so nothing is lost
-          that was not already gone). -#}
-      <button class="site-nav__theme" id="nav-theme-toggle" type="button">Switch to dark theme</button>
+      <a href="{{ '/#foundations' | localeUrl(locale or 'en') }}"{% if sec == 'foundations' %} class="active" aria-current="true"{% endif %}>{{ 'Foundations' if (locale or 'en') == 'en' else 'Nền tảng' }}</a>
+      <a href="{{ '/#tracks' | localeUrl(locale or 'en') }}"{% if sec == 'track' %} class="active" aria-current="true"{% endif %}>{{ 'Genres' if (locale or 'en') == 'en' else 'Thể loại' }}</a>
+      <a href="{{ '/#mastery' | localeUrl(locale or 'en') }}"{% if sec == 'mastery' %} class="active" aria-current="true"{% endif %}>{{ 'Other Topics' if (locale or 'en') == 'en' else 'Chủ đề khác' }}</a>
+      <a href="{{ '/rudiments/' | localeUrl(locale or 'en') }}"{% if sec == 'rudiments' %} class="active" aria-current="page"{% endif %}>Rudiments</a>
+      <a href="{{ '/metronome/' | localeUrl(locale or 'en') }}"{% if sec == 'metronome' %} class="active" aria-current="page"{% endif %}>{{ 'Metronome' if (locale or 'en') == 'en' else 'Máy đếm nhịp' }}</a>
+      <button class="site-nav__theme" id="nav-theme-toggle" type="button">{{ 'Switch to dark theme' if (locale or 'en') == 'en' else 'Chuyển sang giao diện tối' }}</button>
+      <div class="lang-switch" role="group" aria-label="{{ 'Language selection' if (locale or 'en') == 'en' else 'Chọn ngôn ngữ' }}">
+        <a href="{{ page.url | localeUrl('en') }}" class="lang-switch__link{% if (locale or 'en') == 'en' %} is-active{% endif %}" hreflang="en" lang="en"{% if (locale or 'en') == 'en' %} aria-current="true"{% endif %}>EN</a>
+        <span class="lang-switch__sep" aria-hidden="true">/</span>
+        <a href="{{ page.url | localeUrl('vi') }}" class="lang-switch__link{% if locale == 'vi' %} is-active{% endif %}" hreflang="vi" lang="vi"{% if locale == 'vi' %} aria-current="true"{% endif %}>VI</a>
+      </div>
     </nav>
-    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark theme">
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="{{ 'Switch to dark theme' if (locale or 'en') == 'en' else 'Chuyển sang giao diện tối' }}">
+      <svg class="theme-toggle__sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="4.6" fill="none" stroke="currentColor" stroke-width="1.8" />
+        <g stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+          <path d="M12 2.4v2.6M12 19v2.6M2.4 12h2.6M19 12h2.6M5.2 5.2l1.9 1.9M16.9 16.9l1.9 1.9M18.8 5.2l-1.9 1.9M7.1 16.9l-1.9 1.9" />
+        </g>
+      </svg>
+      <svg class="theme-toggle__moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M20.5 14.6A8.6 8.6 0 1 1 9.4 3.5a7 7 0 0 0 11.1 11.1z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
+      </svg>
+    </button>
       <svg class="theme-toggle__sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
         <circle cx="12" cy="12" r="4.6" fill="none" stroke="currentColor" stroke-width="1.8" />
         <g stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
@@ -196,36 +170,41 @@
         <ellipse cx="16" cy="9.4" rx="12.4" ry="4.4" stroke="currentColor" stroke-width="2" />
       </svg>
       {#- The one sanctioned poetry zone on the site (system.md §10). -#}
-      <p class="site-footer__motto">The door's open. Bring sticks.</p>
-      <p class="site-footer__fine">A free town for learning the drums. No accounts, no sign-ups — your progress lives in your own browser.</p>
+      <p class="site-footer__motto">{{ 'The door\'s open. Bring sticks.' if (locale or 'en') == 'en' else 'Cánh cửa luôn rộng mở. Hãy mang theo dùi trống.' }}</p>
+      <p class="site-footer__fine">{{ 'A free town for learning the drums. No accounts, no sign-ups — your progress lives in your own browser.' if (locale or 'en') == 'en' else 'Một không gian học trống hoàn toàn miễn phí. Không cần tài khoản, không cần đăng ký — tiến trình học tập được lưu trữ trực tiếp trên trình duyệt của bạn.' }}</p>
     </div>
     {#- aria-labelledby rather than aria-label: the heading is already the
         column's name, and a duplicate string would have screen readers
         announce "Lessons navigation, heading, Lessons". -#}
     <nav class="site-footer__col" aria-labelledby="footer-nav-lessons">
-      <h2 class="site-footer__h" id="footer-nav-lessons">Lessons</h2>
+      <h2 class="site-footer__h" id="footer-nav-lessons">{{ 'Lessons' if (locale or 'en') == 'en' else 'Bài học' }}</h2>
       <ul>
-        <li><a href="/#foundations">Foundations</a></li>
-        <li><a href="/#tracks">Genre tracks</a></li>
-        <li><a href="/#mastery">Other topics</a></li>
+        <li><a href="{{ '/#foundations' | localeUrl(locale or 'en') }}">{{ 'Foundations' if (locale or 'en') == 'en' else 'Nền tảng căn bản' }}</a></li>
+        <li><a href="{{ '/#tracks' | localeUrl(locale or 'en') }}">{{ 'Genre tracks' if (locale or 'en') == 'en' else 'Lộ trình theo thể loại' }}</a></li>
+        <li><a href="{{ '/#mastery' | localeUrl(locale or 'en') }}">{{ 'Other topics' if (locale or 'en') == 'en' else 'Chủ đề nâng cao' }}</a></li>
       </ul>
     </nav>
     <nav class="site-footer__col" aria-labelledby="footer-nav-reference">
-      <h2 class="site-footer__h" id="footer-nav-reference">Reference</h2>
+      <h2 class="site-footer__h" id="footer-nav-reference">{{ 'Reference' if (locale or 'en') == 'en' else 'Tài liệu tra cứu' }}</h2>
       <ul>
-        <li><a href="/rudiments/">The {{ rudimentCount }} rudiments</a></li>
-        <li><a href="/metronome/">The metronome</a></li>
+        <li><a href="{{ '/rudiments/' | localeUrl(locale or 'en') }}">{{ ('The ' + rudimentCount + ' rudiments') if (locale or 'en') == 'en' else ('Trọn bộ ' + rudimentCount + ' kỹ thuật Rudiments') }}</a></li>
+        <li><a href="{{ '/metronome/' | localeUrl(locale or 'en') }}">{{ 'The metronome' if (locale or 'en') == 'en' else 'Máy đếm nhịp' }}</a></li>
       </ul>
     </nav>
     <nav class="site-footer__col" aria-labelledby="footer-nav-town">
-      <h2 class="site-footer__h" id="footer-nav-town">The town</h2>
+      <h2 class="site-footer__h" id="footer-nav-town">{{ 'The town' if (locale or 'en') == 'en' else 'Dự án' }}</h2>
       <ul>
         <li><a href="https://github.com/dylanpjenkins/drum-town">GitHub</a></li>
-        <li><a href="/lessons/{{ curriculum.foundations.sections[0].lessons[0].slug }}/">Start at lesson one</a></li>
+        <li><a href="{{ (curriculum.foundations.sections[0].lessons[0].slug | lessonUrl(locale or 'en')) }}">{{ 'Start at lesson one' if (locale or 'en') == 'en' else 'Bắt đầu từ bài học số 1' }}</a></li>
+        <li class="site-footer__lang">
+          <span class="sr-only">{{ 'Language' if (locale or 'en') == 'en' else 'Ngôn ngữ' }}:</span>
+          <a href="{{ page.url | localeUrl('en') }}"{% if (locale or 'en') == 'en' %} aria-current="true" class="is-active"{% endif %} hreflang="en" lang="en">English</a> ·
+          <a href="{{ page.url | localeUrl('vi') }}"{% if locale == 'vi' %} aria-current="true" class="is-active"{% endif %} hreflang="vi" lang="vi">Tiếng Việt</a>
+        </li>
       </ul>
     </nav>
   </div>
-  <p class="site-footer__base">drum.town · {{ curriculum | lessonCount }} lessons · {{ lessonContent | exerciseCount }} playable exercises · {{ rudimentCount }} rudiments · notation rendered with VexFlow at build time · built on Eleventy</p>
+  <p class="site-footer__base">drum.town · {{ curriculum | lessonCount }} {{ 'lessons' if (locale or 'en') == 'en' else 'bài học' }} · {{ lessonContent | exerciseCount }} {{ 'playable exercises' if (locale or 'en') == 'en' else 'bài tập tương tác' }} · {{ rudimentCount }} {{ 'rudiments' if (locale or 'en') == 'en' else 'kỹ thuật rudiment' }} · {{ 'notation rendered with VexFlow at build time · built on Eleventy' if (locale or 'en') == 'en' else 'ký âm kết xuất tĩnh bằng VexFlow · phát triển trên nền tảng Eleventy' }}</p>
 </footer>
 
 {#- Transport dock (system.md §7). Ships collapsed so no dock flashes open

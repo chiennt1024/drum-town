@@ -7,50 +7,52 @@
    The kicker says "Sections" rather than "In this chapter" because this
    panel lists every path, not the chapter this page sits in. #}
 
-<aside class="curriculum-sidebar" aria-label="Curriculum sections">
+{% set locCurr = localizedCurriculumData or (curriculum | localizedCurriculum(locale or 'en')) %}
+
+<aside class="curriculum-sidebar" aria-label="{{ 'Curriculum sections' if (locale or 'en') == 'en' else 'Các phần giáo trình' }}">
 
   <button class="curriculum-sidebar__toggle" type="button" aria-expanded="false" aria-controls="lesson-map-panel">
-    <span class="curriculum-sidebar__k">Sections</span>
-    <span class="curriculum-sidebar__name">All paths</span>
+    <span class="curriculum-sidebar__k">{{ 'Sections' if (locale or 'en') == 'en' else 'Các phần' }}</span>
+    <span class="curriculum-sidebar__name">{{ 'All paths' if (locale or 'en') == 'en' else 'Tất cả lộ trình' }}</span>
     <span class="curriculum-sidebar__car" aria-hidden="true">▾</span>
   </button>
 
   <div class="curriculum-sidebar__inner" id="lesson-map-panel">
 
     <div class="island-header">
-      <a href="/" class="island-back">← Curriculum home</a>
+      <a href="{{ '/' | localeUrl(locale or 'en') }}" class="island-back">{{ '← Curriculum home' if (locale or 'en') == 'en' else '← Trang giáo trình' }}</a>
       <div class="island-title">
-        <span class="island-eyebrow">Sections</span>
-        <span class="island-name">All paths</span>
+        <span class="island-eyebrow">{{ 'Sections' if (locale or 'en') == 'en' else 'Các phần' }}</span>
+        <span class="island-name">{{ 'All paths' if (locale or 'en') == 'en' else 'Tất cả lộ trình' }}</span>
       </div>
     </div>
 
     <div class="curr-section">
-      <div class="curr-section__title">Foundations</div>
+      <div class="curr-section__title">{{ 'Foundations' if (locale or 'en') == 'en' else 'Nền tảng' }}</div>
       <ul class="curr-list">
         <li class="curr-item is-ready">
-          <a href="/#foundations">{{ curriculum.foundations.title }}</a>
+          <a href="{{ '/#foundations' | localeUrl(locale or 'en') }}">{{ locCurr.foundations.title }}</a>
         </li>
       </ul>
     </div>
 
     <div class="curr-section">
-      <div class="curr-section__title">Genres</div>
+      <div class="curr-section__title">{{ 'Genres' if (locale or 'en') == 'en' else 'Thể loại' }}</div>
       <ul class="curr-list">
-        {% for track in curriculum.tracks %}
+        {% for track in locCurr.tracks %}
           {% set isCurrent = (track.slug == currentTrack) %}
           <li class="curr-item {% if isCurrent %}is-current{% endif %} is-ready">
-            <a href="/genres/{{ track.slug }}/" {% if isCurrent %}aria-current="page"{% endif %}>{{ track.title }}</a>
+            <a href="{{ track.slug | genreUrl(locale or 'en') }}" {% if isCurrent %}aria-current="page"{% endif %}>{{ track.title }}</a>
           </li>
         {% endfor %}
       </ul>
     </div>
 
     <div class="curr-section">
-      <div class="curr-section__title">Other Topics</div>
+      <div class="curr-section__title">{{ 'Other Topics' if (locale or 'en') == 'en' else 'Chủ đề khác' }}</div>
       <ul class="curr-list">
         <li class="curr-item is-ready">
-          <a href="/#mastery">{{ curriculum.mastery.title }}</a>
+          <a href="{{ '/#mastery' | localeUrl(locale or 'en') }}">{{ locCurr.mastery.title }}</a>
         </li>
       </ul>
     </div>

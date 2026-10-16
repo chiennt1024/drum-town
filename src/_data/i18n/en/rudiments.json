@@ -1,0 +1,302 @@
+{
+  "groups": {
+    "roll-rudiments": {
+      "title": "Roll Rudiments",
+      "blurb": "Fifteen rudiments built from single strokes, multiple-bounce strokes, and double strokes. The double-stroke family — the “numbered” rolls — is named for the total stroke count, roll plus release."
+    },
+    "diddle-rudiments": {
+      "title": "Diddle Rudiments",
+      "blurb": "The paradiddle family: singles and doubles mixed inside one phrase. The diddle placement flips or holds the lead hand, which is what makes these patterns so useful for moving accents around the kit."
+    },
+    "flam-rudiments": {
+      "title": "Flam Rudiments",
+      "blurb": "Eleven rudiments decorated with a single grace note. The grace is played low and soft an instant before the main stroke — one thick sound, never two equal notes."
+    },
+    "drag-rudiments": {
+      "title": "Drag Rudiments",
+      "blurb": "Ten rudiments decorated with a two-note grace — the drag (or ruff). The two grace notes are played as a soft diddle by the opposite hand, crushed in just before the main stroke."
+    }
+  },
+  "items": {
+    "1": {
+      "name": "Single Stroke Roll",
+      "description": "Alternating strokes — R L R L — perfectly even in volume and spacing. Every fill and every fast run around the kit traces back to this motion.",
+      "card": {
+        "description": "Alternating strokes — R L R L — perfectly even in volume and spacing. Every fill and every fast run around the kit traces back to this motion."
+      }
+    },
+    "2": {
+      "name": "Single Stroke Four",
+      "description": "Four alternating strokes phrased as a triplet flowing into a downbeat — R L R L. The classic figure for punctuating the end of a fill.",
+      "card": {
+        "description": "Four alternating strokes phrased as a triplet flowing into a downbeat — R L R L. The classic figure for punctuating the end of a fill."
+      }
+    },
+    "3": {
+      "name": "Single Stroke Seven",
+      "description": "Seven alternating strokes — a sextuplet flowing into a downbeat. The single stroke four’s bigger sibling, filling a whole beat before it lands.",
+      "card": {
+        "description": "Seven alternating strokes — a sextuplet flowing into a downbeat. The single stroke four’s bigger sibling, filling a whole beat before it lands."
+      }
+    },
+    "4": {
+      "name": "Multiple Bounce Roll",
+      "description": "The buzz roll: each stroke is pressed into the head so the stick bounces many times, and the alternating buzzes overlap into one continuous sound.",
+      "card": {
+        "description": "The buzz roll: each stroke is pressed into the head so the stick bounces many times, and the alternating buzzes overlap into one continuous sound."
+      }
+    },
+    "5": {
+      "name": "Triple Stroke Roll",
+      "description": "Three strokes per hand in triplet time — R R R L L L. Builds the controlled multi-rebound behind fast open rolls.",
+      "card": {
+        "description": "Three strokes per hand in triplet time — R R R L L L. Builds the controlled multi-rebound behind fast open rolls."
+      }
+    },
+    "6": {
+      "name": "Double Stroke Open Roll",
+      "description": "Two even strokes per hand — R R L L. The parent of every numbered roll below; the second note of each pair must match the first, not collapse.",
+      "card": {
+        "description": "Two even strokes per hand — R R L L. The parent of every numbered roll below; the second note of each pair must match the first, not collapse."
+      }
+    },
+    "7": {
+      "name": "Five Stroke Roll",
+      "description": "Two diddles and an accented release — R R L L R. The shortest numbered roll; the lead alternates so both hands learn to start it.",
+      "card": {
+        "description": "Two diddles and an accented release — R R L L R. The shortest numbered roll; the lead alternates so both hands learn to start it."
+      }
+    },
+    "8": {
+      "name": "Six Stroke Roll",
+      "description": "A diddled middle framed by two accented singles — R L L R R L. A kit favorite because the accents fall naturally on strong beats.",
+      "card": {
+        "description": "A diddled middle framed by two accented singles — R L L R R L. A kit favorite because the accents fall naturally on strong beats."
+      }
+    },
+    "9": {
+      "name": "Seven Stroke Roll",
+      "description": "Three diddles resolving onto an accent — R R L L R R L. Classically starts on an upbeat and lands on the following downbeat.",
+      "card": {
+        "description": "Three diddles resolving onto an accent — R R L L R R L. Classically starts on an upbeat and lands on the following downbeat."
+      }
+    },
+    "10": {
+      "name": "Nine Stroke Roll",
+      "description": "Four diddles capped by an accent — two full beats of roll before the release. The workhorse concert roll.",
+      "card": {
+        "description": "Four diddles capped by an accent — two full beats of roll before the release. The workhorse concert roll."
+      }
+    },
+    "11": {
+      "name": "Ten Stroke Roll",
+      "description": "Four diddles plus two accented singles — R R L L R R L L R L. The double accent at the end gives it its skipping character.",
+      "card": {
+        "description": "Four diddles plus two accented singles — R R L L R R L L R L. The double accent at the end gives it its skipping character."
+      }
+    },
+    "12": {
+      "name": "Eleven Stroke Roll",
+      "description": "Five diddles resolving to an accent — R R L L R R L L R R L. The odd length flips the lead each repeat, keeping both hands honest.",
+      "card": {
+        "description": "Five diddles resolving to an accent — R R L L R R L L R R L. The odd length flips the lead each repeat, keeping both hands honest."
+      }
+    },
+    "13": {
+      "name": "Thirteen Stroke Roll",
+      "description": "Six diddles and the release — three full beats of roll landing accented on beat four.",
+      "card": {
+        "description": "Six diddles and the release — three full beats of roll landing accented on beat four."
+      }
+    },
+    "14": {
+      "name": "Fifteen Stroke Roll",
+      "description": "Seven diddles into the accent — a bar-length roll that releases on the final upbeat.",
+      "card": {
+        "description": "Seven diddles into the accent — a bar-length roll that releases on the final upbeat."
+      }
+    },
+    "15": {
+      "name": "Seventeen Stroke Roll",
+      "description": "Eight diddles — two beats of roll at doubled density — released onto an accented downbeat. The longest of the standard rolls.",
+      "card": {
+        "description": "Eight diddles — two beats of roll at doubled density — released onto an accented downbeat. The longest of the standard rolls."
+      }
+    },
+    "16": {
+      "name": "Single Paradiddle",
+      "description": "The essential single–double hybrid — R L R R, L R L L — accent on the first note. The diddle flips the lead every group, so accents alternate hands automatically.",
+      "card": {
+        "description": "The essential single–double hybrid — R L R R, L R L L — accent on the first note. The diddle flips the lead every group, so accents alternate hands automatically."
+      }
+    },
+    "17": {
+      "name": "Double Paradiddle",
+      "description": "Four singles and a diddle — R L R L R R — six notes that sit perfectly inside triplet meters and 6/8 grooves.",
+      "card": {
+        "description": "Four singles and a diddle — R L R L R R — six notes that sit perfectly inside triplet meters and 6/8 grooves."
+      }
+    },
+    "18": {
+      "name": "Triple Paradiddle",
+      "description": "Six singles and a diddle — an eight-note paradiddle spanning two full beats. A great drill for carrying an accent across a longer phrase.",
+      "card": {
+        "description": "Six singles and a diddle — an eight-note paradiddle spanning two full beats. A great drill for carrying an accent across a longer phrase."
+      }
+    },
+    "19": {
+      "name": "Single Paradiddle-Diddle",
+      "description": "A paradiddle with a second diddle — R L R R L L. Unlike the single paradiddle it does not flip the lead, so practice it starting from both hands.",
+      "card": {
+        "description": "A paradiddle with a second diddle — R L R R L L. Unlike the single paradiddle it does not flip the lead, so practice it starting from both hands."
+      }
+    },
+    "20": {
+      "name": "Flam",
+      "description": "The grace note itself: a soft tap crushed in just before an accented full stroke. Two notes, one fat sound — the basis of the whole family.",
+      "card": {
+        "description": "The grace note itself: a soft tap crushed in just before an accented full stroke. Two notes, one fat sound — the basis of the whole family."
+      }
+    },
+    "21": {
+      "name": "Flam Accent",
+      "description": "A flam launching each triplet, then two singles — flam-R L R, flam-L R L. The lead alternates every beat.",
+      "card": {
+        "description": "A flam launching each triplet, then two singles — flam-R L R, flam-L R L. The lead alternates every beat."
+      }
+    },
+    "22": {
+      "name": "Flam Tap",
+      "description": "A flammed diddle — the flam plus a tap from the same hand: flam-R R, flam-L L.",
+      "card": {
+        "description": "A flammed diddle — the flam plus a tap from the same hand: flam-R R, flam-L L."
+      }
+    },
+    "23": {
+      "name": "Flamacue",
+      "description": "Four sixteenths and a flammed downbeat, with the accent tucked onto the second note — the off-axis accent is the whole point.",
+      "card": {
+        "description": "Four sixteenths and a flammed downbeat, with the accent tucked onto the second note — the off-axis accent is the whole point."
+      }
+    },
+    "24": {
+      "name": "Flam Paradiddle",
+      "description": "A paradiddle with a flam on the accented first note — flam-R L R R, flam-L R L L.",
+      "card": {
+        "description": "A paradiddle with a flam on the accented first note — flam-R L R R, flam-L R L L."
+      }
+    },
+    "25": {
+      "name": "Single Flammed Mill",
+      "description": "An inverted flam paradiddle — the diddle comes first: flam-R R L R. Keeping the flammed double clean is the challenge.",
+      "card": {
+        "description": "An inverted flam paradiddle — the diddle comes first: flam-R R L R. Keeping the flammed double clean is the challenge."
+      }
+    },
+    "26": {
+      "name": "Flam Paradiddle-Diddle",
+      "description": "The paradiddle-diddle with a flammed lead note — flam-R L R R L L — six notes per beat with the flam alternating hands.",
+      "card": {
+        "description": "The paradiddle-diddle with a flammed lead note — flam-R L R R L L — six notes per beat with the flam alternating hands."
+      }
+    },
+    "27": {
+      "name": "Pataflafla",
+      "description": "“Pa-ta-fla-fla”: flams on the first and fourth sixteenths of every group — flam-R L R flam-L — so two flams land back to back across each join.",
+      "card": {
+        "description": "“Pa-ta-fla-fla”: flams on the first and fourth sixteenths of every group — flam-R L R flam-L — so two flams land back to back across each join."
+      }
+    },
+    "28": {
+      "name": "Swiss Army Triplet",
+      "description": "A flammed diddle plus one single in triplet time — flam-R R L. Sounds like the flam accent but stays under one lead hand, which is why it moves faster.",
+      "card": {
+        "description": "A flammed diddle plus one single in triplet time — flam-R R L. Sounds like the flam accent but stays under one lead hand, which is why it moves faster."
+      }
+    },
+    "29": {
+      "name": "Inverted Flam Tap",
+      "description": "A flam tap turned inside out: the tap comes just before the next flam on the same hand — flam-R L, flam-L R — so the diddle straddles the flam instead of following it.",
+      "card": {
+        "description": "A flam tap turned inside out: the tap comes just before the next flam on the same hand — flam-R L, flam-L R — so the diddle straddles the flam instead of following it."
+      }
+    },
+    "30": {
+      "name": "Flam Drag",
+      "description": "A flam accent whose middle note becomes a drag — flam-R, L-L, R inside each triplet. The drag is written out so you can hear it.",
+      "card": {
+        "description": "A flam accent whose middle note becomes a drag — flam-R, L-L, R inside each triplet. The drag is written out so you can hear it."
+      }
+    },
+    "31": {
+      "name": "Drag",
+      "description": "The two-note grace itself: a soft diddle crushed in before an accented stroke — ll-R, rr-L. Also called the ruff.",
+      "card": {
+        "description": "The two-note grace itself: a soft diddle crushed in before an accented stroke — ll-R, rr-L. Also called the ruff."
+      }
+    },
+    "32": {
+      "name": "Single Drag Tap",
+      "description": "A drag answered by an accented tap on the opposite hand — drag-R, accent L.",
+      "card": {
+        "description": "A drag answered by an accented tap on the opposite hand — drag-R, accent L."
+      }
+    },
+    "33": {
+      "name": "Double Drag Tap",
+      "description": "Two drags before the accented tap — drag-R, drag-R, accent L.",
+      "card": {
+        "description": "Two drags before the accented tap — drag-R, drag-R, accent L."
+      }
+    },
+    "34": {
+      "name": "Lesson 25",
+      "description": "Named for a page in the 1870 Strube drum manual: a drag into two singles with the accent on the last — drag-R L, accent R.",
+      "card": {
+        "description": "Named for a page in the 1870 Strube drum manual: a drag into two singles with the accent on the last — drag-R L, accent R."
+      }
+    },
+    "35": {
+      "name": "Single Dragadiddle",
+      "description": "A paradiddle whose first note is doubled into a drag by the same hand — RR L R R. Unlike a true drag, the double is metered, not crushed.",
+      "card": {
+        "description": "A paradiddle whose first note is doubled into a drag by the same hand — RR L R R. Unlike a true drag, the double is metered, not crushed."
+      }
+    },
+    "36": {
+      "name": "Drag Paradiddle #1",
+      "description": "An accented stroke, then a dragged paradiddle — R, drag-R L R R.",
+      "card": {
+        "description": "An accented stroke, then a dragged paradiddle — R, drag-R L R R."
+      }
+    },
+    "37": {
+      "name": "Drag Paradiddle #2",
+      "description": "An accented stroke and two drags feeding the paradiddle — R, drag-R, drag-R L R R.",
+      "card": {
+        "description": "An accented stroke and two drags feeding the paradiddle — R, drag-R, drag-R L R R."
+      }
+    },
+    "38": {
+      "name": "Single Ratamacue",
+      "description": "“Ra-ta-ma-cue”: a dragged triplet resolving onto an accented downbeat — drag-R L R, accent L.",
+      "card": {
+        "description": "“Ra-ta-ma-cue”: a dragged triplet resolving onto an accented downbeat — drag-R L R, accent L."
+      }
+    },
+    "39": {
+      "name": "Double Ratamacue",
+      "description": "A drag stacked in front of the single ratamacue — drag-R, drag-R L R, accent L.",
+      "card": {
+        "description": "A drag stacked in front of the single ratamacue — drag-R, drag-R L R, accent L."
+      }
+    },
+    "40": {
+      "name": "Triple Ratamacue",
+      "description": "Three drags before the release — drag-R, drag-R, drag-R L R, accent L. The longest of the drag rudiments.",
+      "card": {
+        "description": "Three drags before the release — drag-R, drag-R, drag-R L R, accent L. The longest of the drag rudiments."
+      }
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "foundations": {
+    "title": "Foundations",
+    "tagline": "Where the real work happens",
+    "description": "Foundations is where every drummer's vocabulary actually lives — reading, rudiments, time on the kit, technique, coordination, fills, practice habits. Most of what you'll know as a player is built here. The genre tracks come later, when you're ready to specialize.",
+    "sections": {
+      "getting-started": {
+        "title": "Getting Started",
+        "tagline": "Before you hit a drum",
+        "lessons": {
+          "the-drum-kit": "The Kit: What's What",
+          "gear-basics": "Sticks, Pads & First Gear",
+          "setup-posture": "Setup & Posture",
+          "stick-grip": "Stick Grip & Strokes",
+          "tuning-basics": "Tuning Your Drums",
+          "the-practice-mindset": "How to Practice"
+        }
+      },
+      "reading-counting": {
+        "title": "Reading & Counting",
+        "tagline": "The language of rhythm on paper",
+        "lessons": {
+          "reading-101": "Reading Music: Note Values",
+          "reading-time-signatures": "Time Signatures",
+          "reading-rests": "Rests: The Sound of Silence",
+          "counting-eighths": "Counting Eighths",
+          "counting-sixteenths": "Counting Sixteenths",
+          "triplet-feel": "Triplet Feel",
+          "counting-subdivision": "Mixed Subdivisions",
+          "reading-syncopation": "Reading Syncopation",
+          "reading-dotted-rhythms": "Dotted Rhythms"
+        }
+      },
+      "rudiments": {
+        "title": "Rudiments",
+        "tagline": "The motor patterns underneath everything",
+        "lessons": {
+          "single-stroke-roll": "The Single Stroke Roll",
+          "double-stroke-roll": "The Double Stroke Roll",
+          "paradiddle": "The Single Paradiddle",
+          "double-paradiddle": "The Double Paradiddle",
+          "inverted-paradiddle": "The Inverted Paradiddle",
+          "paradiddle-diddle": "The Paradiddle-Diddle",
+          "flam": "The Flam",
+          "flam-tap": "The Flam Tap",
+          "flam-accent": "The Flam Accent",
+          "swiss-army-triplet": "The Swiss Army Triplet",
+          "drag": "The Drag",
+          "dragadiddle": "The Dragadiddle",
+          "accented-singles": "Accented Single Strokes",
+          "six-stroke-roll-found": "The Six-Stroke Roll"
+        }
+      },
+      "time-on-the-kit": {
+        "title": "Time on the Kit",
+        "tagline": "From bare backbeat to musical drumming",
+        "lessons": {
+          "first-beat": "Your First Beat",
+          "first-beat-kicks": "Kick Variations",
+          "first-beat-color": "Backbeat Color",
+          "two-bar-phrasing": "Two-Bar Phrasing",
+          "the-shuffle": "The Shuffle Feel"
+        }
+      },
+      "foot-technique": {
+        "title": "Foot Technique",
+        "tagline": "What your feet are actually doing",
+        "lessons": {
+          "bass-drum-technique": "Bass Drum Technique",
+          "hi-hat-foot": "Hi-Hat Foot Technique",
+          "bass-drum-doubles": "Bass Drum Doubles"
+        }
+      },
+      "hand-technique": {
+        "title": "Hand Technique on the Kit",
+        "tagline": "Sound is what your hands shape",
+        "lessons": {
+          "snare-voicings": "Snare Voicings",
+          "hi-hat-articulation": "Hi-Hat Articulation",
+          "cymbal-voicings": "Cymbal Voicings",
+          "ghost-notes-found": "Ghost Notes",
+          "accent-tap": "Accent and Tap",
+          "moeller-stroke": "The Moeller Stroke",
+          "finger-control": "Finger Control",
+          "dynamic-spectrum": "The Dynamic Spectrum"
+        }
+      },
+      "coordination": {
+        "title": "Coordination",
+        "tagline": "Your four limbs, talking to each other",
+        "lessons": {
+          "basic-coordination": "Basic Coordination",
+          "three-limb-patterns": "Three-Limb Patterns",
+          "four-way-foundation": "Four-Way Independence Basics",
+          "limb-substitution": "Limb Substitution"
+        }
+      },
+      "independence-systems": {
+        "title": "Independence Systems",
+        "tagline": "The methodologies drummers actually use to get free",
+        "lessons": {
+          "independence-singing": "Singing as a Practice Tool",
+          "independence-chapin-method": "The Chapin Method",
+          "independence-chester-system": "The New Breed System",
+          "independence-melodic-snare": "Melodic Snare Over Stable Feet",
+          "independence-clave-foot": "The Clave-Foot System"
+        }
+      },
+      "fills-transitions": {
+        "title": "Fills & Transitions",
+        "tagline": "Getting from one section to the next",
+        "lessons": {
+          "basic-fills": "Basic Fills",
+          "pickup-fills": "Pickup Fills",
+          "fills-around-kit": "Fills Around the Kit"
+        }
+      },
+      "practicing": {
+        "title": "Practicing",
+        "tagline": "How you actually get better",
+        "lessons": {
+          "warm-ups": "Warm-Ups",
+          "metronome-practice": "Practicing with a Metronome",
+          "slow-practice": "Slow Practice",
+          "recording-yourself": "Recording Yourself",
+          "ear-training": "Training Your Ear"
+        }
+      },
+      "putting-it-together": {
+        "title": "Putting It Together",
+        "tagline": "From exercises to playing music",
+        "lessons": {
+          "playing-to-a-song": "Playing to a Song",
+          "two-minute-loops": "The Two-Minute Loop"
+        }
+      }
+    }
+  },
+  "tracks": {
+    "rock-pop": {
+      "title": "Rock & Pop",
+      "tagline": "Backbeats that built modern music",
+      "description": "From classic rock backbeats to contemporary pop production. The most economical genre — fewer notes, deeper feel.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "rock-eighth-grooves": "Eighth-Note Grooves",
+            "rock-quarter-hat": "Quarter-Note Hi-Hat",
+            "rock-cross-stick": "Cross-Stick & Ballad Feel",
+            "rock-basic-fills": "Basic Fills",
+            "rock-disco-four": "Four-on-the-Floor"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "rock-sixteenth-hats": "Sixteenth-Note Hi-Hat",
+            "rock-open-hats": "Open Hats & Syncopation",
+            "rock-shuffle-rock": "Shuffle Rock",
+            "rock-power-ballad": "Power Ballad Grooves",
+            "rock-tom-grooves": "Tom-Driven Grooves"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "rock-half-time": "Half-Time Feel",
+            "rock-train-beat": "Train Beat",
+            "rock-linear-fills": "Linear Fills",
+            "rock-double-time": "Double-Time Grooves",
+            "rock-stadium-anthem": "Stadium Anthem"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "rock-prog": "Prog Rock Vocabulary",
+            "rock-odd-meter": "Odd Meters in Rock",
+            "rock-hybrid-grooves": "Hybrid Grooves",
+            "rock-studio-polish": "Studio Polish & Production",
+            "rock-dynamics": "Dynamic Mastery"
+          }
+        }
+      }
+    },
+    "jazz": {
+      "title": "Jazz",
+      "tagline": "The language of improvisation",
+      "description": "Swing, comping, brushes, and the deep tradition of musical conversation. Demanding but enormously rewarding.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "jazz-ride-pattern": "The Jazz Ride Pattern",
+            "jazz-comping-foot": "Hi-Hat Foot on 2 and 4",
+            "jazz-brushes-intro": "Brushes — First Steps",
+            "jazz-ballad": "Slow Ballad Brushwork",
+            "jazz-medium-swing": "Medium Swing Comping"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "jazz-comping-basics": "Comping Basics",
+            "jazz-waltz": "The Jazz Waltz",
+            "jazz-trading-fours": "Trading Fours",
+            "jazz-bossa-jazz": "Bossa-Influenced Jazz",
+            "jazz-up-tempo-intro": "Intro to Up-Tempo Time",
+            "jazz-broken-time-intro": "Intro to Broken Time"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "jazz-bop-vocabulary": "Bop Vocabulary",
+            "jazz-up-tempo": "Up-Tempo Time",
+            "jazz-broken-time": "Broken Time",
+            "jazz-modal-comping": "Modal Comping (Coltrane)",
+            "jazz-comping-vocab": "Comping Vocabulary"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "jazz-free-jazz": "Free Jazz Concepts",
+            "jazz-post-bop": "Post-Bop Independence",
+            "jazz-elvin-jones": "Elvin Jones Triplet Vocabulary",
+            "jazz-tony-williams": "Tony Williams Concepts",
+            "jazz-modern-jazz": "Modern Jazz Independence"
+          }
+        }
+      }
+    },
+    "funk": {
+      "title": "Funk",
+      "tagline": "The pocket is everything",
+      "description": "Where 16ths, ghost notes, and time-feel become musical content in their own right. The genre where 'how' matters as much as 'what'.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "funk-ghost-notes": "Ghost Notes & The Pocket",
+            "funk-sixteenth-feel": "Sixteenth-Note Feel",
+            "funk-pocket-drumming": "Pocket Drumming",
+            "funk-clyde-stubblefield": "Clyde Stubblefield (JB)",
+            "funk-the-meters-intro": "The Meters — First Steps"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "funk-james-brown": "James Brown Vocabulary",
+            "funk-linear-funk": "Linear Funk",
+            "funk-the-meters": "Zigaboo & The Meters",
+            "funk-purdie-intro": "Bernard Purdie — Intro",
+            "funk-ghost-displacement": "Moving Ghost Notes"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "funk-new-orleans": "New Orleans Second-Line",
+            "funk-displacement": "Beat Displacement",
+            "funk-purdie-shuffle": "The Purdie Shuffle",
+            "funk-david-garibaldi": "David Garibaldi (Tower)",
+            "funk-quarter-pulse": "Sparse Quarter-Note Funk"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "funk-d-angelo": "D'Angelo Time-Feel",
+            "funk-modern-neo-soul": "Modern Neo-Soul",
+            "funk-questlove": "Questlove Time-Feel",
+            "funk-vinnie-funk": "Vinnie's Funk Drumming",
+            "funk-modern-r-and-b": "Modern R&B Production"
+          }
+        }
+      }
+    },
+    "latin": {
+      "title": "Latin & Afro-Cuban",
+      "tagline": "Clave is the law",
+      "description": "A vast tradition with deep folkloric roots. Each rhythm carries cultural weight; learning these means learning their context.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "latin-clave-intro": "Understanding Clave",
+            "latin-bossa-nova": "Bossa Nova",
+            "latin-samba-feel": "Samba on the Kit",
+            "latin-cha-cha": "Cha-Cha-Cha",
+            "latin-mambo-intro": "Mambo — First Steps"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "latin-songo": "Songo",
+            "latin-mozambique": "Mozambique",
+            "latin-merengue": "Merengue",
+            "latin-cumbia": "Cumbia",
+            "latin-cascara": "Cáscara on the Kit"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "latin-rumba": "Rumba",
+            "latin-6-8-afro-cuban": "6/8 Afro-Cuban",
+            "latin-bembe": "Bembé Bell Pattern",
+            "latin-guaguanco": "Guaguancó",
+            "latin-comparsa": "Comparsa"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "latin-folkloric": "Folkloric Integration",
+            "latin-modern-hybrid": "Modern Hybrid Approaches",
+            "latin-bata-rhythms": "Batá Rhythms on the Kit",
+            "latin-iyesa": "Iyesá",
+            "latin-yoruba": "Yoruba Ceremonial Rhythms"
+          }
+        }
+      }
+    },
+    "jazz-fusion": {
+      "title": "Jazz Fusion",
+      "tagline": "Where complexity meets groove",
+      "description": "The Weckl, Vinnie, Steve Smith vocabulary. Borrows from jazz, funk, and rock and demands the technical precision of all three.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "fusion-coordination-foundation": "Jazz Coordination Foundation",
+            "fusion-six-stroke-roll": "The Six-Stroke Roll",
+            "fusion-half-time-shuffle": "Half-Time Shuffle",
+            "fusion-linear-basics": "Linear Playing — First Steps",
+            "fusion-jazz-rock": "Jazz-Rock Crossover"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "fusion-odd-meters": "Odd Meters: 5/4 and 7/8",
+            "fusion-linear-vocab": "Linear Vocabulary",
+            "fusion-displacement": "Displaced Grooves",
+            "fusion-sixteenth": "Sixteenth-Based Fusion",
+            "fusion-broken-time": "Broken-Time Fusion"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "fusion-polyrhythms": "Polyrhythmic Grooves",
+            "fusion-soloing": "Fusion Soloing Vocabulary",
+            "fusion-superimposition": "Metric Superimposition",
+            "fusion-clave-fusion": "Clave-Influenced Fusion",
+            "fusion-tony-williams-fusion": "Tony Williams Lifetime Style"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "fusion-metric-modulation": "Metric Modulation",
+            "fusion-modern-fusion": "Modern Fusion (Guiliana, Nilles)",
+            "fusion-prog-fusion": "Prog Fusion (Liquid Tension)",
+            "fusion-electronic-fusion": "Electronic Fusion",
+            "fusion-mahavishnu": "Mahavishnu Orchestra Style"
+          }
+        }
+      }
+    },
+    "metal": {
+      "title": "Metal",
+      "tagline": "Speed, power, and architecture",
+      "description": "Endurance, double bass technique, and rhythmic architecture pushed to their limits. The genre that rewards relentless practice.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "metal-double-bass-basics": "Double Bass Basics",
+            "metal-power-grooves": "Power Grooves",
+            "metal-headbang": "Headbanger Grooves",
+            "metal-quarter-bass": "Quarter-Note Double Bass",
+            "metal-eighth-bass": "Eighth-Note Double Bass"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "metal-blast-beats": "Blast Beats",
+            "metal-prog-metal": "Prog Metal Time Feels",
+            "metal-d-beat": "D-Beat",
+            "metal-thrash": "Thrash Patterns",
+            "metal-groove-metal": "Groove Metal (Pantera-style)"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "metal-extreme": "Extreme Metal Vocabulary",
+            "metal-gravity-rolls": "Gravity Rolls",
+            "metal-bomb-blasts": "Bomb Blasts",
+            "metal-hyperblasts": "Hyper-Blast Beats",
+            "metal-djent": "Djent & Polyrhythmic Grooves"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "metal-tech-death": "Tech-Death Concepts",
+            "metal-polymeters": "Complex Polymeters",
+            "metal-metric-modulation": "Metric Modulation in Metal",
+            "metal-mathcore": "Mathcore Concepts",
+            "metal-gospel-chops": "Gospel Chops in Metal"
+          }
+        }
+      }
+    },
+    "hip-hop": {
+      "title": "Hip-Hop & R&B",
+      "tagline": "Programmed feel, played live",
+      "description": "Translating drum-machine vocabulary to acoustic kit. Late-and-loose feels, J Dilla's slipped time, modern trap on the kit.",
+      "levels": {
+        "1": {
+          "title": "Level 1",
+          "lessons": {
+            "hiphop-boom-bap": "Boom-Bap",
+            "hiphop-pocket-time": "Pocket Time-Feel",
+            "hiphop-classic": "Classic Hip-Hop Drumming",
+            "hiphop-r-and-b-basic": "R&B Basics",
+            "hiphop-quiet-storm": "Quiet Storm Style"
+          }
+        },
+        "2": {
+          "title": "Level 2",
+          "lessons": {
+            "hiphop-trap": "Trap on the Kit",
+            "hiphop-neo-soul": "Neo-Soul Feel",
+            "hiphop-modern-r-and-b": "Modern R&B",
+            "hiphop-southern": "Southern Rap Drumming",
+            "hiphop-questlove": "Questlove Time-Feel"
+          }
+        },
+        "3": {
+          "title": "Level 3",
+          "lessons": {
+            "hiphop-studio-translation": "Studio Drums to Live Kit",
+            "hiphop-displacement": "Programmed Displacement",
+            "hiphop-808-translation": "808 Patterns on the Kit",
+            "hiphop-chris-dave": "Chris Dave Concepts",
+            "hiphop-anderson-paak": "Anderson .Paak Style"
+          }
+        },
+        "4": {
+          "title": "Level 4",
+          "lessons": {
+            "hiphop-j-dilla": "J Dilla Time-Feel",
+            "hiphop-modern-production": "Modern Production Feel",
+            "hiphop-sampling": "Drumming Around Samples",
+            "hiphop-louis-cole": "Louis Cole Drumming",
+            "hiphop-future-r-and-b": "Future R&B"
+          }
+        }
+      }
+    }
+  },
+  "mastery": {
+    "title": "Other Topics",
+    "tagline": "Skills that don't fit any single track",
+    "lessons": {
+      "polyrhythms-3-2": "Polyrhythms: 3 over 2",
+      "polyrhythms-5-4": "Polyrhythms: 5 over 4",
+      "odd-meters-9-8": "Odd Meters Beyond 7",
+      "soloing-improvisation": "Soloing & Improvisation",
+      "brushes-mastery": "Brushes Mastery",
+      "four-way-independence": "Four-Way Independence",
+      "reading-complex-charts": "Reading Complex Charts",
+      "solo-drumming": "Solo Drumming as Composition",
+      "transcription-method": "Transcribing from Recordings",
+      "practice-systems": "Designing Your Practice",
+      "accompaniment": "The Art of Accompaniment",
+      "clave-as-feel": "Clave as Feel (Beyond Latin)"
+    }
+  }
+}
