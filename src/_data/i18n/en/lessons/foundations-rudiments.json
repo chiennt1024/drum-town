@@ -1,0 +1,397 @@
+{
+  "single-stroke-roll": {
+    "tagline": "Alternating hands — the most fundamental motion in drumming",
+    "bodyHtml": "\n      <p>The <strong>single stroke roll</strong> is just <em>R L R L R L R L</em> — alternating, evenly spaced. There's nothing easier to describe and almost nothing harder to play <em>perfectly even</em>. Two key ideas: every stroke at the same volume, and your hands at exactly the same height.</p>\n      <p>Build speed by adding density (more notes per beat), not by rushing the hands. Quarter → eighth → sixteenth, each at the same tempo. Your hands learn the motion at the slow density, then carry it into the fast one.</p>\n      <h2 class=\"section-label\">The Weak-Hand Problem</h2>\n      <p>Record ten seconds of your 16th-note singles and listen with your eyes closed. Almost everyone hears the same thing: the dominant hand slightly louder, the weak hand slightly lower in stick height, and a faint gallop where evenness should be. The fix is boring and effective — lead with the weak hand for a full practice block, and watch the stick heights in a mirror until they match.</p>\n      <p>Two minutes of truly even singles at ♩=80 beats twenty minutes of fast, lumpy ones. Speed comes from evenness, because an even roll has no hitches for tension to hide in. When the accented exercise feels effortless, that's your cue to raise the tempo, and not before.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter, 8th, and 16th densities all flow at ♩=80 without one hand getting weak",
+      "Accents (Ex 4) make the pulse audible inside the stream of 16ths",
+      "Stick heights match between R and L on every stroke"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Note Singles",
+        "tip": "Sticking: <em>R L R L</em>. One stroke per beat. Watch your stick heights — both sticks should rebound to the same place. If one is higher than the other, even out before adding speed."
+      },
+      {
+        "title": "2 — Eighth-Note Singles",
+        "tip": "Sticking: <em>R L R L R L R L</em>. Same tempo as exercise 1, twice the strokes per beat. The <em>tempo</em> doesn't change; only the <em>density</em> does."
+      },
+      {
+        "title": "3 — Sixteenth-Note Singles (The Roll)",
+        "tip": "Sticking: <em>R L R L · R L R L · R L R L · R L R L</em>. This is the actual single stroke roll. Even though your hands are moving fast, the metronome pulse is unchanged — beat 1 still lands on the same R it did in exercise 1."
+      },
+      {
+        "title": "4 — Sixteenths with Accents on the Beat",
+        "tip": "Same notes as exercise 3, but play the <em>first sixteenth of each beat louder</em> — the <em>&gt;</em> marks show where. Accents land on the R's at counts 1, 2, 3, 4; quiet on every other note. This is how you make the pulse audible inside a stream of even sixteenths."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Buddy Rich",
+        "work": "West Side Story Medley (live)",
+        "note": "Single-stroke velocity as a musical language. You don't need his speed — listen for how even the stream stays at any speed."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Moby Dick",
+        "note": "The solo is built largely from singles moved around the kit. Notice how the accents make phrases out of an unbroken stream."
+      }
+    ]
+  },
+  "double-stroke-roll": {
+    "tagline": "Two strokes per hand — the gateway to the buzz roll",
+    "bodyHtml": "\n      <p>The <strong>double stroke roll</strong> is <em>R R L L R R L L</em> — two strokes per hand before switching. The trick: both notes within a hand should be <em>equal</em>, not loud-soft (a \"diddle\"). Use a controlled rebound rather than two separate full strokes.</p>\n      <p>Most beginners can play a clean RR LL slowly, but it falls apart when sped up — the second note of each pair becomes weaker. The exercises below use accents on the first of each pair to expose this weakness, then on every other pair to even it back out.</p>\n      <h2 class=\"section-label\">Rebound, Not Two Throws</h2>\n      <p>Slow doubles are two deliberate wrist strokes; fast doubles are one throw plus a controlled bounce, with the fingers squeezing the second note up to full volume. Practice both mechanics separately: open strokes at ♩=60 where each note is its own decision, then bounce strokes at a pad-friendly tempo where you let the stick fall and catch the rebound. The transition zone between the two feels awkward for everyone, so pass through it patiently instead of avoiding it.</p>\n      <p>Watch for the press: burying the stick into the head chokes the rebound and the second note dies. If your RR sounds like \"R-r\", loosen the grip until the stick can breathe. On a pillow-soft surface doubles get harder and more honest; a minute a day there pays off fast.</p>\n    ",
+    "graduationCriteria": [
+      "8th and 16th doubles at ♩=70 with even volume per pair",
+      "Soft notes audible (not skipped) in the accent-the-first exercise",
+      "Second note of each pair doesn't collapse when speeding up"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Eighth-Note Doubles",
+        "tip": "Sticking: <em>R R L L R R L L</em>. Slow tempo — focus on note-to-note evenness within each hand. The second R should be as loud as the first."
+      },
+      {
+        "title": "2 — Sixteenth-Note Doubles",
+        "tip": "Sticking: <em>RR LL · RR LL · RR LL · RR LL</em> — eight doubles per bar. Same tempo as exercise 1, twice as fast in the hands. If the second note of each pair gets quieter, slow down until they're equal again."
+      },
+      {
+        "title": "3 — Doubles with Accent on the First of Each Pair",
+        "tip": "The first note of each pair is accented (the <em>&gt;</em> marks); the second is soft. The accent <em>tells the truth</em> about your doubles: if the soft notes disappear entirely you're cheating; if they're audible and even, the technique is real."
+      },
+      {
+        "title": "4 — Doubles with Accent on Every Other Pair",
+        "tip": "Now only the R's that fall on beats 1, 2, 3, 4 are accented — every other pair. The accents now mark the pulse, the same way they did in single-stroke exercise 4."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones",
+        "note": "Diddle-rich snare vocabulary inside swing comping. The doubles are so even you'll mistake them for singles until you slow the record down."
+      },
+      {
+        "artist": "Neil Peart",
+        "work": "Rush — Tom Sawyer",
+        "note": "Listen for the drag and ruff ornaments tucked into the tom fills — double-stroke-family pairs hiding inside bigger phrases, not stand-alone rolls."
+      }
+    ]
+  },
+  "double-paradiddle": {
+    "tagline": "Six-note paradiddle in 6/8 — four singles, then a double",
+    "bodyHtml": "\n      <p>The <strong>double paradiddle</strong> is six notes — <em>R L R L R R</em> (with the natural alternating mirror <em>L R L R L L</em>). Compared to the single paradiddle, you add two more alternating singles before the closing double. The shape is <em>four singles plus one double</em>: that's the rule, and it's where most students slip.</p>\n      <p>Six notes per group fits naturally in 6/8: one rep per bar with straight 8th notes, beamed in the standard two-groups-of-three. The downbeat of each bar is the lead-hand single; the closing double straddles the second beamed group of the bar. Two bars (one R-led, one L-led) make a full cycle, after which both hands have led once.</p>\n      <p>Watch the same trap as the single paradiddle: the closing double tends to collapse under tempo. The first note of the double rides the rebound from the prior single, but the second is its own controlled stroke — both must speak. The 6/8 framing helps because each bar shows the rudiment as a single complete shape, not stretched across triplet brackets.</p>\n    ",
+    "graduationCriteria": [
+      "RLRLRR · LRLRLL looped cleanly at ♩.=80 in 6/8 for two minutes without sticking errors",
+      "Both notes of the closing RR (and LL) speak equally — no audible weak second note",
+      "Lead accent (Ex 3) lands clearly on the downbeat of each bar, with the rest of the group quieter",
+      "Closing-double accent (Ex 4) lands cleanly on note 5 of each group without leaking back to note 1"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Double Paradiddle, R-Lead in 6/8",
+        "tip": "Sticking: <em>R L R L R R</em> — four alternating singles, then one double. R-lead only here; both bars repeat the same shape so the right hand learns its job before the left has to take over. The accent sits on the lead R (the downbeat of each bar). Don't push tempo until both notes of the closing RR sound equal."
+      },
+      {
+        "title": "2 — Alternating Leads (R-led, L-led)",
+        "tip": "Bar 1: <em>R L R L R R</em>. Bar 2: <em>L R L R L L</em> — the closing RR hands the lead to L automatically. No accents yet; chase equal volume on every note. Watch the <em>handover moment</em>: the last R of bar 1 into the first L of bar 2 is where errors creep in."
+      },
+      {
+        "title": "3 — Accent the Lead of Each Group",
+        "tip": "Accent on the lead of each bar — note 1 of the six. One accent per bar, two per cycle. The five notes that follow each accent must stay quiet and even, including (especially) the closing double. If the second note of the RR or LL pops up to meet the accented downbeat that's coming next, you've started anticipating; back off the tempo and re-balance."
+      },
+      {
+        "title": "4 — Accent the Closing Double",
+        "tip": "Now the accent moves to note 5 — the first stroke of the closing double. This shifts the felt pulse off the downbeat and exposes the truth about your double: if the second note of the pair (the unaccented R after R-accent, or unaccented L after L-accent) disappears under the spike of the accent, the double isn't balanced. Slow the tempo until both notes of the double speak equally with the accent intact."
+      }
+    ]
+  },
+  "inverted-paradiddle": {
+    "tagline": "Doubles in the middle, singles on the outside",
+    "bodyHtml": "\n      <p>The <strong>inverted paradiddle</strong> is the same four hands as the regular paradiddle — two singles and a double — but in a different order: <em>R L L R · L R R L</em>. The double moves into the middle of the four-note group, with a single bookending each end. Some books call this an \"inward paradiddle\"; the term refers to the double being inside the shape rather than at the end.</p>\n      <p>Why bother? Because accent placement determines what a sticking <em>feels like</em>. A regular paradiddle with the accent on note 1 is a strong-then-weak shape. The inverted paradiddle, with the accent on note 1, has its double in the middle — meaning the rebound from the accent immediately sets up a controlled double, then a final single. The hands move differently, even though the same four strokes are present.</p>\n      <p>Once it's under your hands you'll start hearing the inverted version everywhere — it's the natural sticking when a fill needs a strong-soft-soft-strong shape, or when you're moving from snare to a tom on the closing single.</p>\n    ",
+    "graduationCriteria": [
+      "RLLR LRRL × 2 cleanly at ♩=80 in 16ths for two minutes",
+      "Accent on the leading R/L sounds different from a regular paradiddle accent — felt as the start of a new shape",
+      "Both LL and RR doubles inside the bar are even — no weak second note",
+      "Side-by-side comparison with the standard paradiddle clear in the ear (Ex 4)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Inverted Paradiddle on Snare",
+        "tip": "Sticking: <em>R L L R · L R R L</em>, twice per bar. Accent on the lead-hand single of each group (counts 1, 2, 3, 4). The double sits in positions 2-3 of each four — the inverse of the standard paradiddle, which has its double in 3-4. Playback sits at ♩=70; work it from ♩=70 up to ♩=90 once it is clean."
+      },
+      {
+        "title": "2 — Side-by-Side: Standard vs Inverted",
+        "tip": "Beats 1-2: standard paradiddle (<em>RLRR LRLL</em>). Beats 3-4: inverted (<em>RLLR LRRL</em>). Same accent placement on counts 1, 2, 3, 4. Listen to how the second half feels different — the doubles arrive earlier in each group, making the back half of each four-note shape lighter."
+      },
+      {
+        "title": "3 — Inverted Paradiddle, Accent on the Double",
+        "tip": "Accent moves from position 1 to position 2 — the first note of the inner double. This shifts the felt downbeat by one 16th, making the rudiment sound like it starts on the <em>e</em>. Useful displacement — same sticking, completely new feel."
+      },
+      {
+        "title": "4 — Inverted Paradiddle With Both LL and RR Accented",
+        "tip": "Both notes of each inner double accented; the leading and closing singles are quiet. This is the opposite-side test of Exercise 1: do the doubles speak as a clean accented pair, or does the second note collapse? If you can play this evenly, the rudiment is yours."
+      }
+    ]
+  },
+  "paradiddle-diddle": {
+    "tagline": "Paradiddle plus an extra double — six notes in 6/8",
+    "bodyHtml": "\n      <p>The <strong>paradiddle-diddle</strong> is six notes — <em>R L R R L L</em> — a paradiddle followed by one extra double. In 6/8 it lays out as one rep per bar, beamed naturally in two groups of three: <em>R L R</em> and <em>R L L</em>. The downbeat is the lead-hand single; the closing double sits on the back half of the bar.</p>\n      <p>What makes it distinct from its six-note neighbors is the texture. The double paradiddle is single-heavy (four singles, one double); the six-stroke roll is double-heavy (one single, two doubles, one single); the paradiddle-diddle splits the difference (two singles, two doubles). It feels like a paradiddle that overstays its welcome — and that's exactly what makes it useful for fills, because the extra double creates a natural place for the lead hand to swap.</p>\n      <p>Played with R-lead throughout (<em>R L R R L L · R L R R L L</em>), the closing LL hands the lead back to the right naturally, so the rudiment is self-perpetuating with one fixed lead. That's the form most drummers use exclusively. Exercise 4 inverts that: forcing the lead to alternate between bars, which surfaces any imbalance between hands.</p>\n    ",
+    "graduationCriteria": [
+      "RLRRLL looped cleanly at ♩.=80 in 6/8 for two minutes",
+      "Both closing doubles (RR and LL) even — no weak second note in either pair",
+      "Lead accent (Ex 3) lands clearly on the downbeat of each bar without leaking into the diddles",
+      "Alternating-lead variant (Ex 4) holds at ♩.=70 with both leads sounding identical"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Paradiddle-Diddle, R-Lead in 6/8",
+        "tip": "Sticking: <em>R L R R L L · R L R R L L</em>. Same R-lead each bar — the closing LL flips the hands back to R for the next downbeat automatically. Only one accent per bar (the lead R). Don't worry about the diddles being perfectly even yet; just learn the shape and let the closing LL hand off cleanly."
+      },
+      {
+        "title": "2 — Diddles Even, No Accent",
+        "tip": "Same sticking as Ex 1, accents stripped away. The work here is balance: every note must sound the same volume. Pay particular attention to the second note of each diddle — the second R of the RR, the second L of the LL. Those are the four notes that fail first under tempo. If the bar starts to sound like <em>R L R-R-L_l</em> (the second L mouse-quiet), slow down."
+      },
+      {
+        "title": "3 — Lead Accent (Downbeat of Each Bar)",
+        "tip": "Accent only on the leading R of each bar. Five quiet notes follow each accent — the first half of the paradiddle (<em>L R</em>) plus the entire closing diddle pair (<em>R L L</em>). It's tempting to lean into the second R of the RR diddle because it shares a hand with the loud lead; resist that. Both R's of the diddle are quiet."
+      },
+      {
+        "title": "4 — Alternate the Lead Each Bar",
+        "tip": "Bar 1: <em>R L R R L L</em>. Bar 2: <em>L R L L R R</em> — the mirror. This forces the lead to alternate between bars, which is <em>not</em> the natural form (the natural form has the same lead repeat indefinitely). Why train the unnatural version? Because it forces both hands to play the lead role, exposing weakness on the off-side. Harder to keep clean; the payoff is a more balanced rudiment."
+      }
+    ]
+  },
+  "flam": {
+    "tagline": "A grace note tucked just before the main note",
+    "bodyHtml": "\n      <p>A <strong>flam</strong> is two notes played by both hands so close together that they sound like one thick stroke. The lead hand plays a quiet <em>grace note</em> just before the main hand's full stroke — close enough that you hear \"fl-AM\" rather than two distinct hits.</p>\n      <p>Two things make a flam work: <strong>height</strong> and <strong>timing</strong>. The lead hand starts low (about two inches from the head); the main hand starts high (six inches or more). Both come down at almost the same instant — the lead hand lands first only because it has less distance to travel. The volume difference is automatic if the heights are right.</p>\n      <p>The lead hand alternates: a <em>right flam</em> is grace L + main R (the L is the grace because the R is louder); a <em>left flam</em> is grace R + main L. After each flam, your hands are pre-positioned for the next one — the hand that just played the main stroke is now high and ready to be the next main note.</p>\n      <h2 class=\"section-label\">Reading the Notation</h2>\n      <p>The notation below uses real grace notes — the tiny slashed note before each main note <em>is</em> the grace. A lowercase <em>l</em> or <em>r</em> under the grace tells you which hand plays it; the uppercase <em>R</em> or <em>L</em> under the main note is the loud hand. The grace is not on the metronome click — the main note is. Don't try to play the grace \"on time\"; play it just before time, leaning into the main stroke.</p>\n    ",
+    "graduationCriteria": [
+      "Both R-flam and L-flam grace notes equally tight to the main note (no audible \"gap\")",
+      "Grace note clearly softer than the main note — never matched in volume",
+      "Alternating flams (RLRL leads) at ♩=70 without the grace dragging behind on either hand",
+      "Stick heights set before each flam: lead hand low (~2 inches), main hand high (~6 inches)",
+      "Ex 4 (flam on each beat, single 8th between) loops cleanly for 1 minute at ♩=70"
+    ],
+    "exercises": [
+      {
+        "title": "1 — A Single R-Flam on Each Beat",
+        "tip": "Eight R-flams, one per beat — slow on purpose so the hands can re-set their heights between flams. Listen for <em>'fl-AM &middot; fl-AM'</em>, never <em>'L-R &middot; L-R'</em>: if you hear two equal notes, the grace is too loud. Drop the left hand lower."
+      },
+      {
+        "title": "2 — Alternating Flams (R-flam, L-flam)",
+        "tip": "R-flam on beats 1 and 3, L-flam on 2 and 4 — the hands pre-position themselves if you don't fight it. Pass check: both flams identical in shape. If the L-flam is wider or sloppier, run Ex 1 with the lead reversed until it matches."
+      },
+      {
+        "title": "3 — 8th-Note Flam Stream (Alternating)",
+        "tip": "Every 8th note flammed, lead alternating R-L-R-L — the <em>flam stream</em>, a thick texture from marching and orchestral writing. The limit is how cleanly you re-set heights between consecutive flams. If a grace starts disappearing or the alternation slips, drop to ♩=50 and rebuild."
+      },
+      {
+        "title": "4 — Flam on the Beat, Single on the &",
+        "tip": "Flam on every quarter, single 8th between: <em>flamR-R · flamL-L · flamR-R · flamL-L</em>. The flam lands on the click; the unaccented same-hand single fills the &. This is a classic flam-tap-shaped pattern — see how the second R is the tap off the rebound from the flam's main note. Lead alternates each beat, so each hand plays one flam-and-tap pair before handing over. This exercise prepares you directly for the next lesson."
+      }
+    ]
+  },
+  "flam-tap": {
+    "tagline": "Flam plus a tap — the workhorse hybrid",
+    "bodyHtml": "\n      <p>The <strong>flam tap</strong> glues a flam onto the front of a double stroke. Each two-note group is <em>flam-R + R</em> or <em>flam-L + L</em>: a flam (lead-hand grace + main stroke) followed by one more stroke from the same hand. The \"tap\" is that second stroke — not a full-volume hit, but a controlled rebound off the flam's main note.</p>\n      <p>Alternated, it becomes <em>flamR-R · flamL-L</em>: each hand plays its flam-and-tap, then hands over to the other side. This is the rudiment's most common form, used everywhere in marching writing and modern fusion fills.</p>\n      <p>The trap: the tap collapses into a weak afterthought. The flam's main note is loud; the next stroke (same hand) needs to speak as a real, unaccented stroke — not whisper-quiet, not a bounce. Practice the underlying \"flam plus controlled second stroke\" before chaining them at speed.</p>\n      <h2 class=\"section-label\">Reading the Notation</h2>\n      <p>The flam appears as a slashed grace note before the accented main note. The tap that follows is the same hand's next 8th — a normal, unaccented stroke. Lowercase <em>l</em>/<em>r</em> means the grace; uppercase <em>R</em>/<em>L</em> means a full stroke; the <em>&gt;</em> over a note marks the flam-as-accent.</p>\n    ",
+    "graduationCriteria": [
+      "FlamR-R · FlamL-L × 2 at ♩=70 with both flams equally tight",
+      "The \"tap\" (second R or L of each pair) audible but clearly softer than the flam",
+      "No collapse on the second R or L of the tap — the double stays balanced",
+      "16th-note flam-tap density (Ex 4) at ♩=60 without rushing",
+      "Lead alternates without confusion — no stumbles at the FlamR-R → FlamL-L hand-off"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Flam Tap, Right Lead Only",
+        "tip": "Four <em>flamR-R</em> pairs per bar, right lead only. Listen for <em>'fl-AM &middot; tap'</em> — same hand, two distinct volumes. If the tap matches the flam's volume you're missing the dynamic; if it disappears you're crushing it. Repeat lead-reversed (L lead) before moving on."
+      },
+      {
+        "title": "2 — Alternating Flam Tap (FlamR-R · FlamL-L)",
+        "tip": "<em>flamR-R · flamL-L</em>, lead alternating each pair. The hand that just played its tap ends low — perfectly placed to be the next flam's grace. Check the score: the slashed grace is always the <em>opposite</em> hand of the upcoming pair."
+      },
+      {
+        "title": "3 — Flam Tap with a Tempo Push",
+        "tip": "Same alternation as Exercise 2 but with the tempo bumped to ♩=75 and looped across two bars. The point is endurance: at this tempo, the flams and the taps both have to stay clean for at least the duration of the repeat. If a tap fades on the way through bar 2 — common — drop back to ♩=70 until both bars match, then try ♩=75 again."
+      },
+      {
+        "title": "4 — Flam Tap at 16th-Note Density",
+        "tip": "Same alternation, twice the density: two flam taps per beat. Accents (flams) on every other 16th — counts <em>1, &amp;, 2, &amp;, 3, &amp;, 4, &amp;</em> — so the flams land squarely on the 8th-note grid. Tempo stays slow on the metronome; under your hands the rudiment is moving. This is the lesson endpoint — looping this for one minute at ♩=60 with both flams identical and both taps clean is the graduation bar."
+      }
+    ]
+  },
+  "flam-accent": {
+    "tagline": "A flam on the downbeat of every triplet",
+    "bodyHtml": "\n      <p>The <strong>flam accent</strong> is a three-note triplet group with a flam on the first note: <em>flam-R-L</em> alternating with <em>flam-L-R</em>. The flam takes the accent (it's loud and thick); the two notes after it are unaccented singles. Three notes fit perfectly into one dotted-quarter beat, so the rudiment lives naturally in 6/8 — two flam-accent groups per bar, one on each main beat.</p>\n      <p>Compared to the flam tap, which has a flam plus a same-hand tap, the flam accent has a flam plus two <em>opposite-hand</em> singles. So the lead hand doesn't repeat — it hands over immediately after the flam's main note. This makes the alternation between R-flam and L-flam happen naturally every bar.</p>\n      <p>The trap is rhythm — keeping the flam's main note exactly on the downbeat of each group. If the flam drags or rushes, the whole group lands in the wrong place. Practice the underlying triplet feel without flams first if needed.</p>\n      <h2 class=\"section-label\">Reading the Notation</h2>\n      <p>6/8 is counted <em>1 2 3 · 4 5 6</em>, with the main pulse on 1 and 4. The flam appears as a slashed grace before the accented note on those positions; the two notes that follow are plain unaccented 8ths. The grace's lowercase sticking tells you which off-hand plays the ornament.</p>\n    ",
+    "graduationCriteria": [
+      "FlamR-L-R alternating with FlamL-R-L cleanly at ♩.=70 in 6/8",
+      "Flam consistently on count 1 and count 4 of each bar — never drifting to position 2 or 3",
+      "Lead hand alternates without confusion at ♩.=60",
+      "Both grace shapes (l before R, r before L) sound identical in tightness",
+      "Two-bar version (Ex 4) loops for 1 minute without the flam slipping off the downbeat"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Single-Bar Flam Accent in 6/8",
+        "tip": "R-flam on count 1 (then L, R singles), L-flam on count 4 (then R, L). The limit isn't hand speed — it's locking the flam's main note <em>on</em> the click. Tap your foot on 1 and 4 to feel where the flams must land."
+      },
+      {
+        "title": "2 — Lock the Flam Placement (Same Shape, Slower)",
+        "tip": "Same shape, slower. The point is to confirm the flam's main note lands exactly on the metronome click. Most students rush the grace note in front of the beat or drag the main note behind it — both are wrong. The grace happens just <em>before</em> the click; the main happens <em>on</em> it. Stay here for two minutes if the placement is uncertain — the slower tempo exposes timing errors that ♩.=60 hides."
+      },
+      {
+        "title": "3 — Flam Accent Looped (Two Bars)",
+        "tip": "The same pattern, but now you're proving you can loop it. Watch for two failure modes: (1) the second bar's R-flam drifts behind the click — your hands tired between flams; (2) the lead alternation slips and you accidentally play two R-flams in a row. The notation is the truth — every count-1 is a R-flam, every count-4 is an L-flam, every bar."
+      },
+      {
+        "title": "4 — Flam Accent at Tempo (Two Bars, ♩.=70)",
+        "tip": "Final form: two-bar loop at the graduation tempo. The 8ths are moving fast enough that the flam grace has to be a quick, almost-buzz-tight stroke into the main — no time to wind up the grace hand. If you can hold this for one minute with the flams tight, the alternation reliable, and the two unaccented 8ths after each flam audible (not collapsed into the accent), you own the rudiment."
+      }
+    ]
+  },
+  "swiss-army-triplet": {
+    "tagline": "Flam, R, L — pipe-band hybrid in 6/8",
+    "bodyHtml": "\n      <p>The <strong>Swiss Army triplet</strong> is one of the most useful hybrid rudiments. Three notes per group in triplet feel: <em>flam-R-L</em> (a flam followed by two alternating singles). In 6/8 it lays out as two groups per bar — <em>flam-R-L · flam-R-L</em> — beamed in the standard two-threes pattern. The flam lands on the downbeat and on beat 4 (the second dotted-quarter pulse).</p>\n      <p>Compare to its neighbors. The <em>flam accent</em> spreads the flam-R-L pattern out over straight 8ths in 4/4; the <em>Swiss Army triplet</em> is the same flam-R-L shape but cast as a triplet pulse, which 6/8 expresses cleanly without tuplet brackets. The flam-tap is <em>flam-R-R</em> (same hand on the tap); the Swiss Army is <em>flam-R-L</em> (alternating tap). That tiny change re-shapes the feel — the alternating tap means hands flow through the rudiment instead of one hand doing all the work.</p>\n      <p>Why \"Swiss Army\"? Because it's the multi-tool of hybrid rudiments. Move the second note to a tom and you have a one-handed roll with a snare flam; add bass drum on the flam and you have a fill phrase. Pipe-band tradition through to modern fusion — the same shape, infinite uses.</p>\n      <p>The renderer notates the grace stroke explicitly using the engine's grace-note plumbing: a tiny lowercase <em>l</em> or <em>r</em> sits ahead of the flammed downbeat, drawn with the canonical flam slash glyph. The main note carries uppercase sticking and an accent.</p>\n    ",
+    "graduationCriteria": [
+      "Flam-R-L per group, two groups per bar at ♩.=80 in 6/8, with the flam staying tight before the singles",
+      "Grace note clearly softer than the flammed main stroke — never matched in volume",
+      "Alternating-lead form (Ex 3) cleanly at ♩.=75 with both leads sounding identical",
+      "Filler-fill variant (Ex 4) loops with the flam readable inside a busier phrase"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Swiss Army Triplet, R-Lead in 6/8",
+        "tip": "Two Swiss Army triplets per bar, both R-led. Each group is <em>flam-R-L</em>: the lowercase <em>l</em> grace lands a fraction before the accented R, then a plain R-tap, then an L-tap. The lead R is the only flammed (and only accented) note; the two singles after it are quiet. Listen for <em>'fl-AM &middot; tap &middot; tap'</em> per group — three sounds, not four."
+      },
+      {
+        "title": "2 — Mirror: L-Lead in 6/8",
+        "tip": "Same shape, mirrored. Each group is now <em>flam-L-R</em>: a tiny <em>r</em> grace before the accented L, then an L-tap, then an R-tap. Most students' weak side. The grace stroke (which now belongs to the right hand) tends to be louder than its left-side counterpart — watch that. Stay here longer than feels necessary."
+      },
+      {
+        "title": "3 — Alternating Lead (R-bar, L-bar)",
+        "tip": "Bar 1: two R-led Swiss Army triplets. Bar 2: two L-led. The lead alternates every bar (every two groups), not every group — that's the standard practicing form for this rudiment. The handover happens at the bar line: the L-tap that closes bar 1 leaves the L hand high, ready to be the flammed downbeat of bar 2. No wasted motion if you trust the natural setup."
+      },
+      {
+        "title": "4 — Alternating Lead, Every Group",
+        "tip": "Lead alternates every <em>group</em> now — twice the lead changes of Ex 3, and the form most fills use. The friction point: the L-tap closing group one is also the next flammed downbeat, while the <em>right</em> hand must instantly drop to supply its grace. If the second flam drags, that swap is why."
+      }
+    ]
+  },
+  "drag": {
+    "tagline": "Two grace notes into a main note — the controlled ruff",
+    "bodyHtml": "\n      <p>A <strong>drag</strong> (also called a <em>ruff</em>) is two grace notes followed by a main stroke — three notes total, but heard as a brief texture leading into the accent. The grace notes are a controlled double played by the lead hand; the main note is the opposite hand.</p>\n      <p>Think of it as a flam plus one extra grace: where a flam has one quick grace, a drag has two. A right drag is two soft <em>l</em>'s leading to a strong <em>R</em>; a left drag is two soft <em>r</em>'s leading to a strong <em>L</em>. The two grace notes are essentially a soft, controlled double — clean enough that you can <em>hear</em> two strokes, not just a buzz. That distinction is what separates a drag from a buzz-roll.</p>\n      <p>The technique trap: most beginners squash the two grace notes into a single bounce. Practice the grace alone first as a soft double — both notes equal, both audible — before you attach the main stroke.</p>\n      <h2 class=\"section-label\">Reading the Notation</h2>\n      <p>The renderer draws drags as <em>two</em> small beamed grace notes before the main note. Each grace carries a lowercase sticking (<em>l</em> or <em>r</em>); the main note carries an uppercase sticking and an accent. The grace notes are not on the metronome click — the main note is. Don't try to play the two graces \"in time\"; play them tucked in just before the main stroke.</p>\n    ",
+    "graduationCriteria": [
+      "Both grace notes audible (not crushed into a single buzz) and clearly softer than the main note",
+      "R-drag and L-drag both stick cleanly at ♩=60 in alternating practice",
+      "No volume bump on the second grace note — both grace strokes equal",
+      "Drag-and-singles pattern (Ex 4) loops for 1 minute without dragging the tempo",
+      "Two-bar version (Ex 3) holds at ♩=70 with the second bar as clean as the first"
+    ],
+    "exercises": [
+      {
+        "title": "1 — A Single R-Drag on Each Beat",
+        "tip": "One R-drag per beat. Listen for <em>'l-l-RIGHT'</em> — three distinct sounds. If it blurs into a buzz, slow down and play the lefts louder until they re-separate. Both graces the same volume as each other, both quieter than the main R."
+      },
+      {
+        "title": "2 — Alternating Drags (R-drag, L-drag)",
+        "tip": "R-drag on counts 1 and 3 (graces <em>l-l</em>), L-drag on 2 and 4 (graces <em>r-r</em>). The hand that just played the main stroke plays the next pair of graces — that's why it flows. If the L-drag is buzzier than the R-drag, isolate it (Ex 1 with L lead) until they match."
+      },
+      {
+        "title": "3 — Alternating Drags (Tempo Push)",
+        "tip": "Same alternation as Ex 2, faster. At ♩=70 the grace doubles have to be quicker — but each grace stroke must still <em>speak</em>. The single biggest failure mode at this tempo is the second grace getting eaten by the main note: it sounds like a flam instead of a drag. If that happens, the second grace is too late, too soft, or both. Slow back to ♩=60 and rebuild the spacing."
+      },
+      {
+        "title": "4 — Drag on the Beat, Single on the &",
+        "tip": "Drag on each quarter, plain single L on each &: <em>l-l-R · L</em>, four times per bar. This is how drags sit in real music — ornaments on strong beats, singles between. Keep the L-on-the-& exactly on time; the drag thickens the downbeat, it must not shove the & late."
+      }
+    ]
+  },
+  "dragadiddle": {
+    "tagline": "Drag plus paradiddle — the capstone hybrid",
+    "bodyHtml": "\n      <p>The <strong>dragadiddle</strong> is the capstone of this rudiment phase. Each group is six notes: a drag (two graces + a main stroke) followed by a paradiddle body (<em>L-R-R</em> or <em>R-L-L</em>). Read together: <em>drag-R · L-R-R</em> for the right-lead version, then <em>drag-L · R-L-L</em> for the left-lead. Six notes per group makes the rudiment fit cleanly into 6/8 — one dragadiddle per beat (counts 1 and 4).</p>\n      <p>It's the most demanding rudiment in this phase because it stacks two skills: clean drag grace-doubles and balanced paradiddle endings. Either weakness — a buzzy drag or a collapsed RR — shows up immediately. Practice the drag and paradiddle independently before chaining them.</p>\n      <p>The lead alternates each rep: the closing LL of one rep hands over to the L-drag opening the next. So the drag's grace hand swaps each time, and each rep is a complete six-note phrase from drag entry to paradiddle close. The drag's two graces happen just before the accented downbeat; the four paradiddle notes fill the rest of the beat.</p>\n      <h2 class=\"section-label\">Reading the Notation</h2>\n      <p>Each group of six 8th notes in 6/8 is one dragadiddle. The slashed pair of grace notes before the count-1 (or count-4) accent <em>is</em> the drag — two beamed graces with lowercase sticking. The four following 8ths are the paradiddle body, with the closing two notes (<em>R-R</em> or <em>L-L</em>) being the diddle.</p>\n    ",
+    "graduationCriteria": [
+      "Drag-R-L-R-R alternating with Drag-L-R-L-L cleanly at ♩.=70 in 6/8",
+      "Both grace notes of each drag audible — neither crushed nor sounding like a buzz",
+      "Closing double of each paradiddle (RR or LL) even, no weak second note",
+      "Lead alternates without confusion at ♩.=60 — no stumbles at the LL → drag-L hand-off",
+      "Full lesson sequence (Ex 1-4) playable from memory at ♩.=65"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Paradiddle Body Only (No Drags Yet)",
+        "tip": "Baseline: pure alternating singles in 6/8 with accents on counts 1 and 4. No drags yet — get the triplet-feel pulse and the accent placement locked first. Both bars should feel identical. If the count-1 accent rushes or the count-4 accent drags, fix the underlying time before adding the drag ornament. The lead alternates each beat naturally because each group has 3 notes."
+      },
+      {
+        "title": "2 — Add the Drag Entry on Each Accented Downbeat",
+        "tip": "A drag now opens each accented downbeat: R-drag (graces <em>l-l</em>) + L + R on count 1, L-drag (graces <em>r-r</em>) + R + L on count 4. Watch the hand-off: the third 8th of each group is the same hand that plays the next graces — straight out of alternating drag practice."
+      },
+      {
+        "title": "3 — Dragadiddle Stream (Tempo Push)",
+        "tip": "At ♩.=60 the rudiment starts to feel like one continuous phrase rather than two separate halves. The stumble point is count 3 into count 4: the single on 3 has to flow straight into the L-drag's graces with no hitch. Loop until that seam disappears."
+      },
+      {
+        "title": "4 — Dragadiddle at Tempo",
+        "tip": "At ♩.=70 the graces get almost flam-tight — that's correct, as long as you can still <em>hear</em> two separate grace strokes, not a buzz. If they blur, drop to ♩.=65 and rebuild. One clean minute — drags tight, count-3-to-4 hand-off smooth — closes the lesson and Phase A."
+      }
+    ]
+  },
+  "accented-singles": {
+    "tagline": "Move the accent — same notes, brand new feel",
+    "bodyHtml": "\n      <p>A single-stroke roll with no accents is a stream of evenness. Add an accent every fourth note and you hear the pulse. Move the accent off the beat — to the <em>e</em>, the <em>&amp;</em>, or the <em>a</em> — and the entire feel changes, even though the actual stickings haven't moved an inch.</p>\n      <p>This lesson uses the simplest possible canvas — alternating <em>R L R L</em> 16ths, all on the snare — and walks the accent around inside the beat. That tiny change is the difference between a marching pattern, a funk sticking, and a half-time shuffle feel.</p>\n      <p>The technique work is volume <em>contrast</em>. The unaccented notes don't just need to be \"not accented\"; they need to be genuinely quiet (low stick height, ~2 inches) so the accent stands out as a real event. Most beginners play their unaccented notes too loud, and the accent gets buried.</p>\n    ",
+    "graduationCriteria": [
+      "All four accent positions (e of beat, & of beat, a of beat, beat itself) playable at ♩=80 over 16ths",
+      "Accent volume contrast clearly audible — soft notes are not just unaccented but distinctly quieter",
+      "No tempo wobble when the accent shifts location mid-phrase",
+      "Syncopated accent pattern (Ex 5) holds for two minutes without losing the placement"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Accent on the Beat (the 1, 2, 3, 4)",
+        "tip": "Baseline: accent on every quarter — the most natural spot. Count <em>1 e &amp; a · 2 e &amp; a · 3 e &amp; a · 4 e &amp; a</em> and the accent lands on each number. Get the volume contrast clean here before moving the accent around."
+      },
+      {
+        "title": "2 — Accent on the &amp; (Off-Beat)",
+        "tip": "Accent shifted from the <em>1</em> to the <em>&amp;</em>. The metronome is still on the beat, but your accent is in the gap between beats. Half the listeners won't be able to find the downbeat anymore — that's the point. Notice the accent now lands on an L (where the beat-accent landed on R)."
+      },
+      {
+        "title": "3 — Accent on the e (1st 16th After the Beat)",
+        "tip": "Accent on the <em>e</em> — the first 16th after each beat. Hardest one yet: the accent is one 16th late. Slow tempo. Count <em>1 E &amp; a · 2 E &amp; a</em> with the E loud. The accents land on L's."
+      },
+      {
+        "title": "4 — Accent on the a (3rd 16th After the Beat)",
+        "tip": "Accent on the <em>a</em> — last 16th of each beat, just before the next downbeat. Counting: <em>1 e &amp; A · 2 e &amp; A</em>. The accent has the feel of a pickup leading into the next beat. Lands on L's."
+      },
+      {
+        "title": "5 — Syncopated Accents (Mixed Positions)",
+        "tip": "Accents on <em>1, 2-&amp;, 3-a, 4</em> — a syncopated pattern that mixes on-the-beat with off-the-beat hits. The sticking never changes (still <em>RLRL</em> throughout); only the accent moves. Loop until the accent placement feels reliable, not random."
+      }
+    ]
+  },
+  "six-stroke-roll-found": {
+    "tagline": "RLLRRL — six-note roll in 6/8",
+    "bodyHtml": "\n      <p>The <strong>six-stroke roll</strong> is six notes — <em>R L L R R L</em> — a single-double-double-single shape: a single, then a double in the opposite hand, then a double back in the original hand, then a single in the opposite hand again. In 6/8 it lays out cleanly as one rep per bar with the two doubles straddling the middle of the bar.</p>\n      <p>The traditional accent pattern accents notes 1 and 4 — the lone leading R, and the first R of the closing RR. Those are the two natural waves of the rudiment: a single-led wave into the LL diddle, then a double-led wave into the closing L. Two crests per bar in 6/8 phrasing.</p>\n      <p>Six notes per group is what makes this rudiment fit the triplet/compound family along with the double paradiddle and paradiddle-diddle. The texture distinguishes it from those neighbors: where the double paradiddle is single-heavy (four singles, one double) and the paradiddle-diddle splits the difference (two singles, two doubles), the six-stroke is double-heavy (one single, two doubles, one single) — the chunkiest of the three.</p>\n      <p>This lesson teaches the <em>rudiment</em>: the snare-only shape and its accent options. The kit application — moving the doubles to toms, terminating phrases with a crash — lives in the <em>fusion-six-stroke-roll</em> lesson once this one is under your hands.</p>\n    ",
+    "graduationCriteria": [
+      "RLLRRL looped cleanly at ♩.=80 in 6/8 for two minutes — both LL and RR doubles even",
+      "Both natural accent positions (note 1 and note 4) sound clearly when both are accented (Ex 2)",
+      "Single-accent variant (Ex 3) — accent only on note 1 — loops without the second accent leaking back in",
+      "Alternating-lead variant (Ex 4) holds at ♩.=75 with the bar handover staying clean"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Six-Stroke Roll, R-Lead in 6/8 (No Accents)",
+        "tip": "Sticking only, no accents yet: <em>R L L R R L</em>, repeated. Notice how the doubles cross the bar's midpoint — the LL ends in the first beamed group, the RR opens the second. Both doubles must be even before you add anything else. If either pair has a weak second note, this is the moment to fix it; accents will only hide the imbalance, not cure it."
+      },
+      {
+        "title": "2 — Add Both Accents (Notes 1 and 4)",
+        "tip": "The traditional six-stroke accent pattern: notes 1 and 4 — the lone leading R and the first R of the closing RR. Two waves cresting per bar, one per beamed group. Both accented notes are in the right hand; the right hand carries the entire dynamic shape while the left hand stays soft on the LL diddle and the closing L. The accents land squarely on the dotted-quarter pulses of 6/8."
+      },
+      {
+        "title": "3 — Single Accent on Note 1 Only",
+        "tip": "Only the leading R takes the accent now — one wave per six notes. Watch for the note-4 accent leaking back in from Ex 2: if the first R of the closing RR pops up, slow down until it sits at the same volume as the diddles around it."
+      },
+      {
+        "title": "4 — Alternating Leads (R-bar, L-bar)",
+        "tip": "Bar 1: <em>R L L R R L</em>. Bar 2: <em>L R R L L R</em> — the closing single of each bar hands the lead across automatically. One accent per bar, on the lead. The bar-handover is the new variable; that's why the tempo drops."
+      }
+    ]
+  }
+}

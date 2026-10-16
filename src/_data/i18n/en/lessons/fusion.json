@@ -1,0 +1,782 @@
+{
+  "fusion-coordination-foundation": {
+    "tagline": "The four-limb language of fusion starts here",
+    "bodyHtml": "\n      <p>Fusion drumming is conversational. The ride and hi-hat hold the pulse; the snare and bass drum talk over and through it. To get there, you need genuine four-limb independence — each limb has to do its own job without leaning on the others.</p>\n      <p>This lesson installs the foundation. The ride plays a jazz pattern (with swing 8ths). The hi-hat foot lands on 2 and 4. The snare lands on the \"and of 4\" as an anticipation into the next bar. That single snare note is the entry point for everything Weckl, Vinnie, and Steve Smith do over the next forty bars of any tune.</p>\n      <h2 class=\"section-label\">Order of Operations</h2>\n      <p>Don't try to play all four limbs from the first repetition. Build it:</p>\n      <ul class=\"bulleted\">\n        <li>Ride alone, until the swing feel is steady.</li>\n        <li>Add hi-hat foot on 2 and 4.</li>\n        <li>Add the snare on \"and of 4.\"</li>\n        <li>(Optional) add bass drum on beat 1.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Ride + hi-hat foot 2 and 4 + snare on \"and of 4\" holds at ♩=90",
+      "The four limbs feel independent — none leaning on the others for time",
+      "Swing 8ths in the ride are perceptibly late, not straight"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Jazz Comping with Snare on 'and of 4'",
+        "tip": "The snare on 'and of 4' is the natural pickup into beat 1 of the next bar. It's the entry point for jazz comping — once this is solid you can start placing the snare on different parts of the bar. That pickup doubles the second note of the ride's <em>ding-a</em>, so both hands land together and the placement comes free. Playback sits at ♩=90; work it from ♩=80 up to ♩=100 once it is clean."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Ray of Hope",
+        "note": "'Khanda West' is an odd-meter clinic."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "Pay attention to how he leaves space."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Ten Summoner's Tales",
+        "note": "Subtle, deep pocket fusion."
+      }
+    ]
+  },
+  "fusion-six-stroke-roll": {
+    "tagline": "The most-used fill phrase in fusion",
+    "bodyHtml": "\n      <p>A triplet fill that keeps the pulse audible is worth ten that bury it. The <strong>six-stroke roll</strong> gives you exactly that: six notes, <em>R L L R R L</em>, laid across two beats, with both of its accents landing square on a beat. Your hands run triplets and the listener still hears quarter notes. Vinnie Colaiuta and Dave Weckl live inside this phrase.</p>\n      <p>Exercise 1A runs two reps per bar in 8th-note triplets, one triplet group to a beat. Count it <em>1 trip let 2 trip let</em>: the accented <em>R</em> hits <em>1</em>, the <em>LL</em> double fills <em>trip let</em>, the <em>RR</em> opens beat 2 with its first note accented and its second one a tap, and a quiet <em>L</em> closes the phrase. Those two accents are positions 1 and 4 of the six, and stripped of the sticking they are ordinary quarter notes. What makes this a six-stroke roll rather than accented triplets is the pair of doubles threaded through it, the <em>LL</em> falling between the accents and the <em>RR</em> beginning on the second one. Because the phrase ends on <em>L</em>, the right hand leads the next rep with no flip to think about.</p>\n      <p>Learn it flat before you learn it loud. Play the sticking at ♩ = 70 with no accents at all and listen for six evenly spaced notes, because the <em>LL</em> is the pair that collapses first. It sits directly behind the loudest note in the phrase, and under pressure the two left strokes close up into mush. Then add the accents and set the click on quarter notes. Every accent should vanish into it, and when one lands early or late the fault is uneven triplet spacing ahead of it, not the accent itself. Get 1A clean at ♩ = 80 before you take it to the kit; ♩ = 90 is the top of the practice range, not the gate.</p>\n      <h2 class=\"section-label\">Sending the accents to the toms</h2>\n      <p>Exercise 1B keeps the sticking note for note, settles at ♩ = 76, and re-drums only the accents. The first accent of each rep goes to the high tom and the second to the floor tom, which across the bar means high tom on beats 1 and 3, floor tom on beats 2 and 4. Every unaccented stroke stays home on the snare, so the left hand never leaves it for the whole bar. Underneath, the bass drum plays beats 1 and 3, so each high-tom accent arrives with a kick while each floor-tom accent arrives alone. That foot is what keeps the phrase reading as a fill laid over the time rather than a tumble down the toms.</p>\n      <p>One stroke does all the damage: the second <em>R</em> of the <em>RR</em>. Its partner is the floor-tom accent and it lands back on the snare, so that double cannot be a rebound. It is two placed strokes with an arm move between them, and at ♩ = 76 you get about a quarter of a second to make the trip. Start the move on the way down from the accent rather than after it, keep the tap wrist low, and let only the accent arm travel. The moment that snare tap lands late or loud, drop back to ♩ = 70 and rebuild.</p>\n    ",
+    "graduationCriteria": [
+      "RLLRRL × 2 cleanly at ♩=80 in 8th-note triplets",
+      "Accents on positions 1 and 4 of each 6-stroke clearly audible",
+      "No double-stroke \"mush\" on the LL or RR — both notes equal",
+      "Around-the-kit version (2B) holds at ♩=76 with taps staying on the snare"
+    ],
+    "exercises": [
+      {
+        "title": "1A — Six-Stroke on Snare (8th-note triplets)",
+        "tip": "Two reps of <em>RLLRRL</em> per bar — four triplet groups total. <em>Sticking:</em> R L L R R L · R L L R R L. Accents on positions 1 and 4 only. Playback sits at ♩=80; work it from ♩=70 up to ♩=90 once it is clean."
+      },
+      {
+        "title": "1B — Six-Stroke Around the Kit",
+        "tip": "The kit application: accents move to the toms (high tom on 1, floor tom on 4) while the taps stay home on the snare. Keep the wrists low for taps — only the accent arm travels. The kick quarters anchor the pulse so the phrase reads as a fill over time, not a free-fall. Playback sits at ♩=76; work it from ♩=70 up to ♩=90 once it is clean."
+      }
+    ]
+  },
+  "fusion-half-time-shuffle": {
+    "tagline": "The Purdie shuffle — triplets, ghosts, and a half-time backbeat",
+    "bodyHtml": "\n      <p>The half-time shuffle is one of the most-loved feels in modern drumming and one of the hardest to play well. It's the engine under Steely Dan's \"Babylon Sisters\" (Bernard Purdie), Toto's \"Rosanna\" (Jeff Porcaro), and a hundred other tracks where the song needs to feel slow and lazy but the band still wants the forward motion of a shuffle.</p>\n      <p>The trick is the geometry. The hi-hat plays a steady 8th-note triplet pulse — three notes per beat — but the snare backbeat lands only on beat 3 of the bar. That makes it <em>half-time</em>: the backbeat moves at half the rate of a normal shuffle, even though the underlying triplets are the same. Between the backbeats, the snare plays whisper-soft ghost notes on the second and third triplet partials. The kick punctuates beat 1 and an \"open-and-close\" figure around beat 3.</p>\n      <h2 class=\"section-label\">Build Order</h2>\n      <ul class=\"bulleted\">\n        <li>Triplet hat alone, then add the loud snare on beat 3.</li>\n        <li>Add ghost notes on the 2nd and 3rd triplet partials of every beat (between the loud snare hits).</li>\n        <li>Add the kick — beat 1 first, then the &-of-3 anticipation.</li>\n        <li>Combine into the full Purdie-style figure.</li>\n      </ul>\n\n",
+    "graduationCriteria": [
+      "Triplet hi-hat with snare on beat 3 (half-time backbeat) holds at ♩=80 for two minutes",
+      "Ghost notes on the second and third triplet partials of every beat are audible but at most a quarter the volume of the backbeat",
+      "Full Purdie-style shuffle holds at ♩=88 with the kick \"open-and-close\" figures (1 and the &-of-3) landing inside the triplet grid, not behind it",
+      "A listener can identify the half-time pulse — beat 3 is unmistakably the backbeat, not beat 2 or 4"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Triplet Hat with Half-Time Backbeat",
+        "tip": "Pure triplet hat on every beat — three even hi-hat notes per beat. The snare lands <em>only on beat 3</em>; that's the half-time backbeat. Kick on beat 1 anchors the bar. Count out loud as <em>'1-trip-let, 2-trip-let, <strong>3</strong>-trip-let, 4-trip-let'</em> — beat 3 is the one that gets a snare. Everything else this lesson does is built on top of this skeleton."
+      },
+      {
+        "title": "2 — Ghost Notes on the Triplet Partials",
+        "tip": "Snare now plays the 2nd and 3rd triplet partial of every beat as a <em>ghost note</em> — barely audible, finger-stroke quiet. Only the snare on beat 3 stays loud (marked with the accent). Volume ratio target: backbeat is at least <strong>4×</strong> louder than the ghosts. The shuffle texture starts to emerge — listen for the sustained whispering bed of triplets under one big crack on beat 3."
+      },
+      {
+        "title": "3 — Add the Kick: Open-and-Close on Beat 3",
+        "tip": "Notation caveat: the two kicks before beat 3 are written as straight 8ths in the <em>feet</em> voice for legibility. In the actual triplet grid they land on the third partial of beat 2 and the downbeat of beat 3. Aim them there, not at the notated positions."
+      },
+      {
+        "title": "4 — Full Purdie-Style Half-Time Shuffle",
+        "tip": "One bar of \"Babylon Sisters\". Get the volume hierarchy right before you push the tempo: loud snare on 3, then kick, then ghost notes, with the triplet hat in the background. The classic failure is ghost notes creeping up in volume — keep them whispered and the groove breathes."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Babylon Sisters",
+        "note": "The original. Listen to the volume difference between the snare on 3 and the ghost notes."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Half-time shuffle with the Bonham triplet thrown in. Read his interview about it."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Fool in the Rain",
+        "note": "Loud, slow, immense. Same DNA, different attitude."
+      }
+    ]
+  },
+  "fusion-linear-basics": {
+    "tagline": "One limb at a time — the foundation of fusion vocabulary",
+    "bodyHtml": "\n      <p><strong>Linear playing</strong> means that <em>no two limbs ever strike at the same time</em>. Every note is its own event. Where a normal groove stacks the kick under the hi-hat or the snare against a cymbal, a linear pattern lays its notes out in single file: hand, hand, foot, hand, foot, hand. The result is a busy, conversational texture that fits naturally inside fusion, gospel, and modern pop — and it's the basis of the way Steve Smith, Dave Weckl, Vinnie Colaiuta, and Brian Blade build their vocabulary.</p>\n      <p>Linear playing forces independence in the strictest possible way. There's no \"leaning\" — each limb has to drop in cleanly, exactly between the other limbs' notes. You can't fake it by hitting two things at once and hoping the room hears it. That's why linear practice transfers so powerfully to every other style; it cleans up the timing of every limb you have.</p>\n      <h2 class=\"section-label\">How To Practice</h2>\n      <p>Slow first. Linear patterns reward precision more than tempo. If you can play a line at ♩=70 with no overlaps, you can play it at ♩=120 with three weeks of practice. If you can play it at ♩=120 with overlaps, you'll never play it cleanly. The temptation to push tempo is the enemy.</p>\n    ",
+    "graduationCriteria": [
+      "A linear pattern (hands and feet alternating one note at a time) holds at ♩=90 with no two voices ever sounding on the same partial",
+      "A six-note linear cell (RKLKRL) loops continuously for 16 bars at ♩=80 without \"stacking\" two limbs",
+      "A linear paradiddle-around-the-kit lands the snare and toms cleanly with the ghost-snare partials audible",
+      "A 1-bar linear groove keeps a steady backbeat-feel even though no two voices ever coincide"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Simple Linear: R-Hat, L-Snare, R-Hat, Kick",
+        "tip": "Read it as a four-note cell repeated four times: <em>R-hat / L-snare / R-hat / Kick</em>. The kick takes the 4th 16th of each group — <strong>exactly where the hand would have landed</strong>, not early, not late. If kick and hat ever sound together, the line has broken."
+      },
+      {
+        "title": "2 — Six-Note Linear Cell: R K L K R L",
+        "tip": "Six-note cell: <strong>R K L K R L</strong> — hat, kick, snare, kick, hat, snare. Because six 16ths don't divide the bar evenly, the cell straddles the barline and bar 2's downbeat lands mid-cell. Don't fight that; loop it until the bar line stops mattering."
+      },
+      {
+        "title": "3 — Linear Paradiddle Around the Kit",
+        "tip": "A paradiddle (<strong>RLRR LRLL</strong>) orchestrated: hi tom, snare, snare, floor — then mirrored — with the kick on 1 and 3 underneath. <strong>The doubles don't sit on one drum</strong>: the RR splits snare-then-floor, and the LL mirrors it. That split is what turns a rudiment into a melody."
+      },
+      {
+        "title": "4 — Linear Groove (1-bar)",
+        "tip": "A genuine linear groove. <strong>No two voices ever sound together</strong> — every 16th has exactly one voice. The accents on beats 2 and 4 (snare) plus the kick spread across the bar produce a backbeat <em>feel</em> even though, technically, you never stack a kick under a snare. That's the fusion magic: groove from sequence, not from coincidence. Practice it at half speed first; rush this and the lines blur."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Live Around the World",
+        "note": "Listen for the linear fills — the way no two voices land at once."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "Linear vocabulary applied to grooves and solos alike."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade Fellowship — Perceptual",
+        "note": "Linear in a softer, more orchestral idiom."
+      }
+    ]
+  },
+  "fusion-jazz-rock": {
+    "tagline": "Where rock backbeat meets jazz ride — the Steely Dan zone",
+    "bodyHtml": "\n      <p>Jazz-rock crossover is the territory where two languages share an idiom. The drummers behind Steely Dan, Donald Fagen's solo records, the early-period Toto records, and the Snarky Puppy / Vulfpeck side of modern fusion all live in this zone. The hands aren't playing pure rock 8ths — they're playing rock 8ths that have been listening to jazz for ten years. The backbeat is firm; the 8ths are slightly relaxed (almost-but-not-quite swung); the ride pattern shows up for a bar at the bridge to add color; and the snare comments between the backbeats with the kind of figures a jazz drummer would call \"comping\".</p>\n      <p>This is what people mean by <em>feel</em>. The notation looks like a basic 8th-note rock groove, but a Steely Dan record sounds nothing like a basic 8th-note rock groove because the drummer has been informed by Elvin Jones, Tony Williams, and Bernard Purdie before he ever played a backbeat.</p>\n      <h2 class=\"section-label\">The Push</h2>\n      <p>The defining trick is what New York studio drummers call \"the push\": the &-of-each-beat is played a hair late, almost-but-not-quite triplet-y. It's not full swing — that would sound like a shuffle. It's a slight delay that creates lift. Aim for somewhere between a 50/50 division and a 60/40 division; the more pop the song is, the closer to 50/50; the more jazz-leaning, the closer to 60/40.</p>\n    ",
+    "graduationCriteria": [
+      "Rock backbeat with subtly-pushed 8th notes (slight late-feel on the &) holds at ♩=88 for 16 bars",
+      "A 2-bar transition from rock backbeat to jazz ride pattern preserves the pulse — beat 1 of bar 2 lines up with beat 1 of bar 1",
+      "Comping snare figures land between the backbeats without disrupting the 2-and-4 feel",
+      "A \"Steely Dan\" bar (rock backbeat + comping snare + occasional ride color) loops naturally at ♩=92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rock Backbeat with Subtle Push",
+        "tip": "The notation is a plain 8th-note backbeat; the exercise is the &-placement. Aim for about a 55/45 division — no longer dead-straight, not yet a swing 8th. Listen back once: if it reads as sloppy rock, the push is too wide; if it reads robotic, it isn't there."
+      },
+      {
+        "title": "2 — Ride-Pattern Bridge (transition bar)",
+        "tip": "A pure jazz bar — ride pattern, foot-hat on 2 and 4, snare pickup on the &-of-4. Run it as a transition: three bars of Exercise 1, one bar of this, back again. <em>The pulse must be unbroken</em> — a metronome should not flinch at the boundary."
+      },
+      {
+        "title": "3 — Comping Snare Under Rock Backbeat",
+        "tip": "Backbeat on 2 and 4 (loud, marked with the accent) plus <em>comping snare</em> on the &-of-1 and &-of-3 (soft, ghost-volume). The comping notes are jazz vocabulary — they fill the space between the backbeats with a quiet conversational layer. The trick is the dynamic: backbeat is at the front of the mix; comping notes are at the back. If they get equal volume, you've lost the pop sensibility and turned it into something else."
+      },
+      {
+        "title": "4 — Full Steely Dan Feel",
+        "tip": "The canonical \"Steely Dan\" bar. Backbeat on 2 and 4. A comping snare on the &-of-2 (lifts into beat 3). A comping snare on the &-of-3 (anticipates the next backbeat). Kick on 1 plus a syncopated &-of-2 push. Push the 8ths slightly late. The whole bar should feel <em>casual</em> — like the drummer is half-asleep but hitting everything dead-center. That's the Steely Dan trick: looseness up top, ironclad pulse underneath."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Aja",
+        "note": "The whole album is a clinic in the jazz-rock zone."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto IV",
+        "note": "Pop production, jazz subtext."
+      },
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — We Like It Here",
+        "note": "Modern Steely-Dan-descended fusion."
+      }
+    ]
+  },
+  "fusion-odd-meters": {
+    "tagline": "5/4 and 7/8 — the gateway into asymmetric time",
+    "bodyHtml": "\n      <p>You can count to 7 and still not be in 7. Counting an odd bar as a flat list of numbers keeps you one number ahead of the music, braced for a bar line you have to arrive at instead of a groove you are already inside. The way out is <strong>grouping</strong>: stop counting the bar and start feeling the small cells it is built from. The 5/4 on this page is a 3 followed by a 2. The 7/8 is 2, then 2, then 3. In both exercises the kick and snare draw those seams for you.</p>\n      <p>Grouping works because you already own the small numbers. Holding a 2 or a 3 takes no attention; holding 5 equal weights in a row takes all of it. Feel 2 pulses per bar in 5/4 and 3 per bar in 7/8, each one landing on the head of a cell, and the counting underneath takes care of itself. Neither exercise writes an accent, so nothing in the notation puts that weight there for you. The hi-hat runs as unbroken 8ths from one bar line to the next, and the shape has to come from the kick, the snare, and how hard you choose to lean on each cell head.</p>\n      <h2 class=\"section-label\">Where the 3 and the 2 sit in 5/4</h2>\n      <p>Exercise 1A lays 10 hi-hat 8ths across a 5/4 bar at ♩ = 80. The kick lands on 1 and 4, the snare on 3 and 5. Read it as two brackets: beats 1 through 3 open with the kick and close with the snare, then beats 4 and 5 open with the kick and close with the snare. Same gesture, one beat shorter the second time. The beams give you no help here, because the hi-hat is written in pairs, one per quarter, straight across the bar. Count <em>1 2 3 · 1 2</em> out loud rather than <em>1 2 3 4 5</em>, and put real weight on the second 1 where it falls on beat 4.</p>\n      <p>Loop it first against a click on all 5 quarters so that every beat is backed up. Once it sits, cut the click to one hit per bar on beat 1 and check whether the bar still comes out the same length. At ♩ = 80 those clicks are 3.75 seconds apart, which is long enough for a rushed 3-group to announce itself as an early arrival on the next 1. When that happens, restore the full click and lean the hi-hat harder on 1 and 4 until those are the only two places in the bar that sound like a beginning.</p>\n      <h2 class=\"section-label\">The long cell at the end of 7/8</h2>\n      <p>Exercise 1B counts in 8ths rather than quarters. The tempo is set on the 8th note at 180, the same clock as ♩ = 90, and the bar holds 7 of them. Here the beams do the teaching: a pair, another pair, then a group of 3, so the bar reads as <em>1 2 · 3 4 · 5 6 7</em> on sight. Every cell head gets a voice, kick on the 1st 8th, snare on the 3rd, kick on the 5th, so the three attacks under the hi-hat are exactly the three pulses of the bar. Nothing marks the tails the way the snare did in 5/4. The 6th and 7th 8ths are hi-hat alone, and the bar turns over right after them, one 8th short of the 4/4 your body keeps expecting.</p>\n      <p>Two errors show up in 7/8 and they are opposites. The first is clipping, where <em>5 6 7</em> comes out as if it were one more pair, the bar lands in 6, and the next kick arrives an 8th early. The second is padding, sitting on that last 8th until the bar rounds itself off to a comfortable 8. Both are the same reflex, a body that wants bars to be even. Take the tip on 1B literally: the third cell lasts half again as long as either of the first two, so it has to feel noticeably wider than they do. If all three cells feel the same size, the bar is wrong no matter how good the groove sounds.</p>\n    ",
+    "graduationCriteria": [
+      "5/4 (3+2) and 7/8 (2+2+3) grooves loop without losing the grouping",
+      "Counting \"1 2 3 · 1 2\" or \"1 2 · 3 4 · 5 6 7\" feels natural after a minute",
+      "Beat 1 of each bar is clearly the strongest"
+    ],
+    "exercises": [
+      {
+        "title": "1A — 5/4 Groove (3+2 feel)",
+        "tip": "Feel <em>'long, short'</em> — three beats then two. Bass drum on 1 and 4 anchors each group; snare on 3 and 5 marks the back end."
+      },
+      {
+        "title": "1B — 7/8 Groove (2+2+3 feel)",
+        "tip": "Count 8ths: <em>1-2 / 3-4 / 5-6-7</em>. The last group is the long one. Don't speed through it."
+      }
+    ]
+  },
+  "fusion-linear-vocab": {
+    "tagline": "Three-, four-, and six-note linear cells — the building blocks",
+    "bodyHtml": "\n      <p>Once linear playing is established (see <em>fusion-linear-basics</em>), the next step is to build a vocabulary of repeatable cells. A <strong>linear cell</strong> is a short pattern — three to six notes — distributed across hands and feet, where no two limbs strike simultaneously. Chained together, cells produce the long flowing phrases you hear in fills by Vinnie Colaiuta, Mark Guiliana, and Eric Harland.</p>\n      <p>This lesson covers the four most useful cells:</p>\n      <ul class=\"bulleted\">\n        <li><strong>RLK</strong> — three-note: hand, hand, foot. Triplet-friendly.</li>\n        <li><strong>RKL</strong> — three-note variant: hand, foot, hand. Different feel.</li>\n        <li><strong>RLRK</strong> — four-note: classic 16th-note cell. Lines up with the bar.</li>\n        <li><strong>RKLRKL</strong> — six-note: lives over the bar like a hemiola.</li>\n      </ul>\n      <p>Each is short enough to internalize quickly; chained, they cover most of what working fusion drummers play.</p>\n      <h2 class=\"section-label\">A Word On Notation</h2>\n      <p>In the exercises below, \"K\" is rendered as a kick in the <em>feet</em> voice. Sticking annotations on the hands voice show R/L only. The renderer doesn't show foot strokes inline with hand strokes, but on the staff they appear in the right time-position because the rests in the hands voice are placeholders.</p>\n    ",
+    "graduationCriteria": [
+      "Three-note cell (RLK) loops cleanly at ♩=96 with no two voices ever stacked",
+      "Four-note cell (RLRK) loops cleanly at ♩=96 across four bars without \"drifting\" off the beat",
+      "Six-note cell (RKLRKL) loops at ♩=88 — the displacement against the bar is felt, not feared",
+      "A two-bar phrase chaining two different cells flows seamlessly with no sticking re-set"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Three-Note Cell: R L K (8th triplets)",
+        "tip": "The cell is <em>R hand → L hand → Kick</em> — repeated four times across four beats of 8th-note triplets. Three voices, three positions, no overlap. This is the <strong>fusion triplet fill</strong> in its purest form. Once it loops, move the L hand around the toms — hi tom, mid tom, floor tom — and the same cell becomes a melodic fill."
+      },
+      {
+        "title": "2 — Three-Note Cell Variant: R K L (8th triplets)",
+        "tip": "Same three voices, different order: <strong>R hand → Kick → L hand</strong>. Putting the kick in the middle of the cell entirely changes the feel — it sounds heavier, more grounded. Compare side-by-side with exercise 1 by playing each for 4 bars. The musical implication: <em>where you put the foot in the cell determines whether the line floats or lands</em>."
+      },
+      {
+        "title": "3 — Four-Note Cell: R L R K (16ths)",
+        "tip": "Four-note cell: <strong>R-hat → L-snare → R-hat → Kick</strong>. One cell per beat. This is the most-used 16th-note linear shape in fusion — Steve Smith and Dave Weckl use it as a default pattern. Note how it lines up cleanly with the bar (one cell = one beat) — unlike the next exercise."
+      },
+      {
+        "title": "4 — Six-Note Cell: R K L R K L (16ths)",
+        "tip": "Six-note cell: <strong>R K L R K L</strong>. With 16 sixteenths in a bar of 4/4 and a six-note cell, the cell wraps every <em>1.33 bars</em>. That displacement is the engine of the phrase — it sounds restless on a bar-by-bar basis but resolves on the 3rd bar. <strong>Loop it for at least 3 bars</strong>; the resolution on bar 4's downbeat is half the point. Vinnie's signature."
+      },
+      {
+        "title": "5 — Two-Bar Cell Chain (R L K → R L R K)",
+        "tip": "A <strong>melodic linear fill</strong>. The four-note RLRK cell stays consistent, but the L hand walks through the kit: snare, hi tom, mid tom, floor tom. Each beat's L lands on a new drum; the result is a one-bar tom-fill that's also a steady linear texture. This is the bridge from \"linear vocabulary\" to \"linear soloing\" — once the L hand can move freely, every cell becomes a melodic statement."
+      }
+    ]
+  },
+  "fusion-displacement": {
+    "tagline": "Move the backbeat — the same groove, somewhere unexpected",
+    "bodyHtml": "\n      <p><strong>Displacement</strong> is the simplest, most powerful trick in modern groove playing. You take an established pattern — a backbeat, a kick figure, a hi-hat shape — and shift it by an 8th or a 16th. Everything else stays the same. The result sounds wildly different even though only one parameter has changed.</p>\n      <p>The most useful kind of displacement is <em>backbeat displacement</em>: instead of the snare on beats 2 and 4, the snare lands on the &-of-1 and &-of-3 (an 8th-note displacement) or on the e-of-1 and e-of-3 (a 16th-note displacement). The bar still <em>feels</em> like it has a backbeat — the groove still has weight on the second and fourth quarter — but the snare is no longer where you expect it.</p>\n      <p>Chris \"Daddy\" Dave, Mark Guiliana, and the entire generation of drummers descended from drum-and-bass production live in this language. Used sparingly, it adds spice. Used heavily, it's an entire style.</p>\n      <h2 class=\"section-label\">Why It's Hard</h2>\n      <p>Your body wants the snare on 2 and 4 because every other groove you've ever played has reinforced that habit. Displacement requires you to <em>defeat the muscle memory</em> at the same time as you maintain the rest of the groove. Practice slowly, and don't move on until the displaced bar feels as steady as the standard one.</p>\n    ",
+    "graduationCriteria": [
+      "Standard backbeat (snare on 2 and 4) holds at ♩=92 as a baseline reference",
+      "Snare displaced by an 8th note (snare on the &-of-1 and &-of-3) holds at ♩=92 without slipping back to 2 and 4",
+      "Snare displaced by a 16th (snare on the e-of-1 and e-of-3) holds at ♩=88",
+      "Alternating between standard and displaced one-bar each holds at ♩=92 with both bars internally consistent"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Standard Backbeat (Reference Bar)",
+        "tip": "The reference bar. Snare on 2 and 4, kick on 1 and 3, 16th-note hi-hat. Loop this until your body knows where every accent lives — you need the standard bar in your bones before you start moving things around."
+      },
+      {
+        "title": "2 — Snare Displaced by an 8th (lands on the &)",
+        "tip": "The snare has moved <strong>back by an 8th</strong> — it now lands on the <em>&-of-1</em> and the <em>&-of-3</em>. Kicks stay on 1 and 3 (so kick and snare are now consecutive 8ths instead of separated by a beat). This sounds like a Chris Dave / D'Angelo groove — strange and lurching, but locked. <em>Don't let the snare drift back to 2 and 4 under pressure.</em>"
+      },
+      {
+        "title": "3 — Snare Displaced by a 16th (lands on the e)",
+        "tip": "Now displaced by <strong>just a 16th</strong> — snare on the <em>e-of-1</em> and the <em>e-of-3</em>. The displacement is so small that the groove still feels backbeat-shaped, but every snare hit is now a hair early. To anyone listening it sounds like the snare is rushing — but it's actually locked to the e of every odd beat. This is the most disorienting of the three displacements; slow it down."
+      },
+      {
+        "title": "4 — Alternate Standard / Displaced (one bar each)",
+        "tip": "Both worlds in one bar: accented backbeat on 2 and 4, plus a ghosted-but-audible displaced snare on the &-of-3 — hear it as a pickup into beat 4. Alternate this bar with Exercise 1 every other measure until the displaced bar feels exactly as steady as the standard one."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Dave",
+        "work": "D'Angelo — Black Messiah",
+        "note": "The displaced-backbeat bible. Every track."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Mehliana — Taming The Dragon",
+        "note": "Sixteenth-note displacement at the center of the language."
+      },
+      {
+        "artist": "J Dilla",
+        "work": "Donuts",
+        "note": "Programmed, but the same idea — drunk-feeling backbeat displacement."
+      }
+    ]
+  },
+  "fusion-sixteenth": {
+    "tagline": "The 16th-note hi-hat carpet — fusion's most-played texture",
+    "bodyHtml": "\n      <p>Most contemporary fusion grooves are built on a 16th-note hi-hat carpet. The right hand plays a steady stream of 16ths — sometimes with the right hand alone, sometimes alternating with the left, sometimes on the ride or a closed hat — providing a continuous texture that the kick and snare punch through.</p>\n      <p>The hand on the hi-hat sets the personality. Even and quiet 16ths produce the soft fusion of Steve Gadd's \"Aja\" or Chad Smith's lighter tracks. Slightly accented (downbeats louder, \"e\"s and \"a\"s softer) produces the hip-hop-leaning fusion of Larnell Lewis or Mark Guiliana. Heavy and aggressive 16ths produce the Vinnie Colaiuta studio sound.</p>\n      <p>This lesson lays in the basic shape, then adds the kick figure (the songo / fusion bombo on the &-of-3), then the backbeat with full ghost-note carpet, then the complete groove.</p>\n      <h2 class=\"section-label\">The Right-Hand Problem</h2>\n      <p>16th-note hi-hat on the right hand is more tiring than people expect. After 30 seconds the hand starts to tense up, the wrist locks, and the dynamics get loud. The fix is <strong>fingers and wrist</strong>, not arm: let the stick rebound off the hat under its own weight, and use only the wrist + fingers for the next stroke. If your shoulder is moving, you'll fail at ♩=100.</p>\n    ",
+    "graduationCriteria": [
+      "16th-note hi-hat alone holds at ♩=96 with completely even dynamics for two minutes",
+      "16th hat with kick on 1 and the &-of-3 stays steady with no rushing on the syncopated kick",
+      "Backbeat snare on 2 and 4 plus ghost snare on every \"e\" and \"a\" produces an audible 4-to-1 dynamic ratio",
+      "Full sixteenth-based fusion groove holds at ♩=96 with the hat dead-even, the backbeat firm, and the ghost notes whispered"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 16th Hat Alone",
+        "tip": "Right hand only on the hi-hat — 16 evenly-spaced 16ths per bar. <strong>Goal: every stroke the same volume.</strong> Use wrist and fingers only; the forearm should be stationary. If your shoulder is rising, you're tensing. Slow down to ♩=80, get the dynamics flat, then push back up. The whole rest of this lesson is built on this carpet."
+      },
+      {
+        "title": "2 — 16th Hat with Syncopated Kick",
+        "tip": "Hat stays even — kick adds beat 1 and the <strong>&-of-3</strong>. The &-of-3 is the fusion bombo: it pulls the bar forward into beat 4. Don't let the kick on the & make the hat lurch. The hat is the metronome of the body; the kick is the song. They coexist, they don't compete."
+      },
+      {
+        "title": "3 — Backbeat + Ghost-Snare Carpet",
+        "tip": "Hat plus ghost snare on every <strong>e</strong> and <strong>a</strong>, with loud accented snare on beats 2 and 4. Volume hierarchy: backbeat is loudest; hat is medium-soft; ghost snares are at most one-quarter the backbeat volume. The bar should sound like a continuous shimmer with two cracks. If the ghost snare is loud enough to count as a third voice, it's too loud."
+      },
+      {
+        "title": "4 — Full Sixteenth-Based Fusion Groove",
+        "tip": "The whole package: 16th hat, ghost-snare carpet, accented backbeats on 2 and 4, syncopated kick on 1, &-of-3, &-of-4. This is the working contemporary fusion bar. Loop it for two minutes; if you can keep the hat dead-even and the dynamic hierarchy intact for the full two minutes, you have it. <strong>Listening assignment</strong>: Larnell Lewis with Snarky Puppy, especially the album <em>We Like It Here</em>."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — We Like It Here",
+        "note": "Sixteenth-based fusion at its most articulate."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "The 16th-note feel that founded the school."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music — Beat Music",
+        "note": "16ths in the post-drum-and-bass era — same shape, harder edges."
+      }
+    ]
+  },
+  "fusion-broken-time": {
+    "tagline": "The ride fragments, the kick takes time — Tony Williams' fusion vocabulary",
+    "bodyHtml": "\n      <p><strong>Broken time</strong> is the jazz drummer's way of <em>implying</em> the pulse instead of stating it. Instead of the ride playing a continuous swing pattern, the ride breaks into fragments — three notes, then silence, then four notes, then silence. The pulse persists in the listener's ear because the band stays locked together; the drummer's job is to participate in the conversation, not to act as the metronome.</p>\n      <p>In <strong>fusion</strong>, broken time becomes electric. Tony Williams (with the Lifetime), Jack DeJohnette (with Keith Jarrett's Standards Trio in its open-form moments), and the modern players — Eric Harland, Marcus Gilmore, Justin Faulkner — all use this vocabulary. The ride still fragments, but now over a kick playing a steady ostinato (the kick becomes the time-keeper), or over a snare ostinato, or over no ostinato at all (pure implied pulse).</p>\n      <p>This is the most demanding lesson in the Level 2 fusion track. Don't approach it before the rest of the track is solid.</p>\n      <h2 class=\"section-label\">The Practice Trick</h2>\n      <p>Set a metronome on quarter notes. Loop a click track or a bass loop. Then play the broken bar <em>against</em> the click — your ear stays locked to the click, your hands and feet do the broken stuff. If you can do that, you can do the same thing with a band, because the band <em>is</em> the click.</p>\n    ",
+    "graduationCriteria": [
+      "A 2-bar kick ostinato (e.g. quarter-8th-quarter / 8th-quarter-8th) anchors the time while the ride plays a fragmented, non-repeating pattern at ♩=84",
+      "A bar where the snare carries the time-keeping role (instead of the ride) holds the pulse audibly at ♩=80",
+      "An \"implied pulse\" bar — no continuous time-keeping voice, only intermittent kick / snare / ride / hat — preserves the bar length to within a 16th of the metronome",
+      "A full broken-time fusion bar combining ride fragments, snare comments, and kick anchoring loops naturally without losing the pulse"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ride Fragment over 2-Bar Kick Ostinato",
+        "tip": "<strong>The kick is now keeping time</strong>, not the ride. Kick on 1, foot-hat on 2, kick on the &-of-3, foot-hat on 4. The right hand plays a fragmented ride pattern that does <em>not</em> repeat — the listener doesn't expect to anchor to the cymbal because it isn't doing that job. Instead, ear locks to the kick + foot-hat skeleton. Snare on the &-of-4 is the comping pickup into bar 2."
+      },
+      {
+        "title": "2 — Snare-as-Time-Keeper",
+        "tip": "Cross-stick on every <em>&</em> makes the snare the time-keeper; foot-hat holds 2 and 4, kick 1 and 3, and the ride drops in only on 1 and 3 as color. Keep the cross-stick soft — <strong>the moment it gets loud enough to feel like a backbeat, it stops being a pulse</strong>."
+      },
+      {
+        "title": "3 — Implied Pulse Only",
+        "tip": "No voice plays continuously: ride on 1 and the &-of-4 (with snare), snare on the &-of-2 and &-of-4, kick alone on the &-of-2, foot-hat on 3. Learn it with the metronome, then drop the click — the test is landing bar 2's downbeat exactly in time."
+      },
+      {
+        "title": "4 — Full Broken-Time Fusion Bar",
+        "tip": "Final integration: the ride fragments, the snare comments (the &-of-3 accent is only a backbeat <em>hint</em>), and the kick quietly does the time-keeping. Nobody is obviously in charge — that's the sound. Loop it for 16 bars without drifting and you've graduated the lesson."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Tony Williams Lifetime — Emergency!",
+        "note": "The fusion-era founding document of broken time at electric volume."
+      },
+      {
+        "artist": "Jack DeJohnette",
+        "work": "Keith Jarrett — Standards Live",
+        "note": "Broken-time vocabulary inside the standards repertoire."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Wayne Shorter Quartet — Footprints Live!",
+        "note": "Modern broken time, where the bar lines stop mattering."
+      },
+      {
+        "artist": "Eric Harland",
+        "work": "Voyager — Live by Night",
+        "note": "Tony Williams' grandchildren — implied pulse over electric instruments."
+      }
+    ]
+  },
+  "fusion-polyrhythms": {
+    "tagline": "Two pulses, one body",
+    "bodyHtml": "\n      <p>Put the bass drum on all 4 beats, then lay 6 evenly spaced snare strokes across the same bar. Nothing in that bar is fast and nothing in it is a fill, but the floor moves. Two parts are now running at different rates through the same span of time, and neither is a subdivision of the other. That last part is what makes it a <strong>polyrhythm</strong> instead of a busier groove. 6 against 4 reduces to <strong>3 over 2</strong>, which is 3 evenly spaced notes in the time of 2, and every harder ratio gets measured against it.</p>\n      <p>Exercise 1 writes that ratio as a one-bar loop rather than a drill. A polyrhythm you can only execute cold from a dead stop is a party trick; one that loops is something you can drop into a tune and leave running while the band plays over it. Notice what is missing from the page, too. No hi-hat, no ride, no ghost notes, just two voices carrying the two pulses, so nothing covers for a stroke that lands in the wrong place.</p>\n\n      <h2 class=\"section-label\">Where the kick and the snare actually meet</h2>\n      <p>Both parts sit on one hidden grid: 12 even partials per bar, which is the 8th-note triplet grid counted <em>1-trip-let 2-trip-let 3-trip-let 4-trip-let</em>. The snare takes every second partial and the kick takes every third, and that fixes the shape of the bar. They strike together on beat 1. The kick on beat 2 lands exactly halfway between two snare strokes. They strike together again on beat 3, and the kick on beat 4 sits halfway between two more. So the figure closes every 2 beats, not every 4, and the bar is a single 2-beat cycle played twice. That beat 3 unison is the checkpoint for everything that follows.</p>\n      <p>Counting will put the strokes in the right places. Hearing the composite is what makes them groove. Add both voices together across the first half of the bar and you get four attacks in a shape most people already know: <em>hot-cup-of-tea</em>. <em>Hot</em> is the unison on beat 1, <em>cup</em> is a snare stroke, <em>of</em> is the kick on beat 2, <em>tea</em> is a snare stroke, and the next <em>hot</em> is the unison on beat 3. Say the phrase out loud twice through a bar before you play anything. Once it is in your mouth, your limbs are only handing out syllables.</p>\n\n      <h2 class=\"section-label\">Building it against a quarter-note click</h2>\n      <p>Set the metronome to quarter notes at ♩ = 75 and let it double the bass drum. A click on the triplets would hand you the grid and do the hard part for you. Play 4 bars of kick alone against it, then bring the snare in on scaffolding: those 6 strokes land on <em>1</em>, the <em>let</em> of 1, the <em>trip</em> of 2, <em>3</em>, the <em>let</em> of 3, and the <em>trip</em> of 4. Nothing in the bar is accented, so keep all 6 snare strokes at one volume and let the kick sit at a weight that matches, otherwise one pulse becomes the melody and the other becomes background. Then take the scaffolding away, because the cue that survives at tempo is shorter: <em>feel the 3, count the 4</em>.</p>\n      <p>This fails in a predictable direction, and the exercise tells on you when it does. If your 4th snare stroke does not land flush with the kick on beat 3, the 3 drifted somewhere in the first half of the bar. The usual culprit is stroke 2, which belongs two-thirds of the way through beat 1, on the <em>let</em>, and badly wants to arrive early on the <em>&amp;</em>. Every stroke after it inherits that error, so you either reach beat 3 ahead of the kick or feel the gap opening and stab at beat 3 to catch up. The other giveaway is that the bar suddenly feels easy, which usually means the snare stopped floating and snapped onto straight 8ths, putting strokes 2 and 3 on the <em>&amp;</em> of 1 and the <em>&amp;</em> of 2. When that happens, drop the snare, play a bar of kick with the click while you say <em>hot-cup-of-tea</em> twice, and re-enter on beat 1. Loop at ♩ = 75 until the beat 3 unison arrives without you aiming for it, then work down to ♩ = 70, where every gap is audible, and up to ♩ = 85.</p>\n    ",
+    "graduationCriteria": [
+      "3-pulse snare against 4-pulse kick, lining up only on beat 1",
+      "You can <em>feel</em> both pulses, not just count one and squeeze the other in",
+      "Tempo holds at ♩=75 without the 3 collapsing into the 4"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Triplet Polyrhythm Groove",
+        "tip": "Snare plays the 3-pulse, bass drum holds the 4-pulse. They only line up on beat 1. <em>Feel the 3, count the 4.</em> Mantra: say <em>'hot — cup — of — tea'</em> with the 4-pulse, while feeling 3 evenly-spaced taps. Playback sits at ♩=75; work it from ♩=70 up to ♩=85 once it is clean."
+      }
+    ]
+  },
+  "fusion-soloing": {
+    "tagline": "Linear lines, motivic cells, and triplet groupings around the kit",
+    "bodyHtml": "\n      <p>Fusion-era soloing — Vinnie Colaiuta with Sting, Dave Weckl with Chick Corea, Steve Smith with Vital Information — sounds nothing like a 1950s bebop solo and nothing like a rock drum break. It's a third thing. The vocabulary is <strong>linear</strong>, it favors <strong>polyrhythmic groupings</strong> (5s and 7s laid over a 4-pulse), and it relies on <strong>motivic development</strong> — picking a small idea and turning it over the way a saxophonist would.</p>\n      <p>This lesson is a starter kit for that voice. We'll write a four-bar linear phrase that moves from snare to toms to kick the way a horn player would walk a line up and down a scale. Then we'll take a single one-bar cell and develop it — the same shape on different drums, displaced by an 8th, expanded by a 16th — so a single idea fills four bars. We'll lay quarter-note triplets across a 4-pulse to make the bar feel like it's stretching. And we'll catalogue four short licks that you can grab and re-use the way a jazz player grabs a II-V-I.</p>\n\n      <h2 class=\"section-label\">What \"linear\" means in solos</h2>\n      <p>In a groove, voices stack: kick under hat under snare. In a linear phrase, voices alternate — you never play two drums on the same 16th. The result is a single melodic line distributed across the kit. Your hands and feet pass the line back and forth.</p>\n\n      <h2 class=\"section-label\">Motivic development — the four moves</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Repetition</strong> — play the cell again, identical, so the listener locks onto it.</li>\n        <li><strong>Voicing change</strong> — same rhythm, different drums (snare line moves to floor tom).</li>\n        <li><strong>Displacement</strong> — same cell, started an 8th or a 16th later in the bar.</li>\n        <li><strong>Expansion / contraction</strong> — same shape, longer or shorter note values.</li>\n      </ul>\n\n",
+    "graduationCriteria": [
+      "Can play a 4-bar linear solo phrase (no two voices on the same 16th) at ♩=100 without colliding voices",
+      "Can take a one-bar motivic cell and develop it across four bars by displacement, voicing change, or expansion",
+      "Quarter-note triplet melody in the hands holds against a steady 4-pulse in the feet for at least eight bars at ♩=80"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Four-Bar Linear Solo Phrase",
+        "tip": "Loop this one bar four times to play the full phrase, then push toward ♩=105. <strong>The rule:</strong> at every 16th, exactly one voice plays — never a hand and a foot together. That single rule is what makes it sound <em>linear</em> instead of stacked. Listen for the line as one melody, not two layers."
+      },
+      {
+        "title": "2 — Motivic Development from a One-Bar Cell",
+        "tip": "The notated bar shows the <em>cell</em> (beats 1–2) and the first <em>voicing change</em> (beats 3–4: same rhythm, moved from snare to floor tom). Continue on your own: bar 2 displace the cell by one 8th, bar 3 expand it (each 16th becomes an 8th), bar 4 contract it (each 8th becomes a 16th). The whole four-bar solo grows from one shape — that's motivic development."
+      },
+      {
+        "title": "3 — Quarter-Note Triplets Over a 4-Pulse",
+        "tip": "Six evenly-spaced hits across the bar (two quarter-note triplets back to back) while the kick keeps a steady 4-pulse. The hands move <em>around the kit</em> — snare → hi tom → floor tom, then snare → mid tom → floor tom — so it sounds melodic, not just metronomic. The hands and feet only line up on beat 1. <em>Feel the 3, count the 4.</em>"
+      },
+      {
+        "title": "4 — Vocabulary Catalogue: Four Short Licks",
+        "tip": "Four self-contained licks, one per beat, that you can lift wholesale into a longer solo. <strong>A:</strong> a six-stroke shape walked from snare to floor tom. <strong>B:</strong> double-snare ending on a kick pair (linear). <strong>C:</strong> tom roll-down ending on the kick — the classic fill closer. <strong>D:</strong> a triplet-feel cluster faked inside a 16th grid for that pushed, fusion-era feel. <em>Practice each beat alone, then run all four back-to-back as written.</em>"
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — The Soul Cages / Seven Days",
+        "note": "Linear phrases and odd groupings inside pop-song solos."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Chick Corea Elektric Band",
+        "note": "Any extended fill — motivic development at speed."
+      },
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Interwoven Rhythms",
+        "note": "Groupings of 5 and 7 phrased as melodies."
+      }
+    ]
+  },
+  "fusion-superimposition": {
+    "tagline": "Imply a different meter on top of the bar without changing the bar",
+    "bodyHtml": "\n      <p>Metric superimposition is the trick of <em>implying</em> a different meter on top of the meter you're actually in. The bar is still 4/4. The band is still in 4/4. But you play a phrase whose natural length is 5 beats, and you keep repeating it. The phrase moves through the bar — its accents land on different counts each time around — and only after several bars does it line up with the downbeat again. That's the \"wheel\".</p>\n      <p>This is not the same as being lost. The bar of 4/4 is still ground truth. You are <em>aware</em> of where 1 is on every bar, but you are choosing to play a 5-beat melody on top of it, the way Elvin Jones chose to phrase quarter-note triplets across a 12/8 swing or Vinnie Colaiuta would loop a 5-stroke pattern across a 4/4 fusion groove. The ear hears the disagreement and the resolution.</p>\n\n      <h2 class=\"section-label\">The math</h2>\n      <ul class=\"bulleted\">\n        <li><strong>5 over 4:</strong> a 5-beat phrase repeats every 5 beats. The 4/4 bar is 4 beats. They reconcile every 5 bars (20 beats = 4×5 = 5×4). The phrase rotates through the bar.</li>\n        <li><strong>7 over 4:</strong> a 7-beat phrase reconciles every 7 bars (28 beats). Slower wheel, more disorientation.</li>\n        <li><strong>3 over 2:</strong> a 3-beat phrase against a 2-beat bar (or half a 4/4 bar) reconciles every 6 beats — the cleanest rotation.</li>\n      </ul>\n\n      <h2 class=\"section-label\">How to keep your place</h2>\n      <p>Plant the bar with your <em>feet</em>. Kick on 1 and 3, hat on 2 and 4. Your hands play the implied phrase. As long as the feet hold the truth, the hands can wander and you won't get lost.</p>\n    ",
+    "graduationCriteria": [
+      "A 5-beat phrase looped over a 4/4 bar lines up with the downbeat every 5 bars (the \"wheel\" closes) — and you can feel that this is happening",
+      "A 7-beat phrase over 4/4 holds for at least 7 bars before drifting",
+      "You can articulate, while playing, where the implied phrase <em>starts</em> versus where the real downbeat is"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Five-Beat Phrase Over 4/4",
+        "tip": "The accented snare on 1 launches the 5-beat phrase; each repeat pushes the accent to a new spot in the bar until it comes home — <strong>five bars of 4/4 = four loops of the phrase</strong>. Keep the kick planted on 1 and 3 so the wheel turns without you losing the bar."
+      },
+      {
+        "title": "2 — Seven-Beat Phrase Over 4/4",
+        "tip": "Same idea but the implied phrase is 7 quarters long. Wheel reconciles every 7 bars (28 beats). The accents fall at: bar 1 beat 1; bar 2 beat 4; bar 3 beat 3; bar 4 beat 2; bar 5 beat 1 (almost!); bar 6 beat 4; bar 7 beat 3 — then bar 8 returns to beat 1. <em>Slow, deeply disorienting.</em> Anchor on the kick."
+      },
+      {
+        "title": "3 — Three-Over-Two Displacement",
+        "tip": "Accents every <em>three 8th notes</em> — a dotted-quarter pulse — laid over a normal 4/4. In bar 1 the accents land on 1, &-of-2, and 4. Loop two more bars and the accents reset to beat 1. The 3-pulse is a quick, dance-like wheel; you'll often hear this in fusion choruses where the drummer is playing a normal 4/4 backbeat but accenting a 3-phrase on top."
+      },
+      {
+        "title": "4 — The Wheel Effect: 5-Group Snare-Tom Phrase",
+        "tip": "The hands play a <strong>5-sixteenth-note phrase</strong> (snare-snare-hi-tom-mid-tom-floor-tom) on a loop. Inside one bar of 4/4 (16 sixteenths) it fits three full times plus one note. Each successive bar the phrase shifts by one 16th relative to beat 1, and after five bars it returns to where it started. <em>This is the canonical Vinnie/Weckl wheel.</em> The kick on 1 and 3 is your lifeline — do not let it slip."
+      }
+    ]
+  },
+  "fusion-clave-fusion": {
+    "tagline": "Clave under fusion vocabulary — the Goines/Ameen sound",
+    "bodyHtml": "\n      <p>Once a drummer has the clave under their feet — literally, in the bass-drum foot — the entire palette of fusion changes. Instead of the kick punctuating <em>downbeats</em>, it punctuates the <em>clave figure</em>. The rest of the body is freed up to play any vocabulary you like on top — funk 16ths, jazz comping, linear lines — and the groove still feels like it has a Cuban DNA because the foot is articulating a 5-note, 2-bar pattern that has been the backbone of Afro-Cuban music for centuries.</p>\n\n      <p>This was the great late-1980s/1990s fusion innovation — Lincoln Goines and Robby Ameen wrote the book on it (<em>Funkifying the Clave</em>), and Horacio \"El Negro\" Hernández, Dave Weckl, and Vinnie Colaiuta turned it into a vocabulary. The notation below uses two-bar layouts (<code>bars: 2</code>) with the kick clave written at its natural note values; rests in the kick voice are invisible because the hand voice fills the bar with continuous 16ths and already shows where every beat is.</p>\n    ",
+    "graduationCriteria": [
+      "Son 3-2 clave on the kick foot, locked underneath a fusion hand pattern, holds for two minutes at quarter = 92",
+      "Rumba 3-2 clave on the kick with even 16th-note hi-hat on top — both voices stay independent for at least 8 bars",
+      "A songo-funk hybrid groove (songo bass figure + funk backbeat) is identifiable as both songo and funk to a listener"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Son 3-2 Clave (Kick) + 16th Hi-Hat with Backbeat",
+        "tip": "The kick carries son 3-2 across the two bars — 1, &amp; of 2, 4, then 2, 3 — under steady 16th hats and a backbeat on 2 and 4. Build it from the foot up: kick alone, add hat 8ths, upgrade to 16ths, then let the backbeat in last."
+      },
+      {
+        "title": "2 — Rumba 3-2 Clave (Kick) + 16th Hi-Hat",
+        "tip": "One note moves: the third kick of the 3-side shifts from beat 4 (son) to the &amp; of 4 (rumba), landing a half-beat before bar 2 and pulling the ear into the 2-side. Keep the backbeat on 2 and 4 <em>obvious</em>; the foot does the cultural work."
+      },
+      {
+        "title": "3 — Songo-Funk Hybrid (2-Bar Phrase)",
+        "tip": "Kick plays the songo figure — 1, &amp; of 2, &amp; of 4 — every bar, so the pulse cycles twice as fast as a clave would. The backbeat on 2 and 4 with ghosts threaded between keeps it funk; the anticipatory &amp;-of-4 kick keeps it songo."
+      },
+      {
+        "title": "4 — Cross-Stick Clave + Tumbao Kick",
+        "tip": "Play the <code>c/5</code> voice as a <em>cross-stick</em> — stick laid across the head, butt end clicking the rim — spelling the full son 3-2 clave over the 16th hat while the kick doubles every clave hit. Cross-stick and foot must land as one; any flam and the structure blurs."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Lincoln Goines & Robby Ameen",
+        "work": "Funkifying the Clave (book + recordings)",
+        "note": "The reference text. Every example in this lesson traces back to it."
+      },
+      {
+        "artist": "Horacio \"El Negro\" Hernández (with Michel Camilo Trio)",
+        "work": "any track",
+        "note": "Foot-clave under modern Latin jazz — pristine independence."
+      },
+      {
+        "artist": "Steve Gadd (with Chick Corea)",
+        "work": "Spain",
+        "note": "Clave-ish kick under straight time — fusion's debt to Latin made audible."
+      }
+    ]
+  },
+  "fusion-tony-williams-fusion": {
+    "tagline": "Heavy backbeat, jazz-derived ride, bell accents — the Lifetime voice",
+    "bodyHtml": "\n      <p>By 1969, Tony Williams had left Miles Davis and started <em>The Tony Williams Lifetime</em> with John McLaughlin and Larry Young — a power trio that turned jazz drumming into something that could stand on stage with The Who. The sound: a rock-band engine (kick on every beat, snare slamming on 2 and 4) running underneath a ride cymbal that still phrased like Elvin Jones, with the bell of the ride punching out accents and the snare comping aggressively in the high register.</p>\n      <p>This lesson installs that voice. We'll build the heavy backbeat first, then the ride pattern that sits on top, then the bell-of-ride accents, and finally an aggressive snare comping vocabulary that overlays the whole thing. The result is unmistakable Lifetime-era Tony — dense, loud, and still swinging at the seams.</p>\n\n      <h2 class=\"section-label\">The two halves of the sound</h2>\n      <ul class=\"bulleted\">\n        <li><strong>The bottom:</strong> rock-band 4-on-the-floor kick + snare on 2 and 4. Loud. Not subtle.</li>\n        <li><strong>The top:</strong> jazz ride pattern (quarter, skip-eighth, quarter, skip-eighth) with the bell of the ride accenting the &-of-2 and &-of-4, plus aggressive snare interjections.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>The Tony Williams Lifetime — <em>Emergency!</em> (1969). The blueprint.</li>\n        <li>Tony Williams — <em>Believe It</em> (1975). The mature version.</li>\n        <li>Miles Davis — <em>In a Silent Way</em> (1969). The bridge to fusion.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A heavy backbeat (snare on 2 and 4) holds underneath a jazz-derived ride pattern (skip-jump on 2-and and 4-and) at ♩=120",
+      "Bell-of-the-ride accents land cleanly inside the ride pattern without disturbing the time",
+      "A 2-bar Lifetime-era pattern (rock 4-on-the-floor + aggressive snare comping + ride accents) plays cleanly at ♩=130 for two minutes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Heavy Rock Backbeat with Jazz Ride Pattern",
+        "tip": "The kick plays <em>every quarter note</em> — that's the rock backbone. The snare cracks on 2 and 4. The ride keeps a steady jazz-ish 8th pulse on top (in the actual Lifetime feel it's a triplet skip; here we approximate with straight 8ths to drill the coordination first). <strong>Hit the snare like you mean it.</strong> The Lifetime feel is loud — you can't fake it gently."
+      },
+      {
+        "title": "2 — Bell-of-Ride Accents",
+        "tip": "The two accented x noteheads — the 4th and 8th 8th — go to the <strong>bell</strong>, struck with the shoulder of the stick so they <em>ping</em> above the pattern. One watch-point: hitting harder tends to mean rushing. The bell stabs land in the same grid as everything else."
+      },
+      {
+        "title": "3 — Aggressive Snare Comping over Rock 4-on-the-Floor",
+        "tip": "<strong>Two layers of snare:</strong> the loud backbeats on 2 and 4 (rock), and the aggressive comping interjections on the &-of-1, ah-of-2, e-of-3, and &-of-4 (jazz). All on the snare; no ghost-note finesse — every comp note is at <em>conversational volume</em>, like a horn player jabbing at the ensemble. The kick stays 4-on-the-floor underneath. Jazz comping ON a rock beat — pure Tony."
+      },
+      {
+        "title": "4 — Two-Bar Lifetime-Era Pattern",
+        "tip": "Bar 2 (not shown) varies the snare comping: move the interjections from the &-of-1 and beat 3 to the e-of-2 and the ah-of-4 for the second half of the phrase. Hold ♩=120 until the bar is stable; only then push toward ♩=130."
+      }
+    ]
+  },
+  "fusion-metric-modulation": {
+    "tagline": "Same note, new tempo — pivoting between two pulses",
+    "bodyHtml": "\n      <p><strong>Metric modulation</strong> is the trick of changing the underlying tempo by reinterpreting a note value the band is already playing. The bar count keeps moving forward, but the <em>feel</em> of the pulse jumps to a new tempo because everyone agrees that \"the thing we were calling an 8th is now a quarter,\" or \"the thing we were calling a quarter-note triplet is now a quarter.\"</p>\n      <p>The classic example: a band is in 4/4 at ♩=80, eighth-noting along. The drummer tells the band \"the eighth note becomes the quarter.\" Suddenly the band is in 4/4 at ♩=160. Nobody played faster — the rate of strokes is identical. The <em>label</em> on each note changed, and with it the perceived pulse.</p>\n      <p>The other family — triplet pivots — is more subtle. A quarter-note triplet (three notes spread evenly across two beats) becomes the new quarter note. Three notes that filled two beats now fill three beats, so two old beats become three new ones. The arithmetic: new tempo = old tempo × 3/2. ♩=120 modulates to ♩=180.</p>\n      <p>This was a vocabulary item for jazz drummers in the 1960s (Tony Williams used it constantly with Miles), and a defining device for prog and fusion writers (Don Ellis, Frank Zappa, Allan Holdsworth's bands, modern Snarky Puppy charts). At Level 4 you should be able to <em>play it on yourself</em> — use the click as the constant referent and pivot your interpretation against it.</p>\n\n      <h2 class=\"section-label\">The Practice Trick</h2>\n      <p>Set the metronome to a single steady value — say, ♩=120. Play 4 bars where the click <em>is</em> the quarter; then play 4 bars where the click is now a quarter-note triplet (so your new quarter is a different speed than the click). Don't let the click \"win\" — your pulse leaves it and comes back. If you can do that for a minute without losing the bar count, the modulation is real, not just imagined.</p>\n\n      <h2 class=\"section-label\">Two Pivot Families</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Even-subdivision pivots</strong> — old 8th = new quarter (×2), old 16th = new quarter (×4). Doubles or quadruples the tempo with no rhythmic reinterpretation, just renaming.</li>\n        <li><strong>Triplet pivots</strong> — old quarter-triplet = new quarter (×3/2), old 8th-triplet = new 8th (×3/2 the 8th rate). Bends the pulse to a non-integer ratio of the original.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A 4-bar pivot at one feel followed by 4 bars at the modulated feel transitions cleanly with no audible \"reset\" at the bar line",
+      "8th-to-quarter modulation (the old 8th becomes the new quarter, doubling the perceived tempo) holds the new pulse for 8 bars at ♩=80 → ♩=160 without drifting back",
+      "Triplet-pivot modulation (the old quarter-note triplet becomes the new quarter) lands cleanly: ♩=120 → ♩=180 and back",
+      "A full modulation phrase (4 bars at one tempo, a triplet pivot bar, 4 bars at the new tempo) loops naturally and the listener can hear two distinct tempos in the same phrase"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Practicing the Pivot (4 bars old feel, 4 bars modulated)",
+        "tip": "Loop the bar four times at ♩=80, counting '1-2-3-4'. On the next four reps nothing in your hands changes — but count each accented 8th as a new quarter: you're now at ♩=160. When the change-over feels weightless, the pivot is real."
+      },
+      {
+        "title": "2 — 8th-to-Quarter Modulation (×2 tempo, same strokes)",
+        "tip": "This is the other side of Exercise 1's pivot — same strokes, relabelled. The test: click at ♩=80, play Exercise 1 for four bars, then double the click to ♩=160 and play this. If the two halves feel like one continuous piece of time, it worked."
+      },
+      {
+        "title": "3 — Triplet-Pivot Modulation (♩=120 → ♩=180)",
+        "tip": "Twelve triplet 8ths, accent every third stroke — those accents are quarter-note <em>triplets</em>, not the old quarters. Declare them the new quarter and you're at ♩=180. Practice with the click at ♩=120: let your accents float against it, then mentally drop the click and let the accents become the pulse."
+      },
+      {
+        "title": "4 — Full Modulation Pattern (4 bars @ 120 → triplet pivot → 4 bars @ 180)",
+        "tip": "The notation is the pivot bar only. Run the full shape: four bars of straight backbeat with the click at ♩=120, this bar once with the accents projecting the new tempo, then a backbeat where those accents are the quarter (click jumps to 180). Eventually do it clickless — your inner clock carries the ratio."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti / Filles de Kilimanjaro",
+        "note": "Listen for the pulse doubling mid-tune while the band strolls across the seam together."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — The Black Page",
+        "note": "Modulation under written, notated chaos — pristinely executed."
+      },
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — Lingus (We Like It Here)",
+        "note": "Modern modulation where the band rides the pivot together."
+      }
+    ]
+  },
+  "fusion-modern-fusion": {
+    "tagline": "Sparse, off-kilter, programmed-precise — the post-2010 fusion language",
+    "bodyHtml": "\n      <p>The drummers who define modern fusion — Mark Guiliana, Nate Smith, Larnell Lewis, Jonathan Pinson, Jay Nilles — share a vocabulary that is recognisably <em>post-electronic</em>. They came up listening to Aphex Twin and Squarepusher as much as to Tony Williams and Steve Gadd, and you hear it. The grooves are sparser than 2000s fusion. The 16ths are tighter — almost programmed. The backbeat lands in unusual places. The kick comes from drum-and-bass and trap as much as from funk.</p>\n      <p>Three pillars hold the style up:</p>\n      <ul class=\"bulleted\">\n        <li><strong>Off-kilter placement.</strong> The snare is rarely on 2 and 4. It lands on the <em>e</em> or the <em>a</em>; sometimes both; sometimes one bar to one place, the next bar elsewhere. The bar still <em>feels</em> like 4/4 but the backbeat is rotated.</li>\n        <li><strong>Programmed precision.</strong> Where 1990s fusion celebrated the \"human imperfection,\" this generation celebrates the inverse — playing as if the kit were a drum machine, with placement so exact a sequencer couldn't tell the difference.</li>\n        <li><strong>Harmonic awareness.</strong> Modern fusion drummers tune their drums and think about the relationship of pitches across the kit (snare snap vs floor-tom rumble vs 808-pitched kick). The drums are not just rhythm but spectrum.</li>\n      </ul>\n      <p>This lesson installs three vocabulary items — Smith-style displacement, Guiliana-style space, programmed-feel 16ths — and then asks you to combine them into a phrase.</p>\n\n      <h2 class=\"section-label\">A Note on Imitation vs Vocabulary</h2>\n      <p>Don't transcribe specific Guiliana solos. Listen to enough <em>different</em> Guiliana tracks that the <em>language</em> sinks in: the relationship of dense to sparse, the kick patterns, the way the snare floats away from beats 2 and 4. Then play your own thing in the language. Vocabulary is portable; transcription is karaoke.</p>\n    ",
+    "graduationCriteria": [
+      "A Nate-Smith-style displaced groove (snare on the e-of-2 and the a-of-3) holds at ♩=88 with the 16th-hat carpet completely even",
+      "A Mark-Guiliana-style sparse groove (long stretches of hat alone, kick + snare entries late and exact) holds at ♩=92 without the empty bars sagging",
+      "Programmed-feel 16ths (right hand alone, no flam, no swing, dynamics dead-flat across the bar) holds at ♩=104 for 16 bars with no audible fluctuation",
+      "A 4-bar phrase combining Smith displacement, Guiliana sparseness, and a programmed-feel hand interlude reads as one coherent musical idea — not three pasted-together fragments"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Nate-Smith-Style Displaced Groove",
+        "tip": "Backbeat snare on the <strong>e-of-2</strong> and the <strong>a-of-3</strong> — neither one is on a downbeat. Kick on 1 and the &-of-3. This is the kind of one-bar shape Nate Smith builds around for whole tunes (think his work on <em>Pocket Change</em>). The bar still <em>feels</em> like a backbeat, but try clapping along — you'll find your hands won't know where to land. That's the point."
+      },
+      {
+        "title": "2 — Mark-Guiliana-Style Sparse Groove",
+        "tip": "<strong>The minimalist's groove.</strong> Sixteen hats, one snare hit, two kicks. The bar would feel <em>empty</em> at most tempos — but the kick on 1 and the late snare on the a-of-3 plant the listener firmly in the bar. <em>Don't fill the silence.</em> The empty bars are the music. Guiliana's groove on Brad Mehldau's <em>Mehliana</em> work is built on this principle — the band hears the structure even though almost nothing is being played."
+      },
+      {
+        "title": "3 — Programmed-Feel 16ths on Acoustic Kit",
+        "tip": "Flat everything: every hat 16th, every snare, every kick at identical volume, dead on the grid — no push, no drag. The pass test: play to a click and listen for it to vanish. When you can't tell your notes from the click, the placement is right."
+      },
+      {
+        "title": "4 — Combination Phrase (Smith + Guiliana + Programmed)",
+        "tip": "<strong>The phrase.</strong> Beats 1-2 borrow from Smith — the displaced snare on the e-of-2. Beats 3 are sparse, Guiliana-style — hat alone, no snare comments. Beat 4 is the programmed-feel resolution — three 16ths of snare back-to-back, dynamic-flat, terminating the bar. Don't over-egg any one element. The whole bar should sound like a single sentence, not three quotations strung together. Loop until it grooves."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Mark Guiliana",
+        "work": "David Bowie — Blackstar",
+        "note": "Listen for 16ths so even they read as programmed — until a fill reminds you a human is playing."
+      },
+      {
+        "artist": "Nate Smith",
+        "work": "Pocket Change",
+        "note": "Listen for backbeats living off 2 and 4 for whole sections while the bar never stops feeling like 4/4."
+      },
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — Family Dinner Vol. 2",
+        "note": "Modern fusion with the harmonic awareness foregrounded."
+      },
+      {
+        "artist": "Anika Nilles",
+        "work": "Pikalar / solo releases",
+        "note": "The 'programmed acoustic' philosophy in concentrated form."
+      }
+    ]
+  },
+  "fusion-prog-fusion": {
+    "tagline": "Odd meters, double bass, and jazz-influenced solo lines at song speed",
+    "bodyHtml": "\n      <p><strong>Prog fusion</strong> is the genre that happens when prog-metal players (Mike Portnoy with Dream Theater and Liquid Tension Experiment, Marco Minnemann, Virgil Donati, Mike Mangini) absorb the jazz-fusion vocabulary of the 1970s. The result has the technical density of metal — double-bass figures, odd-meter precision, ridiculous tempos — over the harmonic openness and improvisational sensibility of fusion. John Petrucci will write a chart in 17/8; the drummer is expected to make it groove and then solo over it.</p>\n      <p>Three things define the school:</p>\n      <ul class=\"bulleted\">\n        <li><strong>Odd meters at song length.</strong> Not a bar of 7 here and there — entire 8-minute compositions in 7/8 or 11/16, with the meter as the riff.</li>\n        <li><strong>Double-bass technicality.</strong> Both feet active, often playing 16ths or 16th-triplets under the hands. Independence is total.</li>\n        <li><strong>Jazz-influenced solos.</strong> When the drummer solos, the lines come from Tony Williams and Elvin Jones as much as from Neil Peart. Triplet-based phrasing, broken-time feel, sparse cymbal punctuation — but at metal tempos with double bass underneath.</li>\n      </ul>\n      <p>This lesson installs three building blocks (a 7/8 with double bass, a 5/4 with a linear fill, a modulation between odd meters) and ends with a solo phrase. Tempo will not save you — clean execution at moderate speed is the goal, not a high BPM at sloppy execution.</p>\n\n      <h2 class=\"section-label\">Foot Technique Reminder</h2>\n      <p>If your double-bass technique is not yet automatic, work the feet alone before adding hands. Heel-up, balanced weight, equal volume from both feet. The double bass should sound like one drummer, not two unequal feet competing.</p>\n    ",
+    "graduationCriteria": [
+      "A 7/8 prog-fusion groove with a double-bass figure under the hand pattern holds at the dotted-8th feel for 16 bars at 8th = 200",
+      "A 5/4 groove with a linear fill on every fourth bar lands cleanly without the bar count slipping at ♩=104",
+      "A modulation between two odd-meter feels (e.g. 5/4 to 7/8 via a shared 8th-note pulse) lands without an audible \"reset\"",
+      "A 4-bar prog-fusion solo phrase combines double-bass under jazz-shaped solo lines and resolves musically — not as a stack of chops"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 7/8 Prog-Fusion Groove with Double Bass",
+        "tip": "Hands hold the 2+2+3 shape — accents on 8th positions 5 and 9 — while the feet run uninterrupted alternating 16ths (one pedal? play right-foot 8ths instead). The check: when the snare lands, <em>the kick stream doesn't flinch</em>. Any hiccup in the feet means the limbs aren't independent yet."
+      },
+      {
+        "title": "2 — 5/4 with Linear Fill",
+        "tip": "<strong>Bar of 5/4 (3+2):</strong> three beats of standard groove, two beats of linear fill. <em>Linear</em> means no two voices land on the same 16th — every note is alone. Beats 4-5 here: snare twice, kick, hi-tom, mid-tom, kick, floor-tom, kick. Played as written, the eight 16ths roll around the kit like a single thread. <strong>Practice it slowly enough to hear that no two notes overlap</strong> — that's the entire point of linear vocabulary."
+      },
+      {
+        "title": "3 — Modulation Between Two Odd Meters (5/4 → 7/8)",
+        "tip": "Ten 8ths grouped 2+2+3+3: the front half feels like 5/4, the back half already leans 7/8. The 8th rate never changes — that's the shared currency. Alternate one bar of this with one bar of pure 7/8; the join should be inaudible."
+      },
+      {
+        "title": "4 — Prog-Fusion Solo Phrase (4 bars)",
+        "tip": "The hands phrase like a Tony Williams line — snare and toms resolving onto the beat-4 ride-plus-snare accent — while double-bass 8ths hold the ground underneath. Across the four bars, make the hands tell one story; if they wander, the listener still has the kick to grip."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Mike Portnoy",
+        "work": "Liquid Tension Experiment — LTE2",
+        "note": "Odd-meter prog-fusion vocabulary executed with no fat."
+      },
+      {
+        "artist": "Marco Minnemann",
+        "work": "Solo work / Aristocrats",
+        "note": "The technical ceiling of the modern prog-fusion school."
+      },
+      {
+        "artist": "Virgil Donati",
+        "work": "On The Virg — Serious Young Insects",
+        "note": "Double-bass-driven prog-fusion at extreme tempos, jazz line shapes."
+      },
+      {
+        "artist": "Gavin Harrison",
+        "work": "Porcupine Tree — In Absentia",
+        "note": "Less aggressive — more like prog with fusion's openness — but the same DNA."
+      }
+    ]
+  },
+  "fusion-electronic-fusion": {
+    "tagline": "Acoustic kit, drum-machine soul — playing electronic music as a human",
+    "bodyHtml": "\n      <p><strong>Electronic fusion</strong> is the genre that emerges when an acoustic-kit drummer plays as if the kit were a Roland TR-808 or an Ableton drum rack. The repertoire: Daft Punk and dance music, drum-and-bass, post-Aphex IDM, the entire sound-world that lived in software for 25 years before drummers like Jojo Mayer, Mark Guiliana, Larnell Lewis, and Anika Nilles started covering it on real kits.</p>\n      <p>The technical demands are the inverse of jazz. Where jazz prizes the <em>variation</em> in every stroke (every ride hit different, every snare ghost a different color), electronic fusion prizes the <em>elimination</em> of variation. The hi-hat 16ths must be identical to each other. The kick must land precisely on the grid every time. The snare must be the same dynamic on every backbeat. The drummer is competing with a sequencer, and the sequencer never has a bad day.</p>\n      <p>Beyond technique, there's a vocabulary issue: the patterns themselves come from electronic music. The four-on-the-floor of house and disco. The half-time backbeat of trip-hop. The \"amen break\" rolls of drum-and-bass. The sparse, sub-808-driven trap beat. The drummer needs to know these patterns the way a jazz drummer knows a swing feel.</p>\n\n      <h2 class=\"section-label\">Why It's Hard</h2>\n      <p>Years of practice on an acoustic kit have trained your hands to <em>articulate</em> — to give each stroke its own personality. That training is now working against you. The fix is to practice to a click and listen for any deviation. If you hear yourself, you're being too human.</p>\n    ",
+    "graduationCriteria": [
+      "A programmed-feel 16th groove (right hand only, dynamics dead-flat, every kick exactly on the grid) holds at ♩=128 for 32 bars without a single audible flam",
+      "A \"sub-808\" sparse groove — kick mimicking a long sub-bass note, snare sparse, hat-as-pulse — holds at ♩=132 with the kick \"duration\" unmistakably long",
+      "Snare-displacement at ♩=140 (electronic-music tempo) holds for 16 bars without the displacement collapsing back to 2 and 4",
+      "A Daft-Punk / dance-music four-on-the-floor pattern with hi-hat 16ths and a snare clap-replacement on every backbeat holds at ♩=124 with no acoustic-kit \"humanness\""
+    ],
+    "exercises": [
+      {
+        "title": "1 — Programmed-Feel 16th Groove",
+        "tip": "Looks like a normal 16th-hat groove. Plays radically differently. <strong>Every hi-hat 16th is the same volume.</strong> Both snare hits are the same volume — and they are not <em>louder</em> than the hat (drum machines don't boost the backbeat). The kick lands exactly on the grid, not behind it. <em>Record yourself</em> and listen for any flam, any rushed kick, any louder downbeat. Re-do the bar until your recording is indistinguishable from a quantised loop."
+      },
+      {
+        "title": "2 — Sub-808 Sparse Feel",
+        "tip": "Snare on beat 3 only. The dotted-quarter kick is notation for <em>intent</em> — in production it would be a sub note sustaining across 1.5 beats — so strike it full power and let the drum ring, no muffling. At ♩=132 the bar should still feel slow and heavy; that's the trap paradox."
+      },
+      {
+        "title": "3 — Snare-Displacement at Electronic Tempo",
+        "tip": "Drum-and-bass-flavoured displacement at ♩=140 — first snare on the <strong>e-of-2</strong>, second snare on beat 4 (so one displaced, one not). The kick pattern (1, &-of-2, 4) is a classic D'n'B half-step. <em>At ♩=140 the body wants to default to 2-and-4</em>: the displacement tries to collapse home. Practice to a metronome on every 16th — when the click on the e-of-2 arrives, that is when your snare lands. No earlier, no later."
+      },
+      {
+        "title": "4 — Daft Punk / Four-on-the-Floor Dance Pattern",
+        "tip": "Kick on every quarter, hat alternating closed on the beat and open on the &, snare on 2 and 4 standing in for a clap. Everything hangs on a machine-flat kick: if beat 1 is louder than beat 3, it reads as rock. The kick should disappear into the texture as pure pulse."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Jojo Mayer",
+        "work": "Nerve — live recordings",
+        "note": "The drummer who built the bridge from drum-and-bass to acoustic kit."
+      },
+      {
+        "artist": "Daft Punk (programmed)",
+        "work": "Discovery",
+        "note": "Four-on-the-floor with the human removed — listen for a kick that never announces itself, only pulses."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music — Beat Music",
+        "note": "Programmed-feel acoustic playing in a fusion context."
+      },
+      {
+        "artist": "Anika Nilles",
+        "work": "Anika Nilles — Pikalar",
+        "note": "The modern player who lives at the intersection."
+      }
+    ]
+  },
+  "fusion-mahavishnu": {
+    "tagline": "Fast 16th hands, rolling triplet kick, polyrhythmic everything",
+    "bodyHtml": "\n      <p>The Mahavishnu Orchestra was John McLaughlin's mid-1970s ensemble that essentially invented the high-energy fusion vocabulary. <strong>Billy Cobham</strong> was the drummer for the original lineup — and the things he was playing in 1972 are <em>still</em>, fifty years later, the technical ceiling of the genre. Fast double-handed 16th-note hand patterns. Open-handed playing (left hand on the hi-hat / ride, right on snare and toms). Rolling 8th-note-triplet kick under steady 16th hands — a 4-against-3 polyrhythm at performance tempos. Long melodic fills around the kit at speeds that defy belief.</p>\n      <p>The technical demands are no joke. Don't approach this lesson before your hands are well-developed and your double-bass technique (or fast right-foot triplets if you only have one pedal) is automatic. This is a Level 4 capstone for the fusion track and the natural bridge into modern jazz drumming.</p>\n\n      <h2 class=\"section-label\">The Five Cobham Things</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Open-handed playing.</strong> Cobham was a left-handed player who played a right-handed setup, which forced him to lead the hi-hat with his left while the right held the backbeat. The result: total freedom on the snare-side hand. Practice leading the hat with your weak hand for one of these exercises.</li>\n        <li><strong>Fast double-handed 16ths.</strong> Both hands on the snare, alternating R-L, at extreme speed. The rest of the kit drops in between.</li>\n        <li><strong>Polyrhythmic kick.</strong> 8th-note triplets in the kick under 16ths in the hands — 4-against-3 in real time.</li>\n        <li><strong>Long melodic fills.</strong> Fills are not bursts; they are sentences, often eight bars long, that build like a saxophone solo.</li>\n        <li><strong>Sheer energy.</strong> Cobham's playing is loud, fast, and uncompromising. Pick up that intent, even at moderate tempos.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A fast double-handed 16th pattern (alternating R-L sticking on the snare) holds at ♩=132 for 8 bars without flamming",
+      "Rolling 8th-note-triplet kick under continuous 16th hands stays in time at ♩=104, with the polyrhythm (4 hand vs 3 foot) audibly clear",
+      "A canonical Cobham-style fill (alternating 16ths around the kit, kick punctuating every fourth note) lands cleanly at ♩=120",
+      "An 8-bar Mahavishnu-style pattern combining all the above sustains energy without losing the bar count"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Fast Double-Handed 16th Hand Pattern",
+        "tip": "Alternating <em>R L</em> on the snare for all sixteen 16ths, accents on the quarters, kick on 1 and 3. Everything depends on the two hands matching: <strong>if the L is quieter, the bar limps</strong>, and you can't move these 16ths around the kit (Exercise 3) until they're dead even here."
+      },
+      {
+        "title": "2 — Rolling Kick Triplets Under Hand 16ths",
+        "tip": "Hands: sixteen 16ths. Feet: twelve triplet 8ths. They agree only on the four downbeats. Learn the rolling kick alone first (single pedal is fine), then hands alone, then combine — and <em>hear the kick as its own pulse</em>, not as filler under the hands."
+      },
+      {
+        "title": "3 — Cobham-Style Fill Around the Kit",
+        "tip": "R-L 16ths in pairs — snare, hi, mid, floor — for the first half; a quicker sweep (snare, snare, hi, mid, then floor for four) for the second, kick on the quarters, accent on the lead R of each group. Play it as one sentence: if it sounds like 16 separate notes, start over slower."
+      },
+      {
+        "title": "4 — 8-Bar Mahavishnu-Style Pattern (notation shows core 1-bar)",
+        "tip": "Open-handed: the <em>left</em> hand keeps the bell of the ride on every downbeat while the right walks R-L 16ths from snare to hi tom to mid to floor, kick rolling underneath. Loop for 8 bars — vary the tom moves if you like, but the bell hand never changes. Eight bars, one statement."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Billy Cobham",
+        "work": "Mahavishnu Orchestra — Birds of Fire",
+        "note": "Start with the title track and 'One Word' — listen for the triplet kick rolling under straight 16th hands."
+      },
+      {
+        "artist": "Billy Cobham",
+        "work": "Spectrum",
+        "note": "Cobham as bandleader — same vocabulary, more space to hear it."
+      },
+      {
+        "artist": "Lenny White",
+        "work": "Return to Forever — Romantic Warrior",
+        "note": "Adjacent vocabulary — same era, same intensity, slightly different angle."
+      },
+      {
+        "artist": "Marco Minnemann",
+        "work": "Solo work",
+        "note": "Modern players who carry the Cobham torch — fast hands, polyrhythmic feet."
+      }
+    ]
+  }
+}

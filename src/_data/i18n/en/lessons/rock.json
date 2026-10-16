@@ -1,0 +1,667 @@
+{
+  "rock-quarter-hat": {
+    "tagline": "Rock's most economical groove — one hat hit per beat",
+    "bodyHtml": "\n      <p>Halve the hi-hat and the backbeat grows. Exercise 1 is the basic backbeat you built in the foundations with one change: a <strong>quarter-note hi-hat</strong>, four hat notes per bar instead of eight, all of them closed, kick still on 1 and 3, snare still on 2 and 4. The snare reads louder even though you are playing it exactly as hard, because there is no longer a stream of cymbal notes crowding it. Classic rock, mid-tempo rootsy rock and a lot of songwriter material live in this texture, and it is every bit as canonical as the 8th-note version.</p>\n      <h2 class=\"section-label\">Keeping time with half the hi-hat</h2>\n      <p>Cutting the cymbal in half cuts your reference points in half too. Four hat notes a bar means the 8ths in between now come from you rather than from the cymbal, and Ex 1 and Ex 2 both run at ♩ = 104, well above the ♩ = 80 where you first built this groove. At that tempo the click lands on the same grid as the hat, so run it and try to make the two one sound. If you can still pick the hat out of the click, the quarters are not placed yet, and playing it faster will not place them.</p>\n      <p>The thin texture also exposes your hands. Every backbeat in this lesson is a hi-hat and a snare struck together, one attack out of two limbs, with no other voice sounding at that instant to hide a mismatch. Loop Ex 1 slowly enough to hear whether 2 and 4 arrive as a single event or as a small flam, and fix that before you push the tempo. You never need to muscle the snare to be heard here; the empty space is doing that work for you.</p>\n      <h2 class=\"section-label\">Taking a note out, then putting one back</h2>\n      <p>Ex 2 is Ex 1 with exactly one note removed. The snare on 2 is gone, so the bar reads as three beats of setup and an arrival on 4. Two things go wrong. The first is filling the hole on 2 with something, anything, because the gap feels like a mistake. The second is subtler: shift the whole bar two beats and the kick pattern looks identical, with the snare now falling on 2, so nothing inside the bar rules out that reading and the time can quietly turn around on you. Count <em>1 2 3 4</em> out loud and let the metronome check you: on 4/4 it accents beat 1, so your kick should land on the accented click. Then run Ex 1 and Ex 2 back to back without stopping; they share a tempo and a kick pattern, and the switch between them is one note appearing and disappearing.</p>\n      <p>Ex 3 puts a note back where it costs something. The kick doubles at the top of the bar, on 1 and the <em>&amp;</em> immediately after, which makes that second stroke the only note in the lesson that does not share an attack with a hi-hat quarter. It has to sit exactly halfway between the hat on 1 and the hat on 2, and the usual miss is late, dragging toward beat 2 until the figure sounds like a stumble instead of a shove into the bar. Ex 3 runs at ♩ = 100 rather than 104, and the extra room goes into placing that second kick. Keep the hat hand indifferent to the foot: if the cymbal flinches or swells when the kick doubles, split the limbs apart and rebuild the bar from the feet up.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter-hat backbeat (Ex 1) loops cleanly for 2 minutes at ♩=104",
+      "The 3-beat-snare phrase (Ex 2) sounds intentional, not like a missed hit",
+      "Doubled-kick variation (Ex 3) plays at ♩=100 with even hi-hat quarters"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Hat Backbeat",
+        "tip": "The basic backbeat with <em>one hi-hat per beat</em> instead of two. The hi-hat now sits behind the snare and kick instead of carrying the foreground. Notice how much louder the snare on 2 and 4 sounds — not because you're hitting it harder, but because there's no longer a steady stream of cymbal hits competing with it for the listener's attention."
+      },
+      {
+        "title": "2 — Snare on Beat 4 Only (3-Beat Phrase)",
+        "tip": "Drop the snare on beat 2 entirely; keep it only on <em>4</em>. The bar now phrases as <em>three beats of setup, one beat of arrival</em>. This is a common shape in classic rock and in rootsy songwriter material — the missing snare hit on 2 makes beat 4 feel like the resolution of the bar. Resist the urge to fill the gap. The space is the point."
+      },
+      {
+        "title": "3 — Quarter Hat with Doubled Kick on 1",
+        "tip": "Two consecutive 8th-note kicks at the very top of the bar — beat 1 and the <em>&amp;</em> right after. The hi-hat stays on quarter notes. With a sparse cymbal texture, the doubled kick at the start of each bar is suddenly a featured event: it pulls the listener forward into the bar instead of landing passively on 1. This is the trick under a lot of mid-tempo rootsy rock."
+      }
+    ]
+  },
+  "rock-cross-stick": {
+    "tagline": "The quiet cousin of the backbeat — rim-clicks instead of full snare",
+    "bodyHtml": "\n      <p>The <strong>cross-stick</strong> (sometimes called rim-click or sidestick) is the rock ballad's primary voice on 2 and 4. Lay the stick across the snare drum so the bead rests near the center of the head and the shaft sits across the rim; lift the bead an inch and drop the shaft onto the rim. The result is a clean, woody <em>click</em> — much quieter than a full snare backbeat, with no ring or buzz. It's the sound on the verses of every soft-rock ballad you've ever heard.</p>\n      <p>The reason it matters: most songs aren't loud all the way through. A power ballad's verses are often cross-stick at low volume; the chorus arrives, you switch to full snare, and the song <em>opens up</em>. That dynamic move is one of the most powerful tools a drummer has, and it costs essentially nothing technically — it's just two grips of the same stick. This lesson installs the quiet voice and the move between the two.</p>\n      <p>Cross-stick is notated in the snare's middle space in this curriculum (the renderer doesn't have a separate cross-stick notehead). Where the tip says \"play cross-stick,\" the snare note becomes a rim click. Where it says \"full snare,\" go back to a normal backbeat.</p>\n    ",
+    "graduationCriteria": [
+      "Cross-stick on 2 and 4 (Ex 1) holds at ♩=80 with a clean, woody click — no full-snare ring",
+      "Ballad-feel quarter-hat version (Ex 2) feels half-tempo, not slow",
+      "Verse-to-chorus transition (Ex 4) lands the first full snare exactly on beat 2 of the chorus bar"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cross-Stick on 2 and 4 + 8th-Note Hi-Hat",
+        "tip": "<strong>Play the snare hits as cross-stick</strong> — stick laid across the rim, woody click instead of a full backbeat. Same notation as the basic backbeat, completely different texture. The hi-hat 8ths should also drop a notch in volume to match. The whole groove should sit underneath a singer instead of competing with one."
+      },
+      {
+        "title": "2 — Cross-Stick with Quarter-Note Hi-Hat (Ballad)",
+        "tip": "Cross-stick on 2 and 4, hi-hat dropped to quarter notes, tempo slowed to <em>♩=72</em>. This is the canonical ballad voice — quiet, spare, patient. Most pop ballads under 80 bpm live here on the verses. Notice that you're not trying to fill the bar; you're trying to <em>not</em> fill it. The space between hits is what gives the singer somewhere to live."
+      },
+      {
+        "title": "3 — Cross-Stick on Beat 4 Only",
+        "tip": "Even more spacious — drop the cross-stick on 2 and keep it only on <em>4</em>. The bar phrases as <em>three beats of pulse, one beat of accent</em>. This is the texture under a lot of singer-songwriter intros and slow folk-rock. The single click on 4 does the work of an entire backbeat because there's nothing else competing with it. Try it under a piano part you know — it'll feel correct immediately."
+      },
+      {
+        "title": "4 — Verse to Chorus: Cross-Stick → Full Snare",
+        "tip": "Bar 1 verse (cross-stick), bar 2 chorus (full snare) — the same notes, only the grip changes. The work happens in the last beat of bar 1: the hand silently re-grips so beat 2 of bar 2 lands as a full backbeat. That jump is the whole move."
+      }
+    ]
+  },
+  "rock-basic-fills": {
+    "tagline": "The four or five fills that every rock drummer plays in their first year",
+    "bodyHtml": "\n      <p>A <strong>fill</strong> is what happens when a drummer interrupts the groove for a bar (or a half-bar, or two beats) to mark a transition — a section change, a phrase ending, a build into a chorus. Every rock drummer has a small vocabulary of fills they reach for instinctively, and most of them are recombinations of four or five basic ideas. This lesson installs those building blocks.</p>\n      <p>The most common rock fill <em>shapes</em>: a bar of four-on-the-snare, a descending run across snare and toms, a syncopated 16th-note phrase that lands on the next downbeat, and a \"pickup\" — a short fill in the last beat or two of a bar that leads into a section change. Once you have these, you're equipped for most beginner rock-band situations. The clinic-grade chops come later; this is the working vocabulary.</p>\n      <p>Tempos sit at <em>♩=100</em>, where rock fills feel decisive. Slow practice is fine — but the goal is to play these in real songs, where they have to land in time without telegraphing. The tip on each exercise calls out which canonical recordings the figure echoes (paraphrased, not transcribed).</p>\n    ",
+    "graduationCriteria": [
+      "Three-bars-groove + one-bar-fill (Ex 1) loops cleanly at ♩=100 — fill ends exactly on beat 1 of the next bar",
+      "Tom descent (Ex 2) progresses smoothly from snare → high → mid → floor with no rushed strokes",
+      "Pickup fill (Ex 4) leads convincingly into a chorus crash on the downbeat of the following bar"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Three Bars Groove + One Bar of 4-on-the-Snare",
+        "tip": "The simplest possible rock fill: three bars of groove, then a bar of straight 8th-note snare hits. Kick stays on 1 and 3 through the fill so the pulse never disappears. This is the Ringo move, the Phil Rudd move, the move every working drummer has played a thousand times. The discipline is <em>not</em> rushing — eight even strokes that end exactly on the <em>&amp; of 4</em> so the next bar starts cleanly."
+      },
+      {
+        "title": "2 — Descending Tom Fill (Snare → High → Mid → Floor)",
+        "tip": "Two strokes each: snare, hi tom, mid tom, floor tom — eight strokes descending, kick holding the pulse underneath. The skill is keeping every pair <em>even</em> as you cross the kit; fills rush when the eyes and arms get ahead of the click, so lead with your ears."
+      },
+      {
+        "title": "3 — Syncopated 16th-Note Pickup Fill",
+        "tip": "Groove through beats 1–2, then 16th pairs down snare → high → mid → floor across beats 3–4, ending on the <em>e of 4</em> so beat 1 of the next bar lands clean and alone. Half a bar of fire, then the chorus — harder to land than a full-bar fill, and more useful."
+      },
+      {
+        "title": "4 — Pickup into a Chorus (Last Beat + Crash on 1)",
+        "tip": "Three beats of groove, one beat of pickup (snare-snare-hi-floor), then crash + kick on the downbeat of bar 2. Everything serves the <em>arrival</em>: those four 16ths exist to make beat 1 feel inevitable. If the crash lands early or late, the pickup rushed or sagged — fix the 16ths, not the crash."
+      }
+    ]
+  },
+  "rock-sixteenth-hats": {
+    "tagline": "Pop session work — 16ths on the hat under a rock backbeat",
+    "bodyHtml": "\n      <p>By the time you reach this lesson, 8th-note hi-hat is automatic. The next density level is <strong>16th-notes on the hi-hat</strong> — four hits per beat, sixteen per bar. This is the texture of half of pop session drumming, most modern R&amp;B with a rock backbone, and the entire Toto / Steely Dan school of session work that made Jeff Porcaro a household name in drum circles.</p>\n      <p>You can play 16th hats two ways. <strong>Two-handed</strong> (alternating R-L-R-L on the hat) gives you the cleanest sound and the most stamina but means the snare on 2 and 4 has to be played by whichever stick happens to be free at that moment — usually a left-hand snare hit while the right hand stays on the hat (the cymbal-line gap is filled by silence on that 16th). <strong>One-handed</strong> (right hand plays all 16ths, left plays the snare) is more demanding on the right wrist but leaves your left hand entirely free for snare and tom voices. Most players use both, choosing based on tempo and texture.</p>\n      <p>This lesson does both. Start two-handed at slower tempos to internalize the 16th-note feel, then attempt the one-handed version (the harder physical challenge but the more flexible musical tool). The goal isn't speed — it's <em>steady</em>, <em>even</em> 16ths under a normal rock backbeat. Rock at <em>♩=88–95</em> with 16th hats already feels twice as busy as the same tempo with 8ths.</p>\n    ",
+    "graduationCriteria": [
+      "Two-handed 16ths (Ex 1) hold at ♩=88 for 2 minutes with a clean backbeat — no rushing as the right hand tires",
+      "Right-hand-only 16ths (Ex 3) hold at ♩=80 for 1 minute without forearm cramp",
+      "Toto-style kick figure (Ex 4) at ♩=92 — kicks land on the right 16th-note positions, not pulled toward the nearest 8th"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 16th Hat (Two-Handed, RLRL) + Backbeat",
+        "tip": "Sticking R L R L. On beats 2 and 4 the left stick leaves the hat to strike the snare while the right keeps the cymbal 16th going — no gap in the hat line. If 88 tires your right wrist, start at <em>♩=80</em> and earn the tempo."
+      },
+      {
+        "title": "2 — Continuous Alternating Sticking (RLRL Across the Bar)",
+        "tip": "All sixteen strokes on the hat, strict R L R L, kick on 1 and 3. Notice the geography: every right lands on a downbeat or an <em>&amp;</em>, every left on an <em>e</em> or <em>a</em>. Internalize that map now and the sticking is automatic when the snare returns."
+      },
+      {
+        "title": "3 — One-Handed 16th Hat (Right Hand Only) + Backbeat",
+        "tip": "Right hand alone on all sixteen hat notes; the left touches nothing but the snare on 2 and 4. The tempo sits at <em>♩=80</em> on purpose — push faster before the wrist is conditioned and it cramps. Even 16ths matter more here than speed ever will."
+      },
+      {
+        "title": "4 — Toto-Style Kick Figure on 16ths",
+        "tip": "The kick figure uses true 16th positions: <em>1, e of 2, &amp; of 3, &amp; of 4</em>. The <em>e of 2</em> is the hard one — a 16th before the snare, in the gap. Loop slowly; the failure mode is the kick sliding to the nearest 8th, which flattens the Porcaro feel entirely."
+      }
+    ]
+  },
+  "rock-open-hats": {
+    "tagline": "Open the hat on the &amp; — syncopated accent at the heart of rock",
+    "bodyHtml": "\n      <p>You learned to open the hi-hat on the <em>&amp; of 4</em> in <em>first-beat-color</em>. This lesson generalizes that gesture: opening the hat on <strong>any 8th-note offbeat</strong> is one of the canonical rock vocabulary moves, and a small change in <em>which</em> &amp; you open (or which combination) creates dramatically different feels.</p>\n      <p>Stewart Copeland and the Police are the obvious touchstone — that band's verses are full of mixed open/closed 8th patterns, where the open notes punctuate the bar in different places to support the bass line. But the same trick is everywhere: in U2, in '80s radio rock, in modern alt-rock that wants more cymbal color than 16ths can give. The mechanic is purely the left foot: lift to open, drop to close. The hand keeps doing the same 8th-note pattern.</p>\n      <p>The hard part isn't physical — it's <em>timing</em>. The open hat has to land precisely on the &amp;, and the close has to land precisely on the next downbeat, or the cymbal will smear into the snare and ruin the groove. Practice without the snare first if needed; the open/close pattern alone is its own coordination skill.</p>\n    ",
+    "graduationCriteria": [
+      "Open hat on every \"&amp;\" (Ex 1) at ♩=100 — open and closed hats are unmistakably distinct sounds",
+      "Mixed open/closed pattern (Ex 3) at ♩=104 with no fumbled foot transitions",
+      "The 4-bar \"open-on-the-&amp;\" pattern (Ex 4) loops cleanly without losing the foot pulse"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Open Hat on Every &amp;",
+        "tip": "Every <em>&amp;</em> opens the hat; every downbeat closes it. The pattern <em>chick-shhh-chick-shhh</em> repeats four times across the bar. The left foot is now an active limb — it lifts on every beat, drops on every <em>&amp;</em>. It can take 50–100 reps before the foot is reliable; isolate it without the hands if you need to. This pattern is the Stewart Copeland signature: ride the offbeats, snare unchanged."
+      },
+      {
+        "title": "2 — Open Hat on the &amp; of 4 Only",
+        "tip": "The <em>arena rock</em> placement — open hat once per bar, on the very last 8th. This single open note on the <em>&amp; of 4</em> is the breath that gives a rock chorus its lift; it's Exhibit 4 of the rock-eighth-grooves lesson, isolated and slowed for emphasis. The contrast with Ex 1 (every &amp;) is instructive: less open-hat means each open note carries more weight."
+      },
+      {
+        "title": "3 — Mixed Open/Closed Within a Single Bar",
+        "tip": "Open hat on the <em>&amp; of 1</em> <strong>and</strong> the <em>&amp; of 4</em>; the middle of the bar stays closed. This asymmetry is more interesting than either uniform pattern — the open notes mark the start and end of the bar, leaving the middle to belong to the snare. Notice how the bar feels like it has bookends now."
+      },
+      {
+        "title": "4 — \"Open on the &amp;\" 4-Bar Pattern (Police-style)",
+        "tip": "Bar 1 opens on the <em>&amp;s of 2 and 4</em> (right after each snare); bar 2 opens on the <em>&amp;s of 1 and 3</em> (between them). Your foot does different work each bar — that unpredictability of where the open note lands is exactly the Police-style groove."
+      }
+    ]
+  },
+  "rock-shuffle-rock": {
+    "tagline": "The shuffle feel applied to a heavier rock backbeat",
+    "bodyHtml": "\n      <p>The plain <em>shuffle feel</em> from the foundations lesson lives in light bluesy territory. <strong>Shuffle rock</strong> drops a heavier hand on top: harder backbeat, louder kick, faster tempo. ZZ Top is the obvious example, but most blues-rock from the late '60s onward — Free, Bad Company, the Allman Brothers — sits inside this feel somewhere. The notes are the same as a standard shuffle; the <em>weight</em> is different.</p>\n      <p>Two upgrades distinguish a rock shuffle from a blues shuffle. First, the kick gets busier — instead of just 1 and 3, you'll often hear extra kicks on the third triplet partial of various beats, especially around the bar's middle. Second, the <strong>Texas shuffle</strong> snare pattern adds a ghosted snare hit on the <em>third triplet partial of beat 2</em>, creating the recognizable lopsided gallop that gave the style its name. Together, these turn a shuffle from a casual blues feel into a driving rock engine.</p>\n      <p>All exercises here use explicit triplet notation (the renderer's tuplet support, just like in <em>the-shuffle</em>) so you can see exactly which triplet partial each note sits on. Take this slow at first — shuffle rock at <em>♩=100</em> is harder than straight rock at <em>♩=120</em>.</p>\n    ",
+    "graduationCriteria": [
+      "Basic shuffle backbeat (Ex 1) at ♩=92 — every snare lands with the long note of the triplet",
+      "Heavy-kick shuffle (Ex 2) at ♩=88 — kick on 1 and 3 stays anchored under the hi-hat shuffle",
+      "Texas-style snare placement (Ex 3) — extra snare hit lands on the third triplet partial of beat 2"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Shuffle Backbeat (Heavier)",
+        "tip": "Standard shuffle backbeat at rock weight — same pattern as the foundations <em>the-shuffle</em> Ex 4, but hit harder and at a slightly higher tempo. Snare on 2 and 4 lands with the long note of the triplet (the first triplet partial). The hi-hat plays the long-short shuffle pattern on every beat. Lock the long note of the hat to the click and let the short notes arrive late."
+      },
+      {
+        "title": "2 — Heavier Kick Pattern (Doubled Kick at the Top of the Bar)",
+        "tip": "Kick on beat 1 <em>and</em> on the third triplet partial of beat 1 (the same place the hi-hat plays its short shuffle note). Then a single kick on beat 3. The doubled kick at the top of the bar gives the shuffle its rocky weight — kick lining up with the shuffle's short note creates a lopsided forward push. Same trick as the rock backbeat's doubled kick on 1, but inside the triplet grid."
+      },
+      {
+        "title": "3 — Texas Shuffle (Extra Snare on 3rd Triplet of Beat 2)",
+        "tip": "The extra snare stacks with the hat's short note on beat 2 — backbeat first, then a much softer ghost on the third triplet. That lopsided <em>BAP-tap</em> is the whole signature. Beat 4 stays clean, one snare only; the asymmetry between 2 and 4 is why it grooves."
+      },
+      {
+        "title": "4 — Full ZZ-Top-Style Shuffle Groove",
+        "tip": "Heavy backbeat, Texas ghosts on the third triplet of 2 and 4, kick doubled at the top of the bar. The thing to listen for: the kick's third-triplet hit landing exactly with the hat's short note — that alignment is what makes the shuffle drive instead of lurch."
+      }
+    ]
+  },
+  "rock-power-ballad": {
+    "tagline": "Slow build, big chorus — the dynamic engine of '80s arena rock",
+    "bodyHtml": "\n      <p>The 1980s arena power ballad is a structural drumming masterpiece. The verses are <em>tiny</em> — cross-stick on 2 and 4, hi-hat on quarter notes, kick almost felt rather than heard. The chorus is <em>enormous</em> — full backbeat, gated snare, crashes punctuating section starts. The drama is in the <strong>transition</strong> between the two: the same player, the same kit, the same tempo, but a 30-decibel jump that makes the chorus arrive like a stadium spotlight.</p>\n      <p>This lesson installs the verse, the chorus, the transition fill, and the full 4-bar form (<em>verse / verse / fill / chorus</em>) — the structural template under most '80s and '90s power ballads from Foreigner to Bon Jovi to Aerosmith. The point isn't to memorize one specific song; it's to internalize the <em>move</em> between dynamic levels, because every band you ever play with will need it.</p>\n      <p>The kick stays the same across verse and chorus. Only the hand changes — cross-stick to full snare. That single grip change is the entire dynamic shift. Anything more elaborate is decoration. (Most '80s recordings used a gated snare effect to make the chorus snare even bigger; that's a studio trick, but the playing underneath is exactly what's notated here.)</p>\n    ",
+    "graduationCriteria": [
+      "Verse cross-stick groove (Ex 1) at ♩=72 holds quietly for 2 minutes",
+      "Chorus full-snare version (Ex 2) at the same tempo with the same kick — only the hand changes",
+      "Verse-to-chorus transition fill (Ex 3) lands a crash on beat 1 with no early or late strokes",
+      "Full 4-bar form (Ex 4) — verse / verse / fill / chorus — feels like a song, not an exercise"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Verse: Cross-Stick + Quarter Hat",
+        "tip": "<strong>Play the snare hits as cross-stick.</strong> Quarter-note hat, cross-stick on 2 and 4, kick on 1 and 3 — barely audible. The whole groove should be playable behind a singer at quiet volume; if the hi-hat is too loud, drop it further. This is the verse texture under <em>Sister Christian</em>, <em>Patience</em>, every quiet-and-mid-tempo '80s ballad. Loop for two minutes and let the quiet become the point."
+      },
+      {
+        "title": "2 — Chorus: Same Pattern, Full Snare + 8th Hat",
+        "tip": "Same tempo as Ex 1, same kick pattern. The hi-hat is now 8ths instead of quarters; the snare is now full backbeat instead of cross-stick. This is the chorus. The volume increase between Ex 1 and Ex 2 should be dramatic — at least 10–15 dB. Practice both back-to-back without stopping the count: <em>two bars verse, two bars chorus, two bars verse, two bars chorus</em>. Feel the lift each time the chorus hits."
+      },
+      {
+        "title": "3 — Verse-to-Chorus Transition Fill",
+        "tip": "Three beats of verse, a 1-beat tom pickup (high-high-floor-floor), then crash + snare + kick landing the chorus. The discipline is dynamic: all four pickup 8ths at the <em>same</em> volume, no crescendo into the crash. The crash is the loud moment — don't spend it early."
+      },
+      {
+        "title": "4 — Full 4-Bar Form: Verse, Verse, Fill, Chorus",
+        "tip": "Bars 1–2: verse cross-stick. Bar 3: verse for three beats, tom pickup on the fourth. Bar 4: chorus — crash, full snare, 8th hat. Loop it several times and you're alternating verse and chorus for real: this is arrangement playing, not pattern playing."
+      }
+    ]
+  },
+  "rock-tom-grooves": {
+    "tagline": "When the toms — not the snare — carry the groove",
+    "bodyHtml": "\n      <p>Most rock grooves put the snare on 2 and 4. <strong>Tom-driven grooves</strong> are the exception: the backbeat lives on the toms, the snare is either absent or relegated to ghost-note duty, and the resulting texture is more atmospheric, more cinematic, and (often) more menacing than a normal rock groove can ever sound. Phil Collins's <em>In the Air Tonight</em> is the obvious touchstone — that song's drum groove is essentially a tom-and-kick pattern that <em>becomes</em> a fill at a famous moment. But the trick is everywhere: in U2's atmospheric verses, in modern indie rock that wants to sound dramatic, in any drum part that needs to feel <em>tribal</em>.</p>\n      <p>The lesson here is voicing — getting the listener's ear off the snare line and onto the toms. The notation keeps the snare in its usual middle space when the snare is present, and moves most of the rhythmic activity onto the toms around it: high tom in the top space (<em>e/5</em>), mid tom on the fourth line (<em>d/5</em>), floor tom in the second space from the bottom (<em>a/4</em>). Volume balance matters: a tom groove with the snare suddenly louder destroys the illusion. Ghost snares should be barely audible against the tom hits.</p>\n      <p>The third exercise is the structural trick that powers <em>In the Air Tonight</em> and a hundred imitators: a descending tom phrase that's ambiguous — is it a fill, or is it the groove? The answer is yes. When the same tom phrase repeats every bar, it stops being a fill and becomes the song's actual time-keeping. That blurring of fill-and-groove is one of rock's most powerful textural moves.</p>\n    ",
+    "graduationCriteria": [
+      "Tom-and-kick-only groove (Ex 1) holds at ♩=88 — toms are the backbone, not decoration",
+      "Tom groove with snare ghosts (Ex 2) — ghost notes are quieter than the toms by a clear margin",
+      "\"In the Air\"-style fill-as-groove (Ex 3) — the canonical tom descent fits cleanly into a 1-bar phrase",
+      "Tribal 4-bar pattern (Ex 4) phrases as one long idea, not four separate bars"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tom-and-Kick Groove (No Snare)",
+        "tip": "Floor tom on 1 and 3, high tom on 2 and 4 — the toms are now the backbeat. Hi-hat fills the offbeats softly. No snare anywhere. The texture is recognizably <em>not</em> a normal rock groove; it sounds primitive, tribal, threatening — depending on the kit's tuning, anywhere from cinematic underscore to ritual percussion. Hit the toms full-volume; if they're too quiet the groove sounds like a fill in search of a home."
+      },
+      {
+        "title": "2 — Tom Groove with Snare Ghosts on 2 and 4",
+        "tip": "The high-tom hits on 2 and 4 pick up a doubled ghost snare — a little crack under the tom, never in front of it. Pass/fail is the balance: if the snare rises above the toms, it turns back into a rock backbeat with tom decoration."
+      },
+      {
+        "title": "3 — \"In the Air\"-Style Fill-as-Groove",
+        "tip": "Snare on 1, hi tom on 2, mid tom on 3, floor tom on 4 — two strokes each, kick on 1 and 3, no hi-hat anywhere. Play the descent loud and deliberate; it has to feel inevitable every bar for the fill-or-groove ambiguity to land."
+      },
+      {
+        "title": "4 — 4-Bar Tribal Pattern",
+        "tip": "Bars 1–2 establish floor-hi-mid-floor; bar 3 reorders it (floor-mid-hi-mid); bar 4 sweeps the whole kit downward. Kick on every beat throughout — pure pulse under the tom melody. Phrase it as one four-bar sentence resolving in bar 4, not four separate ideas."
+      }
+    ]
+  },
+  "rock-half-time": {
+    "tagline": "Snare on 3 — when a 4-bar phrase feels like 2",
+    "bodyHtml": "\n      <p>A <strong>half-time feel</strong> moves the backbeat. Instead of snare on 2 <em>and</em> 4, you play snare only on <em>3</em>. The pulse hasn't changed — the metronome is still clicking at the same tempo — but the groove suddenly feels half as fast, because the listener perceives the snare hits as the backbeats and there's now only one of them per bar. A 4-bar phrase ends up <em>feeling</em> like a 2-bar phrase that's been stretched out.</p>\n      <p>Half-time is the rock drummer's tempo-inflation device. You hear it under chorus drops in arena rock (when the band wants to feel huge without slowing down), under bridges in pop-rock, and as the default groove in most hip-hop-influenced rock. The \"Fool in the Rain\" / \"Forty Six &amp; 2\" approach: same BPM, half the apparent speed.</p>\n      <h2 class=\"section-label\">The Three Things to Watch</h2>\n      <ul class=\"bulleted\">\n        <li><strong>The kick should feel sparser, not faster.</strong> Don't compensate for the missing snare by stuffing kicks underneath. Let the bar breathe.</li>\n        <li><strong>Hi-hat subdivision can stay where it was</strong> (8ths or 16ths) — the snare displacement does the work.</li>\n        <li><strong>The transition is the hard part.</strong> Going from full-time to half-time has to land on the downbeat of the new section. Practice the change explicitly.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Half-time groove (snare on 3 only) holds at ♩=100 for 2 minutes without drifting back to a 2-and-4 backbeat",
+      "16th hi-hat under the half-time snare stays even — the snare on 3 does not pull the hat",
+      "Transition from full-time to half-time arrives cleanly on a downbeat, not mid-bar",
+      "The half-time bar feels half as fast as the full-time bar at the same tempo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Half-Time Groove",
+        "tip": "Snare on <em>3</em> only — no snare on 2. Kick on 1 and 4. The metronome is still clicking at ♩=100, but the groove will feel like ♩=50. Don't rush to fill the space where the 2 used to be; the emptiness is the entire point of the half-time feel."
+      },
+      {
+        "title": "2 — Sparser Kick (Every Other Beat 1)",
+        "tip": "The bar gets a kick only on the <em>1</em>; the snare arrives on <em>3</em>; everything else is hi-hat and air. Two bars of this is the sparsest credible rock groove. Resist the urge to add anything. The space <em>is</em> the music."
+      },
+      {
+        "title": "3 — Half-Time with 16th Hi-Hat",
+        "tip": "16th notes on the hi-hat under a half-time backbeat. The dense hat texture <em>against</em> the long-wavelength snare on 3 is what gives this groove its tension. Drop the tempo to ♩=80 — half-time at this BPM with 16th hats is a mid-tempo modern-rock staple."
+      },
+      {
+        "title": "4 — Transition: Full-Time to Half-Time",
+        "tip": "Two bars: bar 1 is regular rock (snare on 2 and 4), bar 2 is half-time (snare on 3 only). The transition has to <em>land</em> on the downbeat of bar 2. Loop this until the change feels like a deliberate move, not a stumble. This is the move that turns a verse into a chorus drop."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Houses of the Holy",
+        "note": "The half-time chorus moves here are the template — stadium-scale without speeding up."
+      },
+      {
+        "artist": "Danny Carey",
+        "work": "Tool — Ænima",
+        "note": "Full-time and half-time alternate as a structural device, not a feel change."
+      },
+      {
+        "artist": "Foo Fighters",
+        "work": "The Color and the Shape",
+        "note": "Taylor Hawkins uses the half-time chorus as standard arena-rock vocabulary."
+      }
+    ]
+  },
+  "rock-train-beat": {
+    "tagline": "The chugging-locomotive feel of country and rockabilly",
+    "bodyHtml": "\n      <p>The <strong>train beat</strong> is what country, rockabilly, and Western swing call a basic groove. The snare doesn't just play 2 and 4 — it plays an unbroken stream of 8th notes, while the bass drum chugs underneath in the same rhythm. The result is a continuous percussive shuffle that sounds like a steam locomotive at speed: <em>chuck-a chuck-a chuck-a chuck-a</em>. The accents on 2 and 4 are still there, just louder snare hits inside an already-active stream.</p>\n      <p>It's a deceptively demanding groove. The right hand is doing nothing fancy, but it's <em>moving constantly</em> — and the volume gradient between the loud backbeat snare and the soft \"in-between\" snare is what separates a real train beat from a flailing 8th-note exercise. With brushes, the same pattern becomes the heart of country swing: a sustained <em>swish-swish</em> with the backbeats popping out of the texture.</p>\n      <h2 class=\"section-label\">The Sticking Question</h2>\n      <p>Most train beats are played hands-only on the snare, alternating sticks. A common shorthand: <em>R</em> hits snare and accents 2 and 4, <em>L</em> hits snare on the off-beats, and the bass drum doubles certain hits. Other drummers spread the kicks and snares between hands and foot. We'll notate the canonical version: snare on every 8th, with the backbeat accents marked.</p>\n    ",
+    "graduationCriteria": [
+      "Continuous 8th-note snare-and-kick alternation holds at ♩=120 for 2 minutes without flam-ing",
+      "Backbeat accent on 2 and 4 is clearly louder than the in-between snare hits",
+      "Brushed version maintains a continuous sweep — not just stick taps with brushes",
+      "2-bar variation lands fills/breaks on the bar without the train pulse stuttering"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Train Beat (8th-Note Snare Stream)",
+        "tip": "Both sticks alternate on the snare in continuous 8ths. The accents on the <em>R</em> on beats 2 and 4 are the backbeats — those need to be clearly louder than the unaccented in-between hits. Aim for a 3-to-1 volume ratio. Bass drum chugs on 1 and 3 underneath. <em>Chuck-a-chuck-a chuck-a-chuck-a.</em>"
+      },
+      {
+        "title": "2 — Train Beat with Brushes",
+        "tip": "Same notation, different tool. Switch to brushes. The <em>R</em> hand <em>taps</em> the head on the accents (2 and 4); the <em>L</em> hand <em>sweeps</em> a continuous circle on the head, brushing past on every off-beat. The result is a sustained swish with backbeats popping out — the country-shuffle sound under almost every Hank Williams or Patsy Cline track."
+      },
+      {
+        "title": "3 — \"Folsom Prison\" Feel",
+        "tip": "A canonical country-train hybrid: hi-hat picks up the <em>downbeats</em>, snare picks up the <em>off-beats</em>, with a heavy backbeat accent landing on 2 and 4 (snare and hi-hat together). The <em>boom-chick-a</em> of classic outlaw-country drumming. Tempo sits in the 100–110 range — fast enough to chug, slow enough to feel like a freight train, not a bullet train."
+      },
+      {
+        "title": "4 — 2-Bar Train Pattern with Pickup",
+        "tip": "Bar 2 ends with the train pulse moving from snare onto the floor tom for beat 4 — a tom pickup that announces the next section. The chugging never stops; only the destination drum changes. Practice this two-bar loop until the floor-tom move feels like a natural punctuation, not an interruption."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "W.S. Holland",
+        "work": "Johnny Cash — At Folsom Prison",
+        "note": "The 1955 Sun original had no drummer at all: Cash imitated a snare by strumming with a piece of paper wedged under his guitar strings. Track 1 here is the same song taken faster with a real kit behind it, so play the two back to back and hear what the drums are actually doing."
+      },
+      {
+        "artist": "Willie Cantu",
+        "work": "Buck Owens and His Buckaroos — Carnegie Hall Concert",
+        "note": "Owens called his own sound freight-train music, which is a fair label to test against this 1966 live set. Go to \"I've Got a Tiger By the Tail\" at track 12 and follow the snare instead of the Telecaster: the rhythm section, not the guitar, is where the Buckaroos' rock energy comes from."
+      },
+      {
+        "artist": "Bernie Dresel",
+        "work": "Brian Setzer Orchestra — The Dirty Boogie",
+        "note": "Setzer's rockabilly songbook rescored for a 13-piece horn section, the opposite arranging choice from the Cash and Owens picks above. Play \"Rock This Town\" at track 8 and listen for how much of the drive still comes off the snare once a big band is carrying the tune."
+      }
+    ]
+  },
+  "rock-linear-fills": {
+    "tagline": "Fills built from never-overlapping cells — the Vinnie / Gadd influence",
+    "bodyHtml": "\n      <p>A <strong>linear fill</strong> is a fill in which no two limbs ever play simultaneously. Each note is a <em>single voice</em> — snare, then kick, then snare, then tom, etc. There are no chords, no hand-foot doubles, no flams. Every note has its own slot.</p>\n      <p>The constraint sounds limiting, but it's actually generative. Because no notes overlap, linear vocabulary places extreme weight on <em>which limb plays which subdivision</em> — and that produces the unmistakable Vinnie Colaiuta / Steve Gadd / Dave Weckl fill sound that spilled out of the LA studio scene in the '80s and reshaped rock fill vocabulary forever. By the late '80s every progressive-rock and pop drummer had absorbed at least the basic linear cells.</p>\n      <h2 class=\"section-label\">Reading the Cells</h2>\n      <p>Linear cells are usually labeled by their sticking, with <em>K</em> standing for kick:</p>\n      <ul class=\"bulleted\">\n        <li><strong>RLRK</strong> — right snare, left snare, right snare, kick. Four 16ths, one beat.</li>\n        <li><strong>RLKL</strong> — right snare, left snare, kick, left snare. Note the kick in slot 3.</li>\n        <li><strong>RKRL</strong> — right snare, kick, right snare, left snare. Kick anticipates.</li>\n        <li><strong>KLRL</strong> — kick first, then three hand notes.</li>\n      </ul>\n      <p>Memorize three or four cells and you can build any linear fill by chaining them.</p>\n    ",
+    "graduationCriteria": [
+      "A single 1-beat linear cell (RLRK or RLKL) loops cleanly at ♩=100",
+      "4-beat linear fill executes without two limbs hitting at the same time (the linear definition)",
+      "Orchestrated linear fill keeps voice-leading continuous across snare, toms, kick",
+      "2-bar linear bridge fits between two backbeat bars without disturbing the time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — One-Beat Linear Cell (RLRK)",
+        "tip": "Repeat the cell <em>RLRK</em> four times — one cell per beat for four beats. The hands play three 16ths, the kick plays the fourth. <em>No two limbs ever overlap</em>. Internalize this one cell first; everything else in linear fills builds on it."
+      },
+      {
+        "title": "2 — 4-Beat Linear Fill (Mixed Cells)",
+        "tip": "Four beats, four different linear cells. The kick walks <em>backward</em> through the bar — slot 4 of beat 1, slot 3 of beat 2, slot 2 of beat 3, slot 1 of beat 4. That metric displacement is the entire trick: same hand stream, but the foot's position inside the cell changes every beat. Practice slowly; the displacement is not optional."
+      },
+      {
+        "title": "3 — Orchestrated Linear Fill (Around the Kit)",
+        "tip": "Same linear architecture as Exercise 2, but the hands now <em>orchestrate</em> across the kit — snare → hi tom → mid tom → floor tom. The fill walks down the kit pitch-wise while the kick continues to fill the linear gaps. This is the Vinnie / Gadd vocabulary: linear cells projected onto the toms. Resolve onto the floor tom and let the next downbeat be the crash."
+      },
+      {
+        "title": "4 — 2-Bar Linear Bridge",
+        "tip": "Bar 1 establishes the time. Bar 2 is the linear fill — two bars of <em>RLRK</em> on the snare, then orchestrated onto the toms for beats 3 and 4. The kick continues to land in slot 4 of each beat throughout the fill. The fill is <em>structurally</em> the same all the way through; only the destination drum changes. Loop the two bars and let the fill become a habit, not a calculation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja (title track)",
+        "note": "The track has three drum breaks: two inside Wayne Shorter's tenor solo and one long finale, built from hand-to-foot triplets, offbeat hertas and hi-hat barks, some of it linear. Listen for the hi-hat pedal closing off the sixteenth-note triplet figures, and for the funk samba the fade settles into."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — Joe's Garage (The Central Scrutinizer)",
+        "note": "The opening track is one four-bar vamp with the narration dubbed on afterward, so underneath it the rhythm section is improvising over a figure that never changes. Listen to how the fills get orchestrated across the two toms while the bass drum keeps shifting around beat 3."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — Back to Oakland",
+        "note": "The album opens and closes with \"Oakland Stroke\", a groove built deliberately without a backbeat on 2 and 4. Listen for the snare, hi-hat and bass drum interlocking into one sixteenth-note figure instead of a backbeat laid over a steady hand."
+      }
+    ]
+  },
+  "rock-double-time": {
+    "tagline": "Snare on every off-beat — when the band shifts up a gear",
+    "bodyHtml": "\n      <p>If half-time stretches a bar, <strong>double-time</strong> compresses two bars into one. The snare moves to <em>every off-beat</em> — the \"&amp;\" of 1, 2, 3, and 4 — and the apparent tempo doubles even though the metronome hasn't moved. Where the half-time feel says \"we're getting bigger,\" the double-time feel says \"we just kicked into a higher gear.\"</p>\n      <p>Double-time is a structural device. It shows up in punk and pop-punk (where it's basically the default chorus feel), in modern rock (as the bridge or final-chorus lift), and in fusion (as a metric-modulation tool). The same drummer can run a verse in regular rock time, a chorus in half-time, and a bridge in double-time — three different perceived tempos, one fixed metronome.</p>\n      <h2 class=\"section-label\">The Confusion to Avoid</h2>\n      <p>Double-time is <em>not</em> the same as playing 16th-note hi-hat or doubling your kicks. Those add density. Double-time changes the <em>backbeat position</em>: instead of snare on 2 and 4 (two backbeats per bar), you get snare on every off-beat (four backbeats per bar). That's the perceptual shift.</p>\n    ",
+    "graduationCriteria": [
+      "Double-time groove (snare on 1.5, 2.5, 3.5, 4.5) holds at ♩=90 for 2 minutes without the snare drifting onto the downbeats",
+      "16th-hat-plus-double-time-snare combination locks at ♩=85",
+      "Punk-rock variation (snare on every &) sustains at ♩=130",
+      "Half-time-to-double-time transition lands cleanly on the bar"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Half-Time Bar → Double-Time Bar",
+        "tip": "The contrast bar. Bar 1 is half-time — sparse, breathing, snare on 3. Bar 2 is double-time — snare on every <em>&amp;</em>, kick on every downbeat. The metronome stays at ♩=95 the entire time; only the perceived tempo changes. Loop the two bars and feel how the second bar <em>rushes</em> against the first one without actually being faster."
+      },
+      {
+        "title": "2 — 16th Hi-Hat + Double-Time Snare",
+        "tip": "16th notes on the hi-hat, snare on the <em>&amp; of 1</em> and the <em>&amp; of 3</em> — the simplest double-time pattern. Tempo drops to ♩=85 because the texture is dense. Notice the snare doesn't land on the downbeats — it sits in the middle of each half-bar. That displacement is what creates the double-time perception."
+      },
+      {
+        "title": "3 — Punk Rock Double-Time",
+        "tip": "Snare on every <em>&amp;</em>, kick on every downbeat. Tempo: ♩=130 — fast enough that the snare hits start to <em>blur into</em> the beats they sit between. This is the canonical pop-punk / hardcore feel: maximum forward motion in the simplest possible package. Lock in and don't let the snare drift toward the downbeats."
+      },
+      {
+        "title": "4 — Transition Phrasing (Regular → Double-Time)",
+        "tip": "Bar 1 sits in regular rock time (snare on 2 and 4). Bar 2 jumps into double-time (snare on every <em>&amp;</em>). The transition has to feel <em>intentional</em>, not panicked — the band hears it as a deliberate gear shift. Practice landing the first double-time snare exactly on the <em>&amp; of 1</em> in bar 2 with no hesitation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Taylor Hawkins",
+        "work": "Foo Fighters — Wasting Light",
+        "note": "Listen for how the choruses are built on the move between regular and double-time rather than on a tempo change."
+      },
+      {
+        "artist": "Tré Cool",
+        "work": "Green Day — American Idiot",
+        "note": "The pop-punk double-time every band you'll ever join expects you to know: uptempo, snare on every off-beat, kick on every down."
+      },
+      {
+        "artist": "Brad Wilk",
+        "work": "Rage Against the Machine — Rage Against the Machine",
+        "note": "Double-time works as a chorus accelerator here without the metronome ever changing."
+      }
+    ]
+  },
+  "rock-stadium-anthem": {
+    "tagline": "Big toms, crash on every 1, less-is-more arena drumming",
+    "bodyHtml": "\n      <p><strong>Stadium drumming</strong> is the discipline of sounding huge while playing almost nothing. The U2 / Coldplay / Imagine Dragons school: a basic backbeat, but with every choice — kit tuning, cymbal placement, which beat the crash lands on, how often the toms appear — calibrated for <em>scale</em>. The drum part has to fill an arena without competing with the vocal.</p>\n      <p>The vocabulary is small. Big tom builds (four quarter-note toms in a row before the chorus). Crash on every \"1\" of the chorus. Sparse, heavy backbeat. Open hi-hat as a structural marker, not a decoration. Sometimes the bridge drops out entirely and comes back with a single floor-tom hit.</p>\n      <h2 class=\"section-label\">The Discipline</h2>\n      <p>Less is more isn't a slogan here — it's a structural rule. If the song reaches the chorus and the drummer plays a fill instead of a crash on 1, the chorus loses its altitude. Your job is to make the band sound like the song is being beamed in from a satellite. Every gesture has to count.</p>\n    ",
+    "graduationCriteria": [
+      "Anthem groove (kick + crash on 1, snare on 2 and 4) holds with conviction at ♩=110",
+      "Quarter-note tom build is even — no tom is louder or earlier than the others",
+      "Crash + kick on every 1 across a 4-bar chorus form is consistent in volume",
+      "4-bar arena form (verse → tom build → chorus) lands cleanly without anticipation"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Anthem Groove",
+        "tip": "Looks like a basic backbeat — and it is. The difference is the <em>open hat</em> on the <em>&amp; of 4</em> at the end of every bar. That open-hat sustain bleeds into the next bar's downbeat and is the single most identifying feature of stadium-rock drumming. Played at conviction, this is most of U2's catalogue."
+      },
+      {
+        "title": "2 — The Tom Build (4 Quarter-Note Toms)",
+        "tip": "Four loud quarter-note toms — hi, mid, floor, floor — with the kick following each one. The Phil-Collins-style tom build that announces the chorus. <em>Even</em> is the entire game: no tom should be louder, earlier, or later than the others. Practice this against a click for two minutes; if any tom drifts, start over."
+      },
+      {
+        "title": "3 — Chorus: Crash on Every 1",
+        "tip": "Every bar's <em>1</em> gets a crash and a kick — the rest of the bar is the regular backbeat. Notation: the accent on slot 1 of each bar represents a crash + snare unison stab. In an arena context, that crash on every downbeat is what the back row hears. Don't be subtle. Two bars of this is the chorus."
+      },
+      {
+        "title": "4 — 4-Bar Arena Form (Verse → Build → Chorus)",
+        "tip": "The full arena-rock form in four bars: verse-verse-build-chorus. Bars 1-2 are the verse (sparse, breathing). Bar 3 is the tom build (4 loud quarter-note toms). Bar 4 is the chorus arrival with the crash on 1. Loop the four bars. This is the structural unit of half of every stadium-rock recording from 1985 to today."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Larry Mullen Jr.",
+        "work": "U2 — The Joshua Tree",
+        "note": "Floor-tom weight under the choruses and almost no fills — that restraint is what makes it fill a stadium. Study how few notes he adds each time the song lifts."
+      },
+      {
+        "artist": "Will Champion",
+        "work": "Coldplay — Viva la Vida or Death and All His Friends",
+        "note": "Sparse, structural parts built for stadium scale: on the title track the kit is stripped to a kick drum, a bell and a little timpani. Listen for how much space is left around every hit."
+      },
+      {
+        "artist": "Imagine Dragons",
+        "work": "Night Visions",
+        "note": "Daniel Platzman — the modern descendent of U2-school anthem drumming, with electronic textures layered in."
+      }
+    ]
+  },
+  "rock-prog": {
+    "tagline": "Bonham, Bruford, Peart — the kit as orchestra",
+    "bodyHtml": "\n      <p>Prog rock is what happens when rock drummers learn to read music. The vocabulary is built on four pillars — Bonham's <strong>heavy foot</strong>, Bruford's <strong>asymmetric phrasing</strong>, Peart's <strong>surgical fills</strong>, and Carl Palmer's <strong>hand-foot interplay</strong> — and a generation of progressive players synthesised them into something the rock kit had never produced before. The kit became an orchestra: every drum and cymbal had its own role, and fills became composed phrases instead of generic 4-beat punctuation.</p>\n      <p>This lesson installs one signature device from each of those four pillars. None is the entire vocabulary; together they sketch the shape of it.</p>\n      <h2 class=\"section-label\">The Four Pillars</h2>\n      <ul class=\"bulleted\">\n        <li><strong>The heavy foot (Bonham)</strong> — kick triplets inside an otherwise normal rock groove. The 8th-note triplet stuffed into a single beat that turned hard rock into something else entirely.</li>\n        <li><strong>Asymmetric phrasing (Bruford)</strong> — the snare leaves the 2-and-4 grid. It might land on 1.5 + 4, or 2 + 4.5, or any other arrangement that breaks the listener's expectation while staying in 4/4.</li>\n        <li><strong>Composed fills (Peart)</strong> — fills as miniature compositions, orchestrated across the entire kit, with each note placed deliberately rather than improvised.</li>\n        <li><strong>Hand-foot interplay (Palmer)</strong> — phrases that move between hands and feet as if they were a single instrument: <em>R-L-K-K</em>, or <em>R-K-L-K</em>, or longer chains.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Triplet-kick groove (the heavy-foot vocabulary) holds at ♩=85 for 2 minutes without the foot triplets dragging",
+      "Asymmetric snare phrase (snare on 1.5 + 4.5) loops without resolving back to a 2-and-4 reflex",
+      "Around-the-kit fill orchestrates across snare + 3 toms with no flam-ing on landings",
+      "Hand-foot combination (R-L on snare, K-K on kick) sustains as a 4-beat phrase"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bonham Triplet-Kick Groove",
+        "tip": "A regular rock groove on top — snare on 2 and 4, hi-hat 8ths. Underneath, the kick plays a quarter note on beat 1, rests on beat 2, then explodes into <em>two beats of 8th-note triplets</em> across beats 3 and 4. Six kick hits stuffed into the back half of the bar. The Bonham heavy-foot signature. The triplets must stay <em>inside</em> the beat — don't accelerate."
+      },
+      {
+        "title": "2 — Bruford Asymmetric Phrase",
+        "tip": "Snare on the <em>&amp; of 1</em> and the <em>&amp; of 4</em> — not on 2 and 4 at all. The bar has two snare hits but they're displaced from the expected positions. The listener's ear keeps trying to hear them as 2 and 4 and the music keeps refusing. Bruford built whole tracks around this kind of perceptual misalignment. Hold the displacement; do not resolve back to 2-and-4."
+      },
+      {
+        "title": "3 — Peart-Style Composed Fill",
+        "tip": "Bar 2 is a 16th-note fill that walks <em>twice</em> around the kit: snare-snare → hi-hi → mid-mid → floor-floor (beats 1-2), then hi-mid-floor-floor (beat 3), then snare-hi-mid-floor (beat 4). Three different orchestrations of \"down the kit\" in one bar. This is the Peart approach: the fill is <em>composed</em>, not improvised. Memorize it as a phrase."
+      },
+      {
+        "title": "4 — Carl Palmer Hand-Foot Combination",
+        "tip": "Each beat: <em>R-L-K-K</em> (right snare, left snare, kick, kick) in continuous 16ths. The hands play the front half of each beat; the feet play the back half. Four beats, sixteen 16ths, no overlap. This is the Palmer hand-foot signature — the kit treated as a single instrument that hands and feet share equally. Lock the limbs into their slots and don't let them drift."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Physical Graffiti",
+        "note": "\"In My Time of Dying\" and \"Kashmir\" are heavy-foot triplet vocabulary at full scale."
+      },
+      {
+        "artist": "Bill Bruford",
+        "work": "Yes — Close to the Edge",
+        "note": "The asymmetric phrasing is the texture of the entire record."
+      },
+      {
+        "artist": "Neil Peart",
+        "work": "Rush — Moving Pictures",
+        "note": "The fills on \"YYZ\" and \"Tom Sawyer\" are composed rather than improvised, and sit in the arrangement like hooks."
+      },
+      {
+        "artist": "Carl Palmer",
+        "work": "Emerson, Lake & Palmer — Brain Salad Surgery",
+        "note": "Hand-foot interplay across orchestral-scale arrangements."
+      }
+    ]
+  },
+  "rock-odd-meter": {
+    "tagline": "5/4, 7/8, 9/8, 13/8 — when rock leaves 4/4 behind",
+    "bodyHtml": "\n      <p>Rock in odd meters isn't fusion in odd meters. The phrasing has to remain <em>recognisable</em> — there's still a backbeat, still a riff, still a chorus. The drummer's job is to let an asymmetric meter feel like a groove rather than a math exercise. Pink Floyd's \"Money\" is in 7/4 but it never sounds like an experiment; Tool's \"Schism\" cycles through multiple odd meters and still feels like a song.</p>\n      <p>The technique is the same as it is in fusion odd meters: feel the meter as <em>groupings</em>, not as a count. 5/4 = 3+2. 7/8 = 2+2+3. 9/8 = 2+2+2+3. 13/8 = 4+4+3+2 or 3+3+3+2+2 depending on the band. Once the grouping is internalized, the meter stops being odd and starts being shaped.</p>\n      <h2 class=\"section-label\">Metric Modulation</h2>\n      <p>The fourth exercise introduces <strong>metric modulation</strong> — a tempo-mathematical shift where a subdivision in one meter becomes the new beat in another. The 8ths of a 4/4 bar at ♩=100 become the quarter notes of a new section at ♩=200. Done well, it sounds like the band has changed gears smoothly. Done badly, it sounds like a car crash. We'll do a simple version: 4/4 to 5/4 with the quarter note staying constant.</p>\n    ",
+    "graduationCriteria": [
+      "5/4 (3+2) rock groove holds at ♩=100 for 2 minutes without losing the grouping",
+      "7/8 (2+2+3) rock groove keeps the long group at the end clearly distinct from the two short groups",
+      "9/8 (2+2+2+3) loops without the bar collapsing into 8/8 or 10/8",
+      "Metric modulation between 4/4 and 5/4 lands cleanly on the bar with no hesitation"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 5/4 Rock Groove (3+2 like \"Money\")",
+        "tip": "Feel five as <em>3 + 2</em>, counting <em>1-2-3 / 1-2</em> out loud. Snares land on beat 2 (inside the three-group) and beat 4 (the start of the two-group). The three-group settles; the two-group lifts you back to the top. When the count disappears, it's a groove."
+      },
+      {
+        "title": "2 — 7/8 Rock Groove (2+2+3)",
+        "tip": "Seven 8ths per bar, grouped <em>2 + 2 + 3</em>. Snare on the 3rd 8th (start of the second group) and on the 7th 8th (end of the long group). Kick on the 1st and 5th. Count <em>1-2 / 3-4 / 5-6-7</em>. Don't speed through the long group — the 3 at the end is what makes the meter <em>feel</em> like 7 instead of like a clipped 8."
+      },
+      {
+        "title": "3 — 9/8 Rock Groove (2+2+2+3)",
+        "tip": "Nine 8ths grouped <em>2 + 2 + 2 + 3</em> — three short groups, then one long. Snare on the 3rd, 5th, and 9th 8ths. Count <em>1-2 / 3-4 / 5-6 / 7-8-9</em>. The bar has the same shape as 4/4 plus an extra 8th tacked onto the end. Many prog tracks use 9/8 as exactly that: 4/4 with a hiccup."
+      },
+      {
+        "title": "4 — Metric Modulation: The 4/4 Bar",
+        "tip": "<strong>Bar 1 of the modulation</strong> — a regular 4/4 rock bar at ♩=100. After this bar, the <em>quarter note remains the same</em> but the meter shifts to 5/4 (use Exercise 1 for the 5/4 bar). Practice these two exercises back-to-back as a single 9-beat phrase: four quarters of 4/4, then five quarters of 5/4. The metronome never changes; only the bar length does. <em>That</em> is metric modulation in its simplest form."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Nick Mason",
+        "work": "Pink Floyd — The Dark Side of the Moon",
+        "note": "\"Money\" runs in 7/4, and the seven-beat loop of coins and cash register lays that length out over the opening bars. The song drops to 4/4 for the guitar solo, so play those two sections back to back to hear what the extra beats were doing."
+      },
+      {
+        "artist": "Danny Carey",
+        "work": "Tool — Lateralus",
+        "note": "\"Schism\" opens with two bars of 5/4 and a bar of 4/4, then settles into bars that alternate 5/8 and 7/8. The meter keeps shifting after that, so count one 5 and one 7 to feel the pair, then follow the bass line instead of the count."
+      },
+      {
+        "artist": "Neil Peart",
+        "work": "Rush — Moving Pictures",
+        "note": "The \"Tom Sawyer\" mid-section rides 7/8 without losing the head-nod. Count it once, then stop counting and feel where it turns around."
+      }
+    ]
+  },
+  "rock-hybrid-grooves": {
+    "tagline": "Rock that borrows from funk, jazz, and Latin",
+    "bodyHtml": "\n      <p>By the 2000s, the line between rock and the other rhythm-section traditions had been crossed in every direction. The post-rock / Snarky Puppy / Vulfpeck / Punch Brothers generation grew up listening to all of them simultaneously, and the <strong>hybrid groove</strong> became a vocabulary of its own — a rock backbeat with funk's ghost-note micro-dynamics, a jazz ride pattern with a rock-style kick, a Latin clave with a rock 2-and-4. None of the source styles is being played purely; they're <em>elements</em> contributing to a single texture.</p>\n      <p>This lesson installs three two-genre hybrids and then a four-bar phrase that combines all three. The discipline is keeping each contributing tradition recognisable while letting the <em>rock backbeat</em> remain the structural anchor.</p>\n      <h2 class=\"section-label\">The Three Hybrids</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Rock-funk</strong> — rock backbeat with funk-style 16th-note ghost notes between the loud snares. The hardest rock + softest snare in one groove.</li>\n        <li><strong>Rock-jazz</strong> — jazz ride pattern (with the swung skip-note) over a straight rock kick and snare. The hands swing, the feet rock.</li>\n        <li><strong>Rock-Latin</strong> — son clave played on cross-stick over a basic rock kick. The clave provides the syncopated phrasing; the kick provides the pulse.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Rock-funk hybrid (rock backbeat + 16th-note ghost notes) holds at ♩=95",
+      "Rock-jazz hybrid (ride pattern with rock backbeat) holds without the swing collapsing into straight 8ths",
+      "Rock-Latin hybrid (clave on cross-stick + rock kick) loops cleanly",
+      "4-bar form combining all three textures lands cleanly on each bar transition"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rock-Funk Hybrid",
+        "tip": "Loud snare on 2 and 4 (accented). All other snare hits are <em>ghost notes</em> — barely audible. The texture is funk (16th hat, ghost notes everywhere) but the architecture is rock (heavy backbeat, straight kick on 1 and 3). Aim for a 4-to-1 volume ratio between accents and ghosts. The Vulfpeck / Snarky Puppy crossover sound."
+      },
+      {
+        "title": "2 — Rock-Jazz Hybrid",
+        "tip": "Jazz ride pattern (<em>ding · ding-a · ding · ding-a</em>, 8ths swung) on top, but a rock-style backbeat underneath — snare on 2 and 4, landing in unison with the ride, while the swung skip-notes on the <em>&amp;</em> of 2 and the <em>&amp;</em> of 4 stay ride-only. Kick on 1 and 3. The hands swing; the feet play straight rock. The result is a groove that feels jazz-influenced but locks into a rock chorus naturally. Don't let the swung 8ths straighten when the rock backbeat lands."
+      },
+      {
+        "title": "3 — Rock-Latin Hybrid (Son Clave + Rock Kick)",
+        "tip": "The snare-line notes are played as <em>cross-stick</em> (rim click), not full backbeats. Their positions trace son clave: 1, &amp;-of-2, 4 in bar 1; 2, 3 in bar 2. Underneath, the kick plays the simplest possible rock pulse. The clave provides the syncopated phrasing; the kick provides the rock anchor. Together they create the <em>rock-Latin</em> groove that runs through Santana, Los Lobos, and most modern Latin-rock crossover."
+      },
+      {
+        "title": "4 — 4-Bar Phrase Combining All Three",
+        "tip": "Bar 1 = rock-funk. Bar 2 = rock-jazz. Bar 3 = rock-Latin. Bar 4 = straight rock (the resolution). The kick stays on 1 and 3 throughout — that's the constant. Everything above changes texture every bar. The 4-bar form is its own composition: a tour through three crossover textures landing back on home base. This is the modern post-rock vocabulary."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — We Like It Here",
+        "note": "He learned most of this material on the flight to Utrecht, and the band cut it live over four nights in front of a studio audience with no overdubs. Start with 'Lingus' and follow what the kit does under Cory Henry's synth solo, where the rhythm section lifts every time Henry turns a corner."
+      },
+      {
+        "artist": "Vulfpeck",
+        "work": "The Beautiful Game",
+        "note": "Theo Katzman — rock-funk hybrid where the ghost notes are the entire personality."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja (title track)",
+        "note": "The chart breaks into roughly two dozen sections and hands a one-minute tenor solo to Wayne Shorter, but it also leaves designated spots for the drummer to improvise. Those passages are the first drum solos on a Steely Dan record, so listen for where the written figures stop and the improvising starts."
+      }
+    ]
+  },
+  "rock-studio-polish": {
+    "tagline": "Tight 16ths, click discipline, and knowing when to subtract",
+    "bodyHtml": "\n      <p>Studio drumming is a craft separated from live drumming by one fact: <strong>the recording will be listened to a thousand times</strong>. Every choice — every fill, every kick, every ride bell — gets re-evaluated by the listener at every play. Anything self-indulgent becomes annoying after the third listen. Anything self-effacing becomes <em>part of the song</em> by the tenth.</p>\n      <p>The Hal Blaine / Steve Gadd / Vinnie Colaiuta studio tradition is an ethic: serve the song first, hide the technique, play to the click without sounding like you're playing to a click, subtract until what's left is irreducible, and never play a fill the singer has to talk over.</p>\n      <h2 class=\"section-label\">The Three Disciplines</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Click discipline.</strong> Holding tempo against a metronome for 16 bars without drifting is the entry-level studio test. Most working drummers fail it the first time they're tracked.</li>\n        <li><strong>Subtraction.</strong> The drummer's instinct is to add — to fill space, to mark sections, to ornament transitions. Studio thinking is the opposite. <em>What can be removed without making the song worse?</em></li>\n        <li><strong>Form awareness.</strong> The drum part is part of the arrangement, not on top of it. Knowing the difference between verse, pre-chorus, chorus, and bridge — and playing the difference — is the studio drummer's whole job.</li>\n      </ul>\n      <p>This lesson is half-conceptual. Three exercises only — the rest of the work is <em>recording yourself and listening</em>. There's no shortcut.</p>\n    ",
+    "graduationCriteria": [
+      "Basic backbeat at ♩=100 holds against a click for 16 bars with no audible drift (recorded and verified)",
+      "Identifies which bar is \"deliberately empty\" inside a 4-bar form on first listen",
+      "16-bar simulated form (verse → chorus → verse → chorus) lands every section change on the bar",
+      "Demonstrates measurable subtraction — fewer notes in version 2 than version 1, with the song unchanged"
+    ],
+    "exercises": [
+      {
+        "title": "1 — \"Perfect\" Backbeat for 16 Bars (The Studio Test)",
+        "tip": "Set a click at ♩=100. Record yourself playing this groove for <em>16 bars</em>. Then listen back. Are the snare hits exactly on the click? Are the hi-hat 8ths even — or do they accelerate after the snare? Does the kick land tight or a millisecond ahead? Most drummers fail this test the first time. <em>Fail it deliberately</em>, then fix what you hear. This is the studio entry exam."
+      },
+      {
+        "title": "2 — Subtraction: 4-Bar Phrase with One Empty Bar",
+        "tip": "Bars 1, 2, and 4 are the groove. Bar 3 is <em>silent</em> — only the hi-hat foot on 2 and 4. The drums drop out for one bar inside the four-bar phrase. This is the move every studio drummer eventually learns: the empty bar that makes the next downbeat land like an event. Practice this until the silence feels as confident as the playing — that's the actual exercise."
+      },
+      {
+        "title": "3 — 16-Bar Form Simulation (Verse → Chorus × 2)",
+        "tip": "Eight bars of a verse-chorus form. Bars 1-3 are verse (basic groove). Bar 4 is the fill into the chorus (snare-snare-snare-snare-tom-tom-tom-tom). Bars 5-7 are the chorus (crash on 1 of bar 5, then a fuller backbeat). Bar 8 returns toward the verse. Loop the 8 bars to make 16. <em>Record this</em> against a click. Listen back. Where did you drift? Where did you over-play? The answer is your homework for the next month."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Hal Blaine",
+        "work": "The Ronettes — Be My Baby",
+        "note": "The intro leaves the snare on beat 4 alone instead of 2 and 4, a pattern Blaine said came from dropping a stick and that Spector kept. Count how many fills he plays across the rest of the record."
+      },
+      {
+        "artist": "Rick Marotta",
+        "work": "Steely Dan — Peg",
+        "note": "Chuck Rainey's bass and the kick hold one pocket through the verses, and by Marotta's own account everything lifted when the chorus arrived. Follow those two parts together and mark exactly where the feel changes."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Toto IV",
+        "note": "The Africa groove is a one-bar tape loop cut from a live pass Porcaro played with Lenny Castro on congas, no click track. He picks the kit back up at the fill before each chorus and drops out again when the verse returns."
+      }
+    ]
+  },
+  "rock-dynamics": {
+    "tagline": "Verse pp, chorus mf, bridge ff — drumming the arrangement",
+    "bodyHtml": "\n      <p>The intermediate drummer plays the part. The advanced drummer plays the part with feel. The <em>expert</em> drummer plays the <strong>arrangement</strong> — and the arrangement, to a drummer, is mostly dynamics. Verse soft. Chorus medium. Bridge loud. The drummer who shapes the volume across the song's arc is doing more for the recording than any number of fills could.</p>\n      <p>Most drummers can play soft, and most can play loud. The skill is playing <em>the difference</em> reliably — landing each section at exactly the volume the song needs, on exactly the right bar, and holding it without drifting toward the middle.</p>\n      <h2 class=\"section-label\">The Six-Level Dynamic Spectrum</h2>\n      <p>Western music notation distinguishes six common levels: <em>ppp · pp · p · mf · f · ff (· fff)</em>. For the drummer, these correspond roughly to:</p>\n      <ul class=\"bulleted\">\n        <li><strong>ppp</strong> — fingers only, sticks barely moving, can't be heard from across the room.</li>\n        <li><strong>pp</strong> — wrists and fingers, sticks rising no more than 2-3 inches.</li>\n        <li><strong>p</strong> — wrists, normal stroke height (~6 inches).</li>\n        <li><strong>mf</strong> — full forearm, full backbeat snap.</li>\n        <li><strong>f</strong> — shoulders involved, sticks rising above the head.</li>\n        <li><strong>ff</strong> — entire body, gravity-assisted strikes, the loudest sustainable level before injury risk.</li>\n      </ul>\n      <p>The exercises below treat dynamics as the structural unit of practice. Don't think of them as variations of a groove; think of them as <em>the same groove played at different scales</em>.</p>\n    ",
+    "graduationCriteria": [
+      "Eight bars at pp hold consistent low volume — no accidental mf hits creeping in",
+      "Dynamic ladder (ppp → fff over 8 bars) demonstrates six audibly distinct levels",
+      "Verse-chorus dynamic shape lands the chorus at clearly higher volume than the verse, on the bar",
+      "Bridge \"build\" arrives at ff exactly at the bridge downbeat, not before, not after"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Eight Bars at pp",
+        "tip": "Eight bars at <em>pp</em> — sticks no more than 2–3 inches up, kick barely audible, backbeat a tap. The enemy is the creep toward <em>mf</em>: the snare starts to bite without you noticing. Check: bars 7 and 8 must be the same volume as bars 1 and 2."
+      },
+      {
+        "title": "2 — Dynamic Ladder: ppp → fff",
+        "tip": "One dynamic level per bar: <em>ppp</em> up through <em>fff</em>. The notation never changes — only the physical scale of motion does, from finger strokes to full-body strokes. Two checks: every bar audibly louder than the last, and bar 1 versus bar 8 sounding like two different drummers."
+      },
+      {
+        "title": "3 — Verse-Chorus Dynamic Shape (8 bars verse + 8 bars chorus)",
+        "tip": "Bars 1-3 are the verse — quiet, sparse kick (1 only), gentle backbeat. Bar 4 is the fill into the chorus. Bars 5-8 are the chorus — louder, accented backbeat, kick on 1 and 3. The transition has to land on the downbeat of bar 5: that crash is the chorus arrival. Practice so the dynamic <em>jump</em> is bigger than the difference in notation alone implies. Verse should sound like a different song from chorus."
+      },
+      {
+        "title": "4 — Build for the Bridge (8-bar Crescendo into ff)",
+        "tip": "Bars 1–2 at <em>mp</em>; 3–4 climb to <em>mf</em>; 5–6 reach <em>f</em> with snare on every quarter; bar 7 is the tom build; bar 8 arrives at <em>ff</em>. The arc must land <em>on</em> bar 8 — the discipline is holding <em>f</em> through bars 5–6 without letting the build spill into <em>ff</em> early."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Led Zeppelin IV",
+        "note": "\"Stairway to Heaven\" travels from no drums at all to ff across eight minutes. Map where each dynamic step lands."
+      },
+      {
+        "artist": "Pink Floyd",
+        "work": "The Wall",
+        "note": "Nick Mason — every album-side has at least one major dynamic build into a song's bridge or solo."
+      },
+      {
+        "artist": "Phil Selway",
+        "work": "Radiohead — OK Computer",
+        "note": "Modern rock dynamic mastery. Listen to how quietly the verses sit and how big the choruses arrive without the tempo ever lifting."
+      }
+    ]
+  }
+}

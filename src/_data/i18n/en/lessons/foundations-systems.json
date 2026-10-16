@@ -1,0 +1,738 @@
+{
+  "basic-coordination": {
+    "tagline": "Hands and feet, doing different things at once",
+    "bodyHtml": "\n      <p>The basic backbeat already has your hands and one foot doing different things. <em>Basic coordination</em> generalizes that — the same hi-hat pattern in your hands, with the kick drum landing on every possible position underneath. Each variation is its own coordination puzzle.</p>\n      <p>Order matters. Easy first (kick on every beat), harder later (kick on the offbeats only). Don't skip ahead — the muscle memory you build on the easy ones is what lets you play the hard ones.</p>\n      <h2 class=\"section-label\">When the Foot Breaks the Hands</h2>\n      <p>Watch for the stutter: hands running smoothly until the exact beat the foot enters, then a tiny hesitation. That beat is your practice target. Isolate it by playing just that one beat of the pattern (hand stroke plus kick together), freeze, reset, and repeat ten times before rejoining the full bar. Ten clean repetitions of the hard beat teach more than fifty loops that limp through it.</p>\n      <p>It also helps to sing the kick pattern before playing it: \"<em>boom, rest, boom, rest</em>\" against the click. A pattern your voice can place, your foot can usually find. If the leg burns on Ex 4, your heel is doing all the work — let the whole leg rock and the pedal rebound help you.</p>\n    ",
+    "graduationCriteria": [
+      "All 5 patterns playable without the hands hesitating when the foot moves",
+      "Kick on offbeats (Ex 5) holds stable — foot floats between hand strokes",
+      "Kick on every 8th (Ex 4) doesn't tire the leg in 30 seconds"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick on Every Beat (Hands and Foot in Sync)",
+        "tip": "Hi-hat 8ths in the hands, kick drum on every quarter beat. The hand and foot land together on each beat — there's no independence yet. Use this exercise to feel what total <em>sync</em> between hand and foot is like."
+      },
+      {
+        "title": "2 — Kick on 1 and 3",
+        "tip": "Foot rests on beats 2 and 4 while the hands keep going. First real independence: the hand keeps moving while the foot is still. Watch out for hesitation in the hands when the foot is silent."
+      },
+      {
+        "title": "3 — Kick on 2 and 4",
+        "tip": "The kick now lands where the snare normally would in a backbeat. Counter-intuitive but a great exercise — you're forcing the foot off the strong beats. If the hands rush, slow down."
+      },
+      {
+        "title": "4 — Kick on Every Eighth",
+        "tip": "Hands and feet now play 8ths in unison. Tempo dropped to ♩=70 because eight kicks per bar is a workout. Heel-up technique helps; don't muscle the foot."
+      },
+      {
+        "title": "5 — Kick on the Offbeats",
+        "tip": "Kick on the <em>&amp;s</em> only — every offbeat, never on the beat. This is the hardest of the five and the most rewarding. The pulse stays in your hands; the foot floats <em>between</em> the pulses. When this clicks, real independence has begun."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Joey Kramer",
+        "work": "Aerosmith — Walk This Way",
+        "note": "Syncopated kick under steady hands — exactly this lesson's Ex 5 problem solved at tempo. The foot floats; the hands never flinch."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Immigrant Song",
+        "note": "Driving hands with the kick working underneath in 16th figures. Coordination as aggression."
+      }
+    ]
+  },
+  "three-limb-patterns": {
+    "tagline": "The third limb is where coordination becomes real",
+    "bodyHtml": "\n      <p>A two-limb pattern is a conversation. A three-limb pattern is a small ensemble. Adding the third limb is the moment coordination stops being \"the kick under the hi-hat\" and starts being a texture — three independent voices, each holding their own line, none of them collapsing when another moves.</p>\n      <p>Three combinations cover almost everything you'll meet on a kit:</p>\n      <ul class=\"bulleted\">\n        <li><strong>Ride + hi-hat foot + snare</strong> — the jazz/ECM texture. Two hands and one foot, with that foot keeping time underneath.</li>\n        <li><strong>Hi-hat hand + kick + snare</strong> — the rock/funk texture. Two hands and one foot, snare on the backbeat.</li>\n        <li><strong>Ride + kick + hi-hat foot</strong> — the crossover/transition texture. One hand on the ride, both feet working underneath.</li>\n      </ul>\n      <p>Build them by isolating the pair first, then layering the third limb. If the pair you already own falls apart when the third limb enters, drop tempo by 10 BPM and try again. Don't add the fourth limb yet — that's the next lesson.</p>\n    ",
+    "graduationCriteria": [
+      "Ride + hi-hat foot 2 and 4 + snare on 2 and 4 holds at ♩=85 for 2 minutes",
+      "Hi-hat hand + kick 1 and 3 + snare 2 and 4 (rock-style three-limb) holds at ♩=90",
+      "Switching between two three-limb combos within the same practice block — no hand stumble at the moment of swap",
+      "No limb leans on another for time; pull any one out and the others keep their position"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Pair: Ride + Hi-Hat Foot",
+        "tip": "Two limbs only — ride 8ths and hi-hat foot on 2 and 4. No snare yet. The point of this exercise is to install the foot pattern <em>underneath</em> the hand pattern so the third limb can land cleanly on top. If the hat-foot drags or the ride rushes when the foot lands, stay here."
+      },
+      {
+        "title": "2 — Three-Limb Combo A: Add Snare on 2 and 4",
+        "tip": "Snare on 2 and 4 stacks <em>directly on top</em> of the hi-hat foot — both fall on the same beats. Three limbs (ride hand, snare hand, hat foot) all marking 2 and 4 at the same moment. This is the easiest three-limb combo because two of the three voices line up; use it to feel what \"three things at once\" sounds like before the next exercise pulls them apart."
+      },
+      {
+        "title": "3 — Pair: Hi-Hat Hand + Kick on 1 and 3",
+        "tip": "Hi-hat 8ths in one hand, kick on 1 and 3. This is the rock starting pair — a kick foot keeping the downbeats while the hi-hat hand carries the pulse. Lock it in before the snare enters."
+      },
+      {
+        "title": "4 — Three-Limb Combo B: Hi-Hat + Kick + Snare (Rock)",
+        "tip": "The basic rock backbeat, viewed as a coordination drill: hi-hat hand on 8ths, kick foot on 1 and 3, snare on 2 and 4. Three limbs, three different positions. The kick and snare alternate — kick, snare, kick, snare, one per beat — which is the easy version of the puzzle. Loop until none of the limbs hesitate when another moves."
+      },
+      {
+        "title": "5 — Three-Limb Combo C: Ride + Kick + Hat Foot",
+        "tip": "Ride quarters over a syncopated kick: <em>1</em>, <em>&amp; of 2</em>, <em>3</em>, <em>&amp; of 4</em>. Get the kick steady against the ride first, then add the hat foot on 2 and 4. Hardest combo of the three: with the hat foot in, the two kick offbeats are the only strokes that land alone."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Carlton Barrett",
+        "work": "Bob Marley & The Wailers — Exodus",
+        "note": "Three limbs, three completely separate jobs: the kick drives a flat four, the hi-hat hand carries the subdivision and the open-hat accents, and the rimshot snare drops on 3 instead of the backbeat. Follow one limb at a time all the way through — each part is nearly trivial alone, and the whole groove lives in how the three stack."
+      },
+      {
+        "artist": "Bernard Purdie",
+        "work": "Aretha Franklin — Rock Steady",
+        "note": "Rock three-limb texture taken to its absolute peak."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Miles Smiles",
+        "note": "Ride + hat foot + snare interplay; the third limb is constantly moving."
+      }
+    ]
+  },
+  "four-way-foundation": {
+    "tagline": "All four limbs, doing four different things",
+    "bodyHtml": "\n      <p>Four-way independence is the working ceiling for most drumset music. It's also where coordination practice stops feeling like exercises and starts feeling like the actual job: every limb has a part, and the parts overlap, support, and contradict each other constantly.</p>\n      <p>The simplest four-limb pattern — the one you'll spend a year of your life inside — is built from things you already know:</p>\n      <ul class=\"bulleted\">\n        <li>Ride hand: 8ths on the cymbal.</li>\n        <li>Hi-hat foot: 2 and 4.</li>\n        <li>Kick: 1 and 3.</li>\n        <li>Snare hand: 2 and 4.</li>\n      </ul>\n      <p>Two of the limbs (snare and hat foot) line up. The other two (ride and kick) line up. So the four-way base is really two two-limb pairs, played simultaneously. That's the trick. Once it's stable, the next move is to break one of the alignments — push the snare off the backbeat — and the pattern stops being four-stacks-of-two and becomes genuine four-way motion.</p>\n      <p>Build it slowly. The third limb you added in the last lesson; the fourth one you add here. If any limb forces another to wobble, that's the limb that doesn't yet own its job.</p>\n    ",
+    "graduationCriteria": [
+      "Four-way base pattern (ride 8ths, hat-foot 2 and 4, kick 1 and 3, snare 2 and 4) holds at ♩=85 for 2 minutes",
+      "First variation (snare moved off the backbeat to the \"and of 3\") holds at ♩=80 without losing any other limb",
+      "You can talk while playing the base pattern — the body is doing it without conscious traffic-cop",
+      "Adding or removing one limb at a time without disturbing the others"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Three Limbs First (Ride + Hat Foot + Kick)",
+        "tip": "Three limbs already moving — ride hand 8ths, kick on 1 and 3, hi-hat foot on 2 and 4. The two feet alternate every quarter. Lock this in before the snare enters in the next exercise. Notice that the kick and the hat-foot have to coexist on the same beam line in the notation; in the body they're entirely separate jobs."
+      },
+      {
+        "title": "2 — Four Limbs: The Base Pattern",
+        "tip": "Four limbs, four jobs. Ride 8ths, snare on 2 and 4, kick on 1 and 3, hat-foot on 2 and 4. Snare and hat-foot line up — that's a free assist. Kick and ride line up on the downbeats — another free assist. So really you're doing two compound tasks: <em>(ride + kick on the beat)</em> and <em>(snare + hat-foot on the backbeat)</em>. Loop until the body does it without you watching."
+      },
+      {
+        "title": "3 — First Variation: Snare on the \"& of 3\"",
+        "tip": "Snare moves: still on <em>2</em>, but now on the <em>&amp; of 3</em> instead of beat 4. Half the free assist is gone — snare and hat-foot still meet on 2, but beat 4 is the hat-foot alone. The ride hand keeps its straight 8ths through all of it. This is where four-way independence really begins; the snare hand has to find its own time, not borrow from the hat-foot's. Drop 5 BPM if anything wobbles."
+      },
+      {
+        "title": "4 — Variation: Snare Off Both Backbeats",
+        "tip": "Snare on <em>&amp; of 2</em> and <em>&amp; of 4</em> — both off the backbeat now, both anticipating the next beat. The pattern is starting to feel like jazz comping: the snare floats around inside the bar instead of marking the same place every time. The hat-foot still anchors 2 and 4. The ride hand keeps its straight 8ths underneath while the snare floats."
+      },
+      {
+        "title": "5 — Walking the Snare Through the Bar",
+        "tip": "Snare on <em>1</em>, the <em>&amp; of 2</em>, <em>3</em> and the <em>&amp; of 4</em> — four hits walking the bar, landing with the kick on 1 and 3, alone on the &'s. The ride hand keeps its straight 8ths under all four snare hits. Pass check: two minutes without slowing down means you have working four-way independence."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — A Love Supreme",
+        "note": "Four-way independence taken to its conversational extreme."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "The four-limb base of fusion shows up in every track."
+      },
+      {
+        "artist": "Stewart Copeland",
+        "work": "The Police — Walking on the Moon",
+        "note": "Hi-hat hand, hat-foot, kick, snare — all four doing different things in a pop song."
+      }
+    ]
+  },
+  "limb-substitution": {
+    "tagline": "The same groove, played by different limbs",
+    "bodyHtml": "\n      <p>A groove is not a set of limbs. A groove is a set of <em>parts</em> — a hat part, a snare part, a kick part — and the choice of <em>which limb plays which part</em> is a separate decision. Move the hi-hat 8ths from your hand to your foot and the texture lightens. Move a kick figure to the snare and the same rhythm becomes a different groove. Move a snare comp to the kick and you have an entirely new feel.</p>\n      <p>This is what serious players mean by independence: not \"I can move my left foot freely\" but \"I can put any part on any limb.\" Every great drummer can take the same notated groove and play it three or four ways without changing what reaches the listener.</p>\n      <p>The exercises below take a single backbeat and orchestrate it three ways: hat in hand (the standard), hat in foot (lightened), hat split between hand and foot (the linear style). Same notes hit the air; different limbs do the work.</p>\n    ",
+    "graduationCriteria": [
+      "Same backbeat groove demonstrated three ways: hat in hand; hat in foot; hat split between hand and foot",
+      "A kick figure relocated to the snare — and back — without the rest of the groove changing",
+      "You can identify, by ear, which limb is playing which part of a recorded groove",
+      "Switching orchestration mid-loop without losing the bar position"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Standard Orchestration: Hat in Hand",
+        "tip": "The standard backbeat: hi-hat 8ths in the strong hand, snare on 2 and 4, kick on 1 and 3. Memorize how it feels physically — which limb is doing what at each beat. The next two exercises will redistribute these same parts across different limbs."
+      },
+      {
+        "title": "2 — Substitution A: Move the Hi-Hat 8ths to the Foot",
+        "tip": "Same groove, completely different orchestration. The hi-hat 8ths are now in the FOOT (notated on the hat-foot line); the kick still plays 1 and 3 (chorded with the foot-hat on those beats); the snare still plays 2 and 4 in the hand. Tempo dropped because eight hat-foot 8ths per bar is hard. The listener hears the same groove; your body distributes the work differently. This is the basic substitution principle."
+      },
+      {
+        "title": "3 — Substitution B: Linear (Hat Split Between Hand and Foot)",
+        "tip": "Hi-hat 8ths split: hand on the downbeats (1, 2, 3, 4), hat-foot on the offbeats (&amp;'s). Together they sum to the same continuous 8ths, but each limb only plays half. This is the linear coordination style — no two limbs hit at exactly the same instant on the offbeats. The kick on 1 and 3 chords with the hand-hat; the snare on 2 and 4 chords with the hand-hat. Same groove, third orchestration."
+      },
+      {
+        "title": "4 — Substitute the Kick: Move \"& of 3\" to the Snare",
+        "tip": "The hit that used to be a kick on the <em>&amp; of 3</em> now lands on the snare as a ghost-flavored note; the kick stays on 1 and 3. The bar's rhythm is unchanged — only the drum producing it changes. Substitution isn't just foot↔hand; it can be drum↔drum."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — What Is Hip?",
+        "note": "Linear orchestration — the hi-hat splits across hand and foot constantly."
+      },
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Khanda West",
+        "note": "Same figure, three orchestrations within the same chorus."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Chick Corea Elektric Band",
+        "note": "Master-level limb substitution — listen for the moments where a kick figure suddenly appears on the snare and back again."
+      }
+    ]
+  },
+  "independence-singing": {
+    "tagline": "Sing one part to free the limbs to play another",
+    "bodyHtml": "\n      <p>Most coordination problems are mental, not physical. The limbs already <em>can</em> do four different things; what they can't do is hold four different things in conscious working memory simultaneously. The trick is to outsource one of the parts to a place that's not your hands or feet — your voice.</p>\n      <p>This is the heart of Gary Chester's <em>The New Breed</em> system: sing an ostinato (a fixed repeating figure) while your limbs play other parts. Once a sung melody is automatic, it stops competing with the limbs for attention; the limbs are free to read, improvise, or comp. Chester built an entire 200-page book around eleven sung melodies — but the technique is older, and you can use it on day one.</p>\n      <p>What follows are three exercises in escalating singing-vs-playing difficulty. The notation in each shows two voices: the upper line (snare-line note positions) is the SUNG part — it's not played; it's vocalized aloud. The lower line is the kit part. Sing comfortably, on any pitch; pitch isn't the point, rhythm is. Hum, scat, \"doo-bah,\" whatever lets you hold a steady line without thinking about it.</p>\n      <p class=\"callout-warn\">Important: the upper voice is what you SING, not what you play with your hands. Your hands play whatever is in the lower voice (along with whatever the kit pattern requires). Read each exercise's tip to be sure which is which.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter-note pulse sung over a backbeat groove for one minute, no drift between voice and limbs",
+      "A syncopated 8th-note figure sung over a basic backbeat — voice independent of the snare",
+      "3/4 waltz texture sung against a 4/4 hand-and-foot pattern (cross-meter sung pulse)",
+      "You can stop singing mid-bar and the limbs do not change"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Sing Quarter Notes Over a Basic Backbeat",
+        "tip": "<strong>SUNG part (upper):</strong> four steady quarter notes — the basic pulse. Vocalize as <em>\"one, two, three, four\"</em> or <em>\"da, da, da, da.\"</em> <strong>PLAYED part:</strong> a basic backbeat — hi-hat 8ths in your hand (not notated above; play them), kick on 1 and 3, snare on 2 and 4. The sung quarters land WITH every kick and snare, so this is the easiest version. The point is to wire the singing-and-playing pathway."
+      },
+      {
+        "title": "2 — Sing a Syncopated 8th-Note Figure",
+        "tip": "<strong>SUNG part (upper):</strong> a syncopated 8th figure — <em>1</em>, <em>&amp; of 2</em>, <em>3</em>, <em>&amp; of 3</em>, <em>&amp; of 4</em>. <strong>PLAYED part:</strong> the basic backbeat (kick 1 and 3, snare 2 and 4, hi-hat 8ths). The voice no longer lines up with the snare hand — if you catch yourself playing what you sing, it hasn't separated yet."
+      },
+      {
+        "title": "3 — Sing a 3/4 Waltz Over a 4/4 Groove",
+        "tip": "<strong>SUNG part (upper):</strong> triplet 8ths accented every third note — <em>\"ONE-two-three\"</em> four times per bar; sing just the ONEs if that helps. <strong>PLAYED part:</strong> kick on 1 and 3 only, hands free. Voice in 3, foot in 4, meeting only on beat 1 — your first taste of cross-meter."
+      },
+      {
+        "title": "4 — Sing Quarters, Play a Snare Pattern Underneath",
+        "tip": "<strong>SUNG part (upper):</strong> steady quarters, as in Ex 1. <strong>PLAYED part:</strong> a syncopated kick on <em>1</em>, <em>&amp; of 2</em>, <em>3</em>, <em>&amp; of 4</em> — lining up with the voice only on 1 and 3. The roles flip here: the voice holds the pulse while the limbs do the syncopation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Gary Chester",
+        "work": "The New Breed (book)",
+        "note": "The whole book is built on this technique. Try Reading I-A while singing Melody 1."
+      },
+      {
+        "artist": "Mike Mangini",
+        "work": "Various clinics on YouTube",
+        "note": "Often demonstrates singing one rhythm while playing another at extreme tempo."
+      },
+      {
+        "artist": "Marcus Gilmore",
+        "work": "Vijay Iyer Trio — Accelerando",
+        "note": "You can hear the sung internal pulse in his playing — limbs roam, but a felt center holds."
+      }
+    ]
+  },
+  "independence-chapin-method": {
+    "tagline": "Drill one snare position until it's automatic",
+    "bodyHtml": "\n      <p>Jim Chapin's <em>Advanced Techniques for the Modern Drummer</em> (1948) is the foundational independence book for jazz drumming. Its central insight is the opposite of variety: rather than racing through dozens of patterns, you take ONE snare-comping figure, lock the ride and hi-hat foot into their jazz roles, and drill that one figure until it's automatic. Then a different one. Then another. Each one is its own private world.</p>\n      <p>Why? Because variety doesn't build coordination — depth does. A snare-comp figure that you've played 200 times in a single sitting is a figure your body owns. A figure you've played twice is a figure you have to think about. The Chapin approach is to drill until the thinking stops; only then is it actually independent.</p>\n      <p>The base pattern under everything in this lesson is the jazz ride + hi-hat foot on 2 and 4. That's the rock-steady scaffolding. The single snare comping note moves to a different place in the bar in each exercise. Loop until it's invisible.</p>\n      <p class=\"callout-warn\">Tempo first, depth second. If you can't keep the ride pattern dead steady while the snare lands on the comping spot, drop ten BPM — twenty if needed. The exercise is worthless if the ride wobbles.</p>\n    ",
+    "graduationCriteria": [
+      "Each of the four single-snare-position drills loops at ♩=85 for two minutes without the ride or hat-foot drifting",
+      "You can stop the snare completely and the ride + hat-foot continue at the same tempo",
+      "Switching from one snare position to another between repetitions of the loop — clean swap",
+      "The point of the snare position (where it falls in the bar) is unambiguous — accenting could double its volume without disturbing the rest"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Foundation: Ride + Hi-Hat Foot Alone",
+        "tip": "The Chapin scaffold. Ride pattern (<em>ding · ding-a · ding · ding-a</em>, swung) plus hi-hat foot on 2 and 4. EVERY exercise that follows happens on top of this. If this isn't rock-solid, no snare comping you put on top of it will sound good. Loop for one full minute before moving on."
+      },
+      {
+        "title": "2 — Single Snare on the \"& of 2\"",
+        "tip": "ONE snare hit per bar — on the <em>&amp; of 2</em>, the swung skip-note position. The snare lands with the second note of the ride's <em>ding-a</em>. Easy version because the snare doubles a note already in the ride. Loop forty times before going on. The point is total automaticity at this position."
+      },
+      {
+        "title": "3 — Single Snare on Beat 4",
+        "tip": "Snare on beat 4 — landing WITH the ride and the hi-hat foot. Three things at once on that beat (ride, snare, hat-foot), then nothing snare-side until the next bar's beat 4. The body has to learn to fire all three simultaneously and then go quiet for three full beats of bar."
+      },
+      {
+        "title": "4 — Single Snare on the \"& of 4\"",
+        "tip": "Snare on the <em>&amp; of 4</em> — the swung skip into the next bar. This is the most-used jazz comping position; it's the natural pickup feel. The snare lands with the ride's <em>ding-a</em> at the end of beat 4. Loop until the snare arrives at the same micro-timing as the ride's swung 8th every time, never a hair early."
+      },
+      {
+        "title": "5 — Single Snare on the \"a of 4\" (Late)",
+        "tip": "Snare on the <em>a of 4</em> — the last triplet partial of the bar, almost on top of the next downbeat but not quite. (The ride is written as straight triplets for clarity; keep playing the swung <em>ding · ding-a</em> feel.) Drop tempo aggressively — this late placement is constant in bebop comping."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Clifford Brown and Max Roach",
+        "note": "Single-position comping taken to its expressive peak — one figure repeated for chorus after chorus."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones",
+        "note": "The Chapin influence is direct; single-note comping that holds for sixteen bars at a time."
+      },
+      {
+        "artist": "Jim Chapin",
+        "work": "Advanced Techniques for the Modern Drummer (audio examples)",
+        "note": "Hear Chapin himself demonstrate his exercises."
+      }
+    ]
+  },
+  "independence-chester-system": {
+    "tagline": "Sing one melody, play one reading exercise — combine",
+    "bodyHtml": "\n      <p>Gary Chester's <em>The New Breed</em> (1985) is a system, not a book of patterns. The book contains two ingredients: <strong>11 sung melodies</strong> (numbered, written out as snare-line rhythms) and <strong>39 reading patterns</strong> (kit grooves with progressively syncopated kick and snare). The system is mix-and-match: pick one melody, pick one reading pattern, and play them together. With 11 × 39 = 429 combinations, you have a year of practice material from one book.</p>\n      <p>What it teaches that no other book teaches as cleanly: the voice and the limbs are <em>different processors</em>. The melody you sing is the part you own without thinking; the reading pattern is the part you have to read off the page. Combining them practices the actual situation a working drummer is in — playing time while reading a chart, or while a bandleader cues new material.</p>\n      <p>The exercises below take that idea and demonstrate it in miniature. Each shows a SUNG melody (notated above) and a PLAYED kit pattern (notated below). The notation is two-voice; the upper voice is the melody you vocalize, the lower voice is what your hands and feet play.</p>\n      <p class=\"callout-warn\">As in <em>independence-singing</em>: the upper voice is NOT played. It is sung aloud while the limbs play the lower voice. Read each tip carefully — the singing assignment is the lesson content, not just a hint.</p>\n    ",
+    "graduationCriteria": [
+      "Sing a quarter-note pulse (Melody 1) while playing a basic reading exercise — two minutes, no drift",
+      "Sing an 8th-note melody while playing a syncopated kick figure — voice and limbs genuinely separate",
+      "Switch from singing Melody 1 to Melody 2 mid-loop without the limbs faltering",
+      "You can identify, in your own playing, whether the difficulty is in the voice, in the limbs, or in their combination"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Sing Melody 1 (Quarter Pulse) Over Reading I-A",
+        "tip": "<strong>SUNG (upper):</strong> four quarter notes — Chester's Melody 1, the simplest sung pulse. Vocalize <em>\"da, da, da, da.\"</em> <strong>PLAYED:</strong> the simplest reading pattern — kick on 1 and 3, hi-hat foot on 2 and 4. Add hi-hat 8ths in your hand if you can; if you can't hold all of it yet, drop the hand-hat. The four-foot-pattern alone, with the sung quarter pulse on top, IS the New Breed entry-level exercise."
+      },
+      {
+        "title": "2 — Sing Melody 2 (Two Halves + Quarter) Over a Backbeat",
+        "tip": "<strong>SUNG (upper):</strong> a half note through beats 1–2, then quarters on 3 and 4 — <em>\"DAaaaa, da, da.\"</em> <strong>PLAYED:</strong> kick on 1 and 3, snare backbeat on 2 and 4 from your hand. The upper line is a vocal score, not a played-snare part — don't strike it."
+      },
+      {
+        "title": "3 — Sing 8th-Note Melody Over a Syncopated Kick",
+        "tip": "<strong>SUNG (upper):</strong> six 8ths per bar — <em>\"da-da · _ -da · da-_ · da-da\"</em>, two rests inside each half-bar. <strong>PLAYED:</strong> the syncopated kick figure <em>1, &amp; of 2, 3, &amp; of 4</em>. This is the crux exercise: hold the sung melody dead steady while the foot lives its own life."
+      },
+      {
+        "title": "4 — Sing Quarters Over a Walking Snare-Comp Pattern",
+        "tip": "<strong>SUNG (upper):</strong> steady quarters again — the easiest possible vocal anchor. <strong>PLAYED:</strong> a more elaborate foot pattern — kick on <em>1</em> and <em>&amp; of 2</em>; hi-hat foot on every offbeat 8th plus beat 2. The feet are now busy in a way most beginners can't read; the sung quarter pulse keeps you oriented. This is the working method: when the limbs get hard, the voice gets simple."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information",
+        "note": "A direct Chester student. Hear the influence in his independence patterns."
+      },
+      {
+        "artist": "Kenwood Dennard",
+        "work": "Various studio recordings",
+        "note": "Another well-known Chester pupil; uses the system in real performance."
+      },
+      {
+        "artist": "Gary Chester",
+        "work": "The New Breed (book)",
+        "note": "The source. Borrow it from a library and try Melody 1 over Reading 1-A as your first session."
+      }
+    ]
+  },
+  "independence-melodic-snare": {
+    "tagline": "When the feet hold steady, the snare can sing",
+    "bodyHtml": "\n      <p>Once the ride, hi-hat foot, and kick are stable enough that you don't have to think about them, the snare hand is free — and the snare hand is where melody happens on a drumset. A snare \"melody\" isn't a tune; it's a contoured rhythm with dynamic shape. Loud accents, soft ghost notes, varied placement, and longer phrases that arc and resolve.</p>\n      <p>This lesson moves past Chapin's single-position drills into <em>melodic comping</em>: short snare phrases that have direction, like the way a horn player's solo has direction. The right hand and both feet provide the bed; the left hand is the lead voice.</p>\n      <p>The contour matters more than the specific notes. A good snare melody has shape — a build, a peak, a release — even when it's only two bars long. As you play through the exercises below, listen for the SHAPE the snare draws, not just the rhythms.</p>\n    ",
+    "graduationCriteria": [
+      "A two-bar snare melody (mix of accents and ghost notes) holds shape over the ride + hat-foot scaffold at ♩=80",
+      "A three-bar contoured snare phrase plays through without losing its rhythmic identity",
+      "The accent-to-ghost ratio is at least 4:1 — accents clearly louder",
+      "The kick continues on 1 (or wherever placed) without being affected by snare contour"
+    ],
+    "exercises": [
+      {
+        "title": "1 — A Two-Bar Snare Melody (Bar 1)",
+        "tip": "Bar 1 of the melody. The ride hand plays the <em>ding · ding-a</em> pattern underneath, and the hat foot lands on 2 and 4. Snare hits: an accent on the <em>&amp; of 2</em>, a ghost on the first 8th of beat 4, an accent on the <em>&amp; of 4</em>. Two accents (loud, ~4× the ghost), one ghost (whisper-soft). Notice the contour: hit-rest-hit-hit, building toward the &amp;-of-4 anticipation. Loop bar 1 twenty times before adding bar 2 in the next exercise."
+      },
+      {
+        "title": "2 — Two-Bar Snare Melody (Bars 1 + 2)",
+        "tip": "Bar 1 (as before) → Bar 2: accent on beat 1, ghost on the <em>&amp; of 2</em>, then nothing until the next bar's beat 1. Bar 1 builds; bar 2 resolves. The ride hand and the hat foot repeat bar for bar; only the snare line changes. The snare melody draws an arc across two bars: question → answer. Listen for the shape, not the individual notes."
+      },
+      {
+        "title": "3 — Three-Bar Phrase: Build, Peak, Release",
+        "tip": "Bar 1 builds (ghosts plus one closing accent), bar 2 peaks (three accents), bar 3 releases (a single soft snare on beat 3). The arc IS the melody; the ride pattern, kick on 1 and hat-foot on 2 and 4 hold the form. If accents and ghosts blur together, the melody disappears and it's just rhythm."
+      },
+      {
+        "title": "4 — Sparse Melody: Two Notes, Two Bars",
+        "tip": "TWO snare notes across two whole bars. The ride hand keeps its jazz pattern through both bars, and the hat foot stays on 2 and 4. <em>&amp; of 4</em> in bar 1, then beat 1 in bar 2 — the classic anticipation-and-resolution figure that's the cornerstone of jazz comping. Sparseness is its own kind of melody. The hardest part: NOT playing more. Resist the urge to fill. Two notes, well-placed, beat eight notes scattered."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti",
+        "note": "Snare comping as melody — every note is a placement decision."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Wayne Shorter — Footprints Live",
+        "note": "Long-form melodic snare phrases that arc across whole choruses."
+      },
+      {
+        "artist": "Jeff \"Tain\" Watts",
+        "work": "Branford Marsalis — Trio Jeepy",
+        "note": "Contour and dynamics in the snare — listen for the build/release arcs."
+      }
+    ]
+  },
+  "independence-clave-foot": {
+    "tagline": "Move clave to the foot, free the hands for everything else",
+    "bodyHtml": "\n      <p>Horacio \"El Negro\" Hernandez's <em>Conversations in Clave</em> proposes a deceptively radical idea: take the clave — the 5-note rhythmic skeleton of Afro-Cuban music — and play it with the LEFT FOOT on the hi-hat, while the rest of the kit plays everything else on top. The result isn't just a coordination flex. Clave stops being something you play and becomes something you <em>are</em> — a continuous internal pulse that the hands and the kick orbit around.</p>\n\n      <p>The notation below uses each clave hit's natural note value (a quarter where it gets a quarter, an 8th where it gets an 8th) with rests sized to land the next hit at the right beat. <code>bars: 2</code> tells the renderer to lay out the two-bar phrase as two bars rather than one long stretch. When the foot is alone (Exercises 1 and 4) the rests are visible because silence is the rhythm being taught; when the hands play through, the rests in the foot voice disappear because the hand voice already shows where every beat lands.</p>\n\n      <p class=\"callout-warn\">Tempo first, completeness second. Get the FOOT correct alone, in isolation, before you put anything on top of it. If the foot wobbles, nothing built on top of it will be stable.</p>\n    ",
+    "graduationCriteria": [
+      "Son 3-2 clave in the hi-hat foot, alone, holds at quarter = 95 for two minutes",
+      "Son 3-2 clave foot + ride pattern + cross-stick on 2 and 4 holds at quarter = 85",
+      "Son 2-3 (the inversion) plays cleanly at the same tempo without confusion",
+      "When asked to stop the foot, the hands continue; when asked to stop the hands, the foot continues"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Son 3-2 Clave: Foot Alone (Two Bars)",
+        "tip": "<strong>Bar 1 (3-side):</strong> beat 1, the &amp; of 2, beat 4. <strong>Bar 2 (2-side):</strong> beats 2 and 3. Loop the two-bar phrase as one unit — count out loud if it helps — and give it at least three foot-only minutes before any hands go on top."
+      },
+      {
+        "title": "2 — Son 3-2 Foot + Straight 8ths on the Ride",
+        "tip": "Straight ride 8ths over the foot clave. The hand will try to chase the clave at first — that's normal; slow down. The clave lives in the foot and ONLY the foot; the ride must stay perfectly even. Loop until the two feel separate."
+      },
+      {
+        "title": "3 — Son 3-2 Foot + Ride 8ths + Cross-Stick on 2 and 4",
+        "tip": "Three voices: ride 8ths, cross-stick on 2 and 4 (stick laid across the rim, tip on the head), son 3-2 in the foot. Bar 1: the cross-stick on 2 lands BETWEEN clave hits. Bar 2: the cross-sticks double the clave exactly. Tracking which hits are doubled and which stand alone is the whole independence skill."
+      },
+      {
+        "title": "4 — Son 2-3 Clave: Foot Alone (the Inversion)",
+        "tip": "Same five notes as son 3-2, but the 2-side comes first. <strong>Bar 1 (2-side):</strong> beat 2, beat 3. <strong>Bar 2 (3-side):</strong> beat 1, &amp; of 2, beat 4. Together: <em>— 2 — 3 — || 1 — 2 &amp; — 4 ||</em>. Many salsa tunes are in 2-3; many Afro-Cuban folkloric tunes are in 3-2. You need both. Loop the foot alone first; only add hands once the foot is automatic."
+      },
+      {
+        "title": "5 — Son 2-3 Foot + Ride 8ths + Cross-Stick on 2 and 4",
+        "tip": "Same texture as Ex 3, but the foot plays son 2-3, so the alignments flip bar to bar — track which cross-sticks double a clave hit and which stand alone. Clave's two-bar period forces you to think two bars ahead, not one; once that headspace installs, the genre opens up."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Horacio \"El Negro\" Hernández",
+        "work": "Italuba — first album",
+        "note": "Hear the foot-clave system in action across an entire record."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "Absolute Quintet",
+        "note": "Foot-clave used in modern jazz contexts; the principle is the same."
+      },
+      {
+        "artist": "Giovanni Hidalgo (with Michel Camilo)",
+        "work": "Live at the Blue Note",
+        "note": "Not the drummer, but you can hear son 2-3 clearly in the percussion section."
+      }
+    ]
+  },
+  "basic-fills": {
+    "tagline": "What happens when the groove pauses for breath",
+    "bodyHtml": "\n      <p>A <strong>fill</strong> is what a drummer plays when the groove momentarily steps aside. Most often it sits at the end of a 4-bar or 8-bar phrase — three bars of pocket, then one bar where the groove dissolves into something more active, before the groove returns on the next downbeat. Fills mark the bar lines a listener feels but doesn't count.</p>\n      <p>A first fill doesn't need to be clever. The simplest fills in the entire vocabulary are: four quarter-notes on the snare, four quarter-notes moving down the kit, or eight 8th-notes on the snare. They work because they're <em>predictable</em> — the listener can hear that the groove has paused and that a new downbeat is coming.</p>\n      <h2 class=\"section-label\">The 3+1 Frame</h2>\n      <p>Every exercise here uses the same shape: three bars of basic backbeat, then a fourth bar that is the fill. Loop it. The fill has to land you back on beat 1 in time for the groove to start again. That re-entry — from fill to groove — is where every beginner stumbles, and where the practice value lives.</p>\n      <h2 class=\"section-label\">What Makes a Fill Work</h2>\n      <p>A fill earns its place by doing two things. First, <strong>it has to be in time</strong> — the bar after a fill must enter on the same downbeat the listener was already expecting. A fill that lands a 16th late or early breaks the form. Second, <strong>it has to be heard as a fill</strong> — distinct enough from the surrounding groove that the listener registers a momentary departure. A fill that's too similar to the groove just sounds like a busier bar; a fill that's too far afield breaks the song. The simplest, most foolproof fills (and the ones below) sit comfortably between those extremes.</p>\n    ",
+    "graduationCriteria": [
+      "A 3-bar groove + 1-bar fill loop holds at ♩=80 without a tempo wobble at the bar 3 → bar 4 seam",
+      "The fill ends in time for the downbeat of bar 1 — no late or rushed re-entry into the groove",
+      "Quarter-note snare fill (Ex 2) and 8th-note snare fill (Ex 4) feel rhythmically distinct, not the same shape played faster"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Frame: Three Bars of Groove (Loop the Setup First)",
+        "tip": "Before adding any fill, get this bar to feel automatic. Loop it for two minutes, locked to a click. The fills below replace bar 4 of a four-bar phrase — but bars 1, 2, and 3 always sound exactly like this. If the groove itself wobbles, the fill won't save it."
+      },
+      {
+        "title": "2 — Bar 4 Fill: Four Quarter-Note Snares",
+        "tip": "The smallest possible fill: four quarter-notes on the snare. Sticking <em>R L R L</em>. No hi-hat, no kick — the groove has stepped aside. Play this only on the fourth bar of the loop; the previous three bars use exercise 1. Aim for the snare hits to land exactly on the click, no rushing toward beat 1 of the next bar."
+      },
+      {
+        "title": "3 — Bar 4 Fill: Quarter-Notes Around the Toms",
+        "tip": "Same rhythm as Ex 2, but now each beat moves to a different drum: <em>hi-tom · mid-tom · floor-tom · snare</em>. The descent down the kit is its own piece of vocabulary — a listener immediately hears that something has shifted. Sticking still <em>R L R L</em>; let the right hand cross over for the hi-tom on beat 1."
+      },
+      {
+        "title": "4 — Bar 4 Fill: Eight 8th-Notes on the Snare",
+        "tip": "Twice the density of Ex 2. Eight even 8th-notes on the snare, sticking <em>R L R L R L R L</em>. The fill is more intense but the bar still ends exactly on time — no rushing the last two notes. Count <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em> out loud while you play it."
+      },
+      {
+        "title": "5 — Bar 4 Fill: 8th-Notes Around the Toms",
+        "tip": "Two 8ths on each drum, descending: <em>hi-tom hi-tom · mid-tom mid-tom · floor floor · snare snare</em>. This is one of the most common fills in popular music — you'll recognize it from a hundred recordings. Both sticks must reach each tom comfortably; if you're stretching, the kit is set up wrong."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Phil Collins",
+        "work": "Genesis — Turn It On Again",
+        "note": "Listen for how the fills mark every 4-bar phrase, even when small."
+      },
+      {
+        "artist": "Ringo Starr",
+        "work": "The Beatles — A Day in the Life",
+        "note": "Tom fills built from the same 8th-note shape as Ex 5."
+      }
+    ]
+  },
+  "pickup-fills": {
+    "tagline": "The short gesture that lands you on beat 1",
+    "bodyHtml": "\n      <p>A <strong>pickup fill</strong> is the smallest kind of fill: a quarter-beat to a half-beat of activity that <em>leads into</em> a downbeat instead of replacing a whole bar. The classic one is three quick snare hits at the end of a bar, followed by a crash on beat 1 — the \"snare-snare-snare-CRASH\" you've heard your whole life on song intros and at the start of every chorus.</p>\n      <p>Pickups are pieces of vocabulary that punctuate. Use them when you're coming out of silence (the start of a song, after a breakdown), or when the music is about to change sections (verse into chorus, chorus into bridge). They're not a fill in the \"bar of activity\" sense; they're a <em>setup phrase</em>.</p>\n      <h2 class=\"section-label\">Where the Pickup Sits</h2>\n      <p>A 1-beat pickup begins on count 4 of the bar that ends. A 2-beat pickup begins on count 3. The downbeat they lead into — the crash on beat 1 — is the actual destination. Practice the pickup as part of the bar that <em>precedes</em> the new section, never as its own thing.</p>\n    ",
+    "graduationCriteria": [
+      "A 1-beat snare pickup lands exactly on count 4, with the crash arriving cleanly on beat 1 of the next bar",
+      "The 16th-note pickup (Ex 4) does not pull the next bar early",
+      "Pickups can be played on demand at the end of any 4-bar groove without a stumble"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The 1-Beat Snare Pickup",
+        "tip": "Beats 1–3 are the basic backbeat; beat 4 hands the bar over with two snare 8ths. The hi-hat steps aside on beat 4 — the snare is now the lead voice. Loop the bar so you can feel the transition: groove → pickup → groove → pickup. The <em>&amp; of 4</em> snare wants to rush; don't let it."
+      },
+      {
+        "title": "2 — Snare-Snare-Snare-CRASH (Two-Bar Phrase)",
+        "tip": "The classic <em>snare-snare-snare-CRASH</em> — except the crash lives on beat 1 of the <em>next</em> bar (not shown). Three snare hits on count 4 (an 8th, then two 16ths), then in the next bar you slam a crash on beat 1 with the kick under it. Practice this bar by itself, then play it with one bar of basic backbeat <em>after</em> it (with a crash + kick on beat 1) to hear the full effect."
+      },
+      {
+        "title": "3 — The 2-Beat Pickup (Half-Bar of Activity)",
+        "tip": "A longer pickup: half the bar is now setup. Beats 1–2 are the basic backbeat, beats 3–4 are four 8th-note snares pushing into the next downbeat. This is a <em>setup phrase</em> for moving from a verse into a chorus. Notice the kick disappears on beat 3 — the bottom drops out so the snare pickup is fully audible."
+      },
+      {
+        "title": "4 — 16th-Note Flurry Into the Downbeat",
+        "tip": "Same shape as Ex 1 but the pickup is now four 16th-notes on count 4 — a fast snare flurry. Sticking <em>R L R L</em>. The 16ths must be even; if the last two rush, the next bar's downbeat will arrive early. Count <em>4 e &amp; a</em> out loud over the pickup — that's the count that has to be exact."
+      },
+      {
+        "title": "5 — Tom Pickup Into the Chorus",
+        "tip": "The classic <em>into-the-chorus</em> pickup: a four-16th descent across the toms (<em>hi-tom · mid-tom · floor · floor</em>) on count 4. Pair it mentally with a crash + kick on beat 1 of the next bar. The descending pitches naturally direct the listener's ear toward the downbeat. Most pop and rock recordings will have a version of this exact phrase landing on every chorus."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade Fellowship — Perceptual",
+        "note": "Listen for the way pickups set up section changes."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "The intro fill is essentially a long pickup."
+      }
+    ]
+  },
+  "fills-around-kit": {
+    "tagline": "Orchestration: how a fill moves through the drums",
+    "bodyHtml": "\n      <p>Once you can play a fill at all, the next question is which drums you play it on. <strong>Orchestration</strong> is the choice of where each note in the fill lands — and that choice changes the fill's emotional meaning before any rhythm does.</p>\n      <p>Three orchestration shapes give you almost everything you need:</p>\n      <ul>\n        <li><strong>Descending</strong> — high to low (hi-tom → mid-tom → floor-tom → snare or kick). Sounds like a sigh, a settling, a release. The most common fill orchestration in rock.</li>\n        <li><strong>Ascending</strong> — low to high. Sounds like a question, a lift, an ascent. Less common, more dramatic — often used as a \"tension\" fill before a big crash.</li>\n        <li><strong>Mixed</strong> — alternating high and low, or hand-driven shapes that don't follow the kit's pitch order. Sounds melodic, conversational. The province of jazz, fusion, and any drummer who wants their fills to be heard as <em>played</em>, not just executed.</li>\n      </ul>\n      <p>The snare's role in transitions is the unifier — it's the drum a fill returns to before launching into the new bar. Most fills end on the snare or the floor tom because both sit close to the kick that's about to start the next groove.</p>\n    ",
+    "graduationCriteria": [
+      "Descending 16th-note tom fill (Ex 1) plays cleanly at ♩=85 with the right hand crossing over comfortably",
+      "Ascending fill (Ex 2) and descending fill (Ex 1) sound clearly different in motion, not just in pitch",
+      "The mixed-orchestration fill (Ex 3) has a deliberate shape, not a random sequence of drums"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Descending 16ths: HHMMFF + Snare",
+        "tip": "Two 16ths on each drum, descending: <em>hi-tom hi-tom · mid-tom mid-tom · floor floor · snare snare · snare snare · floor floor floor floor</em>. Sticking is single-stroke <em>R L R L</em> throughout. The right hand crosses over to reach the hi-tom on beat 1 — let it; don't reverse the sticking. The fill ends on the floor tom for a natural launch back into the kick on beat 1 of the next bar."
+      },
+      {
+        "title": "2 — Ascending 8ths: Floor → Snare → Toms → Crash",
+        "tip": "Two 8ths per drum, ascending: <em>floor · snare · mid-tom · hi-tom</em>. The fill rises in pitch — it sounds like a question, a lift. Pair it mentally with a crash on beat 1 of the next bar (not notated): the ascent sets up the crash with maximum drama. This is the standard fill before a big chorus or song climax."
+      },
+      {
+        "title": "3 — Mixed Orchestration (Melodic Shape)",
+        "tip": "The right hand jumps between toms while the left stays mostly on the snare — that hand-driven contour is what gives the fill its melodic shape. Sticking <em>R L R L</em> throughout. Aim for the right hand to <em>play the melody</em> (the toms) and the left to <em>keep the meter</em> (the snare). This is how fusion and jazz drummers think about fills."
+      },
+      {
+        "title": "4 — Sticking-Driven Fill (Position the Hand, Not the Stick)",
+        "tip": "Pure single-stroke <em>R L R L</em> sticking. The right hand changes drums every two notes (hi-tom → mid-tom → floor → snare); the left hand stays on the snare the entire time. This is the classic <em>linear single</em> approach — same sticking, different orchestration. Once your right hand can move smoothly, you can build a thousand fills from this one logic."
+      },
+      {
+        "title": "5 — End-on-Snare Pickup Style",
+        "tip": "A two-stage fill: 8ths down the toms (beats 1–2), then 16ths on the snare (beats 3–4). The descent gives the fill direction; the snare burst at the end re-anchors the bar before the new groove. Density increases over the bar — half-speed at the start, double-speed at the end. This is a stock pop / rock turnaround."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Rock and Roll",
+        "note": "The opening fill is descending 16ths around the kit."
+      },
+      {
+        "artist": "Stewart Copeland",
+        "work": "The Police — Synchronicity II",
+        "note": "Mixed orchestration — fills feel melodic."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Seven Days",
+        "note": "Sticking-driven fills around odd shapes."
+      }
+    ]
+  },
+  "warm-ups": {
+    "tagline": "Two minutes that loosen the hands before everything else",
+    "bodyHtml": "\n      <p>Two minutes of focused warm-ups before a practice session does more for your playing than ten minutes of cold attempts. The exercises below are a quick vocabulary tour: singles, doubles, a sticking switch, paradiddles, triplets, and a density swell. Each one wakes up a different motor pattern.</p>\n      <p>Run them in order, all at the same tempo you can play <em>cleanly</em> today — slow if you're tight, faster as the hands loosen. Volume should be even between hands; stick heights should match. If anything sounds rough, drop the BPM and play it twice before moving on.</p>\n      <h2 class=\"section-label\">The Swell as a Daily Thermometer</h2>\n      <p>Exercise 6 doubles as a diagnostic. The density swell climbs from quarters to 16ths and back; the moment the 16ths turn rough is today's clean ceiling, and it moves day to day. Note the tempo where it happened. Practicing at or just below that ceiling builds speed; practicing far above it builds tension and bad habits with equal efficiency.</p>\n      <p>Resist the urge to warm up at performance tempo. Cold hands at full speed recruit the forearms, and forearm tension is the thing a warm-up exists to prevent. Start embarrassingly slow, listen for evenness, and let the tempo rise on its own — most days it takes about two minutes.</p>\n    ",
+    "graduationCriteria": [
+      "The full 6-exercise routine takes 5–10 minutes daily",
+      "The density swell (Ex 6) reveals today's clean ceiling without rough 16ths",
+      "Transitions like singles → doubles (Ex 3) don't cause stumbles"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Singles (Eighth Notes)",
+        "tip": "Sticking: <em>R L R L R L R L</em>. The simplest warm-up — alternation, even volume, matched stick heights. Don't rush; the point is to feel both hands waking up to the same height and the same loudness."
+      },
+      {
+        "title": "2 — Doubles (Eighth Notes)",
+        "tip": "Sticking: <em>R R L L R R L L</em>. Wrist motion warm-up. Both notes of each pair should be equal volume — the second note shouldn't die. If it does, slow the bpm until they match, then build back up."
+      },
+      {
+        "title": "3 — Singles → Doubles",
+        "tip": "Sticking: <em>R L R L · R R L L</em>. First half is singles, second half is doubles. Switching mid-bar reveals where your hands lock up — if you stumble at the transition, that's the spot to drill."
+      },
+      {
+        "title": "4 — Sixteenth-Note Paradiddles",
+        "tip": "Sticking: <em>R L R R · L R L L</em>, twice per bar. The paradiddle mixes singles and doubles in one phrase — wakes up the coordination between the two hand types in the same gesture. Accents (the <em>&gt;</em> marks) naturally fall on counts 1, 2, 3, 4."
+      },
+      {
+        "title": "5 — Triplet Singles (8th Triplets)",
+        "tip": "Sticking: <em>R L R · L R L · R L R · L R L</em> — three notes per beat, lead hand alternating each group. Triplet feel wakes up separately from straight 8ths; this gets it under your hands before you need it inside a groove."
+      },
+      {
+        "title": "6 — Density Swell",
+        "tip": "Single-stroke sticking throughout: <em>R · L R · L R L R · L</em>. Density swells then settles: quarter → 8ths → 16ths → quarter. Use this as the last warm-up to find today's clean ceiling — if the 16ths on beat 3 sound rough, drop the BPM and run the routine again."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "The Drum Also Waltzes",
+        "note": "A solo built from the same vocabulary you just warmed up: singles, doubles, accents, space. Sticking patterns as actual music."
+      },
+      {
+        "artist": "Art Blakey",
+        "work": "The Drum Thunder Suite (Moanin')",
+        "note": "Hand vocabulary orchestrated across the kit at full intensity. This is where the pad work eventually goes."
+      }
+    ]
+  },
+  "recording-yourself": {
+    "tagline": "The mirror you cannot lie to",
+    "bodyHtml": "\n      <p>The ear that's playing is not the same ear that's listening. When you're behind the kit, your hands are busy, your foot is busy, and most of your attention is on the next beat — not on the one you just played. Subtle problems (a kick that's slightly behind the click, a snare that gets quieter when the kicks get harder, a fill that lands a 16th late) are invisible to the playing brain. They become obvious the moment you press play on a recording.</p>\n      <h2 class=\"section-label\">The Phone-Mic Baseline</h2>\n      <p>You don't need a studio. The microphone in your phone, propped on a music stand a few feet away, captures enough information to hear the things that matter. The kick-snare balance will be wrong, the cymbals may distort — none of that matters. You're listening for <em>time</em> and <em>dynamics</em>, both of which the phone captures fine.</p>\n      <p>If you have a click track playing through speakers in the room, the click will end up in the recording — perfect. If you wear headphones with a click, leave the click out of the recording (but make sure the recording is happening at the same time as the click is in your ears).</p>\n      <h2 class=\"section-label\">What to Listen For</h2>\n      <p>Don't listen for \"did I sound good.\" Listen for four specific things:</p>\n      <ul>\n        <li><strong>Timing wobble</strong> — Are the kicks ahead of the click? Is the snare consistently behind? Does the time speed up over the two minutes? A wobble in either direction is information.</li>\n        <li><strong>Dynamic inconsistency</strong> — Are the snares on 2 and 4 the same volume from beat to beat? Or do some sound weak? Are the kicks even, or does one of every pair drop out?</li>\n        <li><strong>Ghost-note disappearance</strong> — In any pattern with quiet snare hits between the loud ones, do the quiet hits actually exist on the recording? They often disappear the moment you stop concentrating, even though it felt like you were playing them.</li>\n        <li><strong>Fills that aren't where you thought</strong> — Bar 4 fills should resolve into bar 1. Often they end half a beat early or late. The recording will show you exactly where the gap was.</li>\n      </ul>\n      <h2 class=\"section-label\">The Two-Listen Approach</h2>\n      <p>First listen: just listen. Don't take notes; don't fix anything; just let yourself hear what's there. Second listen: this time write down three specific things — not \"it sounded bad,\" but \"the snare on bar 5 was late\" or \"the second kick on the &amp; of 3 disappeared in bars 2 and 7.\" Specific observations turn into specific drills.</p>\n      <h2 class=\"section-label\">The Recording Below</h2>\n      <p>The notation is the prompt: a basic backbeat. Record yourself playing it for 2 minutes against a click at ♩ = 80. Then listen back through the four-point checklist above. The work isn't on the kit; the work is the act of listening to what you played.</p>\n    ",
+    "graduationCriteria": [
+      "A 2-minute recording of basic backbeat exists, captured against a click",
+      "Listening back, you can identify at least one specific timing or dynamic issue you couldn't feel while playing",
+      "You distinguish between things that sounded fine in the room and things that sound fine on the recording"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Recording Prompt: Basic Backbeat for 2 Minutes",
+        "tip": "Phone on a music stand a few feet away. Click in your headphones at <strong>♩ = 80</strong>. Hit record. Loop this groove for <strong>2 minutes without stopping</strong>. No fills, no variations — just the basic backbeat. Then sit back and listen. First pass: just listen. Second pass: write down three specific things you hear. The recording is the lesson; the playing is just the prompt."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer Trio — Try!",
+        "note": "Live recording — listen to how rock-solid the time is across an entire show, not just one bar."
+      }
+    ]
+  },
+  "ear-training": {
+    "tagline": "Hearing subdivisions, feels, and phrases before you can name them",
+    "bodyHtml": "\n      <p>This curriculum gives you dozens of listening recommendations, but listening is itself a skill — and it's trainable. A drummer with a trained ear learns new material faster, locks with bands quicker, and steals vocabulary from every song on the radio. This lesson is a set of listening drills, not playing drills; your instrument today is whatever speaker is nearby.</p>\n\n      <h2 class=\"section-label\">Drill 1 — Name the Subdivision</h2>\n      <p>Put on any song with drums. Find the pulse (nod to it). Now listen to the hi-hat or ride: is it moving with the pulse (quarters), twice per pulse (8ths), or four times (16ths)? Play the two exercises below and memorize how 8ths and 16ths <em>feel</em> at the same tempo — that contrast is what you're listening for in the wild. Ten songs a day for a week and this becomes automatic.</p>\n\n      <h2 class=\"section-label\">Drill 2 — Straight or Swung?</h2>\n      <p>Straight 8ths divide the beat exactly in half — machine-even, driving. Swung 8ths lean the second note late, toward the last third of the beat — rolling, loping. Listen for the space right after each beat: even spacing = straight; long-short lurch = swung. AC/DC is straight; a blues shuffle is swung. Test yourself on every song you hear for a week.</p>\n\n      <h2 class=\"section-label\">Drill 3 — Count the Form</h2>\n      <p>Most popular music moves in 4-bar phrases. Count \"1-2-3-4, 2-2-3-4, 3-2-3-4, 4-2-3-4\" along with a song, and predict where the next section lands — the fill almost always arrives in bar 4, and something (a crash, a chord change, a vocal entrance) marks the next \"1.\" When you can feel the 4-bar grid without counting, fills stop being guesswork.</p>\n\n      <h2 class=\"section-label\">Why This Isn't Optional</h2>\n      <p>Every genre track in this curriculum ends with a listening section. The difference between \"I listened to it\" and \"I heard what the drummer did\" is exactly the three skills above — and they feed directly into <em>Transcribing from Recordings</em> later.</p>\n    ",
+    "graduationCriteria": [
+      "Given any groove-based song, you can name its subdivision (8ths, 16ths, triplets) within a few bars",
+      "You can tell straight 8ths from swung 8ths without counting",
+      "You can count a 4-bar phrase in a song and land on the \"1\" of the next phrase"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Reference: 8th-Note Carpet",
+        "tip": "Play this, close your eyes, and memorize the density: two hat notes per pulse. Then find three songs in your library that move at this density."
+      },
+      {
+        "title": "2 — Reference: 16th-Note Carpet",
+        "tip": "Same tempo as Ex 1, twice the notes per pulse. A/B the two exercises until the density difference is unmistakable with your eyes closed — that contrast is what \"naming the subdivision\" means."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "Straight 8ths, nothing but. Calibrate your \"straight\" against this."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Swung 16ths in a half-time shuffle — the classic \"is this straight or swung?\" test case."
+      },
+      {
+        "artist": "Clyde Stubblefield",
+        "work": "James Brown — Funky Drummer",
+        "note": "16th-note density. Count the 4-bar phrases and predict where the band punches."
+      }
+    ]
+  },
+  "playing-to-a-song": {
+    "tagline": "The drummer hears form, not just bars",
+    "bodyHtml": "\n      <p>A song is not a string of bars. It's a <em>form</em> — sections of music (verses, choruses, bridges) that repeat and contrast. Drummers who hear form play differently from drummers who only hear bars. They know when to stay simple, when to fill, when to crash, and when to leave the bar empty.</p>\n      <h2 class=\"section-label\">Sections and Phrases</h2>\n      <p>Most pop and rock songs are built from a small number of sections — typically a verse and a chorus, sometimes with a bridge and an intro/outro. Each section is usually <strong>4 bars or 8 bars long</strong>. Listeners can feel the section ending even if they can't count it; the music has built up an expectation that \"something\" happens at bar 8 or bar 16. That something is often a fill leading into the next section, followed by a crash on beat 1 of the new section.</p>\n      <h2 class=\"section-label\">The Crash on Beat 1</h2>\n      <p>The single most important drumming gesture in pop music is the <strong>crash on beat 1 of a new section</strong>. The crash announces \"we just changed sections\" — verse to chorus, chorus to bridge, etc. It's almost always accompanied by a kick under it (the foot reinforces the downbeat). Listeners interpret an unaccompanied crash on beat 1 as a section boundary even if no other instrument has changed yet.</p>\n      <h2 class=\"section-label\">Sustaining a Groove</h2>\n      <p>Inside a section — the 7 bars between section boundaries, in an 8-bar phrase — your job is usually to <em>not change</em>. The temptation as a beginner is to add color, fills, kick variations every other bar to \"be interesting.\" Don't. The song is interesting; you are the foundation. Sustain the same groove until the form tells you to change.</p>\n      <h2 class=\"section-label\">The Notation Below</h2>\n      <p>The exercises here represent a 16-bar phrase. The notation only shows specific bars — bars 1, 7, 8, 9 — because the rest are implied: bars 2–6 are the same as bar 1, and bars 10–16 are the same as bar 9 (with a possible second fill at bar 16). When you practice these, play the implied bars too. The whole phrase is the exercise.</p>\n    ",
+    "graduationCriteria": [
+      "Can hold a basic backbeat for 16 unbroken bars at ♩ = 80 without varying the groove",
+      "Crash on beat 1 of bar 9 (after the bar-8 fill) lands cleanly with a kick under it",
+      "Can describe the verse-chorus-verse form of any pop song you know in terms of drums"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hold the Backbeat for 16 Bars (Bar 1, repeated)",
+        "tip": "First exercise: just hold the basic backbeat for 16 bars. No fills, no variations, no kick changes — just sustain the groove. The point is to feel what an entire 16-bar verse <em>without</em> drum activity feels like. Boring is the right answer. Most working drummers spend 80% of any given song doing exactly this."
+      },
+      {
+        "title": "2A — Same Groove Through Bar 7",
+        "tip": "This is the verse: 7 bars of the same backbeat. Resist filling. Resist varying the kick. The temptation gets stronger around bar 5; this is exactly when working drummers stay still. The song is doing other things — your job is to be the floor it walks on."
+      },
+      {
+        "title": "2B — Bar 8: The Fill That Sets Up the Chorus",
+        "tip": "Bar 8 is half-groove, half-fill: beats 1–2 hold the backbeat, beats 3–4 fill across the toms (hi-tom, hi-tom, mid-tom, floor). The fill ends on the floor tom — its low pitch sets up the crash you're about to play. The bar must end exactly on time so the chorus enters cleanly."
+      },
+      {
+        "title": "2C — Bar 9: Crash on Beat 1, Then Resume Groove",
+        "tip": "Bar 9 — the chorus. Beat 1 is a <strong>crash + kick</strong> together (the crash uses the <em>a/5/x2</em> position above the staff). Then the groove resumes — back to hi-hat 8ths and the basic backbeat. The crash on 1 announces the section change to the listener; everything after it is the same vocabulary as the verse. Bars 10–16 = same as bar 1 of Exercise 1."
+      },
+      {
+        "title": "3 — ABA Form Template (Verse · Chorus · Verse)",
+        "tip": "<strong>A</strong>: 8 bars of this groove, fill at bar 8. <strong>B</strong>: crash on 1, 8 bars, fill at bar 16. <strong>A</strong>: 8 bars again. Play all 24 without stopping, with a click. Then map the shape onto any pop song you know — almost all have at least one ABA pass."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Charlie Watts",
+        "work": "The Rolling Stones — Start Me Up",
+        "note": "Listen for the bar-by-bar discipline through the verses, then the crash entries on the choruses."
+      },
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "The ultimate textbook on holding a groove for an entire section without varying."
+      }
+    ]
+  },
+  "two-minute-loops": {
+    "tagline": "Holding one groove for two minutes — harder than it sounds",
+    "bodyHtml": "\n      <p>Two minutes of one groove. No fills. No variations. No kick changes. No accelerando. No \"let me try a small thing here.\" Just the same bar, repeated, for one hundred and twenty seconds.</p>\n      <p>If that sounds easy, you haven't done it yet. The two-minute loop is the most boring exercise in this curriculum — and one of the most useful. It builds three things at once: <strong>endurance</strong> (the small muscles in your hands and feet getting tired and recovering inside the same groove), <strong>time</strong> (every micro-drift becomes audible against a click), and <strong>discipline</strong> (the active resistance to making things \"more interesting\").</p>\n      <h2 class=\"section-label\">The Three Pulls</h2>\n      <p>Around the 30-second mark your brain will start negotiating. It will want to <em>add things</em> — a fill, a kick change, an open hat. Ignore it; holding one part without variation is the same skill that lets a working drummer sit in a five-minute verse. It will want to <em>slip feels</em> — straight 8ths drifting swung without you noticing; if you catch yourself in a different feel, reset and start again. And it will want to <em>speed up</em> — a bored brain rushes. Stay in the click and let the boredom be boring.</p>\n      <h2 class=\"section-label\">Three Loops, Not Three Variations</h2>\n      <p>The three exercises below are three different grooves — same tempo, different patterns. The point of having three is so that <em>across a single practice session</em> you have variety, while <em>within each two-minute loop</em> you have none. Pick one. Set the click. Play the same bar 60 times in a row.</p>\n    ",
+    "graduationCriteria": [
+      "Each of the three loops below holds for two unbroken minutes at ♩ = 80 against a click",
+      "The groove is identical from minute 1 to minute 2 — no fills introduced, no kick variations added",
+      "Tempo is identical at the start and end of the loop (verified by recording)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Basic Backbeat Loop",
+        "tip": "The basic backbeat. Click on every quarter at ♩ = 80. Set a timer for two minutes. Play this bar — and only this bar — until the timer rings. If you catch yourself adding a fill, reset the timer. If you catch yourself opening the hi-hat, reset the timer. The exercise <em>is</em> the resistance to adding things."
+      },
+      {
+        "title": "2 — Quarter-Note Hi-Hat Loop",
+        "tip": "Same kick, same snare, but the hi-hat is now <em>quarter-notes only</em> — one hi-hat hit per beat instead of two. Sparser, more breathing room. Two minutes at ♩ = 80. The pull on this one is to start re-adding the missing 8th-note hi-hats around minute 1; resist. The whole point is the wide-open feel that quarter-note hi-hats produce."
+      },
+      {
+        "title": "3 — Half-Time Loop",
+        "tip": "Half-time feel: snare on beat 3 only, kick on beat 1 only, hi-hat 8ths throughout. Two minutes at ♩ = 80 — same tempo as Loops 1 and 2, but the bar feels twice as long. Half-time loops are extra hard to hold because the empty space invites filling. Don't fill. The space <em>is</em> the groove. Hip-hop and modern rock live here."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "Listen to how long he holds each pocket without ever varying — the discipline is the sound."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Paul Simon — 50 Ways to Leave Your Lover",
+        "note": "An entire iconic song built on a loop he basically never breaks."
+      }
+    ]
+  }
+}

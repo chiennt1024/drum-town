@@ -1,0 +1,742 @@
+{
+  "metal-double-bass-basics": {
+    "tagline": "When one foot isn't enough",
+    "bodyHtml": "\n      <p>That continuous low roar under a thrash chorus is not one foot working overtime. It is two. <strong>Double bass</strong> means a second pedal, either a slave pedal linked to your main one by a driveshaft or an entire second bass drum, so the feet alternate <em>R L R L</em> the same way your hands alternate in a single-stroke roll. The four exercises here climb the ladder the rest of this track is built on: one kick per beat, then two, then four, then a groove sitting on top of them.</p>\n      <p>All four write the kicks on one staff line, so nothing on the page tells you which foot played which note. The sticking does that, and from Exercise 2 on it is strict alternation with your lead foot on the beats. Sort out one piece of hardware before you count in. Once both feet are on bass pedals your left foot has left the hi-hat pedal, so lower the clutch until the top cymbal rests on the bottom one — nothing else is holding the hats shut while your hand plays them.</p>\n      <h2 class=\"section-label\">Climbing from one kick a beat to four</h2>\n      <p>The hand part is identical in all four exercises: straight 8ths on the closed hat, eight strokes a bar, start to finish. It is the control variable, so when the sound changes, the feet changed it. Exercise 1 puts a single kick under every other hat stroke at ♩ = 90, one foot only, and it is the only one here you can play on a single pedal. Exercise 2 holds that tempo and brings the second foot in on the <em>&amp;</em> of every beat, so every kick now has a hat stroke sitting directly on top of it. A flam between hand and foot has nowhere to hide there, which is why the tempo does not move: the second foot is the only new thing in the bar.</p>\n      <p>Exercise 3 is where the feet break away from the hands. Sixteen kicks a bar against eight hat strokes, and with <em>R L R L</em> starting on beat 1, the R foot keeps landing with the hat on the beats and the <em>&amp;</em>s while the L foot takes every <em>e</em> and every <em>a</em>. The weak foot has just lost its cover. Its notes are the only ones in the bar with no hand stroke over them, so any softness in it reads as a limp in the 16th stream. The written tempo drops to ♩ = 80 here, because hand 8ths against foot 16ths is a coordination problem before it is a speed problem, and even with the drop the foot rate climbs from 180 kicks a minute to 320. Exercise 4 changes nothing underneath and adds the backbeat on 2 and 4 above it, and that combination is the sound the first three exercises have been building toward.</p>\n      <p>Work them in order, and give Exercise 1 more time than it looks like it deserves. Two minutes of quarters at ♩ = 90 with the leg still loose is the stamina every exercise above it borrows from. On Exercise 3, start well under the written tempo, 60 is a reasonable place to begin, and move the click up only when the 16ths sound like one continuous stream instead of loud-soft-loud-soft. Do not press the beater into the head and hold it there on every stroke. That buried sound is a real metal choice at slower kick rates, but 16 to a bar is too many to hold down; let the beater rebound and use the bounce to start the next one.</p>\n      <h2 class=\"section-label\">Where the second foot gives itself away</h2>\n      <p>Speed is not what fails first. Volume is. Drop your hands, play the feet of Exercise 2 alone for 30 seconds, and record it. If you hear a pulse every other kick, your L is quieter than your R and what you are playing is an 8th-note stream accented on every beat, not an even one. More reps at that tempo will not fix it; reps at a slower tempo where both feet sound identical will. The second failure happens upstairs. When the feet jump to 16ths the hand wants to go with them, rushing the hat or leaning into it, and the graduation bar for Exercise 4 asks for a steady hat while the kicks run underneath. The moment the hat drifts, stop the feet, play four bars of hat alone until it settles, then bring the feet back in.</p>\n    ",
+    "graduationCriteria": [
+      "8th-note alternating double bass at ♩=90 for 1 minute without the non-dominant foot fading",
+      "Basic metal groove (Ex 4) at ♩=80 with steady hi-hat",
+      "Kicks are evenly spaced — no rushing the doubles"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Note Kicks",
+        "tip": "Single foot, kick on every quarter. This is the warmup — your dominant foot should be able to do this for two minutes without the leg getting tired. If it can't, slow down or work on heel-up technique before adding the second foot."
+      },
+      {
+        "title": "2 — Eighth-Note Kicks (Alternating Feet)",
+        "tip": "Eight kicks per bar — now the second foot enters. Alternate <em>R L R L R L R L</em>. The non-dominant foot will feel weaker for the first few hundred reps; that's expected. Focus on <em>even volume</em> between feet, not speed."
+      },
+      {
+        "title": "3 — Sixteenth-Note Kicks",
+        "tip": "Sixteen kicks per bar at <em>♩=80</em> — sticking <em>R L R L</em> repeated. Tempo dropped slightly because the hand 8ths and foot 16ths together are a real coordination challenge. The hi-hat hand has to stay steady while the feet move twice as fast."
+      },
+      {
+        "title": "4 — Basic Metal Groove (16th Kicks Underneath)",
+        "tip": "Basic backbeat in the hands, 16th-note double-bass underneath. This is the <em>core</em> metal sound — the snare on 2 and 4 carries the song while the kicks gallop. Slow it down if needed; this is hard."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Lars Ulrich",
+        "work": "Metallica — One",
+        "note": "The canonical double-bass entrance: the machine-gun section near the end. Listen to how the feet lock to the guitars, not just the click."
+      },
+      {
+        "artist": "Dave Lombardo",
+        "work": "Slayer — Angel of Death",
+        "note": "Double-bass endurance and evenness at extreme tempo. The feet are a single instrument, not two alternating ones."
+      }
+    ]
+  },
+  "metal-power-grooves": {
+    "tagline": "Heavy, slow, and loud — metal's power-groove vocabulary",
+    "bodyHtml": "\n      <p>Before metal goes fast, metal goes <em>heavy</em>. Power grooves are the slow, loud half of the genre — the riff-driven backbeat where every snare hit feels like a sledgehammer and every quarter on the hat or china marks the pulse the headbangers move to. Sabbath's <em>Iron Man</em>, Pantera's <em>Walk</em>, half of Metallica's mid-tempo work — all power grooves.</p>\n      <p>Mechanically there's nothing exotic going on. The hand pattern is quarter notes on the hat (or china, for the more aggressive sound). The snare lands on 2 and 4. The kick is sparse, hitting whichever beats the riff wants reinforced. The whole point is the <em>feel</em> — slow, planted, every stroke chosen.</p>\n      <h2 class=\"section-label\">Heavy Means Loud, Not Fast</h2>\n      <p>If you're rushing these grooves, you've missed the point. Power grooves live in the ♩=85–110 range. The aggression comes from playing them with full-volume strokes — let the snare ring out, let the kick punch, lean into every hit. Save the speed for the thrash lessons.</p>\n    ",
+    "graduationCriteria": [
+      "All 4 power grooves played with deliberate weight at ♩=95",
+      "Quarter-note hi-hat (or china) stays even — no rushing toward beat 4",
+      "The backbeat snare on 2 and 4 is noticeably louder than the surrounding hat strokes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Power Groove (Quarter Hat, Sparse Kick)",
+        "tip": "The simplest power groove. Hat on every quarter, snare on 2 and 4, kick on 1 and 3. The hands play four equal quarter notes — but the 2 and 4 are with the snare, so they should sound dramatically louder than 1 and 3. Lean into the backbeat."
+      },
+      {
+        "title": "2 — Quarter China (Replace Hat with China Cymbal)",
+        "tip": "Same groove, but the hand moves from the closed hi-hat to the china cymbal. The china is a trashier, more aggressive sound — Vinnie Paul's signature in Pantera, Lars's chorus accent in Metallica. The pattern is identical; only the timbre changes. Practice both: hat for verses, china for choruses."
+      },
+      {
+        "title": "3 — Sparse Kick (Beat 1 Only)",
+        "tip": "Pulling the kick back to beat 1 only is a doom-metal staple — Sabbath, early Sleep, Saint Vitus. The bar is just the snare and hat carrying the weight; the kick is one anchor at the top, then silence underneath. Counterintuitively, this feels heavier than a busy kick because the bar has space to breathe."
+      },
+      {
+        "title": "4 — Pantera \"Walk\"-Style Power Groove",
+        "tip": "Vinnie Paul's go-to feel: china on every quarter, snare on 2 and 4, kick on 1 plus a pair on the <em>3 and &amp; of 3</em>. That double-kick on the back half of beat 3 is the engine — it pushes into beat 4 and gives the riff somewhere to land. Slow, heavy, and deeply syncopated underneath the apparent simplicity."
+      }
+    ]
+  },
+  "metal-headbang": {
+    "tagline": "Eighth-note kick, eighth-note china, perpetual forward drive",
+    "bodyHtml": "\n      <p>A metal crowd moves on the quarter note, and the thing moving it is your right foot. The <strong>headbanger</strong> groove is built to do exactly that: kick on every quarter, snare on 2 and 4, hand on every 8th, usually a china for the trashy bite. Nothing in the bar is left empty. Every 8th has a sound, every quarter has a kick, and the bar never stops driving. Where the power groove marked the pulse with one hand stroke per beat, this one fills every gap between them. Exercise 1 is that engine at ♩ = 110.</p>\n      <p>The texture lives on the downbeats. Count <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>: on the four numbers the china and the kick fire together as one thick composite attack, and on the four <em>&amp;</em>s the china is alone and thin. Fat, thin, fat, thin — that alternation is what a crowd nods to. Let the foot slide a hair off its china stroke and the composite splits into two separate events, the downbeat stops being a landmark, and the groove goes soft with every note still in place.</p>\n      <h2 class=\"section-label\">Making the kick and the china land as one attack</h2>\n      <p>Build it foot first. Play the four kicks alone against the click at ♩ = 110 until they sit dead center, then lay the china 8ths on top without letting the hand renegotiate where the beat is. The foot is the reference here; the hand only has to agree with it. Add the snare on 2 and 4 last. At 110 that hand is turning out 220 strokes a minute for the length of a verse, so get the grip loose before you get it fast.</p>\n      <p>Exercise 2 doubles the hand and moves it to the hi-hat: straight 16ths, alternating <em>R L R L</em>, foot still planted on every quarter. Only one hand stroke in four now has a kick underneath it, so there is more hand between the anchor points and the foot gets less help holding its position. The tempo drops to ♩ = 100 for the wrists, not for the feet. Watch for the busy hand dragging the foot along with it. If the kick starts arriving a fraction early, stop, play the four quarters alone again, and rebuild the 16ths from a slower click.</p>\n      <h2 class=\"section-label\">Two ways to mark the last 8th of the bar</h2>\n      <p>Exercises 3 and 4 both mark the last 8th of the pattern, and they use different limbs to do it. Exercise 3 is Exercise 1 with that final china stroke written open: give it a full ringing stroke and let it carry over the barline, and the band hears the bar turning over before it turns. If you have switched the hand to the hi-hat, the same marking is a lift of the left foot off the hat pedal on the <em>&amp; of 4</em>. Exercise 4 leaves the hand plain and gives the job to the kick. At ♩ = 105, bar 2 ends with an extra stroke on the <em>&amp; of 4</em> that splits its last quarter into two 8ths, and over the full two bars that is the only place the right foot steps off the quarter-note grid.</p>\n      <p>Three things break this groove. Rushing is the first, since a pattern with no rests gives the hand nothing to fall back into and creeping ahead feels like commitment. The second is the off-beat 8ths swelling until they weigh as much as the numbers. You never have to accent the downbeats here, because the kick is already doing that for you; keep the hand strokes even and let the foot supply the difference. The third is playing Exercise 4 as two bars instead of one 8-beat phrase. Loop it until the push on the <em>&amp; of 4</em> feels like it points at bar 1 rather than finishing bar 2.</p>\n    ",
+    "graduationCriteria": [
+      "Eighth-note china + 8th-kick + backbeat groove (Ex 1) at ♩=110 for 1 minute",
+      "Hi-hat 16ths variation (Ex 2) holds at ♩=100 without the kick getting pulled forward",
+      "The 2-bar pattern (Ex 4) reads as one continuous phrase, not two separated bars"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Headbanger Basic (China 8ths + 4 Kicks + 2/4 Snare)",
+        "tip": "Kick on every quarter — your right foot is now a metronome. Snare on 2 and 4. China on every 8th. The kick + china have to coincide on every downbeat (1, 2, 3, 4); the off-beat 8ths are china alone. Lock the foot to the click first; the 8ths are easier to even out once the foot is rock-steady."
+      },
+      {
+        "title": "2 — Hi-Hat 16ths Variation",
+        "tip": "Double-time hand: 16th notes on the hi-hat, played with alternating sticks (RLRL). The kick is still on every quarter, snare still on 2 and 4 — but now the hand is twice as busy. This is the thrash-verse feel: foot drives the headbang while the hand seethes underneath. Tempo dropped to ♩=100 because the 16ths require the wrists to relax."
+      },
+      {
+        "title": "3 — Canonical Headbanger Feel (Open-Hat Push on &amp; of 4)",
+        "tip": "Same engine as Ex 1, but the last 8th of the bar is an <em>open</em> china (or open hat if you switch). That open accent at the end of the bar is the breath that signals the bar is about to repeat — the band can hear it coming. It's the metal equivalent of the open-hat anthem from rock, but louder and faster."
+      },
+      {
+        "title": "4 — Two-Bar Headbanger Phrase (Bar 2 Adds Kick on &amp; of 4)",
+        "tip": "Two bars treated as a single phrase. Bar 1 is the basic headbanger. Bar 2 ends with an extra kick on the <em>&amp; of 4</em> — a push into the start of the next phrase. This kind of two-bar shape is how metal builds tension across longer sections; the listener feels the bar 2 push and expects something to land on the next downbeat."
+      }
+    ]
+  },
+  "metal-quarter-bass": {
+    "tagline": "Two pedals, one foot at a time — the entry to two-foot drumming",
+    "bodyHtml": "\n      <p>The previous lesson (metal-double-bass-basics) introduced both feet at 8th-note speed. This lesson zooms back out to the slowest possible double-bass tempo — <strong>quarter-note alternation, RLRL</strong> — so the non-dominant foot has time to learn what it's doing. Two pedals, one note each per beat, no rush.</p>\n      <p>Why bother going slow when 8ths are easier than they sound? Because the L foot is what limits you. Most beginning metal drummers can fake 8ths with a heavy R and a weak L, then hit a wall at 16ths because the L was never really pulling its weight. Quarter-note RLRL forces the L to play <em>alone</em> on beats 2 and 4 (or whichever beats you assign to it), which exposes the imbalance and gives you a tempo where you can fix it.</p>\n      <h2 class=\"section-label\">Notation Note</h2>\n      <p>Both kicks are notated in the bottom space (<em>f/4</em>) — the kit usually has only one kick voice, so even with two pedals, one notehead per stroke is all the staff can show. The R / L split lives in the tip text, not in the notation.</p>\n    ",
+    "graduationCriteria": [
+      "Alternating quarter-note kicks (Ex 1) RLRL at ♩=100 for 90 seconds without volume drop on the L",
+      "Quarter kicks + 8th hat (Ex 2) at ♩=95 with the hat rock-steady through the foot alternation",
+      "Full groove (Ex 3) at ♩=90 with snare on 2/4 and the L kicks audibly equal to the R kicks"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Alternating Quarter Kicks (RLRL, Hands Silent)",
+        "tip": "Four quarter-note kicks, sticking <em>R L R L</em>. Hands silent — this exercise is purely about your two feet. The R kicks (beats 1 and 3) will sound louder by default. Your job is to make the L kicks (beats 2 and 4) match them. If they don't, slow down to ♩=80 and try again. Volume parity first; speed later."
+      },
+      {
+        "title": "2 — Quarter Kicks + 8th Hi-Hat",
+        "tip": "Same RLRL kicks, now with 8th-note hi-hat on top. The hand stays steady; the feet alternate underneath. The trap to avoid: when your L foot fires, your R hand often wants to skip a beat in sympathy. Don't let it. The hand and feet are independent — the hat is its own metronome."
+      },
+      {
+        "title": "3 — Full Groove: Snare on 2/4 + RLRL Quarter Kicks",
+        "tip": "Now the snare enters on 2 and 4 — the L kick on beat 2 lands at the same instant as the snare. Same on beat 4. That coincidence is critical: if your L is weak, the kick under the snare will disappear and the bar will sound lopsided. Listen specifically for the L kicks; if you can't hear them under the snare, the L isn't loud enough yet."
+      }
+    ]
+  },
+  "metal-eighth-bass": {
+    "tagline": "Eight kicks per bar — the thrash-speed entry point",
+    "bodyHtml": "\n      <p>This is the speed where double-bass starts to <em>sound</em> like double-bass. Eight kicks per bar — two per beat, alternating <strong>R L R L R L R L</strong> — produces the rapid-fire kick texture that defines thrash, classic metal, and the entry to extreme styles. Above this tempo, every metal subgenre lives.</p>\n      <p>The mechanics are identical to the quarter-note lesson; only the rate has doubled. If your L foot is volume-balanced with your R at quarters, 8ths will be hard but achievable. If the L was a hair weaker at quarters, 8ths will expose it ruthlessly. Tempo discipline matters: this lesson works at ♩=100–120, no faster, until the 8ths are even.</p>\n      <h2 class=\"section-label\">The Hand Pattern Stays Slow</h2>\n      <p>While the feet are doing 8ths, the hand pattern in these exercises stays at quarter notes (or 8ths in Ex 4). Don't be tempted to play 16ths on the hat just because the feet are going fast — it doubles the coordination load and isn't how the actual style is played. Hands hold the time-marker; feet do the heavy lifting.</p>\n    ",
+    "graduationCriteria": [
+      "Alternating 8th-note kicks (Ex 1) RLRL at ♩=120 for 1 minute without the L foot fading",
+      "Eighth kicks + quarter hi-hat (Ex 2) at ♩=110 with hand and feet locked",
+      "Full thrash 8th feel (Ex 4) at ♩=100 with backbeat snare clearly punching through the kicks"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Alternating 8th Kicks (RLRL × 4, Hands Silent)",
+        "tip": "Eight kicks, alternating <em>R L R L R L R L</em>. Hands off the kit — focus entirely on the feet. Every R should match every other R in volume; every L should match every other L. More importantly, every L should match the R that came before it. If the bar sounds like <em>BOOM-boom-BOOM-boom</em> instead of <em>boom-boom-boom-boom</em>, your L is dragging."
+      },
+      {
+        "title": "2 — Eighth Kicks + Quarter Hi-Hat",
+        "tip": "Quarter-note hi-hat over 8th-note kicks. The hat coincides with the R kick on each beat (1, 2, 3, 4); the L kicks fall in the gap between hats. This is the cleanest possible coordination: hand and R-foot together, L-foot alone in between. Lock the hand to the click and let the feet do their thing."
+      },
+      {
+        "title": "3 — Eighth Kicks + Snare on 2/4",
+        "tip": "Add the snare on 2 and 4 — quarter hat continues, snare punches through on the backbeats. The R kicks now coincide with the snare on beats 2 and 4. The kicks under the snare often vanish acoustically because the snare is louder; that's fine, you'll <em>feel</em> them. What matters is that the foot pattern doesn't stutter when the snare lands."
+      },
+      {
+        "title": "4 — Canonical Thrash 8th Feel (8th Hat + Snare + RLRL Kicks)",
+        "tip": "Hand 8ths and foot 8ths stacked on top of each other. Every hat coincides with a kick — the hand and one of the feet always fire together. This is the densest possible 8th-note metal groove and the foundation under most thrash verses. If it's collapsing, drop tempo and try again; below ♩=100 the coordination is much easier."
+      }
+    ]
+  },
+  "metal-blast-beats": {
+    "tagline": "Hands and feet alternating at maximum speed — extreme metal's signature",
+    "bodyHtml": "\n      <p>The <strong>blast beat</strong> is extreme metal's defining gesture: snare and kick alternating at very high speed, with the hand also marking time on a cymbal. The \"traditional\" blast — the version played by Lombardo, Scott Columbus, and the early-90s death-metal pioneers — has the snare and kick alternating in 8th or 16th notes, hands and feet hitting opposite sides of every subdivision. The bar becomes a continuous wall of percussion, with the snare and kick taking turns half a subdivision apart.</p>\n      <p>There are a half-dozen named blast variants — bomb blast, hammer blast, gravity blast, economy blast — but they all share the same underlying engine: alternation at speed. This lesson installs the foundation. Tempo matters less than evenness; a clean blast at ♩=110 sounds far better than a sloppy one at ♩=180.</p>\n      <h2 class=\"section-label\">Mechanics Warning</h2>\n      <p>Blast beats are <em>physically demanding</em>. They will expose any tension in your wrists, ankles, or shoulders within seconds. Keep the strokes small and low to the drum (1–2 inches), use heel-up technique on the kick, and stop the moment your forearm or calf starts to cramp. Two clean 15-second blasts are worth more than one minute of struggling.</p>\n    ",
+    "graduationCriteria": [
+      "Slow blast (Ex 1) at ♩=100 holds for 30 seconds with snare and kick clearly alternating",
+      "Standard 16th blast (Ex 2) at ♩=140 (♪=280) for 15 seconds without the kick falling behind",
+      "Full blast with china (Ex 3) at ♩=130 with the china audible above the kick-snare alternation"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Slow Blast (8th Note Subdivision)",
+        "tip": "Hat 8ths in the right hand. Snare on every <em>down</em>-8th (1, 2, 3, 4); kick on every <em>up</em>-8th (the &amp;'s). Hand and snare hit together on the downbeats; hand and kick hit together on the off-beats. This is the slowest possible blast — the alternation pattern is identical to a faster blast, just stretched out. If you can't make this clean at ♩=100, you can't make a fast blast clean at any tempo."
+      },
+      {
+        "title": "2 — Standard 16th-Note Blast",
+        "tip": "16th-note blast. Hat 16ths, snare on the on-16ths (the <em>e</em>'s and downbeats — actually positions 1 and 3 of each beat), kick on the off-16ths (the <em>e</em> and <em>a</em> positions). Hand and snare together on positions 1+3; hand and kick together on positions 2+4 of each beat. At ♩=140 the 16ths are 16/sec — very fast. Keep strokes small."
+      },
+      {
+        "title": "3 — Blast with China on Top",
+        "tip": "Same blast pattern with the hand on the china instead of the hi-hat. The china's trash-cymbal sustain bleeds into every stroke and gives the blast its trademark wash — the sound of late-90s Cannibal Corpse, Behemoth, modern death metal. The kick must still be audible underneath; if the china is drowning it out, drop the cymbal volume by playing closer to the bell."
+      },
+      {
+        "title": "4 — Canonical Slayer / Cannibal Corpse Blast Feel",
+        "tip": "Three beats of standard alternating blast, then beat 4 turns into pure 16th-note kicks (no rests) — the bar closes with all kicks underneath the hand-snare alternation. This is the canonical Slayer / Cannibal Corpse move: the bar that builds to a 16th-kick wall on beat 4 before resetting. Keep the wrists relaxed; the bar 4 surge is where most blasts collapse."
+      }
+    ]
+  },
+  "metal-prog-metal": {
+    "tagline": "Odd meters, polyrhythmic kicks, metric modulation — Tool / Meshuggah / DT",
+    "bodyHtml": "\n      <p>Prog metal sits at the intersection of metal's heaviness and progressive rock's structural ambition. Tool builds whole songs out of one 7/8 figure repeated against a 4/4 vocal. Meshuggah piles polyrhythmic kicks against straight 4/4 cymbals so the kick pattern only resolves every eight bars. Dream Theater stitches odd meters together into long, mathematically constructed phrases. The drumming demands genuine literacy — you have to <em>read</em> these patterns, not just feel them.</p>\n      <p>The exercises below are entry points to four prog-metal problems: an odd meter (7/8), a longer odd meter (5/4), a metric modulation (the 8th-note becomes the new quarter), and a multi-bar phrase that has to read as one shape. None of these are flashy — prog drumming is more about clarity than fireworks — but each one requires you to count out loud and trust the page over your instinct.</p>\n      <h2 class=\"section-label\">Count Out Loud</h2>\n      <p>For all four exercises, <em>count out loud</em> on every repetition until the bar feels structural rather than improvised. \"1-2-3-4-5-6-7\" or \"1-2-3-4-5\" — say the numbers, hit the snare on the right one. Once the count is internalized, you can stop saying it; not before.</p>\n    ",
+    "graduationCriteria": [
+      "7/8 prog groove (Ex 1) at ♩=100 with the bar resolving cleanly to beat 1 every cycle",
+      "5/4 prog groove (Ex 2) at ♩=95 with snare placement consistent across repetitions",
+      "Metric modulation (Ex 3) re-anchors to the new pulse without rushing",
+      "4-bar phrase (Ex 4) holds together as one shape rather than four disconnected bars"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 7/8 Prog Groove with Double Bass",
+        "tip": "Hat on every 8th, snare on the 3rd and 6th, feet alternating R-L through all seven — which means <strong>bar 2 starts on the left foot</strong>. Count <em>1-2-3-4-5-6-7</em> and feel it as 4/4 with the last 8th lopped off; that missing 8th is the point."
+      },
+      {
+        "title": "2 — 5/4 Prog Groove (Tool / Dream Theater Feel)",
+        "tip": "Five quarter-note beats per bar. Snare on 2 and 4 (just like 4/4), kick on 1, 3, and 5. The extra beat (5) gets a kick of its own; it's the beat that makes the bar feel like \"4/4 with one extra at the end.\" Hat on every 8th (10 hats per bar). This is the canonical prog 5/4 — Tool's <em>Schism</em> works on the same skeleton, though they switch back to 7/8 for verses."
+      },
+      {
+        "title": "3 — Metric Modulation (4/4 → 4/4 with 8th = Quarter)",
+        "tip": "Metric modulation: the <em>physical</em> 8th note never changes speed, but the <em>perceived</em> beat shifts. Bar 1: hat 8ths feel like 8ths over a ♩=90 pulse. Bar 2: those same hat strokes are now <em>quarters</em> at ♩=180. Your hand keeps moving at the same rate; the bar lines just relocate. This is how Dream Theater and Meshuggah create the illusion of speed-changes without actually changing the click."
+      },
+      {
+        "title": "4 — Four-Bar Prog Phrase (4/4 + 7/8 + 4/4 + 5/4)",
+        "tip": "The cycle is 8 + 7 + 8 + 10 8ths — 33 per pass — and the snare keeps re-finding each bar's own <em>2</em> and <em>4</em>. Nail the two seams (into the 7/8, into the 5/4): if the phrase falls apart, it falls apart there."
+      }
+    ]
+  },
+  "metal-d-beat": {
+    "tagline": "Discharge-style: fast 8th kicks, snare on 2/4, the crust-punk foundation",
+    "bodyHtml": "\n      <p>The <strong>d-beat</strong> is named after the British band Discharge, who built every song they recorded between 1980 and 1983 on the same drum pattern: hat or china on every 8th, snare on 2 and 4, and a cluster of kicks on the <em>1, &amp; of 1, 3, &amp; of 3</em> that gives the bar its trademark gallop. Played at 180+ BPM, it became the engine for crust punk, hardcore, and a great deal of extreme metal afterward — Doom, Disclose, Nausea, half of Tragedy's discography, every Discharge tribute band ever.</p>\n      <p>Mechanically the d-beat is straightforward; what's hard is the <em>tempo</em>. At ♩=180 the 8ths come fast and the kick clusters need to land precisely on the &amp; of 1 and &amp; of 3. Below 170 it doesn't sound right; above 200 most drummers can't keep the kicks even. Find your speed in that range and stay there.</p>\n    ",
+    "graduationCriteria": [
+      "Basic d-beat (Ex 1) at ♩=180 for 1 minute with the snare clearly on 2 and 4",
+      "Double-china variation (Ex 2) at ♩=170 with the china pattern locked to the snare",
+      "Canonical Discharge feel (Ex 3) at ♩=190 holds together for 30 seconds without the kicks rushing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic D-Beat at 180 BPM",
+        "tip": "The canonical d-beat. Hat on every 8th, snare on 2 and 4, kick on 1, &amp; of 1, 3, &amp; of 3. Two kick pairs per bar — one in the first half, one in the second. Tempo is ♩=180, fast enough that the 8th-note hi-hat is a real workout. Keep the hat strokes small (1 inch from the cymbal) or your wrist won't last 30 seconds."
+      },
+      {
+        "title": "2 — D-Beat with Double China (Two Hands on Cymbals)",
+        "tip": "Same d-beat with the right hand on china instead of hat — the louder, trashier crust-punk sound. Tempo drops slightly (♩=170) because the china is harder to articulate than the hat at extreme speed. The snare hand crosses to the snare on 2 and 4 while the right hand stays on the china. This is the sound of Doom, of every Discharge B-side, of Tragedy."
+      },
+      {
+        "title": "3 — Canonical Discharge / Disclose Feel",
+        "tip": "♩=190 is the sweet spot for the d-beat — fast, urgent, just shy of the tempo where the kicks start to blur. The bar ends with an open china on the <em>&amp; of 4</em> that doubles as a kick — one cymbal hit, one kick, both on the same 8th-note. That paired accent is the d-beat's signature exit and the cue for the next bar to repeat."
+      }
+    ]
+  },
+  "metal-thrash": {
+    "tagline": "Lombardo / Ulrich vocabulary — fast 8th double bass, ride bell, backbeat",
+    "bodyHtml": "\n      <p>Speed is the cheap part of thrash. The work is keeping a backbeat that still cracks on 2 and 4 while the feet cover every 8th underneath and the hand never stops. The vocabulary is small, and it belongs to Dave Lombardo's Slayer records and Lars Ulrich's Metallica ones. These four patterns sit at ♩ = 140 to ♩ = 170, and the records go faster, with <em>Reign in Blood</em> closer to ♩ = 200.</p>\n      <p>Exercise 1 is the template, and you have played it before. It is the figure that closed the eighth-note double bass lesson, moved from ♩ = 100 to ♩ = 160: hi-hat on all eight 8th notes, snare on 2 and 4, eight kicks alternating <em>R L R L R L R L</em> underneath. A gap of 60 beats per minute is the whole difference between the two, which sounds modest until you count what each limb is doing.</p>\n      <p>The arithmetic makes it less frightening. Two feet split those 8ths, so neither foot plays 8ths on its own. Lead with the right and each foot is running plain quarter notes, the right on the four beats and the left on the four <em>&amp;</em>s, which is 160 strokes a minute per foot while the hat hand carries all 320. Your right foot lands with the snare on 2 and 4. Build it in this order: feet alone until both sides weigh the same, then the hat, then the snare, and if the 8ths are not even at ♩ = 120 they will not become even at ♩ = 160.</p>\n      <p>With a hand and a foot on every 8th, the bar has no gaps left in it, and the first casualty is usually the backbeat. The hat climbs in volume to keep pace with the feet and the snare stops being the loudest thing in the room. Keep the hat strokes small and let 2 and 4 stay on top.</p>\n      <h2 class=\"section-label\">Bell on the quarters, ride body in between</h2>\n      <p>Exercises 2 and 3 move the right hand from the hi-hat to the ride. Snare stays on 2 and 4 and the eight kicks stay underneath, so the new information is the accent. Accented notes are bell strokes, unaccented ones are softer strokes on the ride body, and if a listener cannot tell which is which, the exercise has done nothing. Exercise 2 accents all four quarters at ♩ = 150 for the ringing pulse Ulrich puts under Metallica's choruses. Exercise 3 accents 1 and 3 only, and it runs at ♩ = 170, the fastest tempo in the lesson.</p>\n      <p>Dropping the accent on 2 and 4 is a mixing decision as much as a drumming one. Those beats already carry the snare, so a bell stroke on top competes with the backbeat instead of framing it, and accenting 1 and 3 alone leaves the bar alternating bell, snare, bell, snare across the four quarters. One accent moved, and the section reads differently. In both exercises the hands land together on 2 and 4, ride and snare; flam them and the backbeat goes soft.</p>\n      <h2 class=\"section-label\">Keeping the gallop long, short, short</h2>\n      <p>Exercise 4 is the <strong>thrash gallop</strong>, the one pattern here whose feet are not evenly spaced. The hands hold 8th-note hi-hat with the snare on 2 and 4, but every beat of the kick reads <em>1 &amp; a</em>: an 8th note then two 16ths, twelve kicks in the bar instead of eight. Alternate straight through and the sticking is <em>R · L R</em> on beat 1, <em>L · R L</em> on beat 2; twelve is even, so the bar comes around without a reset. To start every beat on your lead foot instead, double the lead: <em>R · R L</em>, where the repeat falls an 8th apart, the widest gap in the beat.</p>\n      <p>Long, short, short is the shape, and it flattens into a triplet the moment the third kick drifts early. Check it against your hands. The first two kicks of each beat land with a hi-hat stroke; the third lands alone, one 16th before the next downbeat. Exercise 4 is the slowest pattern in the lesson at ♩ = 140, and those two 16ths are still the fastest notes in it. The naked one has nothing to hide behind.</p>\n      <p>All four patterns give out in the feet before the hands. Record 30 seconds of Exercise 1 and listen to the kicks by themselves. A loud-soft pulse alternating through them is your weaker foot, and the answer to it is a slower tempo, not more effort.</p>\n    ",
+    "graduationCriteria": [
+      "Basic thrash pattern (Ex 1) at ♩=160 for 1 minute with both feet sustaining",
+      "Bell-of-ride accents (Ex 2) at ♩=150 with bell hits clearly louder than other hand strokes",
+      "Master-of-Puppets-style feel (Ex 3) at ♩=170 holds for 30 seconds",
+      "Gallop pattern (Ex 4) at ♩=140 with RLR-RLR-RL kicks audibly even"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Thrash Pattern (8th Hat, 8th Kicks, Backbeat)",
+        "tip": "The basic thrash template: hat on every 8th, snare on 2 and 4, double-bass 8ths underneath (RLRL × 2). The hand and one foot fire on every 8th — this is constant percussion, no breathing room. ♩=160 is the entry tempo; Slayer's <em>Reign in Blood</em> sits closer to ♩=200, but at this speed the pattern is hard enough to be useful."
+      },
+      {
+        "title": "2 — Bell-of-Ride Accents on the Beat",
+        "tip": "The right hand moves to the ride bell. Accents on every quarter — beat 1, 2, 3, 4 — produce the bright, ringing pulse Lars puts under Metallica's chorus sections. The off-beat 8ths are softer ride-body strokes (no accent). Snare on 2 and 4. Double-bass 8ths under everything. This is the signature thrash chorus voice: bell on the quarters, body in between."
+      },
+      {
+        "title": "3 — Canonical \"Master of Puppets\"-Style Feel",
+        "tip": "Accent the bell on 1 and 3 only — beats 2 and 4 already have the snare and don't need the bell shouting over it. That odd-beat bell / even-beat snare alternation is what makes a chorus read as a chorus while the 8th-note kicks keep the floor."
+      },
+      {
+        "title": "4 — Thrash Gallop (RLR-RLR-RL Kicks)",
+        "tip": "Each beat is <em>boom · boom-boom</em> — an 8th plus two 16ths, feet sticking <em>R · L-R</em> (or <em>R · R-L</em> if your lead foot prefers). The whole gallop lives in one measurement: the gap between the 8th and the first 16th must exactly match the gap between the two 16ths."
+      }
+    ]
+  },
+  "metal-groove-metal": {
+    "tagline": "Heavy syncopation, double bass on the off-beats — Pantera, Lamb of God, Sepultura",
+    "bodyHtml": "\n      <p>Groove metal sits at the intersection of thrash's aggression and rock's pocket. Pantera invented the genre on <em>Cowboys From Hell</em> (1990) and refined it through <em>Vulgar Display of Power</em> (1992); Lamb of God, Machine Head, and Sepultura's <em>Roots</em> era extended it. The signature: heavy, mid-tempo grooves where the kick lands on syncopated off-beats while the snare anchors 2 and 4, and the riff and drum kick lock in tight. Headbang music with structural integrity.</p>\n      <p>Vinnie Paul's vocabulary is mostly built from these patterns. The kick on the <em>&amp; of 3</em>, the kick on the <em>&amp; of 4</em>, the occasional double-bass interjection between snares — small moves that turn a basic backbeat into a groove that <em>swings</em> in a metal way. Tempo: ♩=85–110, sometimes faster. The bars must <em>land</em> heavily; if they don't, you're playing rock.</p>\n    ",
+    "graduationCriteria": [
+      "Basic groove-metal pattern (Ex 1) at ♩=100 with kick syncopations punching through",
+      "&amp; of 3 + 4 kick variation (Ex 2) at ♩=95 with the syncopation steady across repetitions",
+      "Walk-style groove + double-bass interjections (Ex 3) holds tempo without rushing the doubles",
+      "2-bar Pantera-style phrase (Ex 4) reads as one shape, with bar 2 distinct from bar 1"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Groove-Metal Pattern (Kick on &amp; of 3)",
+        "tip": "China on every 8th, snare on 2 and 4, kick on 1 + 3 + <em>&amp; of 3</em>. The <em>&amp; of 3</em> kick is the move that turns a power groove into a groove-metal groove — that single off-beat kick gives the bar its forward push toward beat 4. This is the verse engine on half of <em>Vulgar Display of Power</em>."
+      },
+      {
+        "title": "2 — Kick on &amp; of 3 AND &amp; of 4",
+        "tip": "Two off-beat kicks: <em>&amp; of 3</em> and <em>&amp; of 4</em>. The bar now has four kick attacks (1, 3, &amp;-of-3, &amp;-of-4) and the second half of the bar gets distinctly busier than the first. That asymmetry is the whole point — bar 1 sets up the groove; the back half pushes harder toward the next bar's downbeat."
+      },
+      {
+        "title": "3 — \"Walk\"-Style + Double-Bass Interjections",
+        "tip": "Quarter china on 1, 2, 4; beat 3 doubles into 8th chinas while the kick blooms into a 16th RLRL run — four kicks where one used to live. Make the burst seamless: the listener should be surprised by the kicks, never by the foot mechanics."
+      },
+      {
+        "title": "4 — Two-Bar Pantera-Style Phrase",
+        "tip": "Bar 1 is the Ex 1 groove; bar 2 repeats it until beat 4 explodes into 16th kicks — the push that cues the riff's return. That burst should feel <em>arrived at</em>, not bolted on, so practice the two bars as a single unit, never as bar 1 plus a different bar 2."
+      }
+    ]
+  },
+  "metal-extreme": {
+    "tagline": "Death, black, grindcore — the language of speed",
+    "bodyHtml": "\n      <p>Extreme metal is shorthand for the family of subgenres — death, black, grindcore — that took thrash's tempo and pushed past it until the music stopped sounding like rock at all. The drumming is the engine room of the style: blast beats sustained for full songs, kick figures running unbroken 16ths or 32nds, and time signatures that exist mostly so the riff has a frame to hang on.</p>\n      <p>This lesson installs four foundational vocabulary items. The traditional alternating blast (one hand, one foot, one hand, one foot — a single-stroke roll split between snare and kick) is the canonical extreme-metal pulse. The black-metal \"skanking\" beat sits a step back: a quarter-note kick with the snare answering on every &amp;, almost like a manic disco beat at terminal velocity. The brutal-death kick figure swaps the order — the kick takes the constant 16ths while the snare holds a doubled backbeat. And the canonical extreme blast at 240 BPM is the destination.</p>\n      <p>None of these are written for show. They are the rhythmic infrastructure of an entire genre, and any one of them will appear unmodified on a hundred records.</p>\n      <h2 class=\"section-label\">Build Order</h2>\n      <ul class=\"bulleted\">\n        <li>Slow the alternating blast down to ♩=140 first; build it up in 10-BPM increments. Above ♩=200 the technique changes — heel-up shifts to ankle-only, the snare hand goes from wrist to finger.</li>\n        <li>Skanking is a stamina exercise — the snare on every <em>&amp;</em> never gets a break. Find a relaxed rebound on the snare hand or you will not finish a song.</li>\n        <li>Brutal-death kicks demand even foot volume between the dominant and weak side. If the second kick is consistently quieter, drop the tempo until it isn't.</li>\n        <li>The 240 BPM blast is the audition — record yourself and listen for the second 16th of every group. That's the one that disappears first.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Nile — anything with George Kollias from <em>Annihilation of the Wicked</em> onward. The textbook for sustained extreme blasts.</li>\n        <li>Behemoth — Inferno on <em>Demigod</em> and <em>The Apostasy</em>. Black/death crossover with surgical blasts.</li>\n        <li>Cannibal Corpse — Paul Mazurkiewicz, brutal-death kick patterns front and center.</li>\n        <li>Napalm Death — Mick Harris (the man who named the blast beat) on <em>From Enslavement to Obliteration</em>.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Traditional alternating blast holds at ♩=240 for 16 bars without the snare hand or kick foot lagging",
+      "Black-metal \"skanking\" beat — snare on every &-of-beat under quarter-note kick — locks at ♩=200 for 32 bars",
+      "Brutal-death kick figure (steady 16ths under a doubled snare on 2 and 4) holds at ♩=180 with even kick volume",
+      "Can switch between three blast variants on cue without dropping the click"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Traditional Alternating Blast at ♩=240",
+        "tip": "The alternating blast at extreme tempo. Hi-hat hand and snare hand trade 8ths — together they form a single-stroke roll on 16ths between the two surfaces. Kick plays steady 8ths underneath, locking with whichever hand is on the cymbal. <em>Relax the grip</em>: at 240 BPM only finger and rebound work, never wrist."
+      },
+      {
+        "title": "2 — Black-Metal Skanking Beat",
+        "tip": "Quarter-note kick, snare on <em>every &amp;</em>, hi-hat 8ths over the top. At ♩=200 this feels like a punk beat that won't stop accelerating. The snare hand never rests — find a low-amplitude bounce so the bicep doesn't lock up halfway through the song. This is the second-wave Norwegian black metal pulse."
+      },
+      {
+        "title": "3 — Brutal-Death Kick Pattern (Doubled Snare)",
+        "tip": "China cymbal 8ths, snare doubled on beats 2 and 4 (so each backbeat is two consecutive 8th-note hits — <em>RL</em>), 16th kicks underneath. The doubled snare is the genre signature: it punches harder than a single backbeat and locks visually with the kick gallop. Watch the second hit of each doubled snare — it loses volume first."
+      },
+      {
+        "title": "4 — Canonical Extreme Blast (Combined)",
+        "tip": "China + snare alternating 8ths over <em>16th</em> kicks. This is the canonical extreme blast — the cymbal hand on the china (for sheer volume above the wall of guitars), and the kick foot doing twice the work of the hands. Don't try this until the previous three exercises are clean. The kick foot has to be louder than your fear."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "George Kollias",
+        "work": "Nile — Annihilation of the Wicked",
+        "note": "Sustained extreme blasts run as the spine of the album. Listen for how long each one holds before the pattern shifts."
+      },
+      {
+        "artist": "Zbigniew \"Inferno\" Promiński",
+        "work": "Behemoth — Demigod",
+        "note": "Death-metal weight delivered with surgical timing. Listen for how the double kick tracks the guitar figures rather than running as an undifferentiated blur underneath them."
+      },
+      {
+        "artist": "Paul Mazurkiewicz",
+        "work": "Cannibal Corpse — Tomb of the Mutilated",
+        "note": "Early brutal-death drumming at its most direct. Listen for the swing between full blast sections and the mid-tempo grooves that let the riffs land."
+      },
+      {
+        "artist": "Mick Harris",
+        "work": "Napalm Death — From Enslavement to Obliteration",
+        "note": "Grindcore's blast beat close to its point of origin. Listen for how the beat carries whole songs here rather than arriving as a two-bar burst."
+      }
+    ]
+  },
+  "metal-gravity-rolls": {
+    "tagline": "One hand, two surfaces, four notes per beat",
+    "bodyHtml": "\n      <p>The gravity roll — sometimes called the gravity blast or the rim ricochet — is a one-handed technique that doubles or quadruples the rate of a single hand by using the rim of the snare as a fulcrum. The stick is pinched lightly between thumb and forefinger; the wrist rocks back and forth in a small arc, and on each rock the stick alternately hits the head with the tip and bounces off the rim with the shoulder. Two contacts per wrist motion — so a regular 8th-note wrist tempo produces 16ths on the head.</p>\n      <p>It is a stick trick first and a musical device second, but in extreme metal it has become a permanent fixture. A drummer who can run a gravity roll on the snare while the other hand plays cymbal blasts and the foot plays 16th kicks effectively triples the note density of a normal blast beat. That's the appeal — and that's why it lives in this curriculum next to the extreme-metal vocabulary.</p>\n      <h2 class=\"section-label\">Stick Mechanics</h2>\n      <ul class=\"bulleted\">\n        <li>Set the snare flat (or with a very slight away-tilt). The stick lies across the rim with the bead over the center of the head.</li>\n        <li>Pinch <em>lightly</em> at the balance point. Too tight and the stick won't bounce; too loose and you lose control of the rim contact.</li>\n        <li>Rock the wrist — not the arm. The motion is small, fast, and from the wrist down. The forearm is mostly still.</li>\n        <li>Down stroke = tip on the head. Up stroke = shoulder of the stick rebounds off the rim. One full wrist cycle = two notes.</li>\n        <li>If you hear a buzz instead of two distinct hits, you are pressing too hard on the rim contact. Loosen the fulcrum.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Cryptopsy — Flo Mounier; one of the players most associated with making the gravity roll musical.</li>\n        <li>Origin — John Longstreth; ultra-fast gravity rolls layered into death-metal songs.</li>\n        <li>Marco Minnemann — instructional and solo work; clean isolation of the technique.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Single-handed gravity roll on the snare produces four even 16ths per beat at ♩=140",
+      "Tip and shoulder of the stick contact alternately — a clear ricochet, not a buzz roll",
+      "Gravity roll holds under a basic blast for 8 bars without the rim-bouncing hand losing its rhythm",
+      "Gravity-roll snare combined with 16th-note kick locks at ♩=130 for 4 bars"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Gravity Roll on Snare Alone",
+        "tip": "All notes are played by <em>one hand</em> — the dominant. Each beat is four 16ths: tip-rim-tip-rim. The accent on the downbeat marks where the wrist begins each cycle. Start the metronome at ♩=80 and only move up once the four notes are evenly spaced — the gap between hits 2 and 3 is the one that always grows first."
+      },
+      {
+        "title": "2 — Gravity Roll Under a Basic Blast",
+        "tip": "Snare hand runs the gravity roll (continuous 16ths on snare via the rim ricochet); kick plays steady 8ths underneath. The cymbal hand is silent — for now this is a hand-and-foot drill. Lock the foot to every other 16th of the snare gravity. If the foot drifts, the gravity collapses with it."
+      },
+      {
+        "title": "3 — Gravity Roll + 16th Kick + China",
+        "tip": "China-cymbal accent on every beat (with the other hand) lines up with the first note of each gravity-roll group; kick runs continuous 16ths. This is the full payload: the gravity-rolling hand triples its output while the other hand and the foot maintain the 16th-note grid. Keep the gravity hand <em>quiet</em> — let the china and kick carry the volume."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Flo Mounier",
+        "work": "None So Vile",
+        "note": "Graves of the Fathers opens with start-stop drum figures that launch each groove cleanly. Across the record the rhythm keeps switching underneath the chaos, and passages that already sound flat out get pushed into another gear of blasting."
+      },
+      {
+        "artist": "John Longstreth",
+        "work": "Origin — Informis Infinitas Inhumanitas",
+        "note": "The snare work ranges from triplet bursts to flat-out blasting, and the fills keep changing shape instead of repeating. Listen for how much variety survives at a tempo this extreme."
+      },
+      {
+        "artist": "Marco Minnemann",
+        "work": "Instructional / solo videos",
+        "note": "Clean technical demonstration of the technique in isolation."
+      }
+    ]
+  },
+  "metal-bomb-blasts": {
+    "tagline": "Snare and kick on the same 16th — twice the impact",
+    "bodyHtml": "\n      <p>The traditional alternating blast splits the work between snare and kick — one hits, then the other, then back again. The <strong>bomb blast</strong> stacks them: snare and kick land <em>simultaneously</em> on every 16th note. The result is a wall of sound, twice as dense as a regular blast and half as forgiving — every hit is exposed, and any flam between hand and foot is instantly audible.</p>\n      <p>This style is most associated with brutal death metal and grindcore, and it sits in the vocabulary alongside the alternating blast and the gravity roll. The technique is straightforward; the discipline is in the alignment. The non-dominant foot has to match the dominant hand's volume <em>and</em> its placement, sub-millisecond. There is nowhere for sloppiness to hide.</p>\n      <h2 class=\"section-label\">Build Order</h2>\n      <ul class=\"bulleted\">\n        <li>Practice hand and foot together at quarter notes first. Walk up to 8ths only when every quarter is a single attack, not a flam.</li>\n        <li>Then 16ths at moderate tempo (♩=120-140). The hand pattern is still a normal single-stroke roll — alternating sticking <em>R L R L</em> — but every note is doubled by a kick.</li>\n        <li>The faster you go, the more the kick wants to drift behind the snare. Record yourself; the recording will show the gap.</li>\n        <li>The \"moving\" version (alternating bars of snare-only and kick-only 16ths) trains the limbs to hold their own grid without the partner.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Suffocation — bomb blasts as a section device.</li>\n        <li>Devourment — the slamming-death evolution of the technique.</li>\n        <li>Krisiun — Max Kolesne running bomb blasts at extreme tempo.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Bomb blast (kick + snare in unison on every 16th) holds at ♩=140 for 8 bars",
+      "Bomb blast at ♩=200 holds for 4 bars without the kick lagging behind the snare",
+      "Alternating bomb-blast bar (snare-only 16ths bar / kick-only 16ths bar) flips on cue without losing the click",
+      "Kick and snare hits land within the same audible attack — no flam"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bomb Blast at Moderate Speed",
+        "tip": "Every 16th: snare and kick together. Sticking <em>R L R L</em> for the snare, <em>R L R L</em> for the feet — but the two pairs must <em>line up</em>. If you hear a flam, slow the metronome until the attacks merge into a single sound. This is alignment training before it's a speed exercise."
+      },
+      {
+        "title": "2 — Bomb Blast at Extreme Speed",
+        "tip": "Same pattern, ♩=200. At this tempo the hand technique becomes finger-driven (the wrist can't move that fast) and the foot technique becomes ankle-only or slide. The flam is the enemy — listen for any separation between hand and foot. Four bars at this tempo is a workout; eight bars is the goal."
+      },
+      {
+        "title": "3 — Alternating Bomb Bar (Snare-Only / Kick-Only)",
+        "tip": "The notation shows bar 1 — snare 16ths over <em>kick 16ths</em>. In practice, repeat this exercise as <em>two-bar phrases</em>: bar 1 = snare-only 16ths (rest the foot), bar 2 = kick-only 16ths (rest the hand). When that's clean, combine them into the bomb-blast version shown here. The decoupling drill teaches each limb to keep its own grid alive when the partner drops out."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Mike Smith",
+        "work": "Suffocation — Effigy of the Forgotten",
+        "note": "Bomb blasts deployed as section punctuation, not full-song device."
+      },
+      {
+        "artist": "Brad Fincher",
+        "work": "Devourment — Molesting the Decapitated",
+        "note": "Slamming-death evolution — bomb blasts at half-time relative to the riff."
+      },
+      {
+        "artist": "Max Kolesne",
+        "work": "Krisiun — Conquerors of Armageddon",
+        "note": "Bomb blasts sustained at extreme tempo across almost the entire album. Listen for the kick and snare staying locked in unison rather than alternating."
+      }
+    ]
+  },
+  "metal-hyperblasts": {
+    "tagline": "280 BPM and beyond — the upper limit of human drumming",
+    "bodyHtml": "\n      <p>The \"hyper-blast\" is what the alternating blast becomes when the tempo climbs past about 260 BPM. At those speeds the technique stops resembling normal stick work: the wrist can no longer move at the required rate, so the hand transitions to <em>finger-driven</em> motion (push-pull, moeller, or pure finger-on-finger), and the foot transitions to ankle-only or to a slide stroke that uses one impact to set up two notes. The exercises below are the destination of every previous lesson on extreme-metal vocabulary.</p>\n      <p>This is also the point at which endurance becomes a separate variable from technique. A drummer can have clean form for two bars at 280 BPM and still be unable to play eight — the forearms cramp, the foot stalls, the breath collapses. The endurance exercise here is structured to train the recovery loop between bars, not just the bars themselves.</p>\n      <h2 class=\"section-label\">Body Mechanics at Hyper Tempo</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Hands</strong>: pinch the stick lightly between thumb and forefinger; the back three fingers do the work, opening and closing the palm. Wrist is mostly along for the ride.</li>\n        <li><strong>Foot</strong>: heel-up, ankle-only. The whole leg is still — the foot pivots at the ankle. Slide-stroke practitioners pull the foot back across the pedal to convert one stroke into two.</li>\n        <li><strong>Breath</strong>: exhale on every downbeat. Holding the breath cuts oxygen to the working muscles within 4-5 bars and ends the run.</li>\n        <li><strong>Posture</strong>: weight forward, sat on the front of the throne, shoulders <em>down</em>. A hiked shoulder is a forearm cramp waiting to happen.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>George Kollias — solo and instructional content; the most-studied technician at this tempo.</li>\n        <li>Dirk Verbeuren — Megadeth, Soilwork; clinical hyper-blast control.</li>\n        <li>Aquiles Priester — Brazilian extreme-metal endurance specialist.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Hyper-blast at ♩=280 holds for 4 bars without the snare hand lagging or the kick foot stalling",
+      "8-bar endurance test at ♩=260 — snare hand still produces a clean attack on the final bar",
+      "Alternating bars of hyper-blast and gravity roll switch on cue without losing the metronome",
+      "Heart rate elevation does not destabilise the grid — recovery breath inside two bars after a stop"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hyper-Blast at ♩=280 (4 Bars)",
+        "tip": "Alternating blast at the top of the human range. Hi-hat hand and snare hand trade 8ths (16ths between the two surfaces); kick locks with the cymbal hand. Don't try to muscle this — the harder you grip, the slower it gets. Loosen the fingers. <em>Goal: four clean bars, then stop and breathe.</em>"
+      },
+      {
+        "title": "2 — Endurance Test at ♩=260 (8 Bars)",
+        "tip": "Repeat for <em>8 bars</em> without stopping. The second half is the actual exercise — anyone can play 4 bars of this. Around bar 5 the forearm flush hits and the snare hand starts to drag; that's the point you have to hold. Exhale on every downbeat. If the form breaks, stop and reset; do not let bad reps pile up at hyper tempo."
+      },
+      {
+        "title": "3 — Alternating Hyper-Blast / Gravity-Roll Bars",
+        "tip": "The notation shows bar 1 — alternating hyper-blast. Loop as a <em>two-bar phrase</em>: bar 1 = hyper-blast as written, bar 2 = single-handed gravity roll on the snare with kick still on 8ths. Switch on the downbeat. The point is to retrain your nervous system to drop in and out of two extreme techniques without recovery time between them — which is what the music actually demands."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "George Kollias",
+        "work": "Invictus / instructional content",
+        "note": "The most-cited technician at this tempo range — clean form at extreme speed."
+      },
+      {
+        "artist": "Dirk Verbeuren",
+        "work": "Soilwork / Megadeth",
+        "note": "Notice how the hyper-blast enters as an arrangement choice — the song asks for the texture, then releases it."
+      },
+      {
+        "artist": "Aquiles Priester",
+        "work": "Hangar / instructional",
+        "note": "Endurance specialist — sustained extreme blasts across full sets."
+      }
+    ]
+  },
+  "metal-djent": {
+    "tagline": "Polyrhythmic kick over a square backbeat — the Meshuggah inheritance",
+    "bodyHtml": "\n      <p>\"Djent\" is the post-2005 evolution of progressive metal whose most influential ancestor is Meshuggah's mid-1990s work. The harmonic content lives on extended-range guitars; the rhythmic content lives in the drums. The trick is the <em>tension between two grids</em>: the snare and the listener's foot stay locked to a square 4/4, while the kick (and the guitar riff it doubles) groups itself in fives, sevens, or other lengths that don't divide evenly into the bar. Every few bars the two grids converge on a downbeat, and the riff \"resolves.\" Then it begins again.</p>\n      <p>Mechanically this is just a polyrhythm — a different number-pulse on the kick than on the hands — but as a stylistic device it has its own vocabulary. A 5-grouped kick over 4/4 takes 5 bars to come back to bar 1; a 7-grouped kick takes 7. Inside those long phrases, the song hangs in a kind of suspended animation, never quite resolving until the cycle closes.</p>\n      <h2 class=\"section-label\">Build Order</h2>\n      <ul class=\"bulleted\">\n        <li>Internalize 5-over-4 first — a 5-note kick group repeated until it lands on 1 again. Count <em>\"1-2-3-4-5\"</em> on the kick while the hands count <em>\"1-2-3-4\"</em>.</li>\n        <li>7-over-4 next — same idea, longer cycle (7 bars).</li>\n        <li>The Meshuggah-style groove uses <em>asymmetric subgroupings</em> (3+3+2, 2+2+3+3, etc.) inside the larger cycle. The kick still resolves on the downbeat, but the internal accents move.</li>\n        <li>The 4-bar phrase is the destination — multiple subgroupings stacked into a single phrase that resolves at the end.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Meshuggah — Tomas Haake on <em>Destroy Erase Improve</em>, <em>Chaosphere</em>, <em>Catch Thirtythree</em>. The original.</li>\n        <li>Animals as Leaders — Matt Garstka era, <em>The Joy of Motion</em>.</li>\n        <li>Periphery — Matt Halpern, <em>Periphery III: Select Difficulty</em>.</li>\n        <li>TesseracT — Jay Postones, <em>Altered State</em>.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Kick pattern grouped in 5 against a 4/4 hand pattern resolves on bar boundaries every 5 bars",
+      "7-grouped kick against 4/4 hand pattern at ♩=110 holds for one full cycle (7 bars) without losing 1",
+      "Snare on 2 and 4 stays absolutely steady while the kick groups in odd lengths underneath",
+      "Four-bar djent phrase memorized and reproducible from a verbal cue (\"3-3-2 kick group, then 2-2-3-3, then 5-3, then 4\")"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 5-Over-4 Kick Pattern",
+        "tip": "Hands play a normal backbeat — snare on 2 and 4. Kick plays groups of <em>five 16ths followed by three rests</em>, repeating. Across <em>five</em> 4/4 bars the kick groups will visually shift across the beats and finally land on beat 1 again. This single bar shows the first kick cycle. Memorize the <em>kick fingering</em>: 1, &amp;, e-of-2, 3, &amp;-of-3."
+      },
+      {
+        "title": "2 — 7-Over-4 Kick Pattern",
+        "tip": "Now the kick groups in <em>sevens</em> — seven 16ths kicked, one rest, repeat. The cycle closes after seven 4/4 bars. The hands keep pretending nothing unusual is happening: square backbeat, hi-hat 8ths. Lock to the metronome with the snare hand; that's the anchor that lets the kick wander."
+      },
+      {
+        "title": "3 — Meshuggah-Style Polyrhythmic Groove",
+        "tip": "Hand on china for the open, ringing texture. The kick subgroups go <em>3-3-2-4</em> across the bar — five distinct phrases that add to 16. This is the canonical Meshuggah-style figure: square hands, asymmetric kick. The riff guitar would line up exactly with the kick. Practice the kick alone first; only add the hands when the foot pattern is automatic."
+      },
+      {
+        "title": "4 — Four-Bar Djent Phrase",
+        "tip": "One bar of a four-bar phrase. The full phrase repeats this bar four times with the kick subgroupings shifted slightly each time (3-2-2-5, 2-2-3-3-3-3, 5-3, then a unison crash on bar 4). The result is a phrase that <em>feels</em> like it's never repeating but resolves cleanly every four bars. The hand pattern stays put across all four bars — the only thing changing is the kick."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tomas Haake",
+        "work": "Meshuggah — Destroy Erase Improve",
+        "note": "The foundational document of polyrhythmic metal drumming."
+      },
+      {
+        "artist": "Matt Garstka",
+        "work": "Animals as Leaders — The Joy of Motion",
+        "note": "Djent vocabulary inside complex compositions."
+      },
+      {
+        "artist": "Matt Halpern",
+        "work": "Periphery — Periphery III: Select Difficulty",
+        "note": "Modern djent with virtuosic kick subgroupings."
+      },
+      {
+        "artist": "Jay Postones",
+        "work": "TesseracT — War of Being",
+        "note": "TesseracT tracked this one live with the whole band in a room over the best part of a month, their first recorded kit since the debut. Listen for the room around the drums and the human timing under riffs that still run on a strict grid."
+      }
+    ]
+  },
+  "metal-tech-death": {
+    "tagline": "Death-metal speed meets jazz harmony and shifting meters",
+    "bodyHtml": "\n      <p>Technical death metal is what death metal became when its players started studying jazz, fusion, and twentieth-century classical. The genre's defining records were made by drummers — Sean Reinert with Cynic and Death, Gene Hoglan, Pete Sandoval — who could play a 240-BPM blast and a Tony Williams comping pattern in the same set, often in the same song. The drumming vocabulary is extreme-metal infrastructure with jazz vocabulary running on top: blasts in 5 and 7, metric modulation, jazz-inspired kick conversation under riffs that change time signature every four bars.</p>\n      <p>This lesson installs four building blocks. A blast in 5/4 lets the rest of the band write riffs that don't sit on a square 4 — a single move that opens up the entire compositional space. A metric modulation between 4/4 and 7/8 (with the 8th note as the common pivot) is the canonical way to glue two unrelated sections together. A jazz-inspired kick fill brings the comping language of post-bop into a metal context. The Cynic-style passage is the destination — a single bar that asks all of those skills to coexist.</p>\n      <h2 class=\"section-label\">Concept Notes</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Blast in 5/4:</strong> the alternating blast doesn't care what meter it's in. The cycle just resolves every five 4/4 quarters instead of four. Group the bar 3+2 or 2+3 and the riff has somewhere to land.</li>\n        <li><strong>Metric modulation:</strong> the 8th note stays the same speed; the bar length changes. So a passage in 4/4 at ♩=160 (♪=320) becomes a passage in 7/8 at ♪=320 (which is ♩=183). The pulse <em>feels</em> different even though the underlying speed is identical.</li>\n        <li><strong>Jazz-inspired kick:</strong> instead of running 16ths, the kick comments on the riff with syncopated punctuations — the way a bop drummer comps with the snare and kick under the ride. Density is variable; the figure changes every bar.</li>\n        <li><strong>Cynic-style passage:</strong> ride bell as the modal pulse (the way Sean Reinert played it on <em>Focus</em>), snare comping over the riff, kick under both. Three layers, all moving.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Cynic — <em>Focus</em>. Sean Reinert. The single most-cited tech-death record.</li>\n        <li>Death — <em>Human</em>, <em>Individual Thought Patterns</em>. Reinert and Gene Hoglan respectively.</li>\n        <li>Necrophagist — <em>Epitaph</em>. Hannes Grossmann's tech-death drumming.</li>\n        <li>Atheist — <em>Unquestionable Presence</em>. Steve Flynn — proto-tech-death.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "5/4 tech-death blast holds for 8 bars at ♩=180 with the snare and kick locked across the asymmetric meter",
+      "Metric modulation between 4/4 and 7/8 — 8th note remains constant — survives the transition without a count-loss",
+      "Jazz-inspired kick fill with snare comping reads cleanly at ♩=160",
+      "Cynic-style passage memorized: ride bell at the modal pulse, snare comping in odd points, kick filling between"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tech-Death Blast in 5/4",
+        "tip": "Alternating blast in <em>5/4</em>. Hi-hat hand and snare hand still trade 8ths between cymbal and snare; the kick still runs 16ths. The only thing that changed is the bar length. Feel the meter as <em>3+2</em> — the snare on beats 2 and 4 falls inside the 3, and beats 5 sits at the back end of the 2. The riff guitar can write to that grouping."
+      },
+      {
+        "title": "2 — Metric Modulation 4/4 → 7/8 (8th = 8th)",
+        "tip": "This bar is the <em>7/8 destination</em> after the modulation. Practice it like this: play 2 bars of 4/4 (♩=160) with snare on 2 and 4, then on the bar boundary switch to this 7/8 pattern. The 8th-note speed is the same in both — only the bar length changes. The new quarter is faster (♩≈183) because three 8ths now group as the long beat. Feel it 2+2+3."
+      },
+      {
+        "title": "3 — Jazz-Inspired Kick Fill (Tech-Death Context)",
+        "tip": "Ride bow on the 8ths (jazz placement, not metal — the song is breathing for a bar before the next blast), snare comments on beat 2 and into beat 4. The kick fills the spaces with a <em>conversation</em>, not a wall — single hits, doubled hits, syncopated rests. The pattern is irregular because comping <em>is</em> irregular. The metal context is what makes this bar a fill rather than a groove."
+      },
+      {
+        "title": "4 — Cynic-Style Passage",
+        "tip": "Ride bell as a modal pulse — bright and metallic, not the bow's wash. Snare drops into the texture on the e-of-2 and again on the &amp;-of-3 (the <em>Focus</em>-era placement, not a backbeat). Kick has an irregular syncopated figure that comments on the riff. Three layers, three logics, all locked to the same click. This is the textbook tech-death bar."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Sean Reinert",
+        "work": "Cynic — Focus",
+        "note": "The foundational tech-death drumming document. Listen for jazz ride and hi-hat phrasing carried over metal riffing, with dynamic accents and fills where the genre would normally default to blast beats."
+      },
+      {
+        "artist": "Death",
+        "work": "Human / Individual Thought Patterns",
+        "note": "Reinert (Human) and Gene Hoglan (ITP) — two complementary tech-death languages."
+      },
+      {
+        "artist": "Hannes Grossmann",
+        "work": "Necrophagist — Epitaph",
+        "note": "A benchmark for clean execution at extreme tempo, with blast beats up to 240 bpm and polyrhythmic figures that still articulate. Listen for how the kick keeps its definition when it doubles the guitar lines instead of blurring into a wash."
+      },
+      {
+        "artist": "Steve Flynn",
+        "work": "Atheist — Unquestionable Presence",
+        "note": "Proto-tech-death, and the clearest case of jazz-fusion drumming surviving inside a death metal band. Listen for the ride pattern and the way the snare answers the riff rather than just marking the beat."
+      }
+    ]
+  },
+  "metal-polymeters": {
+    "tagline": "Different limbs in different meters at the same time",
+    "bodyHtml": "\n      <p>Polymetric music is sometimes confused with polyrhythm, but the two are different. A <em>polyrhythm</em> is two pulse-rates inside the same bar (3 over 2, 5 over 4). A <em>polymeter</em> is two different bar-lengths happening simultaneously: one limb thinks the bar is 4 beats long, another thinks it's 5, and they only line up when the smallest common multiple of those bar lengths comes around. The hands continue to feel a 4-bar phrase; the kick — repeating in 5 — only completes its phrase every <em>5</em> hand-bars. Twenty 16ths to the resolution.</p>\n      <p>The metal application is everywhere from Meshuggah to Animals as Leaders to TesseracT. The riff is in 5; the drums are in 4; the listener feels both, and the music breathes in cycles longer than any single bar. The exercises below isolate the four most common metal polymeters: kick-in-5, kick-in-3 (the <em>3:4</em> dotted-quarter feel), kick-in-7, and a four-bar phrase that uses several at once.</p>\n      <h2 class=\"section-label\">Practice Strategy</h2>\n      <ul class=\"bulleted\">\n        <li>Each polymeter must be <em>felt</em>, not counted. If you're counting \"1-2-3-4-5\" on every kick rep you'll lose the 4 in the hands within two cycles. Instead: count the hands; let the kick feel like a metric ostinato that \"comes back\" every few bars.</li>\n        <li>Practice each polymeter as a <em>cycle</em>: start at bar 1, play through the entire resolution period, and stop. Don't loop incomplete cycles — that's how you wire in confusion.</li>\n        <li>Record yourself. The downbeat alignment at the end of the cycle is the audit. If kick 1 doesn't land with hand 1 at the resolution, the polymeter has gone wrong somewhere.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Meshuggah — <em>Catch Thirtythree</em>. The whole album is one 47-minute polymetric study.</li>\n        <li>Animals as Leaders — <em>The Joy of Motion</em>. Matt Garstka navigating dense polymetric riffs.</li>\n        <li>King Crimson — <em>Discipline</em>. Bruford and Bill Bruford's textbook 7-against-4 in \"Frame by Frame.\"</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Kick repeating in groups of 5 against a hand pattern in 4/4 holds without either limb capitulating",
+      "3:4 polymeter (kick in 3 against hand in 4) is felt as two simultaneous pulses, not one squeezed grid",
+      "7-against-4 cycle resolves on bar 7 with no recount — the player can find 1 by feel, not by counting",
+      "4-bar polymetric phrase (multiple polymeters stacked in sequence) reproducible at ♩=100"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick in 5 Against Hand in 4",
+        "tip": "Hand pattern: square 4/4 backbeat. Kick: one hit, four rests, repeat — a five-16th cycle. Across <em>five</em> bars of 4/4 the kick lands on every 16th of beat 1 in turn. This bar shows the first cycle (kicks on 1, &amp;-of-2, e-of-4, then onto bar 2 beat 1). The hand pattern doesn't notice. Count the hands; let the kick float."
+      },
+      {
+        "title": "2 — Kick in 3 Against Hand in 4 (3:4)",
+        "tip": "Dotted 8th note on the kick = 3 16ths. So the kick repeats every 3 16ths against a hand pattern that repeats every 16 (full bar). The cycle resolves every 3 bars (48 16ths is the LCM). The notation here shows just over one bar's worth of dotted 8ths. Most of those land on <em>off-beat</em> 16ths — the dotted-8th metal kick figure that defines a thousand modern songs."
+      },
+      {
+        "title": "3 — Kick in 7 Against Hand in 4",
+        "tip": "Kick: one hit, six rests, repeat — a seven-16th cycle. The full polymeter resolves after <em>seven</em> 4/4 bars. This bar shows the first cycle. The kick will appear to wander across the bar from one rep to the next; that's the polymeter at work. Trust the hands and don't try to track every kick placement against the hand grid."
+      },
+      {
+        "title": "4 — Four-Bar Polymetric Phrase",
+        "tip": "China-cymbal hand pattern stays square. The kick groups in fives (3 hits, 2 rests, repeat). This is bar 1 of the four-bar phrase; bars 2-4 shift the kick to other group lengths (3, 7, then a unison resolution on bar 4 beat 1). The whole phrase resolves on bar 4 — the moment everything snaps back to 1 simultaneously. That landing is the entire payoff of the polymeter."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Meshuggah",
+        "work": "Catch Thirtythree",
+        "note": "Tomas Haake — a 47-minute single composition built almost entirely on polymeter."
+      },
+      {
+        "artist": "Matt Garstka",
+        "work": "Animals as Leaders — The Joy of Motion",
+        "note": "Polymetric kick patterns inside compositions with shifting harmony."
+      },
+      {
+        "artist": "Bill Bruford",
+        "work": "King Crimson — Discipline",
+        "note": "In \"Frame by Frame\", listen for the guitars cycling at different lengths while the drums hold the ground."
+      }
+    ]
+  },
+  "metal-metric-modulation": {
+    "tagline": "Changing meter mid-song without losing the listener",
+    "bodyHtml": "\n      <p>A metric modulation is a tempo or meter change that uses a shared rhythmic value as the bridge — the new section keeps something from the old section, even though the pulse changes. The three pivot types (quarter constant, 8th-becomes-quarter, triplet pivot) are built from scratch in the prerequisite <em>Metric Modulation</em> lesson in the Jazz Fusion track; this lesson is about how metal uses them.</p>\n      <p>The mechanical part is straightforward: the drummer plays the pivot value continuously across the bar boundary, then re-feels the meter once the pivot has carried them through. The hard part is making it sound like a deliberate musical choice rather than a glitch. The cleanest modulations have a rhythmic <em>flag</em> — a fill, an accent, a snare hit — that points at the pivot moment. The audience hears the change and accepts it; the band hears the pivot value and stays together.</p>\n",
+    "graduationCriteria": [
+      "4/4 → 5/4 modulation (quarter constant) lands cleanly on the new bar 1 with no count-loss",
+      "8th-to-quarter modulation (the new quarter = the old 8th) survives the speed change in feel, not just on the page",
+      "Triplet-pivot modulation works in both directions (4 → triplet → 4)",
+      "4-bar prog-metal example holds together for 4 reps without the band losing the 1"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic 4/4 → 5/4 Modulation (Quarter Constant)",
+        "tip": "Five beats to the bar, and the click never moved. In practice: 4 bars of 4/4 at ♩=110 (snare on 2 and 4, kick on 1 and 3), then cross the bar line into <em>this</em>. The bar grew by one beat and the backbeat kept its old spots, 2 and 4 — across five beats that spacing is no longer even, and the unevenness is what makes the meter sound deliberate rather than lopsided. Count it 3+2 so the extra beat belongs to a group instead of hanging off the end; the kicks on 1 and 4 mark those two group downbeats. The snare on the &amp;-of-5 is your flag into the next 1."
+      },
+      {
+        "title": "2 — 8th Becomes the New Quarter",
+        "tip": "Run it as two sections: A is a 4/4 groove at ♩=110 with hi-hat 8ths; B is this bar — same hat speed, each 8th re-felt as the new quarter, so the meter reads ♩=220 while snare and kick thin to half density. The audience hears doubling; you feel one unbroken pulse."
+      },
+      {
+        "title": "3 — Triplet-Pivot Modulation",
+        "tip": "The destination bar. Routine: four bars at ♩=110, one bar of even quarter-note triplets, then re-feel each triplet partial as the new quarter — that lands at ♩=165. Everything rides on the triplet's evenness: lopsided partials and the band arrives on different beats."
+      },
+      {
+        "title": "4 — Four-Bar Prog-Metal Modulation",
+        "tip": "You're looking at bar 4 — the arrival. Bars 1-2: 4/4 at ♩=120 with the heavy kick figure; bar 3: 7/8 at the same 16th speed; bar 4 resolves back to 4/4 on the downbeat. Play it so the whole phrase sounds like it was aiming at that downbeat all along."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Mike Mangini",
+        "work": "Dream Theater — A Dramatic Turn of Events",
+        "note": "The modulations are written into the song architecture rather than played over it. Start with 'Breaking All Illusions' and 'Lost Not Forgotten', where the rhythmic complexity is most exposed."
+      },
+      {
+        "artist": "Danny Carey",
+        "work": "Tool — Lateralus",
+        "note": "The title track's main theme runs successive bars of 9/8, 8/8, and 7/8. Use it as the contrast case: the bar length keeps changing while the subdivision never does, which is shifting meter rather than a true modulation."
+      },
+      {
+        "artist": "Matt Garstka",
+        "work": "Animals as Leaders — The Joy of Motion",
+        "note": "Reorientations of the pulse inside dense, through-composed writing. The kit is acoustic with the kick and snare reinforced by samples, so the machine-like precision you hear is played, not programmed like it was on the band's earlier records."
+      }
+    ]
+  },
+  "metal-mathcore": {
+    "tagline": "Controlled chaos — meter changes every bar, dissonant phrasing, no rest",
+    "bodyHtml": "\n      <p>Mathcore is what happened when post-1995 hardcore bands started reading Captain Beefheart and Stravinsky scores. The defining records — by Dillinger Escape Plan, Botch, Converge — abandon the assumption that a song should sit in one meter. The drummer's job becomes negotiation: holding the band's pulse together while the time signature changes every bar, the riff is built on dissonant intervals that refuse to resolve, and the tempo lurches between sections without warning.</p>\n      <p>The drumming vocabulary draws from extreme metal (the speed and density), tech-death (the meter changes), and hardcore punk (the aggression and the snare placement). What makes it specifically <em>mathcore</em> is the constant instability — there is rarely more than four bars of any single feel before the next disruption. A drummer in this genre has to be able to land on a count-1 that arrives in 7/8 immediately after a count-1 that arrived in 5/4, with no audible setup.</p>\n      <h2 class=\"section-label\">The Four Building Blocks</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Meter changes every bar:</strong> 4/4 → 7/8 → 5/4 → 6/8. Each bar is a different shape; the band has to feel each shape distinctly before the next one arrives.</li>\n        <li><strong>\"Stutter\" feel:</strong> constant 16th-note attack with the accent grid moving — the same 16 hits, but accented in groupings of 3, then 5, then 4, then 7, etc. The note count never changes; the metric feel does.</li>\n        <li><strong>Dillinger-style pattern:</strong> asymmetric, syncopated, snare-and-kick-driven; reads as chaos but is meticulously written.</li>\n        <li><strong>4-bar mathcore phrase:</strong> the destination — a phrase that uses several of these techniques in sequence and resolves cleanly on bar 5.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>The Dillinger Escape Plan — <em>Calculating Infinity</em>. Chris Pennie. The genre's foundational document.</li>\n        <li>Converge — <em>Jane Doe</em>. Ben Koller — mathcore intersected with metallic hardcore.</li>\n        <li>Botch — <em>We Are the Romans</em>. Tim Latona — proto-mathcore at its most uncompromising.</li>\n        <li>Meshuggah — relevant ancestor; the polymetric infrastructure mathcore inherits.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Phrase changing meter every bar (4/4 → 7/8 → 5/4 → 6/8) holds together for 4 reps",
+      "\"Stutter\" 16th feel — constant 16ths with shifting accents — survives 8 bars without the accent grid collapsing",
+      "Dillinger-style asymmetric pattern reproducible from a verbal cue",
+      "4-bar mathcore phrase memorized; the player can stop anywhere in the phrase and pick up at the next downbeat"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Phrase Changing Meter Every Bar (4/4 portion)",
+        "tip": "Bar 1 of the four-bar meter-shift phrase. In practice, play this 4/4 bar then immediately a 7/8 bar (group 2+2+3, snare on 3 and on the &amp;-of-5), then a 5/4 bar (group 3+2, snare on 3 and 5), then a 6/8 bar (group 3+3, snare on 4). The metronome stays at the same 8th-note speed the whole time. Each new meter is a new shape — feel it whole, don't count individual beats."
+      },
+      {
+        "title": "2 — Stutter 16th Feel",
+        "tip": "Constant 16ths on the snare and kick. The accents on the snare move: 1 (3), 4 (3), 7 (4), 11 (5), 16. Each accent group is a different length — 3, 3, 4, 5 — and the listener feels the meter rearranging itself even though the underlying note count doesn't change. This is the <em>stutter</em> feel. Practice the accent sticking first; only add the constant unaccented notes once the accents are locked."
+      },
+      {
+        "title": "3 — Dillinger-Style Pattern",
+        "tip": "Snare hand alternates with china hits; kick has a near-random syncopated figure that's actually meticulously composed. The pattern reads as chaos but every note is in a fixed place. Internalize the kick first — it's the spine. The hand pattern is built around the kick, not the other way around. Slow this to ♩=80 to learn it; only bring it up to tempo when every note is automatic."
+      },
+      {
+        "title": "4 — Four-Bar Mathcore Phrase",
+        "tip": "Bar 4 of the phrase — the resolution on a unison china-plus-snare downbeat. The kick groupings tighten across the bar (3, then 2-2, then 4, then 4), so it feels like acceleration at constant tempo. Memorize this bar first; bars 1-3 exist to point at it."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Pennie",
+        "work": "The Dillinger Escape Plan — Calculating Infinity",
+        "note": "The foundational mathcore drumming document."
+      },
+      {
+        "artist": "Ben Koller",
+        "work": "Converge — Jane Doe",
+        "note": "Metallic hardcore intersected with mathcore-style meter changes."
+      },
+      {
+        "artist": "Tim Latona",
+        "work": "Botch — We Are the Romans",
+        "note": "Proto-mathcore; uncompromising rhythm and density."
+      },
+      {
+        "artist": "Elliot Hoffman",
+        "work": "Car Bomb — Mordial",
+        "note": "Modern mathcore with extreme polymetric construction."
+      }
+    ]
+  },
+  "metal-gospel-chops": {
+    "tagline": "When Tony Royster Jr's hand bursts meet Meshuggah's foot grid",
+    "bodyHtml": "\n      <p>Gospel chops is the term for the high-velocity, virtuosic hand vocabulary that emerged from American gospel and R&amp;B drumming in the 1990s and 2000s — Tony Royster Jr, Aaron Spears, Chris Coleman, Eric Moore. The hands run 32nds and burst-stickings around the snare and toms while the feet hold a relatively conventional pulse. The technique was historically separated from metal by genre boundaries — but those boundaries have collapsed. Modern players apply gospel-chops hands over metal foot grids and the result is its own thing: a hybrid with the rhythmic foundation of extreme metal and the hand vocabulary of gospel session work.</p>\n      <p>This lesson installs four building blocks for that hybrid. The first puts a metal groove under a gospel-chops fill — the fundamental move of bringing one tradition into the other. The second is a Tony-Royster-style hand burst (triplet-feel sticking flying around the snare and toms) over a polymetric kick. The third is a \"chops\"-driven 16th pattern that moves around the kit while preserving the metal-context kick gallop. The fourth is a 4-bar phrase that combines all of these — the destination of the entire metal track of this curriculum.</p>\n      <h2 class=\"section-label\">Stylistic Notes</h2>\n      <ul class=\"bulleted\">\n        <li>Gospel chops are about <em>density</em> at high speed — five or seven hits where most genres would put three. The trick to importing them into metal is choosing the right window: in a metal song, the chops happen during the fill or the breakdown, not during the riff.</li>\n        <li>Sticking matters more in this style than anywhere else. <em>RLLRLL</em>, <em>RLRLLR</em>, paradiddle-diddles, six-stroke rolls — these are the building blocks. The patterns below name the sticking on every note.</li>\n        <li>The metal foot grid (16th kicks, dotted-8th patterns, polymetric kicks) doesn't change for the chops. That's the whole effect: the hands are doing 32nds while the foot is still in metal time.</li>\n      </ul>\n      <h2 class=\"section-label\">Listening</h2>\n      <ul class=\"bulleted\">\n        <li>Tony Royster Jr — instructional content and YouTube clinics. The most-cited modern chops-drummer.</li>\n        <li>Aaron Spears — Usher, Ariana Grande work; chops at the highest level inside pop sessions.</li>\n        <li>Chris Coleman — fusion sessions; precise, cerebral application of the technique.</li>\n        <li>Eric Moore — <em>Suicidal Tendencies</em>; chops imported into hardcore/metal directly.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "32nd-note hand burst over a 16th-kick metal foundation reads cleanly at ♩=110",
+      "Tony-Royster-style triplet stickings on snare and toms hold over a polymetric kick",
+      "\"Chops\"-driven 16th pattern with tom moves around the kit retains the metal-context kick gallop",
+      "4-bar fusion-of-fusion phrase memorized — gospel-chops fills resolve back into metal grooves on bar 5"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Metal Groove with Gospel-Chops Fill",
+        "tip": "Beats 1-2: standard metal groove (china + snare on 2). Beats 3-4: gospel-chops fill — 32nd-note sticking <em>RLLRLL</em> repeating, moving down the kit (snare → hi-tom → mid-tom → floor tom). The foot keeps running 16th kicks underneath. The fill is fast but the foot doesn't speed up; that's the entire point of the hybrid."
+      },
+      {
+        "title": "2 — Tony-Royster-Style Hand Burst Over Polymetric Kick",
+        "tip": "Hands play <em>RLL</em> sticking ad infinitum, moving across the kit (snare → hi-tom → mid-tom → floor → snare). That's the Tony Royster gesture — a triplet sticking running 16ths across the drums. The foot plays a 3:4 polymeter (dotted 8ths) underneath. Two grids running at once: the hands' hand-burst grid in 16ths, and the foot's polymeter pulling against them. Lock to the hands first; the foot drifts last."
+      },
+      {
+        "title": "3 — Chops-Driven 16th Pattern (Around the Kit)",
+        "tip": "Paradiddle sticking (<em>RLRR LRLL RLRR LRLL</em>) running 16ths across the kit — snare, hi-tom, mid-tom, floor tom on each successive beat. The kick locks the metal foundation by hammering 16ths underneath. Each hand-and-foot 16th is a unison stack — both happen at once. The pattern is a chops vocabulary item, but the kick context puts it firmly in metal territory."
+      },
+      {
+        "title": "4 — Four-Bar Fusion-of-Fusion Phrase",
+        "tip": "The resolution bar: chops sticking runs across the toms into an accented floor-tom hit on beat 4, then a unison china-and-snare on the a-of-4 that hands off to the next cycle's downbeat. Underneath, the kick abandons the polymeter for a pure 16th gallop — metal foot, gospel hands."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Royster Jr",
+        "work": "YouTube clinics / instructional content",
+        "note": "The defining player of the modern gospel-chops vocabulary."
+      },
+      {
+        "artist": "Aaron Spears",
+        "work": "Usher / Ariana Grande session work",
+        "note": "Chops at the highest level inside pop sessions — surgical, musical, never gratuitous."
+      },
+      {
+        "artist": "Chris Coleman",
+        "work": "Fusion / session work",
+        "note": "The cerebral end of the technique — every burst is structurally placed."
+      },
+      {
+        "artist": "Eric Moore",
+        "work": "Suicidal Tendencies / solo",
+        "note": "The crossover into hardcore/metal — chops imported directly into the genre."
+      }
+    ]
+  }
+}

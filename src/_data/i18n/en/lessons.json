@@ -1,1 +1,238 @@
-{}
+{
+  "first-beat": {
+    "tagline": "Where rock, pop, and most popular music begins",
+    "bodyHtml": "\n      <p>This is the beat that built half of modern music: hi-hat on the eighth notes, snare on 2 and 4, bass drum on 1 and 3. Structurally simple, musically inexhaustible — the foundation for rock, pop, country, and most popular styles.</p>\n      <p>Rather than throwing all four limbs at it from the first repetition, this lesson builds the beat one piece at a time. Hi-hat alone, then bass drum, then snare, then everything together. The fifth and final exercise is the destination — the basic backbeat itself.</p>\n      <p>Don't underestimate it. Sitting in this groove for ten minutes at one tempo, locked to a metronome, is its own discipline.</p>\n    ",
+    "graduationCriteria": [
+      "Basic backbeat (Ex 5) loops cleanly for 2 minutes at ♩=80",
+      "Snare on 2 and 4 lands tight against the click",
+      "Hi-hat 8ths stay even — no acceleration after the snare hits"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hi-Hat Alone, Quarter Notes",
+        "tip": "One hi-hat hit per beat. Count out loud: <em>1, 2, 3, 4</em>. The goal isn't speed or color — it's <em>steadiness</em>. Lock to the metronome and just be there for two minutes before moving on."
+      },
+      {
+        "title": "2 — Add the Bass Drum on 1 and 3",
+        "tip": "Now the foot enters: bass drum on beats <em>1</em> and <em>3</em>. The kick is the heartbeat — it tells the listener where the bar starts and where the middle is. Hand and foot land at the same instant; let them lock together."
+      },
+      {
+        "title": "3 — Drop the Kick, Add Snare on 2 and 4",
+        "tip": "Take the foot away for a moment and bring the snare in on beats <em>2</em> and <em>4</em>. This is the <strong>backbeat</strong> — the loud snap that distinguishes rock and pop from a march. Notice how it has propulsion all by itself, before the kick is even back in the picture."
+      },
+      {
+        "title": "4 — Bring the Kick Back",
+        "tip": "Three limbs now: hi-hat on every beat, kick on <em>1</em> and <em>3</em>, snare on <em>2</em> and <em>4</em>. This is the <em>bare backbeat</em>. From here, the only thing left is to fill in the spaces between the beats with a second hi-hat note on each <em>&amp;</em>."
+      },
+      {
+        "title": "5 — Basic Backbeat",
+        "tip": "Count out loud: <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Snare on 2 and 4 is the <em>backbeat</em> — it's what makes this groove feel like rock instead of march."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Leon Ndugu Chancler",
+        "work": "Michael Jackson — Billie Jean",
+        "note": "Quarter-note kick, snare on 2 and 4, straight 8th hats: the exact skeleton of this lesson under one of the most-heard grooves ever, held with total discipline."
+      },
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "Maybe the most committed backbeat on record. Listen to how hard the snare on 2 and 4 lands and how steady the hat stays around it."
+      },
+      {
+        "artist": "Charlie Watts",
+        "work": "The Rolling Stones — Honky Tonk Women",
+        "note": "The same skeleton with human swagger. Notice the hat lifting for the snare hits — feel over machinery."
+      }
+    ]
+  },
+  "the-drum-kit": {
+    "tagline": "Names, sizes, and what every piece is for",
+    "bodyHtml": "\n      <p>Before you play a single note, it helps to know what you're looking at. The \"5-piece kit\" is the industry standard — five drums, three cymbals — and almost every recording you've ever heard rides on some version of this layout. Once you can name the pieces and understand what each one does in a song, every lesson after this gets easier.</p>\n      <p>The kit divides into three families: <strong>drums</strong> (snare, bass, toms), <strong>cymbals</strong> (hi-hat, ride, crash), and <strong>pedals</strong> (the bass drum pedal under your right foot, the hi-hat pedal under your left). Drums are written as filled dots on the staff; cymbals are written as <em>x</em> noteheads. That visual distinction is the first thing to internalize.</p>\n\n      <figure class=\"kit-map\" id=\"kit-map\" tabindex=\"-1\">\n        <div class=\"kit-map__grid\">\n          <div class=\"kit-map__panel\">\n            <p class=\"kit-map__panel-label\">The kit, from the drummer's seat</p>\n            <div class=\"kit-map__frame\">\n              <svg class=\"kit-map__svg\" viewBox=\"0 0 304 238\" role=\"img\" aria-label=\"Layout of a five-piece kit as the drummer sees it: the hi-hat on the far left, the crash cymbal above the two rack toms, the rack toms mounted over the bass drum in the middle, the snare nearest the seat, and the floor tom with the ride cymbal above it on the right.\">\n                <line class=\"kit-map__rod\" x1=\"44\" y1=\"68\" x2=\"44\" y2=\"112\" />\n                <line class=\"kit-map__rod\" x1=\"100\" y1=\"28\" x2=\"100\" y2=\"56\" />\n                <line class=\"kit-map__rod\" x1=\"252\" y1=\"32\" x2=\"252\" y2=\"60\" />\n                <ellipse class=\"kit-map__cym\" cx=\"100\" cy=\"28\" rx=\"40\" ry=\"12\" />\n                <ellipse class=\"kit-map__cym\" cx=\"252\" cy=\"32\" rx=\"44\" ry=\"13\" />\n                <ellipse class=\"kit-map__cym-under\" cx=\"44\" cy=\"98\" rx=\"30\" ry=\"8\" />\n                <ellipse class=\"kit-map__cym\" cx=\"44\" cy=\"86\" rx=\"33\" ry=\"11\" />\n                <ellipse class=\"kit-map__shell\" cx=\"128\" cy=\"91\" rx=\"33\" ry=\"14\" />\n                <ellipse class=\"kit-map__drum\" cx=\"128\" cy=\"86\" rx=\"33\" ry=\"14\" />\n                <ellipse class=\"kit-map__shell\" cx=\"200\" cy=\"89\" rx=\"35\" ry=\"15\" />\n                <ellipse class=\"kit-map__drum\" cx=\"200\" cy=\"84\" rx=\"35\" ry=\"15\" />\n                <ellipse class=\"kit-map__shell\" cx=\"262\" cy=\"154\" rx=\"38\" ry=\"16\" />\n                <ellipse class=\"kit-map__drum\" cx=\"262\" cy=\"148\" rx=\"38\" ry=\"16\" />\n                <ellipse class=\"kit-map__shell\" cx=\"158\" cy=\"161\" rx=\"52\" ry=\"22\" />\n                <ellipse class=\"kit-map__drum\" cx=\"158\" cy=\"154\" rx=\"52\" ry=\"22\" />\n                <ellipse class=\"kit-map__shell\" cx=\"134\" cy=\"191\" rx=\"33\" ry=\"14\" />\n                <ellipse class=\"kit-map__drum\" cx=\"134\" cy=\"186\" rx=\"33\" ry=\"14\" />\n                <ellipse class=\"kit-map__seat\" cx=\"140\" cy=\"220\" rx=\"30\" ry=\"10\" />\n                <text class=\"kit-map__t\" x=\"100\" y=\"32.5\" font-size=\"13\" text-anchor=\"middle\">Crash</text>\n                <text class=\"kit-map__t\" x=\"252\" y=\"36.5\" font-size=\"13\" text-anchor=\"middle\">Ride</text>\n                <text class=\"kit-map__t\" x=\"44\" y=\"90.5\" font-size=\"13\" text-anchor=\"middle\">Hi-hat</text>\n                <text class=\"kit-map__t\" x=\"128\" y=\"90.5\" font-size=\"13\" text-anchor=\"middle\">High tom</text>\n                <text class=\"kit-map__t\" x=\"200\" y=\"88.5\" font-size=\"13\" text-anchor=\"middle\">Mid tom</text>\n                <text class=\"kit-map__t\" x=\"262\" y=\"152.5\" font-size=\"13\" text-anchor=\"middle\">Floor tom</text>\n                <text class=\"kit-map__t\" x=\"158\" y=\"152\" font-size=\"13\" text-anchor=\"middle\">Bass drum</text>\n                <text class=\"kit-map__t kit-map__t--dim\" x=\"158\" y=\"166\" font-size=\"11\" text-anchor=\"middle\">(kick)</text>\n                <text class=\"kit-map__t\" x=\"134\" y=\"190.5\" font-size=\"13\" text-anchor=\"middle\">Snare</text>\n                <text class=\"kit-map__t kit-map__t--dim\" x=\"140\" y=\"224\" font-size=\"11\" text-anchor=\"middle\">Your seat</text>\n              </svg>\n            </div>\n          </div>\n          <div class=\"kit-map__panel\">\n            <p class=\"kit-map__panel-label\">The same pieces on the staff</p>\n            <div class=\"kit-map__frame\">\n              <svg class=\"kit-map__svg\" viewBox=\"0 0 300 234\" role=\"img\" aria-label=\"A five-line staff, drawn tall so the names fit, with every kit voice sitting on the line or space it is written on: the crash on an added line above the staff, then hi-hat, ride, high tom, mid tom, snare, floor tom, bass drum, and the hi-hat pedal in the space below the staff.\">\n                <line class=\"kit-map__staff\" x1=\"10\" y1=\"54\" x2=\"292\" y2=\"54\" />\n                <line class=\"kit-map__staff\" x1=\"10\" y1=\"90\" x2=\"292\" y2=\"90\" />\n                <line class=\"kit-map__staff\" x1=\"10\" y1=\"126\" x2=\"292\" y2=\"126\" />\n                <line class=\"kit-map__staff\" x1=\"10\" y1=\"162\" x2=\"292\" y2=\"162\" />\n                <line class=\"kit-map__staff\" x1=\"10\" y1=\"198\" x2=\"292\" y2=\"198\" />\n                <line class=\"kit-map__staff\" x1=\"10\" y1=\"54\" x2=\"10\" y2=\"198\" />\n                <line class=\"kit-map__staff\" x1=\"26\" y1=\"18\" x2=\"70\" y2=\"18\" />\n                <rect class=\"kit-map__clef\" x=\"14\" y=\"90\" width=\"6\" height=\"72\" />\n                <rect class=\"kit-map__clef\" x=\"24\" y=\"90\" width=\"6\" height=\"72\" />\n                <path class=\"kit-map__x\" d=\"M41 11 L55 25 M41 25 L55 11\" />\n                <path class=\"kit-map__x\" d=\"M41 29 L55 43 M41 43 L55 29\" />\n                <path class=\"kit-map__x\" d=\"M41 47 L55 61 M41 61 L55 47\" />\n                <path class=\"kit-map__x\" d=\"M41 209 L55 223 M41 223 L55 209\" />\n                <ellipse class=\"kit-map__note\" cx=\"48\" cy=\"72\" rx=\"11.5\" ry=\"8\" transform=\"rotate(-16 48 72)\" />\n                <ellipse class=\"kit-map__note\" cx=\"48\" cy=\"90\" rx=\"11.5\" ry=\"8\" transform=\"rotate(-16 48 90)\" />\n                <ellipse class=\"kit-map__note\" cx=\"48\" cy=\"108\" rx=\"11.5\" ry=\"8\" transform=\"rotate(-16 48 108)\" />\n                <ellipse class=\"kit-map__note\" cx=\"48\" cy=\"144\" rx=\"11.5\" ry=\"8\" transform=\"rotate(-16 48 144)\" />\n                <ellipse class=\"kit-map__note\" cx=\"48\" cy=\"180\" rx=\"11.5\" ry=\"8\" transform=\"rotate(-16 48 180)\" />\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"23\" font-size=\"13\">Crash<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· added line above</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"41\" font-size=\"13\">Hi-hat<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· space above the top line</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"59\" font-size=\"13\">Ride<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· top line</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"77\" font-size=\"13\">High tom<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· top space</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"95\" font-size=\"13\">Mid tom<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· 4th line</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"113\" font-size=\"13\">Snare<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· 3rd space</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"149\" font-size=\"13\">Floor tom<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· 2nd space</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"185\" font-size=\"13\">Bass drum<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· bottom space</tspan></text>\n                <text class=\"kit-map__t kit-map__t--halo\" x=\"70\" y=\"221\" font-size=\"13\">Hi-hat foot<tspan class=\"kit-map__t--dim\" font-size=\"10.5\" dx=\"6\">· below the staff</tspan></text>\n              </svg>\n            </div>\n          </div>\n        </div>\n        <p class=\"kit-map__panel-label\">The drum key, top of the staff downward</p>\n        <ol class=\"kit-map__key\">\n          <li><strong>Crash</strong> — x notehead on the added line above the staff</li>\n          <li><strong>Hi-hat</strong> — x notehead in the space above the top line</li>\n          <li><strong>Ride</strong> — x notehead on the top line</li>\n          <li><strong>High tom</strong> — the top space, between the fourth and fifth lines</li>\n          <li><strong>Mid tom</strong> — the fourth line</li>\n          <li><strong>Snare</strong> — the middle space, third from the bottom</li>\n          <li><strong>Floor tom</strong> — the second space from the bottom</li>\n          <li><strong>Bass drum</strong> — the bottom space, stem down</li>\n          <li><strong>Hi-hat foot</strong> — x notehead in the space below the staff, stem down</li>\n        </ol>\n        <figcaption>Drums are filled noteheads, cymbals are x noteheads, and pitch runs bottom to top: the bass drum sits in the lowest space and the crash floats above the staff. That ninth position is the same hi-hat, played with your left foot instead of a stick. The staff here is drawn tall so the names fit beside their own line or space; in real music the five lines sit much closer together, as they do in the exercise below.</figcaption>\n      </figure>\n\n      <h2 class=\"section-label\">The Five Drums</h2>\n      <p><strong>Snare drum</strong> — 14 inches across, sitting between your knees. The wires stretched under the bottom head are what give the snare its sharp, cracking sound. This is the loudest, most expressive drum on the kit and it carries the <em>backbeat</em> — the snap on counts 2 and 4 that defines almost every popular style.</p>\n      <p><strong>Bass drum</strong> (also called the \"kick\") — the big drum on the floor, played with a foot pedal. On a rock kit it's typically 22 inches in diameter; on a smaller fusion kit, 20 inches. The kick provides the low-end pulse — usually on counts 1 and 3 in a basic rock beat.</p>\n      <p><strong>Two rack toms</strong> — mounted above the bass drum. The smaller (12-inch) is on the left, the larger (13-inch) on the right. They sit at different pitches so you can move <em>around</em> the kit during fills.</p>\n      <p><strong>Floor tom</strong> — 16 inches, standing on three legs to the right of your snare. It's the lowest-pitched of the three toms and often acts as the destination of a fill — the big drum you land on before the next downbeat.</p>\n\n      <h2 class=\"section-label\">The Three Cymbals</h2>\n      <p><strong>Hi-hat</strong> — two 14-inch cymbals stacked on a stand, controlled by a foot pedal. Push the pedal down to clamp them together (closed sound: tight, articulate); let it up to open them (open sound: a long, sizzling \"tssss\"). The hi-hat plays the steady subdivision in most grooves.</p>\n      <p><strong>Ride cymbal</strong> — a large 20-inch cymbal to your right. It produces a clear, sustained \"ping\" and is used for steady time in jazz, ballads, and louder rock choruses where the hi-hat would get buried.</p>\n      <p><strong>Crash cymbal</strong> — typically 16 inches, mounted to the left over the small tom. As the name suggests, it's for accents — usually the downbeat after a fill, or the start of a new section of a song.</p>\n\n      <h2 class=\"section-label\">Rock vs Fusion Sizing</h2>\n      <p>You'll see kits marketed as either \"rock\" or \"fusion\" sizes. <strong>Rock</strong> sizes are bigger and deeper — 22-inch bass, 12 and 13-inch toms, 16-inch floor tom — and produce a thicker, lower-pitched sound suited to loud styles. <strong>Fusion</strong> sizes are smaller — 20-inch bass, 10 and 12-inch toms, 14-inch floor — with a faster attack and brighter pitch, well-suited to jazz, fusion, and lighter pop. The drums are the same instrument; only the resonance and pitch range differ.</p>\n\n      <h2 class=\"section-label\">How the Kit is Notated</h2>\n      <p>Drum music is written on a five-line staff with a special \"neutral\" clef (two short vertical bars) instead of treble or bass. Higher-pitched pieces sit higher on the staff; lower-pitched pieces sit lower. The <a href=\"#kit-map\">drum key above</a> spells out every position: the crash rides on an added line over the top of the staff, the bass drum sits in the lowest space, and everything else falls in between. Two details trip up most beginners. The hi-hat is <em>not</em> on the top line, it is in the space just above it; and the mid tom sits <em>on</em> the fourth line rather than in a space. The exercise below plays each piece in turn so you can see and hear the layout at once.</p>\n    ",
+    "graduationCriteria": [
+      "Can name all eight pieces of a standard 5-piece kit (snare, kick, 2 toms, floor tom, hi-hat, ride, crash) without prompts",
+      "Can point to each piece on a diagram or photo and identify which line/space it sits on in drum notation",
+      "Can describe the difference between rock and fusion drum sizing in one sentence"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tour of the Kit: One Hit on Each Piece",
+        "tip": "This isn't a groove — it's a roll-call. Play it slowly and <em>name each piece out loud</em> as you hit it: <em>crash, snare, hi-hat, ride, hi-tom, mid-tom, floor, snare</em>. The bass drum on count 1 is just there so your foot doesn't feel left out. The point is to map the sound to the name."
+      }
+    ]
+  },
+  "paradiddle": {
+    "tagline": "The most useful sticking pattern ever invented",
+    "bodyHtml": "\n      <p>Four notes: <strong>R L R R</strong>, then its mirror, <strong>L R L L</strong>. The single paradiddle folds a single stroke and a double stroke into one phrase. Once you can play it cleanly, you can move accents around inside it, alternate hands across the kit, and use it as the foundation for hundreds of fills.</p>\n      <p>Why it's so useful: the pattern naturally alternates which hand starts each grouping, so over four reps both hands lead twice. That built-in balance is why drummers never stop reaching for it.</p>\n      <h2 class=\"section-label\">The Pattern</h2>\n      <p>Sixteen 16th notes per bar, sticking <em>R L R R · L R L L</em> played twice through — four paradiddles, alternating which hand leads each group. Loop it.</p>\n    ",
+    "graduationCriteria": [
+      "RLRR LRLL × 2 at ♩=80 for 2 minutes without sticking errors",
+      "Accents on counts 1, 2, 3, 4 are clearly louder than the rest",
+      "No weak fourth note in the LL doubles"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Single Paradiddle on Snare",
+        "tip": "Sticking: <em>R L R R · L R L L · R L R R · L R L L</em>. The accents (the <em>&gt;</em> marks above the staff) naturally fall on counts 1, 2, 3, 4 — the start of each paradiddle group. Let those notes be slightly louder than the rest. Playback sits at ♩=80; work it from ♩=70 up to ♩=100 once it is clean."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Gadd",
+        "work": "Paul Simon — 50 Ways to Leave Your Lover",
+        "note": "The most famous paradiddle-based groove on record: displaced and inverted paradiddle stickings woven between hi-hat, snare, and kick. Textbook RLRR LRLL won't line up note-for-note; listen for the paradiddle texture instead."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — What Is Hip?",
+        "note": "Paradiddle-family stickings scattered between hat and snare at speed. Listen for how the accents, not the sticking, are what you actually hear."
+      }
+    ]
+  },
+  "the-practice-mindset": {
+    "tagline": "Why repetition isn't practice, and what to do instead",
+    "bodyHtml": "\n      <p>The single biggest difference between drummers who improve and drummers who plateau is not talent or hours-per-week — it's <em>how</em> they spend those hours. You can sit at the kit for ten years and barely improve, or sit at it for two and become genuinely good. The variable is method.</p>\n      <h2 class=\"section-label\">Slow Practice Is the Fastest Path</h2>\n      <p>You can only play a pattern as fast as you can play it <em>cleanly</em> slow. Every sloppy rep encodes the sloppy version; speed it up and you get a faster sloppy pattern. Slow down until every note is even, then nudge the tempo up a notch. The full method — how slow, when to speed up — is its own lesson: <em>Slow Practice</em>.</p>\n\n      <h2 class=\"section-label\">One Variable at a Time</h2>\n      <p>If you're working on a new groove and it isn't locking in, isolate the problem. Drop the bass drum and play just the hi-hat and snare. If that's still rough, drop the snare and play just the hi-hat. Add layers back one at a time. You can't fix three things at once — your conscious attention can only hold one new variable. The exercises in <em>Your First Beat</em> follow this principle exactly: build the groove from one limb to four, one layer at a time.</p>\n\n      <h2 class=\"section-label\">The Metronome Is Not Optional</h2>\n      <p>The metronome is the single most important practice tool you own. It's not a punishment; it's a mirror. It tells you the truth about your time. When you play without one, you don't notice that you're speeding up in the second half of every phrase, or dragging through the fills, or rushing into the choruses — but a listener will. Your job as a drummer is to be the timekeeper. Practice like one.</p>\n      <p>A common objection: \"the metronome makes me feel stiff.\" That feeling fades within a few weeks of consistent use, and what replaces it is genuine internal time — you start <em>hearing</em> the click in your head when it isn't there. That's the goal.</p>\n\n      <h2 class=\"section-label\">The Two-Minute Rule</h2>\n      <p>When you start a new pattern, commit to playing it for <strong>two unbroken minutes</strong> before deciding whether you've got it. Most beginners loop a pattern four times, declare it \"got,\" and move on. Two minutes is roughly 60–80 reps of a one-bar groove at 80 BPM. Around the 30-second mark you stop concentrating on the notes and start <em>listening</em> to the groove — that's when the real practice happens.</p>\n\n      <h2 class=\"section-label\">Repetition Isn't Practice — Attention Is</h2>\n      <p>Sitting at the kit playing the same beat for an hour while watching TV is not practice. It's repetition, and it teaches your body whatever bad habit it happens to be doing. Practice is repetition <em>with attention</em>: each rep, you're listening for one specific thing. Is the kick lined up with the click? Is the snare landing exactly on 2? Are the hi-hat 8ths even? You can only listen for one thing at a time, but rotating through these checks is what turns reps into improvement.</p>\n      <p>A useful test: at the end of a 5-minute block, can you describe in one sentence what you were paying attention to? If yes, you were practicing. If no, you were just playing — which is fine, but don't confuse the two.</p>\n\n      <h2 class=\"section-label\">A Practice Block, In Practice</h2>\n      <p>Pick one exercise. Set the metronome 10 BPM below the marked tempo. Play for two minutes without stopping, listening for one specific thing (timing, evenness, dynamics — pick one). At the end, decide: was that clean? If yes, raise the metronome by 5 BPM and do another two-minute block. If no, drop it 5 BPM. Repeat for 10–15 minutes. That's a real practice session — and it'll do more for you than an hour of unfocused playing.</p>\n    ",
+    "graduationCriteria": [
+      "Can sit with one new pattern for two unbroken minutes (no stopping, no resetting tempo) before deciding to move on",
+      "Practices with a metronome on every exercise that has a ♩= marking",
+      "Can describe in plain language the difference between practicing and playing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Five-Minute Drill: Quarter-Note Singles on the Snare",
+        "tip": "Play the full <strong>five minutes without stopping</strong> — don't restart when you stumble, just rejoin the click. Pick one thing to listen for and stay with it: R and L at equal volume, or every stroke landing exactly on the click rather than near it. This drill is the whole lesson in miniature."
+      }
+    ]
+  },
+  "slow-practice": {
+    "tagline": "If it isn't bored, it isn't slow",
+    "bodyHtml": "\n      <p>Most beginners practice too fast. They want to hear what the pattern sounds like at \"real speed\" before they've installed the muscle memory at any speed. The result is a fast, rough version of the pattern that never gets cleaner — only louder.</p>\n      <p><strong>Slow practice</strong> is the opposite. You play a pattern slowly enough that every stroke is deliberate, every sticking choice is conscious, every dynamic is controlled. It's not exciting; that's the point. The brain installs new motor patterns most efficiently when there's no time pressure.</p>\n      <h2 class=\"section-label\">Why Slow Practice Works</h2>\n      <p>Three reasons:</p>\n      <ul>\n        <li><strong>Motor learning is rate-limited.</strong> Your nervous system needs time per repetition to encode a movement. Above a certain tempo, you're rehearsing the rough approximation, not the clean pattern.</li>\n        <li><strong>Errors become visible.</strong> At ♩=50, a weak left-hand double or a flammed unison is obvious. At ♩=120, the same flaws are hidden by the speed.</li>\n        <li><strong>Volume between hands evens out.</strong> Slow practice gives you time to <em>listen</em> to each stroke. If the right hand is louder than the left, you can hear it and fix it. At speed, the imbalance becomes part of the pattern.</li>\n      </ul>\n      <h2 class=\"section-label\">How Slow Is Slow Enough?</h2>\n      <p>The simple test: <strong>you should feel bored, not rushed</strong>. If the tempo feels challenging, it's too fast for slow practice. If you find yourself drifting mentally because nothing is happening, that's the right tempo. Many drummers find ♩ = 50–60 feels uncomfortably slow at first — that discomfort is exactly the signal that real slow-practice work is being done.</p>\n      <h2 class=\"section-label\">The 10% Rule</h2>\n      <p>Once a tempo is <em>100% clean</em> — no sticking errors, no volume imbalances, no flams or rushes — speed up by about 10%. Not 50%. Not \"let me try it at full speed and see.\" Ten percent. So ♩ = 50 → 55 → 60 → 66 → 73, and so on. The increments feel ridiculous; that's why they work. You're never more than one small step ahead of where the pattern is already comfortable.</p>\n      <h2 class=\"section-label\">When to Use Slow Practice</h2>\n      <p>Slow practice isn't a permanent state — it's a tool. Use it when (a) you're learning something new, (b) you've identified a specific weakness in something old, or (c) you want to lock in evenness before performing. It's the deepest, slowest gear of the practice transmission. The exercises below are minimal — one pattern (the paradiddle) at three slow tempos, practiced in three rounds of one minute each. The work is in the discipline of staying at the slow tempo, not in the pattern itself.</p>\n",
+    "graduationCriteria": [
+      "A paradiddle at ♩ = 50 played for one minute with no sticking errors and even volume between hands",
+      "The same paradiddle at ♩ = 60 played for one minute, also clean",
+      "Awareness of when speeding up is appropriate (only when the slower tempo is 100% clean)"
+    ],
+    "exercises": [
+      {
+        "title": "Round 1 — Paradiddle at ♩ = 50",
+        "tip": "Single paradiddles, sticking <em>R L R R · L R L L</em>. ♩ = 50 will feel uncomfortably slow — that's the signal that real slow-practice work is happening. One minute at this tempo. Listen to every stroke: both hands the same volume, both LL doubles even, accent on each count of 1, 2, 3, 4. Move to Round 2 only if this was 100% clean."
+      },
+      {
+        "title": "Round 2 — Paradiddle at ♩ = 60",
+        "tip": "20% faster than Round 1 — the typical slow-practice increment. Same sticking <em>R L R R · L R L L</em>. The pattern is the same; the only thing that changed is the click. If anything starts to feel sloppy, drop back to ♩ = 50 and do Round 1 again before retrying. Speed earns its place; it isn't given."
+      },
+      {
+        "title": "Round 3 — Paradiddle at ♩ = 70",
+        "tip": "♩ = 70 — the third round. Sticking <em>R L R R · L R L L</em>. By now the pattern should feel automatic, the accents on 1–2–3–4 deliberate, the doubles even. Whether you can play this same paradiddle at ♩ = 120 is a separate question for another day. The point of slow practice isn't to graduate from it, it's to install a clean version that <em>any</em> future tempo can be built on."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bill Stewart",
+        "work": "John Scofield — A Go Go",
+        "note": "Listen to how clean every stroke is — that's slow-practice infrastructure showing through at speed."
+      }
+    ]
+  },
+  "metronome-practice": {
+    "tagline": "Three click placements, three different mindsets",
+    "bodyHtml": "\n      <p>The metronome is the single most useful piece of practice equipment a drummer owns. But <em>how</em> you set it changes what you're actually training. The same backbeat practiced three different ways with three different click placements becomes three different exercises.</p>\n      <h2 class=\"section-label\">1. Click on Every Beat (Training Wheels)</h2>\n      <p>Every quarter-note clicks. This is what you start with. The click is a wall you can lean on; every hit lands on or near a click, so feedback is immediate. It teaches your body that \"in time\" means \"lined up with this signal.\" Use this for early coordination drills, new patterns, and any time the groove itself is the new material.</p>\n      <h2 class=\"section-label\">2. Click on 2 and 4 (Backbeat Click)</h2>\n      <p>Now the click only happens twice per bar — on beats 2 and 4. Internally, this <em>feels like the snare</em>. Suddenly the click sounds like a high-hat or a backbeat instead of a metronome. You have to feel beats 1 and 3 yourself, between the clicks. This is the intermediate setting — most professional drummers practice here for groove work because it forces them to internalize the rest of the bar.</p>\n      <h2 class=\"section-label\">3. Click on 1 Only (Bar-Level Click)</h2>\n      <p>One click per bar. Now you have to hold tempo for three full beats with no signal at all, only meeting the click again on the downbeat. This reveals every micro-drift in your time. Advanced drummers practice this to extreme degrees — with the click on beat 1 of every <em>second</em> bar, every <em>fourth</em> bar, and so on. For now, one-click-per-bar is the goal.</p>\n      <h2 class=\"section-label\">When to Move Up</h2>\n      <p>You don't graduate from one setting to the next. They're three tools, not three levels. The rule of thumb: <em>practice the new groove with click-on-every-beat; practice the old groove (the one already comfortable) with click-on-2-and-4 or click-on-1</em>. The harder click setting is what you use once a pattern is reliable, to test whether your time is yours or whether it was the metronome's. As soon as the time wobbles, drop back to a denser click and rebuild.</p>\n      <h2 class=\"section-label\">A Note on the Notation Below</h2>\n      <p>The exercises notate the same basic backbeat three times. The \"click\" itself isn't drawn on the staff — your metronome provides it. The tip on each exercise tells you where to set the click. The drumming is identical; the practice context is what changes.</p>\n    ",
+    "graduationCriteria": [
+      "Basic backbeat at ♩=80 holds tight against the click on every quarter for a full minute",
+      "Same groove holds with the click on 2 and 4 — without flipping the feel",
+      "Same groove holds with the click on 1 only — without drifting before the next click arrives"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Click on Every Beat (♩ = 80)",
+        "tip": "Set the click to <strong>♩ = 80, four clicks per bar</strong>. Every kick, every hi-hat downbeat, and every snare on 2 and 4 should land exactly on a click. Listen for the click <em>disappearing</em> when you hit on it — that's the sound of being in time. Loop this for two minutes before changing settings."
+      },
+      {
+        "title": "2 — Click on 2 and 4 Only (♩ = 80, half the clicks)",
+        "tip": "Set the click to <strong>♩ = 40 and treat it as 2 and 4</strong>. The click now coincides with your snare hits — it should feel like an extra backbeat sitting <em>inside</em> the snare. Beats 1 and 3 (the kicks) are now silent from the metronome's side; you have to feel them. Hardest part: not flipping the feel and starting to hear the click as 1 and 3."
+      },
+      {
+        "title": "3 — Click on 1 Only (♩ = 80, one click per bar)",
+        "tip": "Set the click to <strong>♩ = 20 and treat it as beat 1 of every bar</strong>. Now seven of every eight beats are unsupported by the metronome — only the downbeat clicks. Your body is the metronome for everything in between. If your click and your kick on beat 1 don't line up, you've drifted; reset the next bar to the click and try to hold longer next time."
+      },
+      {
+        "title": "4 — The Backbeat at the Same Tempo, Three Different Clicks (Drill)",
+        "tip": "A daily drill: same backbeat, ♩ = 80. Minute 1: click on every beat. Minute 2: click on 2 and 4. Minute 3: click on 1 only. Don't change tempo when you change settings — the only thing that changes is your relationship to the metronome. By the third minute the time should feel like it's coming entirely from <em>you</em>, not the click."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Papa Jo Jones",
+        "work": "Count Basie — Jumpin' at the Woodside (Decca, 1938)",
+        "note": "Jo Jones is why this 1938 side floats. His hi-hat is a near-continuous shimmer, not a bare click — he struck it as it opened and closed rather than only when clamped shut, which is what makes it hiss rather than snap. Underneath that stream the pedal shuts on 2 and 4. It's fast, around 240 bpm, so don't wait for a clean chick: listen for where the shimmer tightens, and count 1 and 3 out loud against it."
+      }
+    ]
+  },
+  "rock-eighth-grooves": {
+    "tagline": "Canonical rock vocabulary on top of the basic backbeat",
+    "bodyHtml": "\n      <p>Rock is mostly the foundational backbeat with attitude. The exercises here are the four or five 8th-note grooves you'll meet in your first hundred rock songs — driving 8ths, anticipated kicks, doubled kick on the downbeat, the open-hat anthem feel. Tempos sit around <em>♩=100</em>, faster than the foundation lessons; the same patterns at this speed feel meaningfully more aggressive.</p>\n      <p>If something here feels familiar, it should — these are the foundations lessons re-encountered in their natural habitat. The point isn't <em>new</em> material; the point is recognizing the foundation patterns inside actual rock vocabulary.</p>\n      <h2 class=\"section-label\">Conviction Is a Dynamic</h2>\n      <p>What separates a rock groove from a polite exercise is the dynamic shape: backbeat loud and fearless, hi-hat firm but underneath it, kick solid without flamming against the snare. Tentative playing at ♩=100 sounds worse than confident playing at ♩=88, so pick the tempo where you can commit. A groove played with conviction and a small mistake beats a careful groove every time.</p>\n      <p>Then take these four grooves to real songs. Any classic rock playlist gives you dozens of matches; play along and notice how the drummer leans on the \"&amp;\" of 3 or opens the hat exactly where you've been practicing it. Watch for tension creep as tempos rise — shoulders up around your ears means back off ten BPM.</p>\n    ",
+    "graduationCriteria": [
+      "All 4 grooves played with conviction (not tentative) at ♩=100",
+      "Kick variations don't pull the hi-hat off the click",
+      "The open-hat anthem (Ex 4) breathes at the end of each bar"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Driving Rock 8ths",
+        "tip": "The basic backbeat at rock tempo — <em>♩=100</em>. Same pattern as the foundations <em>first-beat</em> lesson, but the higher tempo changes the character. Hit the snare a little harder; the backbeat should feel like a slap."
+      },
+      {
+        "title": "2 — Anticipated Kick on the &amp; of 3",
+        "tip": "Adding a kick on the <em>&amp; of 3</em> turns the basic groove into something that pushes forward into beat 4. This is the AC/DC / classic-rock feel — the bass drum starts to <em>argue</em> with the snare instead of just supporting it."
+      },
+      {
+        "title": "3 — Doubled Kick on Beat 1",
+        "tip": "Two consecutive kicks at the top of the bar — beat 1 and the <em>&amp;</em> immediately after. This is the engine under <em>Back in Black</em>, <em>Thunderstruck</em>, and a thousand other riff-driven rock tunes. The downbeat leans forward instead of just landing."
+      },
+      {
+        "title": "4 — Open-Hat Anthem",
+        "tip": "Anticipated kick on <em>&amp; of 2</em>, open hat on <em>&amp; of 4</em>. The open hat at the end of the bar is the breath that turns a rock groove into a rock <em>anthem</em>. Played at this tempo with conviction, this is most stadium rock you've ever heard."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "The reference for driving 8ths with conviction. Nothing moves that doesn't have to, and the tempo never breathes."
+      },
+      {
+        "artist": "Bruce Gary",
+        "work": "The Knack — My Sharona",
+        "note": "Driving 8ths plus a syncopated kick figure — two of this lesson's exercises living in one hit song."
+      },
+      {
+        "artist": "Tré Cool",
+        "work": "Green Day — Basket Case",
+        "note": "Relentless 8th-note energy at punk tempo. Listen for how the open hat marks the sections."
+      }
+    ]
+  },
+  "rock-disco-four": {
+    "tagline": "Kick on every beat — the engine of disco, dance-pop, and country two-step",
+    "bodyHtml": "\n      <p><strong>Four-on-the-floor</strong> is the simplest possible kick pattern: bass drum on every beat, no syncopation, no variation. It is also one of the most useful. Disco invented the modern version, dance-pop never let it go, and country two-step has always lived there. Most modern dance music — house, techno, EDM, the back half of a Top 40 chart — is some flavor of four-on-the-floor.</p>\n      <p>The technical challenge is endurance. A quarter-note kick at <em>♩=120</em> means 120 strokes per minute, every minute, for the length of a song. Heel-up technique is essential; heel-down will fatigue inside thirty seconds. Bury the beater for tight, modern dance-pop articulation; let it rebound for older disco where the kick should ring slightly.</p>\n      <p>The third exercise adds the <strong>hi-hat foot</strong> on the offbeat 8ths — the \"open chick\" pulse you hear in disco recordings, where the right foot pumps quarter notes on the kick and the left foot pumps quarters on the hi-hat pedal, offset by an 8th note. That pattern, two feet alternating, is one of the foundational dance-music textures.</p>\n    ",
+    "graduationCriteria": [
+      "Four-on-the-floor pulse (Ex 1) holds at ♩=110 with even kick volume across all four beats",
+      "Disco backbeat (Ex 2) at ♩=116 — kick on every beat under snare on 2 and 4",
+      "Hi-hat-foot \"open chick\" version (Ex 3) keeps the right foot quarter-pulse stable while the left foot plays the &amp;s"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Four-on-the-Floor + Hi-Hat 8ths",
+        "tip": "Kick on every beat, hi-hat 8ths on top, no snare yet. Use heel-up technique on the kick — heel-down will tire before the bar repeats twenty times. Each kick should be the same volume; the temptation is to lean on beats 1 and 3, but in dance music every beat is structural. The whole engine is the <em>even-ness</em>."
+      },
+      {
+        "title": "2 — Disco Backbeat (Add Snare on 2 and 4)",
+        "tip": "Now the snare lands on 2 and 4 — but the kick is still on every beat, including 2 and 4. Hand and foot land together on the backbeats; this is unusual coming from a basic backbeat (where the kick stays out of the snare's way) and feels strange at first. Once it locks in, you've got disco. Hum any classic disco hit you know — the kick is on every beat, every time."
+      },
+      {
+        "title": "3 — Disco \"Open Chick\" (Hi-Hat Foot on the &amp;s)",
+        "tip": "Right foot on every beat, left foot on every <em>&amp;</em> — eight alternating 8ths between the feet. It feels impossible at first; the fix is layering: feet alone with no hands, then add the hi-hat 8ths, then the snare. It clicks all at once."
+      }
+    ]
+  }
+}

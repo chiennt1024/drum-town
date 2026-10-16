@@ -1,0 +1,297 @@
+{
+  "reading-101": {
+    "tagline": "How drum notation works, from the staff up",
+    "bodyHtml": "\n      <p>Drum notation borrows the look of melodic notation but throws away the pitch. Instead of a treble or bass clef, you'll see two short vertical lines at the start of the staff — that's the <strong>neutral clef</strong>, and it's the universal sign that says \"this is a percussion part.\" There's no \"C\" or \"G\" here; each line and space is a position, and each position is a drum.</p>\n      <p>The staff is read from left to right, divided into <strong>bars</strong> by vertical bar lines. The two numbers stacked at the very start are the <strong>time signature</strong>: the top number tells you how many beats fit in a bar, and the bottom number tells you which note value gets called \"one beat.\" In 4/4 — by far the most common — there are four beats per bar, and the quarter note is the beat. In 6/8, there are six beats per bar, and the eighth note is the beat.</p>\n      <p>The drums you hit go in fixed places on the staff. Higher-pitched instruments sit higher; lower ones sit lower. For this curriculum the layout is: <strong>hi-hat</strong> in the space above the top line, <strong>ride</strong> on the top line, both as X-shaped noteheads; <strong>snare</strong> in the middle space, third from the bottom; <strong>kick</strong> in the bottom space, stems pointing down; <strong>hi-hat foot</strong> as an X below the staff. The toms fan out around the snare: <strong>high tom</strong> in the top space, <strong>mid tom</strong> on the fourth line, <strong>floor tom</strong> in the second space from the bottom. No drum is written on the middle line itself, so the snare's space sits just above it.</p>\n      <p>Every note has a length, called its <strong>value</strong>. A whole note lasts four beats. Cut it in half: a half note, two beats. Cut that in half: a quarter note, one beat. Cut again: an eighth, half a beat. Again: a sixteenth, a quarter of a beat. And once more: a thirty-second, an eighth of a beat. Every note value also has an equivalent <strong>rest</strong> — a silence of exactly the same duration. The exercises below stay on the snare so you can put your eyes on the page and learn what each shape sounds like in your hands.</p>\n    ",
+    "graduationCriteria": [
+      "Can name every note value (whole through 16th) and how many beats it lasts in 4/4",
+      "Can identify snare, kick, and hi-hat positions on the drum staff without prompting",
+      "Plays Ex 4 and Ex 5 cleanly while counting out loud, no stumbles"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Whole Notes (Four Beats)",
+        "tip": "One snare hit on beat 1, then nothing for the next three beats. Count <em>1, 2, 3, 4</em> out loud the whole time. The note doesn't <em>sustain</em> on a drum — but its <em>value</em> still occupies four beats of space."
+      },
+      {
+        "title": "2 — Half Notes (Two Beats)",
+        "tip": "Two strokes per bar — one on beat 1, one on beat 3. Still count all four beats. Notice how the half note has an open (hollow) head — that's how you tell it from a quarter at a glance."
+      },
+      {
+        "title": "3 — Quarter Notes (One Beat Each)",
+        "tip": "One stroke per beat. Quarter notes are filled noteheads with a plain stem — the workhorse of drum reading. Counts: <em>1, 2, 3, 4</em>."
+      },
+      {
+        "title": "4 — Eighth Notes (Half a Beat Each)",
+        "tip": "Twice as fast as quarters. Eighths get a single flag, but when several sit next to each other they're <em>beamed</em> together with one bar — that's just visual grouping, the duration is the same. Count <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>."
+      },
+      {
+        "title": "5 — Sixteenth Notes (a Quarter of a Beat Each)",
+        "tip": "Four strokes per beat. Sixteenths get a double beam (two horizontal bars). Count <em>1 e &amp; a · 2 e &amp; a · 3 e &amp; a · 4 e &amp; a</em> — one syllable per stroke. If it falls apart, slow the metronome down. Reading is a separate skill from speed."
+      },
+      {
+        "title": "6 — A Mixed Bar (Putting Values Together)",
+        "tip": "Half note, then a quarter, then two eighths. Counts: <em>1 (2), 3, 4 &amp;</em>. The half note covers beats 1 and 2 — say <em>2</em> out loud even though you don't strike on it. Reading is mostly about saying the silent counts."
+      }
+    ]
+  },
+  "reading-time-signatures": {
+    "tagline": "What those two stacked numbers actually mean",
+    "bodyHtml": "\n      <p>The two numbers at the start of every piece are the <strong>time signature</strong>. The top number is the count: how many beats fit inside one bar. The bottom number names the note value that's getting called \"one beat\" — 4 means quarter notes, 8 means eighth notes, 2 means half notes. So 4/4 says \"four quarter-note beats per bar,\" and 6/8 says \"six eighth-note beats per bar.\"</p>\n      <p>That's the definition. But time signatures are also a <em>feel</em>. Bars don't just contain a count — they contain a pattern of strong and weak beats, and that pattern is what makes a waltz feel like a waltz and a march feel like a march. The exercises below give you the same simple snare pattern in five different meters so you can hear the shape change without anything else getting in the way.</p>\n      <p>One more thing: meters with an 8 on the bottom (6/8, 12/8) are <strong>compound</strong>. The eighth notes group in <em>threes</em>, and you usually feel a slower pulse — two pulses in 6/8, four in 12/8. We'll cover that in detail when we hit the shuffle and triplet feel; for now, just notice how different a bar of 6/8 feels from a bar of 3/4, even though both contain six eighth notes' worth of music.</p>\n    ",
+    "graduationCriteria": [
+      "Can state, for any of 2/4, 3/4, 4/4, 6/8, and 12/8, how many beats per bar and which note gets the beat",
+      "The 3/4 exercise feels like a waltz, not \"4/4 with a missing beat\"",
+      "The 6/8 exercise groups in two — counts <em>1-2-3 4-5-6</em>, not <em>1-2 3-4 5-6</em>"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 4/4: The Default",
+        "tip": "Four quarter notes, accent on beat 1. Count <em>ONE, two, three, four</em>. The accent makes the bar audible as a unit — without it, four quarters in a row is just an undifferentiated stream."
+      },
+      {
+        "title": "2 — 2/4: A Two-Beat Bar",
+        "tip": "Two beats per bar. 2/4 is the meter of marches and polkas — the bar feels short and bouncy. Count <em>ONE, two · ONE, two</em>. Same quarter-note clock as 4/4, the bar line just comes around twice as often."
+      },
+      {
+        "title": "3 — 3/4: The Waltz",
+        "tip": "Three beats per bar. The accent on beat 1 should make this feel like a <em>waltz</em>: <em>ONE-two-three · ONE-two-three</em>. If it starts feeling like 4/4 with a missing beat, slow down and put the accent on harder."
+      },
+      {
+        "title": "4 — 6/8: Compound Duple",
+        "tip": "Six eighth notes per bar — but they group in <em>two</em> sets of three. Count <em>ONE-two-three FOUR-five-six</em>. The eighth note gets the click here (♪ = 160 means the eighth note ticks 160 times a minute). Feel the larger 1–4 pulse underneath."
+      },
+      {
+        "title": "5 — 12/8: Compound Quadruple",
+        "tip": "Twelve eighths grouped into <em>four</em> sets of three. This is the meter of slow blues, doo-wop ballads, and most shuffles. Feel four big pulses, with three little eighths inside each. Counted: <em>ONE-two-three TWO-two-three THREE-two-three FOUR-two-three</em>."
+      }
+    ]
+  },
+  "reading-rests": {
+    "tagline": "Silence has a duration, and you have to count it",
+    "bodyHtml": "\n      <p>A rest is not a \"pause\" or a \"break.\" A rest is a <strong>silence with a specific duration</strong>, and the music keeps going through it. Every note value has a rest of equal length: a quarter note has a quarter rest, an eighth has an eighth rest, and so on. When you hit a rest in the music, your hands stop — but your counting doesn't.</p>\n      <p>This is the single biggest leak in beginning drumming. People treat rests as places to relax, lose the beat, and then re-enter on a guess. The fix is simple but unglamorous: <em>say every count out loud</em>, including the ones where you're not playing. Rests don't break time. They <em>are</em> time.</p>\n      <p>Rests also do important visual work on the page. They tell your eye exactly where each note lands by separating it from what came before. A bar with a stroke on the \"&\" of 2 looks confusing if you just see a single eighth note floating somewhere; show that there's an 8th rest before it, and now your eye snaps to the right place. The exercises below leave the rests <em>visible</em> so you can study the glyphs — usually we hide them and let the snare line do the talking, but this lesson is about silence as content.</p>\n    ",
+    "graduationCriteria": [
+      "Counts every rest out loud, including the silent beats",
+      "Can identify whole, half, quarter, 8th, and 16th rest glyphs at a glance",
+      "Ex 5 (rests on the downbeats) plays without rushing into beat 1"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter Notes and Quarter Rests",
+        "tip": "Stroke, silence, stroke, silence. Count <em>1, (2), 3, (4)</em> — say every number out loud, hit only on 1 and 3. The quarter rest is the squiggle that looks a bit like a backward Z."
+      },
+      {
+        "title": "2 — Eighth Notes and Eighth Rests",
+        "tip": "Stroke on every downbeat, silent on every &. Counts: <em>1 (&amp;) 2 (&amp;) 3 (&amp;) 4 (&amp;)</em>. The 8th rest looks like a slanted figure with a single flag — the same flag count as an 8th note."
+      },
+      {
+        "title": "3 — A Half Rest",
+        "tip": "Two quarters, then a half rest covering beats 3 and 4. The half rest sits <em>on top</em> of the middle line — that's how you tell it from the whole rest, which hangs <em>below</em>. Count <em>1, 2, (3), (4)</em>. Don't rush back to beat 1."
+      },
+      {
+        "title": "4 — Mixed Notes and Rests",
+        "tip": "Counts: <em>1, (&amp;) of 2 — &amp;, 3, (4)</em>. Beat 1 is a quarter; beat 2 begins with an 8th rest, then strikes the &amp;; beat 3 is a quarter; beat 4 is silent. Read this slowly and out-loud-count every position."
+      },
+      {
+        "title": "5 — Rests on the Downbeats (Offbeat Hits)",
+        "tip": "Strikes only on the &amp;s. Beats 1, 2, 3, and 4 are 8th rests. Counts: <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em>. This is the same exercise as Counting Eighths Ex 4 — the difference here is that you can <em>see</em> the rests on the page."
+      }
+    ]
+  },
+  "counting-eighths": {
+    "tagline": "The first subdivision past the beat",
+    "bodyHtml": "\n      <p>A quarter note is one beat. Cut it in half and you have two <strong>eighth notes</strong>, counted \"<em>1 &amp;</em>\" — the number on the beat, the ampersand on the upbeat. Eighth notes are the first thing you really subdivide, and they unlock most of the grooves you'll meet in the first year.</p>\n      <p>Each exercise below stays on the snare so you can focus entirely on the counting. Say the count out loud — <em>literally</em> out loud. Internal counting comes later; right now your mouth is part of your timing.</p>\n      <h2 class=\"section-label\">How to Practice the Count</h2>\n      <p>Set the metronome to quarter notes and make your voice louder than the drum. The click marks the numbers; your \"&amp;\" has to land exactly halfway between clicks with no help. When a rest lands on the beat (Ex 4), keep counting through it at full volume. Silence in the hands never means silence in the count.</p>\n      <p>Two failure signs to listen for: the \"&amp;\" drifting late toward the next number, and the count going quiet exactly when the rhythm gets hard. Both mean the same thing, so slow the tempo until voice and hands agree, then bring it back up one notch at a time.</p>\n    ",
+    "graduationCriteria": [
+      "All 4 exercises played while counting out loud, no stumbles",
+      "The offbeats-only exercise (Ex 4) stays stable through the rests",
+      "Quarter rests don't cause you to accelerate"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter Notes (Just the Beat)",
+        "tip": "One snare hit per beat. Say <em>1, 2, 3, 4</em> out loud, in time. Each spoken number lands exactly on a stroke."
+      },
+      {
+        "title": "2 — Eighth Notes",
+        "tip": "Twice as many strokes per bar. Now say <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. The numbers still land on the same beats — the &amp;s slot exactly halfway between."
+      },
+      {
+        "title": "3 — Mixing Quarters and Eighths",
+        "tip": "Pattern: quarter, two eighths, quarter, two eighths. Counts: <em>1, 2 &amp;, 3, 4 &amp;</em>. Keep saying every count out loud — even when your hand isn't striking on it (e.g. the <em>&amp;</em> of 1 is silent here, but you should still say it)."
+      },
+      {
+        "title": "4 — Eighths with Rests on the Beat",
+        "tip": "Strokes only on the <em>&amp;s</em> — the upbeats. Beat 1 is silent, but you must still say it: <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em>. Hitting only the offbeats while feeling the beats internally is one of the hardest first skills."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tommy Ramone",
+        "work": "Ramones — Blitzkrieg Bop",
+        "note": "Relentless eighth notes for two minutes. Count '1 & 2 &' out loud along with the hat — this is the subdivision with a leather jacket on."
+      },
+      {
+        "artist": "Meg White",
+        "work": "The White Stripes — Seven Nation Army",
+        "note": "Quarters and eighths, nothing else, holding up an arena anthem. Simplicity at full commitment."
+      }
+    ]
+  },
+  "counting-sixteenths": {
+    "tagline": "Four pulses inside every beat",
+    "bodyHtml": "\n      <p>Cut an eighth in half and you get a <strong>sixteenth note</strong>. The standard count for a beat full of sixteenths is <em>\"1 e &amp; a\"</em> — one syllable per sixteenth, evenly spaced. The <em>e</em> and the <em>a</em> are the two new pulses that didn't exist when you were just counting eighths.</p>\n      <p>Sixteenth notes are where funk, R&amp;B, and most modern drumming live. Even when not every sixteenth is played, the <em>grid</em> is what your time is locked to.</p>\n      <h2 class=\"section-label\">Making the e and a Real</h2>\n      <p>At first the <em>e</em> and <em>a</em> are just sounds your mouth makes; the goal is for each to become a distinct place you can aim a stroke at. A good drill on top of the exercises: play straight 16ths and accent only the <em>e</em> for a bar, then only the <em>a</em>. If the accents wander, the positions aren't real yet — drop to ♩=60 and rebuild.</p>\n      <p>The tell-tale failure is smearing: <em>e-&amp;-a</em> blurring into a fast triple instead of three even positions. Smearing means the tempo is ahead of your counting, never the reverse. Read Ex 4 by counting it, not by memorizing its shape; placing a note on any syllable of \"<em>1 e &amp; a</em>\" on demand is the skill this lesson exists to build.</p>\n    ",
+    "graduationCriteria": [
+      "All 4 patterns playable at ♩=75 while counting \"1 e &amp; a\" out loud",
+      "The <em>e</em> and <em>a</em> feel like distinct positions, not a smear",
+      "Mixed-density bar (Ex 4) is read by counting, not memorized as a shape"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Straight Sixteenths",
+        "tip": "Sixteen even strokes. Count <em>1 e &amp; a · 2 e &amp; a · 3 e &amp; a · 4 e &amp; a</em> out loud. Every syllable is a stroke."
+      },
+      {
+        "title": "2 — Eighth + Two Sixteenths",
+        "tip": "On every beat: a single eighth followed by two sixteenths. Counts per beat: <em>1 &amp; a · 2 &amp; a · 3 &amp; a · 4 &amp; a</em>. The <em>e</em> is silent — feel it land between the <em>1</em> and the <em>&amp;</em>."
+      },
+      {
+        "title": "3 — Two Sixteenths + Eighth",
+        "tip": "Mirror image of the previous exercise: two sixteenths first, then an eighth. Per beat: <em>1 e &amp; · 2 e &amp; · 3 e &amp; · 4 e &amp;</em>. The <em>a</em> is now the silent one."
+      },
+      {
+        "title": "4 — The 'e a' Pattern",
+        "tip": "A mixed-density bar combining the patterns from exercises 1–3. Don't memorize the rhythm shape — read it by counting through each beat. <em>1 &amp; a · 2 &amp; a · 3 e &amp; a · 4 &amp; a</em>."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Stevie Wonder",
+        "work": "Superstition",
+        "note": "Stevie himself on drums. The hi-hat rides the 16th grid and the kick and snare pick syllables out of it — try naming the count of each kick."
+      },
+      {
+        "artist": "Bernard Purdie",
+        "work": "Aretha Franklin — Rock Steady",
+        "note": "A masterclass in which 16ths to play and which to leave out. The grid is always there even when the hands rest."
+      }
+    ]
+  },
+  "triplet-feel": {
+    "tagline": "Three pulses inside one beat — and the swing 8th",
+    "bodyHtml": "\n      <p>So far you've cut beats into halves (8ths) and quarters (16ths). What if you cut a beat into <strong>three</strong>? That's a <strong>triplet</strong>. Three even pulses fitting into the same time as two of the next-bigger note: an 8th-note triplet is three 8ths in the space of two. They get marked with a small \"3\" above the beam.</p>\n      <p>Triplets are a different <em>feel</em>, not just a different count. Where straight 8ths split a beat into two equal halves — boom-boom, a regular pendulum — triplets split it into three, with a rolling, lopsided forward motion. The classic count is <em>\"1-trip-let, 2-trip-let, 3-trip-let, 4-trip-let,\"</em> three syllables per beat.</p>\n      <p>Triplets also unlock something huge: the <strong>swing 8th</strong>. If you take an 8th-note triplet and only play the <em>first</em> and <em>third</em> partial — skipping the middle one — you get a long-short pair that sounds like a swung pair of 8ths. That's how jazz drummers, blues drummers, and shuffle drummers actually subdivide. On the page it might be written as a regular pair of 8th notes with a \"swing\" instruction at the top — but in the player's head, it's a triplet with the middle missing.</p>\n    ",
+    "graduationCriteria": [
+      "Counts triplets out loud as <em>1-trip-let</em> with even spacing",
+      "Can switch between Ex 2 (straight 8ths) and Ex 3 (triplet 8ths) on the same metronome without the click drifting",
+      "Ex 4 (swing 8ths) sounds like a long-short pair — not like dotted-8th + 16th"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter Notes (Reference Pulse)",
+        "tip": "Lock the click. This is the reference — the 80 BPM pulse you'll subdivide in different ways for the next four exercises. <em>1, 2, 3, 4</em>."
+      },
+      {
+        "title": "2 — Straight 8ths (Two-In-The-Beat)",
+        "tip": "Two evenly-spaced 8ths per beat. Count <em>1 &amp; 2 &amp; 3 &amp; 4 &amp;</em>. Same metronome as Ex 1; you're now putting one extra note halfway between each click."
+      },
+      {
+        "title": "3 — 8th-Note Triplets (Three-In-The-Beat)",
+        "tip": "Three evenly-spaced strokes per beat. Count <em>1-trip-let 2-trip-let 3-trip-let 4-trip-let</em>. Same metronome as Ex 1 and Ex 2 — only the subdivision changes. Switching between Ex 2 and Ex 3 on the same click is the whole skill."
+      },
+      {
+        "title": "4 — Swing 8ths (Triplet With the Middle Missing)",
+        "tip": "First partial and third partial of each triplet — middle one rests. Count <em>1-(trip)-let 2-(trip)-let 3-(trip)-let 4-(trip)-let</em>, hitting only on the <em>1</em> and the <em>let</em>. That's the swing 8th: a long-short pair derived from a triplet. This is how a ride cymbal swings."
+      },
+      {
+        "title": "5 — Compare Straight to Triplet",
+        "tip": "Beats 1 and 2 are straight 8ths (<em>1 &amp; 2 &amp;</em>). Beats 3 and 4 are 8th triplets (<em>3-trip-let 4-trip-let</em>). Same bar, two feels. Switching mid-bar without the click drifting is the test — your inner pulse stays put while your hands change density."
+      }
+    ]
+  },
+  "counting-subdivision": {
+    "tagline": "Switching gears mid-bar — 8ths, 16ths, triplets",
+    "bodyHtml": "\n      <p>Most real-world drum parts don't politely stay in one subdivision for a whole bar. A fill rolls in with 8ths, snaps into 16ths, and lands on a triplet. To read music like that — and to play it cleanly — you have to do something that sounds simple but is genuinely hard: <strong>change the subdivision in your head while keeping the underlying pulse rock-steady.</strong></p>\n      <p>The pulse is the quarter note. That doesn't move. What changes is how many strokes you fit inside each pulse: two for 8ths, three for triplets, four for 16ths. The skill is gear-shifting — switching counts mid-bar without the metronome drifting. The trick is to <em>keep counting the quarter notes underneath</em> at all times. The triplet count <em>1-trip-let</em> sits inside the same beat as the 16th count <em>1 e &amp; a</em>; the <em>1</em> in both lands at the same place.</p>\n      <p>Take these slowly. The metronomes here look low because the test isn't speed — it's accuracy through the density change. Speed is something you only earn after the gear shift becomes invisible. Count audibly, and switch counts <em>between</em> beats, not <em>during</em> them.</p>\n    ",
+    "graduationCriteria": [
+      "Plays Ex 4 at ♩=70 cleanly while counting every subdivision out loud",
+      "Tempo of the quarter-note pulse stays steady through every density change (verify against the click)",
+      "Can articulate which subdivision is happening on each beat without looking at the page after one read-through"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 8ths to 16ths (Two Beats Each)",
+        "tip": "Beats 1–2: straight 8ths (<em>1 &amp; 2 &amp;</em>). Beats 3–4: straight 16ths (<em>3 e &amp; a 4 e &amp; a</em>). The <em>2 &amp;</em> and the <em>3</em> have to sit in the right place — that's where the gear shift happens. Quarter pulse never moves."
+      },
+      {
+        "title": "2 — 8ths to Triplets (Two Beats Each)",
+        "tip": "Two beats of straight 8ths, then two beats of 8th triplets. Counts: <em>1 &amp; 2 &amp; 3-trip-let 4-trip-let</em>. The danger zone is the <em>3</em> — it has to land squarely on the click after the bar's gear shift, not early or late."
+      },
+      {
+        "title": "3 — Triplets to 16ths (the Hard One)",
+        "tip": "8th triplets on beats 1–2 (<em>1-trip-let 2-trip-let</em>), 16ths on beats 3–4 (<em>3 e &amp; a 4 e &amp; a</em>). This is the toughest gear shift in the set — the brain wants to drag the 16ths to the slower triplet feel. Count out loud through the change."
+      },
+      {
+        "title": "4 — One Bar, Three Subdivisions",
+        "tip": "Beat 1: a single quarter (<em>1</em>). Beat 2: two 8ths (<em>2 &amp;</em>). Beat 3: an 8th-note triplet (<em>3-trip-let</em>). Beat 4: four 16ths (<em>4 e &amp; a</em>). One bar, four different densities. Read it slowly the first ten times — speed comes after the brain learns the shapes."
+      }
+    ]
+  },
+  "reading-syncopation": {
+    "tagline": "Notes off the beat, ties across the bar, the &-of-3",
+    "bodyHtml": "\n      <p><strong>Syncopation</strong> is just a fancy word for \"the accent isn't where you'd expect it.\" When the strongest hits land on offbeats — the &amp;s and the e/a positions — the rhythm tugs against the underlying pulse, and the listener feels a kind of forward lean. It's the engine of funk, of reggae, of half the hooks in pop music.</p>\n      <p>To read syncopation cleanly you need two things. First, you have to keep counting the underlying subdivision <em>even when most of the strokes are off the beat</em> — that's where Counting Eighths Ex 4 (offbeats only) was preparing you. Second, you need to read <strong>ties</strong>: a curved line connecting two notes of the same pitch, telling you to play the first note and let it ring through the second one's duration without re-striking it. On a drum, \"ring through\" just means stay silent — but the math has to be right or the next downbeat lands wrong.</p>\n      <p>One particularly common figure in modern drumming is the <em>&amp; of 3</em> anticipation: a hit on the upbeat just before beat 4, often tied across into beat 4 so that beat 4 itself stays silent. It's the shape of every \"and-a-one\" pickup in pop. The exercises below build progressively from clear offbeats to ties to the &amp;-of-3 — count out loud through every example or you'll lose the plot fast.</p>\n    ",
+    "graduationCriteria": [
+      "Plays Ex 4 (the &-of-3 anticipation) without dragging the next downbeat",
+      "Counts ties accurately — does not re-strike the tied note",
+      "Can identify which beat's \"&\" or \"e\" or \"a\" any offbeat hit lives on at first read"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Offbeats Only (No Downbeats)",
+        "tip": "Strokes only on the &amp;s. Count <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em> out loud. The accents lean the bar forward — that's the simplest possible syncopation: take everything off the beat."
+      },
+      {
+        "title": "2 — Backbeat-Style Mix",
+        "tip": "A patchwork of downbeats, &amp;s, and rests. Counts: <em>1 (&amp;) &amp;-of-2 3 (&amp;) &amp; 4 (&amp;)</em>. The accents fall on the &amp; of 2 and beat 4 — both off-center moments. Read by counting, not by feel."
+      },
+      {
+        "title": "3 — Tied Notes Across Beats",
+        "tip": "Beat 1: quarter (<em>1</em>). Beat 2: 8th + 8th (<em>2 &amp;</em>). Beat 3: a tie comes in — strike on the &amp; of 2, hold across into beat 3, no re-strike. Then play the &amp; of 3 and the quarter on 4. The tie is what makes the &amp; of 2 feel anticipated; you arrive there <em>before</em> the listener expects."
+      },
+      {
+        "title": "4 — The &-of-3 Anticipation",
+        "tip": "Beats 1, 2: quarters (<em>1, 2</em>). Beat 3: 8th + accented 8th tied to beat 4 (<em>3 &amp;</em> — strike the &amp; hard, hold across, beat 4 is silent). The accent lives on the &amp; of 3, the bar is silent on beat 4. This shape is everywhere in pop and rock — it's the \"anticipated 4.\""
+      },
+      {
+        "title": "5 — Sixteenth-Note Syncopation",
+        "tip": "16th-level syncopation. Beat 1: <em>1 (e) &amp; a</em>, accent on &amp;. Beat 2: <em>2 e (&amp;) a</em>, accent on a. Beat 3: <em>(3) e &amp; a</em>, accent on e. Beat 4: full <em>4 e &amp; a</em>. Slow it way down and count syllables — these accents sit on the e and the a, the two pulses that disappear in straight 8th-note thinking."
+      }
+    ]
+  },
+  "reading-dotted-rhythms": {
+    "tagline": "The dot adds half — the long-short rhythm of marches and rock",
+    "bodyHtml": "\n      <p>A dot next to a note tells you to add <strong>half of its original duration</strong>. So a dotted half note lasts three beats (2 + 1). A dotted quarter lasts a beat and a half (1 + ½). A dotted eighth lasts three sixteenths' worth (½ + ¼). The dot is one of the most efficient symbols in music — one tiny mark replaces what would otherwise need a tie.</p>\n      <p>The most common dotted figure in drumming is the <strong>dotted-8th + 16th</strong> pair. Together they take up exactly one beat. The dotted-8th eats three of the four 16th-note slots, and the 16th gets the last slot — counted <em>1 (e) (&amp;) a</em>, with strikes on the <em>1</em> and the <em>a</em>. That's a long-short pair, and it's the rhythm of every march, every classic rock backbeat fill, every Sousa thump.</p>\n      <p>It's important to <em>not</em> confuse a dotted-8/16 with a swung 8th-note pair. They sound similar but they're different math. A swung 8th pair is built from a triplet (the long is two-thirds of a beat, the short is one-third). A dotted-8/16 is built from 16ths (the long is three-quarters of a beat, the short is one-quarter). The dotted version is <em>tighter and snappier</em>; the swung version is <em>looser and rounder</em>. Most rock and pop reads as dotted; most jazz reads as swung. The exercises below sit you firmly in the dotted/16th grid so you can tell the difference.</p>\n      <p>For the sticking, we'll use Stone-style permutations: alternating, hand-leading, and double-stop variations on the same dotted pattern. The dotted figure is so distinctive that its sticking is what colors it — the rhythm itself is fixed.</p>\n    ",
+    "graduationCriteria": [
+      "Knows that a dot adds half of the original note's value (dotted-quarter = 1.5 beats; dotted-8th = 0.75 beat)",
+      "Plays Ex 3 (dotted-8 + 16) cleanly without flipping into a triplet feel",
+      "Can identify the difference between a dotted-8/16 figure and a swung-8th pair when listening"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Dotted Quarter + 8th",
+        "tip": "Strike on beat 1, hold for a beat and a half, then strike the &amp; of 2. Repeat for beats 3–4. Counts: <em>1 (2) &amp; 3 (4) &amp;</em>. Dotted-quarter + 8th is the basic anticipation figure — the short note <em>leans into</em> the next downbeat."
+      },
+      {
+        "title": "2 — Dotted-8th + 16th, Alternating Sticking",
+        "tip": "Per beat: strike, wait, wait, strike. Counts: <em>1 (e) (&amp;) a · 2 (e) (&amp;) a · 3 (e) (&amp;) a · 4 (e) (&amp;) a</em>. Don't let the second strike round forward into a triplet — it sits squarely on the <em>a</em> of the 16th-note grid. Sticking R-L every pair, lead hand always on the long note."
+      },
+      {
+        "title": "3 — Dotted-8th + 16th, Same-Hand Lead",
+        "tip": "Two beats of right-hand-only, two beats of left. Same dotted rhythm. This is a Stone-style permutation: keep the rhythm fixed, change the sticking, expose weak hand. Same counts as Ex 2."
+      },
+      {
+        "title": "4 — Reverse: 16th + Dotted-8th (Scotch Snap)",
+        "tip": "Mirror of Ex 2: the <em>short</em> note lands on the beat, the long one follows. This is the <em>Scotch snap</em>, common in Celtic music and some funk fills. Counts: <em>1 (e &amp;) a-of-1 → 2 (e &amp;) a-of-2 → ...</em>. Striking on the beat with a 16th gets you the snap — make that 16th decisive."
+      },
+      {
+        "title": "5 — Dotted Figure Inside a Bar",
+        "tip": "Beat 1: quarter (<em>1</em>). Beat 2: dotted-8 + 16 (<em>2 (e) (&amp;) a</em>). Beat 3: 8th + 8th (<em>3 &amp;</em>). Beat 4: quarter (<em>4</em>). The dotted figure on beat 2 has to <em>not</em> distort the rest of the bar — once it's done, you snap right back into straight 8ths on beat 3."
+      }
+    ]
+  }
+}

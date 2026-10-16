@@ -1,0 +1,599 @@
+{
+  "first-beat-kicks": {
+    "tagline": "Move the bass drum, change the song",
+    "bodyHtml": "\n      <p>The snare on 2 and 4 is non-negotiable — change it and the genre changes. But the bass drum is where rock and pop drummers express themselves. These five variations are the most common kick patterns in popular music, and each is a single small change from the basic backbeat.</p>\n      <p>Practice them in order. Each one isolates one new variable, so you can hear what changed. Hi-hat on 8ths and snare on 2 and 4 stay constant throughout — only the kick moves.</p>\n      <h2 class=\"section-label\">Where It Goes Wrong</h2>\n      <p>The classic failure is the kick dragging the hands with it. When the foot plays the \"&amp;\" of 3, the hi-hat hesitates for a split second, and the whole groove hiccups. If you hear that, slow down and count the 16th grid out loud (<em>1 e &amp; a</em>) so the kick has an exact address instead of a vague \"somewhere after 3.\" The other trap is pulling anticipated kicks toward the nearest beat; recording ten seconds of playing and listening back exposes this instantly.</p>\n      <p>Once all five are stable, shuffle them. Play one bar of each in a random order without stopping. Songs change kick patterns between sections, and the shuffle drill is how you rehearse that move before a song asks for it.</p>\n    ",
+    "graduationCriteria": [
+      "All 5 kick variations playable at ♩=80 without the hi-hat hesitating",
+      "Kicks land on the right 16th-note positions, not pulled toward the nearest beat",
+      "The pop kick (Ex 5) holds at ♩=90"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick on the &amp; of 3",
+        "tip": "The smallest possible kick variation: a single extra 8th-note kick on the <em>&amp; of 3</em>. It pushes the groove forward into beat 4 and is the bass-drum pattern under thousands of rock songs. Keep beat 1 and beat 3 anchored — the new note is the late one."
+      },
+      {
+        "title": "2 — Anticipated Kick on the &amp; of 2",
+        "tip": "Now the kick on the <em>&amp; of 2</em> arrives <em>before</em> beat 3 — an <em>anticipation</em>. Beat 3 still gets a kick, so the bass drum plays two consecutive 8th notes across the bar's middle. Listen for this in '70s rock and modern pop choruses."
+      },
+      {
+        "title": "3 — Combined Kick Syncopation",
+        "tip": "Both kick syncopations layered: <em>1, &amp; of 2, 3, &amp; of 3</em>. Three of the four kicks land <em>between</em> the snare hits — that's where rock starts to feel like rock instead of like a metronome. Slow it down if needed; clarity beats speed."
+      },
+      {
+        "title": "4 — Doubled Kick on Beat 1",
+        "tip": "Two kicks at the top of the bar — beat 1 and the <em>&amp;</em> right after. This <em>'one-and-three'</em> opening is the engine of countless AC/DC and classic-rock tunes. The doubled kick on 1 makes the downbeat lean forward instead of just landing flat."
+      },
+      {
+        "title": "5 — The Pop Kick (1, &amp; of 2, 3, &amp; of 4)",
+        "tip": "A symmetric, anticipatory kick layout: each of beats 1 and 3 is followed by a kick on the next <em>&amp;</em>. This is the most common kick pattern in modern pop — hum any chart hit and you'll find it. Notice how the <em>&amp; of 4</em> kick is now the lead-in into the next bar, instead of the snare doing that work."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — When the Levee Breaks",
+        "note": "The kick placement IS the song. Map where each kick lands against the 16th grid — none of them are accidents."
+      },
+      {
+        "artist": "Roger Taylor",
+        "work": "Queen — Another One Bites the Dust",
+        "note": "A spare disco-rock kick locked under the bassline that owns the song. Listen for how little the kick plays, and how much that restraint gives the groove."
+      },
+      {
+        "artist": "Dave Grohl",
+        "work": "Foo Fighters — Everlong",
+        "note": "Anticipated kicks driving straight into the backbeat at speed. Hear how the '&' placements push the song forward."
+      }
+    ]
+  },
+  "first-beat-color": {
+    "tagline": "Tiny gestures that turn a beat into a drum part",
+    "bodyHtml": "\n      <p>The basic backbeat is the foundation; this lesson is what colors it in. An open hi-hat on the right 8th note, a soft snare just before beat 1 of the next bar, the backbeat moved to beat 3 — these are the gestures that turn a generic groove into a real drum part.</p>\n      <p>Layered on top of the previous lesson's kick variations, they're the entire vocabulary of the working pop drummer. The final exercise here combines a color move with a kick variation — that's how musical drumming actually works.</p>\n      <h2 class=\"section-label\">Playing It Musically</h2>\n      <p>Color gestures sit <em>under</em> the backbeat, not on top of it. The open hat should breathe, then close cleanly on beat 1; if it rings into the next bar, you closed late. The snare pickup on the \"&amp; of 4\" is a whisper, maybe half the volume of the real backbeat, and the most common mistake is rushing it because your ear wants to arrive at beat 1 early. Let the click own beat 1 and place the pickup just behind your intention.</p>\n      <p>Test each gesture inside a song, not just against the click. Put on any mid-tempo pop track, play the plain backbeat for eight bars, then add one color move per chorus. If the gesture makes you lose the tempo, it isn't yours yet; drop back to the exercise loop for another two minutes.</p>\n    ",
+    "graduationCriteria": [
+      "Open hi-hat is a clear \"shhh\", distinct from the closed hat",
+      "Snare pickup on the &amp; of 4 doesn't rush into beat 1 of the next bar",
+      "Half-time feel (Ex 3) feels twice as long, not just slower"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Open Hat on the &amp; of 4",
+        "tip": "The small <em>o</em> above the last 8th note means <strong>open hi-hat</strong> — let the cymbals ring out instead of choking them with your foot. The next bar's beat 1 closes them again. This single gesture is how every disco, funk, and dance groove breathes."
+      },
+      {
+        "title": "2 — Snare Pickup on the &amp; of 4",
+        "tip": "An extra snare on the <em>&amp; of 4</em> turns the bar into a turnaround — it pushes back into beat 1 of the next bar. Real-world use: play it once every four bars as a phrase ending. Played every bar it stops being a pickup and just becomes part of the groove."
+      },
+      {
+        "title": "3 — Half-Time Feel (Snare on Beat 3 Only)",
+        "tip": "Move the backbeat from 2-and-4 to <strong>just beat 3</strong> and the bar suddenly feels twice as long — that's <em>half-time</em>. Same tempo, but the music breathes differently. Hip-hop, modern rock, and post-rock all live in this feel. Resist filling the empty space; the space <em>is</em> the point."
+      },
+      {
+        "title": "4 — Open Hat &amp; Anticipated Kick (Synthesis)",
+        "tip": "Everything across both lessons in one bar: anticipated kick on the <em>&amp; of 2</em> (from Kick Variations), snare on 2 and 4, open-hat sigh on the <em>&amp; of 4</em> (from this lesson). This is no longer an exercise — it's a real drum part. Loop it for ten minutes with a metronome and you've practiced something a working drummer plays every week."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Dave Grohl",
+        "work": "Nirvana — Smells Like Teen Spirit",
+        "note": "Open-hat color as an event: the verse groove breathes on the opens, then the chorus slams them shut."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Fool in the Rain",
+        "note": "The half-time feel with the snare on 3, plus ghost-note color everywhere. Feel how long each bar seems."
+      },
+      {
+        "artist": "Homer Steinweiss",
+        "work": "Amy Winehouse — Rehab",
+        "note": "Pickups and fills that serve the song completely. Every color gesture lands quieter than the backbeat it decorates."
+      }
+    ]
+  },
+  "two-bar-phrasing": {
+    "tagline": "When the second bar answers the first",
+    "bodyHtml": "\n      <p>Up to this point, every groove you've practiced has been a <strong>one-bar loop</strong> — a single measure repeated forever. That's how grooves are taught, but it's rarely how music actually works. Real songs breathe in <em>two-bar phrases</em>: the first bar states the groove, and the second bar answers it with a small variation — an extra snare, a different kick figure, an open hi-hat. Same heartbeat, slightly different breath.</p>\n      <p>The variation is almost always at the <em>end</em> of the second bar, because that's where the phrase resolves before looping back to bar 1. A snare pickup on the <em>&amp; of 4</em>, a doubled kick before the next downbeat, an open-hat sigh — these are the gestures that turn a metronomic loop into a phrase you can hum. The exercises here are the smallest possible two-bar patterns: bar 1 is the basic backbeat you already own; bar 2 is one tiny modification.</p>\n      <p>Practice these by counting bars out loud as you play them — <em>\"one\"</em> on beat 1 of the first bar, <em>\"two\"</em> on beat 1 of the second. If you lose track of which bar you're in, the variation has stopped functioning as a phrase ending and started functioning as just another loop.</p>\n    ",
+    "graduationCriteria": [
+      "All four exercises looped for 2 minutes at ♩=85 without bar 1 and bar 2 collapsing into the same shape",
+      "The variation in bar 2 lands cleanly without the hi-hat hesitating around the new note",
+      "You can tell, by ear, whether you are in bar 1 or bar 2 of the phrase at any point in the loop"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Snare Pickup at the End of Bar 2",
+        "tip": "Bar 1 is the basic backbeat. Bar 2 is identical until the very last 8th, where an <em>extra snare hit on the &amp; of 4</em> answers the phrase and pushes back into bar 1. Count <em>'one'</em> on the first bar and <em>'two'</em> on the second so the phrase length stays in your ear."
+      },
+      {
+        "title": "2 — Different Kick Figure in Bar 2",
+        "tip": "Hands are identical across both bars; only the bass drum changes. Bar 1 is the simple <em>1-and-3</em> kick; bar 2 is the <em>pop kick</em> from the kick-variations lesson (<em>1, &amp; of 2, 3, &amp; of 4</em>). The contrast tells the listener that bar 2 is a response to bar 1, not a copy of it."
+      },
+      {
+        "title": "3 — Open Hi-Hat at the End of Bar 2",
+        "tip": "Two identical bars except for the very last 8th of bar 2, which is an <em>open hi-hat</em>. The hat closes again on beat 1 of the next phrase, producing the breathy <em>tsss-chk</em> that ends every other bar of countless pop tunes. The phrase length is now audible from the cymbals alone."
+      },
+      {
+        "title": "4 — Two-Bar Phrase with a Pickup",
+        "tip": "Synthesis: bar 1 is plain; bar 2 has an anticipated kick on the <em>&amp; of 2</em>, an extra snare on the <em>&amp; of 4</em>, and the last hat opens. Three small variations stacked at the back of bar 2 — the same trick most pop drummers use without thinking about it. If it feels busy, simplify; the point is the <em>shape</em> of the phrase, not the count of decorations."
+      },
+      {
+        "title": "5 — Bar 2 Hands Move, Bar 2 Feet Stay",
+        "tip": "Reverse approach: feet stay <em>completely identical</em> across both bars — they're the anchor. The hands answer in bar 2 with extra snare hits on the <em>&amp; of 2</em> and the <em>&amp; of 4</em>. Letting one limb stay constant while another varies is a fundamental musical move; you'll come back to it in fills."
+      }
+    ]
+  },
+  "the-shuffle": {
+    "tagline": "Swing eighths over a rock backbeat",
+    "bodyHtml": "\n      <p>Two notes per beat can be felt as <em>even</em> (straight 8ths: tee-tee, tee-tee) or <em>swung</em> (shuffle 8ths: <em>tee</em>-tuh, <em>tee</em>-tuh). The shuffle is the second one — every pair of 8ths is reshaped so the first note is roughly twice as long as the second. The simplest way to think about it: skip the middle note of an 8th-note triplet. <em>Boom-(rest)-tuh</em>. That gap is the shuffle.</p>\n      <p>Layered on top of a basic rock backbeat — kick on 1 and 3, snare on 2 and 4 — you get the <strong>shuffle feel</strong>: the rhythm of half the blues catalog, most country shuffles, the early rock-and-roll of the 1950s, and the gateway into medium-swing jazz. In notation we write 8th-note triplets with the middle note missing (a quarter note + an 8th, beamed as a triplet), or simply note \"swing 8ths\" above straight 8ths and trust the player to interpret it. The exercises here use the explicit triplet notation so you can <em>see</em> the time grid the shuffle is sitting on.</p>\n      <p>Why this matters: the shuffle is the single most useful gateway feel a beginner can own. Once it's in your body, the leap to a jazz ride pattern is smaller than it looks; the leap to a country two-step is shorter than that. It is, in many ways, where the next half of your education lives.</p>\n    ",
+    "graduationCriteria": [
+      "Full shuffle (Ex 4) loops at ♩=90 with a clear \"long-short, long-short\" lilt — not even 8ths and not collapsed triplets",
+      "Snare on 2 and 4 lands with the third triplet of each beat, not pulled toward the next downbeat",
+      "You can switch between straight 8ths and shuffled 8ths on cue without resetting the groove"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Shuffle on the Hi-Hat Alone",
+        "tip": "Each beat is an 8th-note triplet with the middle note missing — <em>BOOM (rest) tuh</em>. Say <em>'spang-a-lang'</em> across the bar; that's the shuffle. Lock the long note to the metronome click, and let the short note arrive a third of a beat before the next click."
+      },
+      {
+        "title": "2 — Add the Bass Drum on 1 and 3",
+        "tip": "Bass drum lands with the long note on beats <em>1</em> and <em>3</em>. The kick anchors the downbeats while the hi-hat keeps shuffling on top. Listen for whether the hat's long note actually lines up with the kick — if your ear tells you they're smearing, slow the tempo by 5 bpm."
+      },
+      {
+        "title": "3 — Add the Snare on 2 and 4",
+        "tip": "Snare on <em>2</em> and <em>4</em>, but <em>shuffled</em> — it lands with the long note of the triplet, not on the count itself in straight time. Functionally identical to a backbeat; the lilt comes from the gap between snare and the next hi-hat note."
+      },
+      {
+        "title": "4 — Full Shuffle Groove",
+        "tip": "All three layers together: shuffled hat, kick on 1 and 3, snare on 2 and 4 (with the shuffle lilt). This is the <em>shuffle feel</em>. From here you're a small step from the rock shuffle (heavier kick, ride pattern), the country shuffle (brushes on the snare), and the medium swing (ride bell on 2 and 4 instead of snare). Loop it for ten minutes; the feel takes longer to internalize than the notes."
+      }
+    ]
+  },
+  "bass-drum-technique": {
+    "tagline": "Heel-down, heel-up, buried beater, rebound",
+    "bodyHtml": "\n      <p>Your dominant foot is going to play more notes over a lifetime than either of your hands. It deserves the same technical attention that grip and stroke get on the snare. There are two basic foot positions and two basic stroke types, and most of what a working drummer does is some combination of the four.</p>\n      <p>The two positions are <strong>heel-down</strong> (the entire foot rests on the pedal board, the leg is relaxed, the ankle does the work) and <strong>heel-up</strong> (the heel lifts off the board, the leg drives the stroke from the hip and thigh). Heel-down is for soft, controlled playing — quiet ballads, jazz comping, anywhere the kick should be felt rather than heard. Heel-up is for everything else: rock, funk, pop, anything loud or fast. Most drummers settle into heel-up as their default and bring heel-down out for specific situations.</p>\n      <p>The two stroke types are the <strong>buried beater</strong> (the beater strikes the head and stays pressed against it, choking the resonance) and the <strong>rebound</strong> (the beater strikes and bounces back off the head, letting it ring). Buried-beater gives you a thick, articulate <em>thud</em> — perfect for rock and metal where a clipped kick cuts through. Rebound gives you a longer, fuller <em>boom</em> and also makes fast playing physically possible: you can't bury every stroke at 16th-notes. The choice is style-dependent and tempo-dependent, and once you have both, you mix them constantly.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter-note kicks (Ex 1) at ♩=80 stay even for 2 minutes with the heel down — no acceleration as the ankle tires",
+      "8th-note kicks (Ex 2) at ♩=80 with the heel up, no audible difference between any of the eight strokes in a bar",
+      "Buried-beater 4-on-the-floor (Ex 3) at ♩=110 has a tight, choked thud rather than a ringing boom"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Note Kicks, Heel-Down",
+        "tip": "Heel stays down, leg relaxed. The ankle moves; the rest of the leg is quiet. One kick per beat, perfectly even. Listen for accidental volume drift — heel-down playing exposes any unevenness in your ankle motion. If a particular stroke is louder than the others, your ankle tensed there."
+      },
+      {
+        "title": "2 — Eighth-Note Kicks, Heel-Up",
+        "tip": "Heel comes up; the stroke is now driven from the leg, not the ankle. Eight even kicks per bar at <em>♩=80</em> is roughly the speed at which heel-down stops being practical. Don't lift the leg high — a small downward stroke is enough; gravity does most of the work. Each stroke should sound the same as the last."
+      },
+      {
+        "title": "3 — Buried Beater, 4-on-the-Floor",
+        "tip": "Same notes as Ex 1, but the <em>technique</em> is different: at the bottom of each stroke, <em>press the beater into the head and hold it there</em> until the next stroke starts. Choking the head produces the dry <em>thud</em> at the heart of disco, four-on-the-floor rock, and most dance music. The sound is clipped, not ringing — that's the point."
+      },
+      {
+        "title": "4 — Rebound Strokes at Higher Tempo",
+        "tip": "Eight kicks per bar at <em>♩=130</em> — roughly 17 strokes per second is too fast to bury. <em>Let the beater bounce off the head</em>; meet it on its way back up and use that bounce to power the next stroke. The kick will ring more, but you'll be able to play this tempo without your leg cramping. This is how drummers play sustained 8th-note kicks for a four-minute song without injury."
+      }
+    ]
+  },
+  "hi-hat-foot": {
+    "tagline": "The pulse you don't hear and can't live without",
+    "bodyHtml": "\n      <p>The left foot — the one not playing the bass drum — has its own pedal: the <strong>hi-hat foot pedal</strong>. Pressing it down clamps the two hi-hat cymbals together; releasing lets them rattle. The sound made by closing the cymbals on a beat is called a <em>\"chick\"</em>, and it's one of the most universal pulse markers in popular music. In jazz, the chick on beats 2 and 4 is non-negotiable. In funk and R&amp;B, the same chick locks down the backbeat. In rock, it's often hidden underneath the loud hands but still present.</p>\n      <p>The chick has three useful flavours. <strong>Tight chick</strong>: foot pressed down hard, cymbals fully clamped — short, dry, the jazz default. <strong>Splashy half-open chick</strong>: foot doesn't fully clamp; the cymbals collide and ring briefly before stopping — used for color, often on backbeats in fusion or modern country. <strong>Pulsing chick</strong>: the foot lifts and lowers continuously, marking subdivisions even when the cymbals aren't being struck — a way to keep your time grid alive when the hands are doing something complicated.</p>\n      <p>Notation-wise, the hi-hat foot lives below the staff with an <em>x</em> notehead (<code>d/4/x2</code>) and stems down — visually similar to the bass drum but easy to distinguish once you know what to look for.</p>\n    ",
+    "graduationCriteria": [
+      "Hi-hat foot on 2 and 4 (Ex 1) holds at ♩=90 for 2 minutes without drifting late",
+      "Foot chick lands on the count, not slightly before or after, when layered under hat 8ths (Ex 2)",
+      "You can switch between \"chick on 2 and 4\" and \"chick on every 8th\" mid-loop without losing the snare backbeat (Ex 4)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chick on 2 and 4, Alone",
+        "tip": "Just the foot. Foot down on <em>2</em>, foot down on <em>4</em>, releasing in between. Count <em>'1, 2, 3, 4'</em> out loud and let the foot match the metronome's 2 and 4 exactly. This is the universal jazz/funk pulse — owning it is more important than owning any particular fill."
+      },
+      {
+        "title": "2 — Chick on 2 and 4 Under Hi-Hat 8ths",
+        "tip": "Hand 8ths on top, foot chick on 2 and 4 underneath. The foot has to land on the same instant your hand strikes — no smear. If they don't lock, isolate the foot for 30 seconds, then re-add the hands. This is also the place where you'll first notice your hat hand and your hat foot are playing the same instrument with two limbs at the same time; that coordination is its own skill."
+      },
+      {
+        "title": "3 — Chick Under a Basic Backbeat",
+        "tip": "All four limbs in motion: hat hand on 8ths, snare on 2 and 4, kick on 1 and 3, hi-hat foot on 2 and 4. The two feet now alternate every beat — kick, chick, kick, chick. This is genuine four-way coordination at its smallest scale, and it's a big leap from the basic backbeat. Slow it down if needed."
+      },
+      {
+        "title": "4 — Pulsing Chick on Every 8th",
+        "tip": "The foot now marks the <em>subdivision</em>, not just the pulse — chicks filling the 8th grid around the kick. The old habit of landing only on 2 and 4 is hard to override; that's the work. Owned, this unlocks Steve Gadd-style 16th funk, where the left foot quietly subdivides under everything."
+      }
+    ]
+  },
+  "bass-drum-doubles": {
+    "tagline": "Two kicks in one beat — three ways to do it",
+    "bodyHtml": "\n      <p>One foot, two kicks in the time you usually play one — that's the bass-drum double. It's the technique behind every <em>\"boom-boom-bap\"</em> hip-hop kick, every <em>\"ka-ka-snare\"</em> rock fill, and the rapid kicks under a metal verse before the second pedal comes out. There are three popular ways to produce it, and you don't need to master all three — pick the one that feels least awkward and develop it.</p>\n      <p>The <strong>heel-toe (rocker)</strong> technique pivots the foot like a rocker: the heel drives the first stroke (foot tilted back, ball of the foot up); the toe/ball drives the second (heel rises, ball drops). Two strokes per pivot, controlled but limited in volume.</p>\n      <p>The <strong>slide</strong> technique starts with the ball of the foot near the heel of the pedal board; the first stroke is played there, and as the beater rebounds the foot slides forward toward the toe end. The second stroke comes from the now-forward position, where the leverage is greater. Slides feel slightly awkward at first but produce two equally loud, equally clear strokes.</p>\n      <p>The <strong>swivel</strong> technique uses a side-to-side rotation of the leg: the first stroke from one angle, the foot pivots around the heel a few degrees, the second stroke from the new angle. Less common today but still used by metal drummers for sustained doubles.</p>\n      <p>Pick one. Frame the others as alternatives you'll come back to. The exercises here are agnostic about technique — they just ask for two evenly-spaced kicks in places where you used to play one.</p>\n    ",
+    "graduationCriteria": [
+      "16th-note kick doubles (Ex 1) at ♩=70 are evenly spaced — no rushed second note in any pair",
+      "Single-double-per-bar groove (Ex 2) at ♩=85 keeps the hi-hat hand steady while the foot doubles up",
+      "Kick-double-snare pattern (Ex 4) at ♩=80 holds for 1 minute without the snare getting pulled forward by the kicks"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 16th-Note Doubles on the Kick (Slow)",
+        "tip": "On every beat: two fast kicks (the <em>1</em> and the <em>e</em>), then nothing for the rest of the beat. Each pair is your double. The two strokes must be evenly spaced — equal in time, equal in volume. Whichever technique you're using, the second kick should not feel like an afterthought."
+      },
+      {
+        "title": "2 — One Kick Double Per Bar (on Beat 4)",
+        "tip": "Basic backbeat with one new gesture: the kick on beat 4 is now a double. Snare on 2 and 4, kicks on 1, 3, and the <em>4-e</em>. The hat 8ths must not flinch when the foot doubles — that's the whole exercise. If the hat slows down or gets uneven on beat 4, isolate the kicks again before re-adding the hands."
+      },
+      {
+        "title": "3 — Doubles Before Each Backbeat",
+        "tip": "Two kick doubles per bar, both on counts <em>1</em> and <em>3</em> — the kick still happens on the same beats as before, but each is now a double. The doubled kick acts as a <em>lead-in</em> to the snare on the next beat. Listen for the relationship: <em>boom-boom · CRACK · boom-boom · CRACK</em>."
+      },
+      {
+        "title": "4 — Kick-Double-Snare Groove",
+        "tip": "The canonical <em>kick-kick-snare</em> figure: two kicks then a snare, twice per bar. Said out loud: <em>doom-doom-CRACK · doom-doom-CRACK</em>. This is the kick figure under <em>'We Will Rock You'</em>, half of hip-hop, and any number of stadium-rock anthems. Your foot is doing the rhythmic work; the snare just punctuates."
+      }
+    ]
+  },
+  "snare-voicings": {
+    "tagline": "One drum, six different voices",
+    "bodyHtml": "\n      <p>The snare drum isn't one sound — it's a <em>family</em> of sounds. The same drum, struck in different places with different parts of the stick, can sound like a sharp pop, a thick fat slap, a dry clack, a hush, or a sandy whisper. Each of these is a <strong>voicing</strong>, and each is musical in a different context.</p>\n      <p>This lesson treats the snare the way a guitarist treats their amp: with multiple settings to choose from, depending on what the song asks for. The same backbeat played with a center hit, then with a rim-shot, then as a cross-stick, then with brushes is four different drum parts — even though the rhythm hasn't moved a single 16th note.</p>\n      <h2 class=\"section-label\">The Six Voicings</h2>\n      <p><strong>1. Center.</strong> Stick tip to the middle of the head. The default. Round, full, clear. This is what \"snare\" means when no other instruction is given.</p>\n      <p><strong>2. Edge / rim-side.</strong> Stick tip about an inch from the rim, no rim contact. Drier, thinner, smaller. Brian Blade's quietest ghost notes live here — the head is stiffer at the edge, so soft strokes get all the snare-wire response and almost none of the head tone. The result is a whisper that's still articulate.</p>\n      <p><strong>3. Rim-shot.</strong> Stick strikes the head and the rim simultaneously. Sharp, loud, harmonically rich. The \"snap\" at the front of a rock backbeat. Most pop and rock backbeats are rim-shots, not center hits — that's why they cut.</p>\n      <p><strong>4. Cross-stick.</strong> Stick laid across the head with the butt resting near the rim, then the butt is lifted and dropped onto the rim. Hollow, woody, dry — like a clave or a rim-knock. The standard ballad snare voice. Bossa nova and country ballads use it as the default.</p>\n      <p><strong>5. Buzz / press.</strong> Stick is pressed into the head rather than struck and rebounded. The stick \"buzzes\" against the head, producing a short sustained <em>zzz</em> sound. The basis of orchestral concert rolls and the sand-paper texture inside a fat backbeat.</p>\n      <p><strong>6. Brush sweep / tap.</strong> A wire brush in place of a stick, swept (legato sustain) or tapped (articulated). The voice of jazz ballads. Brushes are a whole sub-discipline; this lesson just introduces the idea that brushes are a voicing of the snare, not a separate instrument.</p>\n      <h2 class=\"section-label\">Why It Matters</h2>\n      <p>The drummer chooses the voicing the same way a singer chooses head voice or chest voice. If you only have one voicing, you only have one expressive level. If you have six, the same arrangement can be supported in six different ways — and you can tell the listener what the song <em>is</em> by which voicing you reach for.</p>\n    ",
+    "graduationCriteria": [
+      "Six distinct snare voices (center, edge, rim-shot, cross-stick, buzz, brush sweep) recognisable by ear in a blind listen",
+      "The \"voicing tour\" (Ex 5) loops cleanly at ♩=80 with each voicing landing on the right beat",
+      "Backbeat played four ways (Ex 1–4) feels musically different — not just technically different — from one to the next",
+      "Edge ghost notes (Ex 3) are quieter than the center backbeat by at least a 4:1 dynamic ratio"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Backbeat with Center Snare (the Default)",
+        "tip": "The reference. Snare hits are <strong>center hits</strong> — stick tip to the middle of the head, full rebound. Round and full. Memorize this sound; the next four exercises change <em>only the voicing</em>, so any change you hear is the voicing, not the rhythm."
+      },
+      {
+        "title": "2 — Same Backbeat, Rim-Shot Voicing",
+        "tip": "The accents on beats 2 and 4 are the visual cue — but the real instruction is <strong>rim-shot</strong>: stick tip lands on the head <em>and</em> the rim at the same instant. The note is sharper, louder, and harmonically richer than Ex 1. This is the voicing on most pop and rock recordings."
+      },
+      {
+        "title": "3 — Edge-of-Snare Ghost Backbeat (the Blade Voicing)",
+        "tip": "The right hand rides the hat all bar, so every <em>L</em> is the left hand arriving on the snare — loud on 2 and 4, ghosted the other four times. Those four ghosts are <strong>edge hits</strong>: about an inch from the rim, no rim contact, played from the fingers only. Brian Blade lives in this voicing, because the head is stiffer at the edge, so soft strokes return the snare-wire rattle without the head's body tone. The backbeats stay center rim-shots. The contrast in <em>place</em> reinforces the contrast in <em>volume</em>."
+      },
+      {
+        "title": "4 — Cross-Stick Backbeat (the Ballad Voicing)",
+        "tip": "Same notes, but the snare hits are <strong>cross-sticks</strong>: lay the stick across the head with the butt near the rim, then lift the butt and drop it onto the rim. Hollow, woody, dry — a clave-like <em>tk</em>. This is the default snare voice in ballads, bossa nova, and country slow-songs. Listen to how much smaller the bar feels."
+      },
+      {
+        "title": "5 — The Voicing Tour (one bar, four voicings)",
+        "tip": "Four quarter notes, one voicing per beat: <em>1</em> = center, <em>2</em> = rim-shot (the accent), <em>3</em> = cross-stick, <em>4</em> = buzz/press (push the stick into the head, don't let it rebound). The <em>same drum</em> produces four totally different sounds. Loop the bar slowly until you can switch voicings without breaking time."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — Spirit of the Moment",
+        "note": "Edge-of-snare ghost notes that whisper."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "Keith Richards — Talk Is Cheap",
+        "note": "Rim-shot backbeats with absolute commitment."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Bill Frisell — Good Dog, Happy Man",
+        "note": "Brush voicings that keep the song small."
+      }
+    ]
+  },
+  "hi-hat-articulation": {
+    "tagline": "Five different sounds from two cymbals",
+    "bodyHtml": "\n      <p>The hi-hat is the most expressive timekeeping device on the kit, and almost all of its expression lives in <em>how tightly the two cymbals are touching</em>. Five articulations cover almost everything you'll ever need.</p>\n      <h2 class=\"section-label\">The Five Articulations</h2>\n      <p><strong>1. Closed.</strong> Cymbals pressed together by the foot. Tight, clipped, \"tick.\" The default. Most rock and pop hi-hat is closed.</p>\n      <p><strong>2. Open.</strong> Foot lifts; the cymbals are loose. Stick strike now produces a sustained \"shhh.\" This is the disco / funk staple — the breath inside the groove. Notation: a small \"o\" above the note.</p>\n      <p><strong>3. Half-open (sizzle).</strong> Foot only partway down — the cymbals are kissing rather than pressed. Stick strikes produce a continuous sizzle that sustains across multiple notes. Used heavily in rock choruses, modern country, and any time the section needs a wash without committing to a ride cymbal.</p>\n      <p><strong>4. Foot-played (pedal chick).</strong> No stick at all — just the foot closing the cymbals to produce a short \"chk.\" Holds the time when the hands are busy elsewhere (especially during the swung \"spang-a-lang\" jazz ride pattern, where the foot keeps 2 and 4).</p>\n      <p><strong>5. Splash.</strong> A two-step gesture: foot drops to open the cymbals (no sound yet), then snaps the cymbals back together with the foot. The closing produces a short \"psh\" — a small, controlled crash made entirely with the foot. Disco and Latin grooves use this as a percussive accent.</p>\n      <p>Each is its own muscular mechanic. Practice them as separate skills before combining them inside grooves.</p>\n    ",
+    "graduationCriteria": [
+      "Closed, open, half-open, foot-played, and splash hi-hat all distinguishable in a blind listen",
+      "Open hi-hat (Ex 2) closes cleanly on the next downbeat — no overhang into beat 1",
+      "Half-open sizzle (Ex 3) sustains for a full eight bars without falling closed",
+      "Foot splash (Ex 5) lands precisely on the &amp; of 4"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Closed Hi-Hat (the Reference)",
+        "tip": "Eight closed 8th notes in the hands; the foot keeps the cymbals pressed together (notated below the staff). This is the sound you're <em>not</em> making in any of the next exercises. Listen to it carefully — the consistency of the closed <em>tick</em> is the baseline you'll judge openness against."
+      },
+      {
+        "title": "2 — Open Hi-Hat on the &amp; of 4",
+        "tip": "The <em>o</em> above the last 8th is the <strong>open</strong> articulation — lift the foot a moment before that strike so the cymbals are loose when the stick lands. The repeat takes you back to beat 1; the foot must <em>close</em> on that downbeat or the open hat will bleed across the bar line. Practice the lift-and-close cycle until it's automatic."
+      },
+      {
+        "title": "3 — Half-Open Sizzle (Quarter-Note Pulse)",
+        "tip": "The <em>o</em> on every quarter note marks <strong>half-open / sizzle</strong>: foot only partway down so the cymbals kiss but don't seal. Each strike produces a sustained <em>shh</em> that bleeds into the next. The point of the exercise is sustaining one consistent sizzle for an entire 16-bar phrase — if the foot creeps closed, the sizzle dies. Used heavily by Steve Jordan, Vinnie Colaiuta, and most rock chorus drummers."
+      },
+      {
+        "title": "4 — Foot-Played Hi-Hat on 2 and 4 (Jazz Ride Pattern)",
+        "tip": "Hands play the swing-ride pattern (\"spang-a-lang\") on the ride cymbal. The hi-hat is <strong>played by the foot only</strong> — a clean <em>chk</em> on beats 2 and 4. No stick touches the hi-hat at all. This is the jazz drummer's metronome: the foot keeps 2 and 4 even while the hands are improvising. Treat the swing 8ths as triplets with the middle note rested out."
+      },
+      {
+        "title": "5 — Foot Splash on the &amp; of 4",
+        "tip": "The last hi-hat note (the &amp; of 4) is replaced by a <strong>foot splash</strong>: lift the foot to open the cymbals (silent), then snap them shut again on the &amp; of 4 — that closing is the splash. No stick is involved. The hi-hat foot replaces the hand on that 8th. Common in disco, Latin, and Tony Williams' open-trio playing."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Aretha Franklin — Rock Steady",
+        "note": "Open-hat 16ths that breathe with the bass line."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Foot splash on 2 and 4 underneath ride patterns."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer — Continuum",
+        "note": "Half-open sizzle behind the choruses."
+      }
+    ]
+  },
+  "cymbal-voicings": {
+    "tagline": "Where on the cymbal you hit changes everything",
+    "bodyHtml": "\n      <p>\"The cymbal\" is rarely just one sound. A ride cymbal alone has three completely different voices depending on where the stick lands; a crash cymbal has two; a china or splash is its own color entirely. The drummer who knows the geography of their cymbals has an enormous expressive range.</p>\n      <h2 class=\"section-label\">The Geography of a Ride</h2>\n      <p><strong>Bow.</strong> The wide flat area between the bell and the edge. The default ride sound: clear stick definition, a steady \"ping,\" some wash underneath. Most jazz and fusion ride lives here.</p>\n      <p><strong>Bell.</strong> The raised dome at the center. Cuts through everything — high, brassy, almost like a cowbell. Used as an accent inside a ride pattern (Latin, gospel, fusion) or as the ride voice itself in mambos and certain rock songs (Phil Collins, \"In the Air Tonight\" verse hi-hat-bell motif).</p>\n      <p><strong>Edge / \"crash zone.\"</strong> The outer rim of the cymbal. Strike it with the shoulder of the stick and the ride momentarily becomes a crash — fast attack, lots of wash. Useful when you want to crash without leaving the ride.</p>\n      <h2 class=\"section-label\">The Other Cymbals</h2>\n      <p><strong>Crash.</strong> Designed for one purpose: short, loud, broad burst on a downbeat or song-section change. Strike with the shoulder of the stick at the edge, never the tip on the bow. A hesitant crash is a wrong crash — commit fully or don't hit it.</p>\n      <p><strong>Splash.</strong> A small crash. Faster attack, faster decay, smaller. Used as a percussive accent <em>inside</em> a phrase, where a full crash would be too much.</p>\n      <p><strong>China.</strong> A trashy, dirty crash. Used as a sentence break — at the end of a fill, on a rare loud accent, or in metal as a stand-in for the regular ride. Always musical, never random.</p>\n      <p>John Riley (in <em>The Art of Bop Drumming</em>) is explicit about this: bop ride patterns are not just rhythms, they are <em>color choices</em>. The same pattern played at the bow vs. the bell tells the band two different stories.</p>\n    ",
+    "graduationCriteria": [
+      "Bow, bell, and edge of the ride distinguishable in a blind listen",
+      "Bell accents (Ex 2) cut clearly above the bow notes — at least a 3:1 dynamic differential",
+      "Crash placement (Ex 3) lands on beat 1 with the bass drum, not slightly before or after",
+      "China voicing (Ex 4) feels musical, not random — the trashy hit is a sentence break"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bow Ride Pattern (the Reference)",
+        "tip": "Standard \"spang-a-lang\" ride pattern, all notes on the <strong>bow</strong> of the ride — about a third of the way out from the bell. Listen to the steady <em>ping</em>. This is your reference timbre. Treat the swung 8ths as triplets with a rest in the middle."
+      },
+      {
+        "title": "2 — Bell Accents on Beats 1 and 3",
+        "tip": "The accents (<em>&gt;</em>) on beats 1 and 3 mean <strong>strike the bell</strong>, not just play those notes louder. Hit the center dome with the shoulder of the stick. Brassy <em>tang</em> on the accents, smooth <em>ping</em> on the unaccented bow notes. Common in mambo, songo, and gospel ride patterns. Even though the renderer shows accents, your ear tells the band they're bell hits."
+      },
+      {
+        "title": "3 — Crash Placement on Beat 1",
+        "tip": "Two bars: a basic backbeat, then beat 1 of bar two is a <strong>crash</strong> with kick — the song-section change. The accented x-notehead at the top of the staff is the crash. Strike the cymbal at its edge with the shoulder of the stick. Commit: a hesitant crash sounds like a mistake. The crash and the kick land on the exact same instant."
+      },
+      {
+        "title": "4 — China as a Section-Break Voice",
+        "tip": "A one-bar 16th-note snare fill ending on a <strong>china</strong> hit on the very last 16th — the trashy <em>krrsh</em> that closes the bar. The accented x-note at the top of the staff is the china. This is its idiomatic placement: the punctuation at the end of a sentence. Save it; one china every four bars is more musical than one per bar."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Lifetime — Emergency!",
+        "note": "The bell as a primary ride voice."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "Surgical crash placement in the bridge."
+      },
+      {
+        "artist": "Stewart Copeland",
+        "work": "The Police — Don't Stand So Close to Me (Zenyatta Mondatta, 1980)",
+        "note": "Verses ride the hi-hat; the chorus moves to the bell of the ride — a bright, dry, paradiddle-inspired hook that cuts straight through Summers' guitar. The same cymbal a stick's width away would give you the bow's ping instead; Copeland goes to the dome because only the dome cuts."
+      }
+    ]
+  },
+  "ghost-notes-found": {
+    "tagline": "An audible whisper — built from finger control",
+    "bodyHtml": "\n      <p>A <strong>ghost note</strong> is a snare stroke played so softly that the listener hears it as <em>texture</em> rather than a discrete note. They sit underneath the loud backbeat the way carpet sits under furniture — you'd notice them missing, but you can't quite count them while they're playing.</p>\n      <h2 class=\"section-label\">The Mechanics</h2>\n      <p><strong>1. Stick height differential.</strong> Soft notes are not just \"played quieter.\" They start from a different stick height. Aim for ~1 inch off the head for ghosts and 10–12 inches for backbeats. You can <em>see</em> the difference if you film yourself — and so can a listener, because volume comes from height, not effort.</p>\n      <p><strong>2. The 4:1 dynamic ratio.</strong> A useful target: backbeat is at least four times the volume of a ghost note. If a backbeat is \"5\" on a hypothetical 1-to-10 scale, the ghosts are between \"1\" and \"1.5.\" Mark Guiliana, Brian Blade, Steve Jordan all sit near or beyond this ratio.</p>\n      <p><strong>3. Finger drive, not wrist.</strong> Ghosts are produced by the rear three fingers (middle / ring / pinky) flicking the stick into the head. The wrist barely moves. The wrist is for backbeats; the fingers are for ghosts. This is where Brian Blade's edge-of-snare ghosts come from — pure finger work, the wrist parked.</p>\n      <p><strong>4. Practice with the metronome.</strong> Ghost notes are easy to play once and almost impossible to play <em>consistently</em>. They drift loud over a minute because the body wants to \"express\" them. The metronome is the discipline: if you can hold the dynamic ratio against a click for two minutes, you own the technique.</p>\n    ",
+    "graduationCriteria": [
+      "Ghost notes audible at conversation distance, with backbeat at least 4× louder",
+      "Stick height for ghosts is roughly 1 inch off the head; backbeat is 12+ inches",
+      "Sixteenth-note ghost stream (Ex 2) holds at ♩=80 for 2 minutes without the volume drifting up",
+      "Backbeat-with-ghosts groove (Ex 4) maintains the 4:1 dynamic ratio under metronome stress at ♩=90"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Stick Height Drill (Whispers and Slaps)",
+        "tip": "Alternate <em>whisper</em> and <em>slap</em>, right hand for beats 1 and 2, left hand for beats 3 and 4. The two bare notes are 1-inch ghost taps; the two carrying a <em>&gt;</em> are 12-inch full strokes. <em>R</em> and <em>L</em> tell you the hand and nothing about the volume, which is why the same letter appears over both heights. The slap should be at least 4× louder. Stand back from the kit and listen — if you can't hear the whisper from across the room, the slap isn't tall enough yet (or the whisper is too tall)."
+      },
+      {
+        "title": "2 — Sixteenth-Note Ghost Stream on Snare",
+        "tip": "Sixteen 16ths at <em>ghost volume</em>, alternating <em>R L R L</em>. No accents anywhere, so every note in the bar is a whisper. The whole bar should sound like a soft hum, not a stream of articulated notes. Hold this for two minutes against the metronome — that's the discipline. If your forearm tightens or the volume drifts up, stop and reset. Wrist should be still; fingers should be doing the work."
+      },
+      {
+        "title": "3 — Ghost-Loud-Ghost Pulse",
+        "tip": "Same 16th-note stream and the same <em>R L R L</em> hands, but now beats 1, 2, 3, 4 carry a <em>&gt;</em> and are <em>full strokes</em>, while the e / &amp; / a positions between them stay <em>ghosts</em>. The accented downbeats should pop above the ghost bed by a 4:1 ratio. This isolates the <em>height switch</em>: the hand drops from 12 inches to 1 inch in one 16th-note interval, then back up to 12 inches by the next beat."
+      },
+      {
+        "title": "4 — Ghost-Note Backbeat Groove (the Application)",
+        "tip": "The backbeat groove with ghosts threaded around the 2 and 4 hits. The right hand rides the hat all bar, so every <em>L</em> is the left hand on the snare: loud snare on 2 and 4 from the wrist, the four unaccented <em>L</em> strokes from the fingers at ghost height. The ghosts are <em>sparse</em> here on purpose — four per bar, on the &amp;-of-1, a-of-2, e-of-3, and a-of-4. Hold the dynamic ratio for two minutes at ♩=90; that's your graduation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — Beyond",
+        "note": "Ghost notes that are practically inaudible but structurally essential."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer — Try!",
+        "note": "16th-note ghost lattice underneath a pop backbeat."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music",
+        "note": "Modern jazz and electronica filtered through ghost-note craft."
+      }
+    ]
+  },
+  "accent-tap": {
+    "tagline": "Two heights, one motion — the basis of every accent",
+    "bodyHtml": "\n      <p>An accent is not \"the same note played louder.\" An accent and a tap are two <em>different motions</em>, played at two different stick heights. George Lawrence Stone's <em>Stick Control</em> (pages 29–31) makes this explicit: the accent stroke begins from a high prepared stick and ends at low position; the tap stroke stays low through the whole motion.</p>\n      <p>If you treat them as the same motion played with different effort, you'll fight your hands forever. If you treat them as two different physical events — one with a prepared height, one without — accent placement becomes a matter of <em>which stick is high right now</em>, not a matter of how hard you swing.</p>\n      <h2 class=\"section-label\">The Two Strokes</h2>\n      <p><strong>The accent (full stroke).</strong> Stick prepared high (10–12 inches off the head), driven down with the wrist, allowed to rebound back to high. Loud, full, ringing. The starting position before the next note is again high.</p>\n      <p><strong>The tap (down stroke / low stroke).</strong> Stick stays at 1–2 inches throughout. Played from the fingers, with very little wrist. Quiet, dry, articulate.</p>\n      <p>The trick — and Stone's whole point — is that you have to <em>plan</em> stick height. After an accent, you might need the next stroke to be a tap. That requires a <em>down stroke</em>: the accent ends low instead of rebounding up, so the next stroke starts from low (and is therefore quiet). After a tap that needs to lead into an accent, you'd play an <em>up stroke</em>: tap volume but rebound to high, prepared for the accent that follows.</p>\n      <p>For now, the four stroke types in classical drumming theory are: full (high → high), down (high → low), tap (low → low), up (low → high). This lesson installs the two extremes (full and tap). The Moeller lesson next adds the smooth transitions between them.</p>\n    ",
+    "graduationCriteria": [
+      "Accents played from a high stick (10–12 inches) and taps from a low stick (1–2 inches), visibly distinct",
+      "Shifting accent (Ex 3, 4, 5) lands on the right 16th every time — no muscle-memory drift",
+      "Ex 5 (accent on 4 different 16ths within one bar) holds at ♩=80 for 2 minutes",
+      "No tension in forearm or shoulder during the height switch — wrist and fingers do the work"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Alternating Accent and Tap (Singles)",
+        "tip": "Right hand plays accents (high prep, full stroke). Left hand plays taps (low, finger-driven). Watch your right stick: it should be visibly high before each strike. Watch your left: it should barely move. The stick heights are the lesson — sound follows."
+      },
+      {
+        "title": "2 — Reversed: Tap and Accent",
+        "tip": "Now the <em>left</em> hand carries the accents and the <em>right</em> hand taps. Most drummers find their non-dominant hand has trouble preparing height. If your left accents collapse, slow down to ♩=60 until they speak as cleanly as the rights did in Ex 1."
+      },
+      {
+        "title": "3 — Accent on Beat 1 (Sixteenths)",
+        "tip": "Sixteen 16ths, accent on every <em>1</em>. The accented R must be high; the next three notes are taps (low). The next R lifts again. This is a <em>down stroke</em> exiting the accent and <em>up stroke</em> entering the next. Slow tempo deliberately — Stone's whole pedagogy is patience first."
+      },
+      {
+        "title": "4 — Accent on the &amp; (Sixteenths)",
+        "tip": "Now accent the <em>third 16th</em> of each beat (the &amp;). It falls on the right hand, same as before. The challenge: your hands have to <em>remember</em> to lift the right between counts — it has been low for two strokes (tap-tap) and now needs to be high. This is the practical drill that builds the height-planning muscle memory."
+      },
+      {
+        "title": "5 — Shifting Accent (Stone's Drill)",
+        "tip": "One accent per beat, but the accent <em>moves</em> through the bar: position 1 of beat 1, position 2 of beat 2, position 3 of beat 3, position 4 of beat 4. Two of those land on the right hand, two on the left. Each accent needs a high prepared stick on the correct side at the correct moment. This is the drill that makes the rest of your drumming life easier."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Buddy Rich",
+        "work": "West Side Story Suite",
+        "note": "Stone-style accent-tap technique at fusion tempo."
+      },
+      {
+        "artist": "Jojo Mayer",
+        "work": "Solos and Studies",
+        "note": "Modern hand-technique pedagogy on the Stone foundation."
+      }
+    ]
+  },
+  "moeller-stroke": {
+    "tagline": "Whip, tap, lift — one motion that plays loud-soft-loud effortlessly",
+    "bodyHtml": "\n      <p><strong>Sanford Moeller</strong> (1878–1960), via his student Jim Chapin, codified a stroke cycle that solves the central technical problem of drumming: how to play <em>loud, then soft, then loud</em> without three separate effortful motions. The <strong>Moeller stroke</strong> is one continuous motion that produces three notes — a whip-down accent, a tap on the rebound, and an upward \"lift\" that prepares the next whip.</p>\n      <h2 class=\"section-label\">The Three Phases of One Motion</h2>\n      <p><strong>Phase 1 — The Whip (downstroke accent).</strong> Forearm drops, wrist follows, stick whips into the head. Loud, full. Crucially: the forearm does most of the work, not the wrist. Think of cracking a small whip rather than throwing the stick.</p>\n      <p><strong>Phase 2 — The Tap.</strong> The whip's energy is not absorbed; it bounces back, and the stick taps the head a second time as the forearm starts to rise. Quiet, articulate. The tap is \"free\" — you don't add energy, you just let the rebound speak.</p>\n      <p><strong>Phase 3 — The Upstroke / Lift.</strong> The forearm continues upward, lifting the stick high to prepare the next whip. As it rises, the stick taps the head once more (very lightly — it's almost optional) before reaching full prep height.</p>\n      <p>The result: three notes — accent, tap, soft tap — produced by one circular motion of the forearm. Learn this and your hands stop fighting accent placement: the accent is a part of the cycle, not an extra effort.</p>\n      <p>Where Stone's accent-tap (the prerequisite) treats high and low as separate motions, Moeller is the <em>connection</em>: it's the smooth motion path that gets you from low back to high without effort.</p>\n    ",
+    "graduationCriteria": [
+      "The whip-tap-upstroke cycle (Ex 2) feels continuous, not three separate movements",
+      "Cycle holds at ♩=90 for 2 minutes per hand without forearm tightening",
+      "RLRL accent-tap-tap pattern (Ex 3) sounds dynamic, not effortful",
+      "Three-note pattern (whip-tap-lift) speeds up to ♩=110 without losing the up-stroke prep"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Just the Whip (One Hand at a Time)",
+        "tip": "Right hand only. Each quarter note is a <strong>whip</strong> — forearm drops, stick lands loud, forearm and stick rise back to high before the next beat. No tap or upstroke yet — just the down-and-up of the whip itself. Feel the forearm initiate; the wrist follows. Then repeat the same exercise with the left hand."
+      },
+      {
+        "title": "2 — The Full Cycle: Whip · Tap · Up (8th-Note Triplets)",
+        "tip": "Right hand only, 8th-note triplets. Each triplet is one Moeller cycle: <em>WHIP - tap - up</em>. Accent on note 1 (the whip), note 2 is the rebound tap, note 3 is the soft tap on the way back up. The <em>circular</em> motion of the forearm produces all three notes. If you feel three separate efforts, slow down to ♩=60 — the cycle should feel like one breath."
+      },
+      {
+        "title": "3 — Alternating Hands: Moeller-Style Accents on the Beat",
+        "tip": "Sticking <em>R L R L</em>, accent on every R (beats 1, 2, 3, 4). The right hand plays a Moeller cycle every beat: whip on the count, tap on the &amp;, plus the left's two taps in between. The right wrist barely works — the forearm whips and lifts in one motion. Same exercise as Stone Ex 3 from the prerequisite, but the <em>technique</em> is the Moeller cycle, not isolated stroke heights."
+      },
+      {
+        "title": "4 — Moeller Triplets, Both Hands Accented",
+        "tip": "Sticking RLR · LRL · RLR · LRL — the lead hand of each triplet alternates. Each lead-hand stroke is a Moeller whip-cycle (accent on the lead, the next two notes flow out of the rebound and lift). At ♩=80 it should feel <em>easier</em> than the Stone version of the same idea, because the whip carries the next two notes for free. That's Moeller's whole gift to drumming."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Jim Chapin",
+        "work": "Speed Power Control Endurance",
+        "note": "Chapin's instructional video on Moeller — direct line from Sanford Moeller himself."
+      },
+      {
+        "artist": "Dom Famularo",
+        "work": "Cyberdrumming pedagogy",
+        "note": "Modern Moeller technique applied to drum kit."
+      }
+    ]
+  },
+  "finger-control": {
+    "tagline": "The rear three fingers as the engine of soft, fast notes",
+    "bodyHtml": "\n      <p>Beyond a certain density, the wrist can't keep up. Sixteenth notes at ♩=120 are 8 strokes per second per hand — if you tried to power each one with the wrist you'd cramp inside thirty seconds. The hand's other engine is the <strong>rear three fingers</strong> — middle, ring, and pinky — which curl and uncurl behind the stick to flick it into the head while the wrist is parked.</p>\n      <p>Where the wrist is for power and accents (loud), the fingers are for speed and ghosts (soft). They're complementary, not interchangeable. Brian Blade's edge-of-snare ghost notes — the ones underneath everything he plays — are pure finger control: the wrist barely moves, and the fingers tap the stick into the head with millimetres of motion.</p>\n      <h2 class=\"section-label\">The Mechanic</h2>\n      <p><strong>Grip foundation.</strong> The fulcrum is the thumb-and-index pinch. The rear three fingers are <em>behind</em> the stick, curled around it but not gripping it. As the stick rebounds, those fingers catch and re-throw it.</p>\n      <p><strong>The motion.</strong> Pinky/ring/middle <em>extend</em>: the stick rotates on the fulcrum and the tip drops to the head. They <em>contract</em>: the stick rebounds and resets. The wrist stays still through both halves. The whole motion lives in about one inch of stick travel.</p>\n      <p><strong>The transition.</strong> When you need to add a loud note (a backbeat, an accent), the wrist re-enters and lifts the stick to full height. The fingers go quiet for that note. Then, immediately after, the wrist parks and the fingers take over again. This <em>handing-off</em> between the two engines is the entire skill.</p>\n      <p>Once it's installed, you'll discover what the fingers actually do for music: they make ghost notes possible at any tempo, they make buzz rolls smooth, and they let you play 32nd-note runs on the snare without sounding tense. They're the engine of soft and fast.</p>\n    ",
+    "graduationCriteria": [
+      "16th-note finger stream (Ex 1) holds at ♩=100 with no wrist movement visible",
+      "Volume stays at ghost level — backbeats, when added, are 4× louder, not 2×",
+      "Buzz roll (Ex 4) sustains for 8 bars cleanly with both hands equal",
+      "Finger-driven 16ths underneath a backbeat (Ex 3) holds at ♩=90 for 2 minutes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Pure Finger 16ths (No Wrist)",
+        "tip": "Sixteen quiet 16ths, alternating <em>R L R L</em>. <strong>Park the wrist</strong>, visibly motionless, and let the fingers do everything. Stick travel: about one inch. If the wrist starts to move, slow down. The whole bar should sound like a soft murmur. Hold for two minutes and gradually push to ♩=100 over weeks, not minutes."
+      },
+      {
+        "title": "2 — Fingers + Wrist: Accent on the Beat",
+        "tip": "Same finger 16ths as Ex 1, and the same alternating <em>R L R L</em>, but the right hand now plays an accent on every <em>1</em>. Those four notes use the wrist. The other twelve stay in the fingers at ghost height, in both hands. The transition is the lesson: wrist-on for one stroke, then fingers immediately resume. This is the technique behind Steve Jordan's 16th-note grooves."
+      },
+      {
+        "title": "3 — Backbeat with Finger-Driven 16ths Underneath",
+        "tip": "Hi-hat 16ths in the right hand, snare 16ths in the left, so every <em>L</em> on the stave is a snare note. The unaccented <em>L</em> strokes are all fingers at ghost volume; the backbeats on 2 and 4 are the same left hand, wrist-driven. The letter never changes because the hand never changes. This is the canonical Brian Blade / Steve Jordan texture. Hold the dynamic ratio for two minutes at ♩=90; you should be able to hold a conversation while playing this."
+      },
+      {
+        "title": "4 — Finger-Controlled Buzz Roll",
+        "tip": "Each quarter note is a <strong>buzz</strong> — press the stick into the head with the fingers and let it bounce against the head three or four times before lifting. The <em>fingers</em> control the press: too much pressure and the stick chokes; too little and you only get one tap. Alternate hands every quarter note. Sustain a smooth <em>brrrr</em> across the whole bar — both hands should sound identical."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — MoodSwing",
+        "note": "Pure finger control — soft, fast, edge-of-the-snare ghost work."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — Joe's Garage",
+        "note": "Finger-driven 32nd-note snare runs at impossible volume."
+      },
+      {
+        "artist": "Buddy Rich",
+        "work": "any solo, any year",
+        "note": "The historical reference for finger-driven speed."
+      }
+    ]
+  },
+  "dynamic-spectrum": {
+    "tagline": "Five distinguishable volume steps you should be able to hold",
+    "bodyHtml": "\n      <p>Most beginning drummers play at one volume — call it \"loud\" — with occasional accidental softer notes. The next stage is two volumes: loud and soft, accent and tap. The mature drummer has at least <strong>five</strong> stable volume levels and can move between them deliberately.</p>\n      <p>This is what John Riley, in <em>The Art of Bop Drumming</em>, calls <em>pacing</em>: the drummer chooses a dynamic level and holds it long enough that it becomes the energy of the section, then moves to a new level when the song moves. Without this skill, every song sits at one volume — usually too loud.</p>\n      <h2 class=\"section-label\">The Five Steps</h2>\n      <p><strong>Ghost (pp).</strong> Stick height: ~1 inch. Audible only in a quiet room or on a recording with the gain up. The texture under the music.</p>\n      <p><strong>Piano (p) — quiet.</strong> Stick height: ~3 inches. Soft conversation volume. Verse-of-a-ballad volume.</p>\n      <p><strong>Mezzo-forte (mf) — medium.</strong> Stick height: ~6 inches. Most pop and rock recordings sit here. The \"default\" if no other instruction is given.</p>\n      <p><strong>Forte (f) — loud.</strong> Stick height: ~10 inches. Chorus volume. Rock band volume.</p>\n      <p><strong>Fortissimo (ff) — very loud.</strong> Stick height: ~14 inches (or as much as you can prepare without losing control). Bridge climaxes, big hits, the wall of sound. Don't live here — visit it.</p>\n      <p>Each step roughly doubles the perceived volume of the previous one — a logarithmic ladder, like everything else in human hearing. The skill is not <em>reaching</em> each level (anyone can hit hard) but <em>holding</em> each one stably for an entire section without drifting.</p>\n      <p>Stone's accent work and Riley's pacing converge here: the <em>height</em> ladder you built in the accent-tap lesson is the same ladder, expanded from two rungs to five.</p>\n    ",
+    "graduationCriteria": [
+      "Five distinct volume levels (ghost / pp / mf / f / ff) audible in a blind listen, each held stable for 8 bars",
+      "Step-up exercise (Ex 5) climbs without overshooting — each step is a clear new level, not a smear",
+      "Mixed-step bars (Ex 4) maintain ratios — the f notes don't collapse toward mf when the ghosts intervene",
+      "Each level holds against the metronome at ♩=80 for 2 minutes without volume drift"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Eight Quarter Notes at Each Level",
+        "tip": "Four quarter notes, alternating sticking. <strong>Loop the bar at one volume level</strong>, hold for 16 bars, then move to the next level. Run all five levels in order: ghost (1\"), piano (3\"), mezzo (6\"), forte (10\"), fortissimo (14\"). Use a recording app — listen back and confirm each level is genuinely different and genuinely stable."
+      },
+      {
+        "title": "2 — Eighth Notes at Mezzo-Forte (the Reference)",
+        "tip": "Eight 8th notes, all at <em>mezzo-forte</em> (6-inch sticks). This is the <strong>default volume</strong>. Hold it perfectly stable for two minutes. If you find the volume creeping up — which it will — you've discovered the actual problem: holding any level under metronome stress requires conscious attention. Most drummers' \"normal\" is somewhere between mf and f, drifting up over the course of a song."
+      },
+      {
+        "title": "3 — Mixed-Step Bar: Ghost / Forte / Ghost / Forte",
+        "tip": "Alternate <em>ghost</em> (1-inch) and <em>forte</em> (10-inch) on each beat. The leap is large on purpose: from 1\" to 10\" between beats 1 and 2. The accent / tap mechanic from the prerequisite is in play here, but applied dynamically rather than rhythmically — it's the same skill, used to <em>place dynamics</em> rather than to mark rhythmic accents."
+      },
+      {
+        "title": "4 — Sixteenth-Note Mixed Pattern (4 dynamic levels in one bar)",
+        "tip": "One bar, four dynamic levels on the beats. Beat 1: forte (accented). Beat 2: piano. Beat 3: mezzo. Beat 4: fortissimo (accented). The non-beat 16ths are all ghosts. Only the two loud beats carry a <em>&gt;</em>, and the player sounds piano and mezzo at one level, so beats 2 and 3 are a step you make with stick height and hear on your own recording rather than one the page or the playback can show you. Five different heights inside one bar means you have to <em>plan</em> them. If the f and ff start to blur, slow to ♩=60."
+      },
+      {
+        "title": "5 — The Dynamic Ladder (climbing through all 5 levels)",
+        "tip": "Four bars, four levels: ghost → piano → forte → fortissimo. Mezzo is omitted so the steps are big enough to feel; slot it back in once the 4-step version is solid. Pass check on a recording: if bar 1 and bar 2 sound the same, your ghost is too loud or your piano too soft."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Mezzo-forte hi-hat held perfectly stable across an entire 7-minute arrangement."
+      },
+      {
+        "artist": "John Riley",
+        "work": "Beautiful Love (with Phil Markowitz)",
+        "note": "Riley's pacing — pp into mf into f over a 6-minute song form."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Wayne Shorter Quartet — Footprints Live!",
+        "note": "Five-step dynamic range inside a single solo."
+      }
+    ]
+  }
+}

@@ -1,0 +1,845 @@
+{
+  "latin-clave-intro": {
+    "tagline": "The two-bar pulse that everything in Latin is built on",
+    "bodyHtml": "\n      <p>Clave is the most important word in this whole track. It's a Spanish word for \"key\" — the rhythmic key that unlocks every Latin and Afro-Cuban style. The clave is a two-bar pattern of five notes spread across eight beats; once you hear it, you hear it everywhere — in salsa, mambo, songo, rumba, samba, even hip-hop and pop tunes that grew up on Latin radio.</p>\n\n      <p>Here is the most important thing to understand up front: <strong>the clave is not always played</strong>. It's <em>felt</em>. In a salsa band, a percussionist might tap it on a wood block, but the kit drummer often doesn't play the clave directly — they play <em>around</em> it, with every limb keyed to the clave's accents. The clave is the underlying pulse the entire ensemble agrees on. Once it locks, the music locks. Below we lay it out clearly: each clave hit is notated at its true note value (quarter or eighth), with rests sized to land the next hit exactly where it belongs. Read each bar by counting \"1 — 2 &amp; — 3 — 4\" out loud and watching the hits drop into the right slots.</p>\n\n      <h2 class=\"section-label\">Son and Rumba</h2>\n      <p>The two clave families used in Cuban music are <strong>son clave</strong> and <strong>rumba clave</strong>. Both are two-bar, five-note patterns. They differ by exactly one note: in son, the third hit of the 3-side is on beat 4; in rumba, that same hit is delayed by an 8th to land on the &amp;-of-4. That single 8th-note displacement is the difference between salsa (son) and folkloric rumba.</p>\n    ",
+    "graduationCriteria": [
+      "Can clap son 3-2 clave for 30 seconds without losing the bar count",
+      "Can flip from 3-2 to 2-3 mid-practice and stay locked to the metronome",
+      "Can play 3-2 son with a cross-stick on the snare while feet pulse quarters at quarter = 92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Son 3-2 Clave on Cross-Stick",
+        "tip": "<strong>Cross-stick:</strong> stick laid across the snare, butt end clicking the rim — a click, not a crack. Loop the two bars as one phrase, counting out loud. The usual failure is rushing from bar 2 back to bar 1: the empty end of the 2-side is part of the cycle, not a gap to close."
+      },
+      {
+        "title": "2 — Son 2-3 Clave on Cross-Stick (the Inversion)",
+        "tip": "Same five notes, 2-side first. If the band is in 2-3 and you play 3-2, the music sounds <em>cruzado</em> — crossed — so this direction has to be as natural as the other. Alternate four cycles of Exercise 1 with four cycles of this until neither feels like the inversion."
+      },
+      {
+        "title": "3 — Rumba 3-2 Clave on Cross-Stick (Displaced Third Hit)",
+        "tip": "Compare to Exercise 1. Son's third hit was on beat 4; rumba's third hit slides one 8th later, to <em>&amp; of 4</em>. The 2-side is identical. That single 8th-note displacement is the difference between salsa (son) and folkloric rumba (guaguancó, yambú, columbia). Play Exercise 1 once, then this one immediately after — your ear should hear rumba as more syncopated, more delayed, more African in feel."
+      },
+      {
+        "title": "4 — Son 3-2 Clave + Quarter-Note Foot Pulse",
+        "tip": "Cross-stick holds son 3-2 while the feet stay square — kick on 1 and 3, hat-foot on 2 and 4. The hand must not bend the feet toward its syncopation. If the cross-stick starts dragging the feet around, drop to ♩=80 and rebuild the layers."
+      },
+      {
+        "title": "5 — Son 2-3 Clave + Quarter-Note Foot Pulse",
+        "tip": "Same texture as Exercise 4 with the clave reversed. The feet do not change — that's the point. Quarters are quarters. The hand must know which side it's on and not be pulled around by the foot. Practice this for a minute, then immediately switch back to Exercise 4 (3-2) without stopping. Switching directions cleanly is the goal: the feet keep going, only the hand direction flips."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tito Puente",
+        "work": "Dance Mania (1958)",
+        "note": "Foundational salsa clave — son 2-3 in motion."
+      },
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "any rumba recording",
+        "note": "Folkloric rumba clave — the 3rd-hit displacement on the &amp; of 4 is unmistakable."
+      },
+      {
+        "artist": "Eddie Palmieri",
+        "work": "Vamonos Pa'l Monte",
+        "note": "Listen for clave direction — the band is locked to it whether you can name it or not."
+      }
+    ]
+  },
+  "latin-bossa-nova": {
+    "tagline": "Brazil's quietest groove, structured like a song",
+    "bodyHtml": "\n      <p>Put on <em>Getz/Gilberto</em> and go hunting for the drums. Milton Banana is there the whole way through, playing a brush in one hand and a stick against the snare rim, and he sits so far under the guitar and the voice that you have to look for him. Bossa nova is played at a volume most drummers never practice at, and that one constraint shapes everything below. Three layers go on in order across the four exercises: a hi-hat ticking 8ths, a bass drum figure that comes around every two beats, and a <strong>cross-stick</strong> on the snare rim. The notation keeps the hi-hat closed from the first bar to the last, and the cross-stick needs a stick in the snare hand, so the restraint has to come out of your hands rather than out of your gear. Keep the whole stack under a spoken voice, hi-hat soft, cross-stick just under it, kick felt more than heard.</p>\n      <p>The kick arrives in Exercise 2 and never changes after that: <em>1</em>, the <em>&amp; of 2</em>, <em>3</em>, the <em>&amp; of 4</em>. Read it as one two-beat cell played twice, a downbeat followed by an offbeat three 8ths later. You may already own the pattern, because it is note-for-note the pop kick from <em>Kick Variations</em> back in Foundations. What changes is the volume and the company it keeps. Played this softly, with a hi-hat whispering 8ths on top of it, the figure stops pushing the bar forward and starts rolling underneath it, and the <em>&amp; of 4</em> reads less as a lead-in than as the far edge of a loop that keeps turning over.</p>\n\n      <h2 class=\"section-label\">Making the cross-stick click, not crack</h2>\n      <p>Lay the stick across the drum with the tip on the head, anchor it with the heel of your hand, and pivot the shaft down onto the rim. The hand never leaves the drum, so the motion is a small pivot rather than a full stroke, and what comes out is a click instead of a crack. Exercise 3 puts that click on <em>2</em> and <em>4</em>, the plainest way into the style; you have already read son and rumba clave on cross-stick in <em>Understanding Clave</em>, so the grip is familiar. Two details make it easier than it looks. Every cross-stick in this lesson lands on an 8th the hi-hat is already playing, so the hands always strike together and the only thing you have to separate is volume. And in Exercise 3 the cross-stick and the kick never share an 8th, so each click drops into a rest the foot has left open.</p>\n\n      <h2 class=\"section-label\">Moving the cross-stick off 2 and 4</h2>\n      <p>Exercise 4 lifts the click off the downbeats and puts it on the <em>&amp; of 1</em>, <em>3</em>, and the <em>&amp; of 4</em>. Count the gaps: three 8ths, three 8ths, then two across the bar line. That is the same 3+3+2 cell you know as the 3-side of the son clave, nudged one 8th late, so if you start it on <em>1</em> you have played the clave and not the bossa figure. No click lands on <em>2</em> or <em>4</em> now, which is why this version stops sounding like a rock beat in disguise. It is also the only voice in the lesson that needs a full bar to come around: the hi-hat repeats every 8th and the kick every two beats, so until the cross-stick moves here, nothing on the kit tells you where the bar line is.</p>\n      <p>Two of the three clicks now land with the kick, on <em>3</em> and the <em>&amp; of 4</em>. The <em>&amp; of 1</em> is the one standing alone, an 8th behind a bass drum you have just played, and with no foot under it, it is the easiest one to place late. Build the stack in order and skip no rungs: loop Exercise 1 until the hi-hat is boring, add the foot, add the cross-stick on <em>2</em> and <em>4</em>, then move it. If a layer gets louder when the next one goes on, drop back a step.</p>\n      <p>Three faults show up first. The hi-hat creeps up, because 8ths at ♩ = 92 are easy and easy playing gets loud; barely audible is the literal target, not an exaggeration. In Exercise 3 the click sits exactly where a backbeat sits and rock reflex will want to accent it, and a bossa with a backbeat is a slow rock groove with an odd kick. And the two offbeat kicks drift, because the <em>&amp; of 2</em> and the <em>&amp; of 4</em> are the only foot notes that fall between metronome clicks. Run a quarter-note click and check that each lands exactly halfway between beats; the hi-hat is playing those same 8ths, so the reference is right above the foot.</p>\n    ",
+    "graduationCriteria": [
+      "Three-layer texture (hat 8ths, bossa kick, cross-stick on 2&amp;4) holds at ♩=92",
+      "Clear volume hierarchy: hat soft, cross-stick softer, kick quietest",
+      "The groove sounds like a whisper, not a slap"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hi-Hat 8ths Alone",
+        "tip": "Steady 8ths. Quiet — barely audible. Bossa is a soft groove from the start; if your hi-hat is loud, the rest of the texture won't fit underneath it."
+      },
+      {
+        "title": "2 — Add the Bossa Bass Drum",
+        "tip": "Bass drum on <em>1</em>, <em>&amp; of 2</em>, <em>3</em>, <em>&amp; of 4</em> — a recurring two-beat figure. This is the same shape as the \"pop kick\" pattern in foundations, but at bossa tempo and volume it carries a completely different feel: rolling, not driving."
+      },
+      {
+        "title": "3 — Add Cross-Stick on 2 and 4",
+        "tip": "Snare line shows on <em>2</em> and <em>4</em>, but <strong>play it as a cross-stick</strong> — stick laid flat across the rim, tip on the head, click instead of crack. Simple two-and-four cross-stick is the bossa entry point; the more elaborate clave-based pattern comes in <em>Understanding Clave</em>."
+      },
+      {
+        "title": "4 — Bossa Synthesis",
+        "tip": "A clave-flavored cross-stick pattern: hits on the <em>&amp; of 1</em>, <em>3</em>, and <em>&amp; of 4</em>. This is approximately the rhythmic shape of a 3-2 clave, simplified for one bar. Played as cross-stick over the bass-drum-and-hi-hat texture, this is recognizably <em>bossa</em>."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Milton Banana",
+        "work": "João Gilberto — Chega de Saudade",
+        "note": "The kit is a brush in one hand and a stick against the snare rim, kept deliberately soft and low. The guitar states the pattern; the drums stay under it."
+      },
+      {
+        "artist": "Milton Banana",
+        "work": "Stan Getz & João Gilberto — Getz/Gilberto",
+        "note": "Brushes, cross-stick, total restraint — listen for how little Banana plays while the groove never thins."
+      },
+      {
+        "artist": "Claudio Slon",
+        "work": "Antônio Carlos Jobim — Wave",
+        "note": "Listen to how little the drums do — and how much the groove breathes anyway."
+      }
+    ]
+  },
+  "latin-samba-feel": {
+    "tagline": "Brazil's main street rhythm, played with two feet and one hand",
+    "bodyHtml": "\n      <p>Samba is Brazil's national rhythm — the sound of Carnaval, of street parades, of the bateria (the giant samba percussion ensemble that drives a samba school down the avenue). On the drum set, samba is mostly a <em>feet</em> rhythm. The two feet do almost all the work; the hands fill in color on top.</p>\n      <p>The two foot voices come from two of the bateria's biggest drums: the <strong>surdo</strong>, the deep bass drum that marks the downbeat, and the <strong>tamborim/agogô</strong>, the higher percussion that accents off-beats. On the kit we translate them: kick on every beat 1 (sometimes 1 and 3), hi-hat foot on every \"&\" — the \"<em>and</em>\" between every quarter. That two-feet ostinato is samba's heartbeat.</p>\n\n      <h2 class=\"section-label\">The Surdo + Hi-Hat Ostinato</h2>\n      <p>Said another way: kick on beats 1 and 3 (or just 1, in some styles), hi-hat foot on the &-of-1, &-of-2, &-of-3, &-of-4. Together that's an \"8th-note pulse alternating between the feet\" — kick on the downbeats, hi-hat on the upbeats. Samba's signature lift comes from the hi-hat foot's steady \"tssk · tssk · tssk · tssk\" between the kicks.</p>\n\n      <h2 class=\"section-label\">The Hand Layer</h2>\n      <p>Once the feet are running, the right hand plays a continuous 16th-note pattern on a closed hi-hat or on the floor-tom rim. The left hand plays the <em>telecoteco</em> — samba's characteristic syncopated accent pattern — usually with a cross-stick on the snare. Telecoteco hits land on a few specific places in the bar (the &-of-1, beat 2, &-of-3, &-of-4-ish — there are several common phrasings) and they should feel like the singer's accent on the lyric.</p>\n\n      <h2 class=\"section-label\">Tempo Note</h2>\n      <p>Samba is fast. Carnaval samba lives at ♩=120–135. Bossa-nova-flavoured samba (the \"samba slow\") sits closer to ♩=100. We'll start at ♩=100 here so you can feel the foot pattern; once that's locked, push it up to where it actually wants to live.</p>\n    ",
+    "graduationCriteria": [
+      "Surdo kick on every beat 1 + hi-hat foot on every \"&\" holds at ♩=100 for two minutes",
+      "Right-hand 16ths on the hi-hat sit on top of that foot ostinato without dragging",
+      "Cross-stick samba accents (telecoteco) lock to the foot pattern at ♩=92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Feet Alone: Surdo + Hi-Hat",
+        "tip": "Kick on every downbeat, hi-hat pedal on every & — alternating 8ths between the feet. Weight them differently: the kick deep and heavy, the hat-foot light, a lift between every step. Two minutes without thinking about it before any hands are allowed in."
+      },
+      {
+        "title": "2 — Add the Right Hand: 16ths on Closed Hat",
+        "tip": "Right hand plays steady 16ths on the closed hi-hat — the güiro/shaker layer. Feet keep the surdo+pedal ostinato underneath. The hand is twice as fast as the feet, so for every <em>kick</em> there are two right-hand strokes; for every <em>hi-hat foot</em> there are two more. If your hand starts dragging, slow down to ♩=85 and rebuild."
+      },
+      {
+        "title": "3 — Add Cross-Stick on Beat 2",
+        "tip": "Single cross-stick accent on beat 2 and beat 4 — the simplest possible left-hand layer. <strong>Play the snare line as a cross-stick</strong>, not a full backbeat. This is the entry-level samba — feet ostinato, 16th hand, simple cross-stick — and already feels like samba. The next exercise adds the telecoteco accents that turn it into <em>real</em> samba."
+      },
+      {
+        "title": "4 — Telecoteco Accents (Full Samba Pattern)",
+        "tip": "Telecoteco — the syncopated samba accent pattern played as cross-stick. Hits on the <em>&-of-1</em>, <em>2</em>, <em>&-of-3</em>, <em>4</em>. Two displaced accents per bar (on the <em>&</em>'s) plus the two on-the-beat accents. Tempo dropped to ♩=92 because the cross-stick coordination is real now. <strong>Hear the sing-song</strong>: the off-beat cross-sticks should feel like a singer's syllable, not a metronome tick."
+      },
+      {
+        "title": "5 — Push the Tempo",
+        "tip": "Same pattern, samba tempo. Carnaval lives between ♩=120 and ♩=135. At this speed the right-hand 16ths become a wash and the surdo kick has to drive — the kick on every beat 1 (and 3) is what carries the dancers down the avenue. If your right hand can't keep 16ths at this tempo cleanly, drop back to Exercise 2 and build hand stamina with the feet ostinato underneath."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Paulo Braga",
+        "work": "Elis Regina & Tom Jobim — Elis & Tom",
+        "note": "The section changes get marked by a shift in the groove rather than a fill. On 'Águas de Março' that shift is a foot splash on the 8th notes of beats 1 and 2, the same pedal foot this lesson drills."
+      },
+      {
+        "artist": "Airto Moreira",
+        "work": "Fingers",
+        "note": "Brazilian percussion vocabulary translated to kit and band."
+      },
+      {
+        "artist": "Escola de samba batucada",
+        "work": "Any Mangueira or Portela carnival recording",
+        "note": "The source: surdo on the pulse, caixa filling the 16ths — your two feet and one hand are imitating this."
+      }
+    ]
+  },
+  "latin-cha-cha": {
+    "tagline": "The easiest Latin rhythm to integrate with a rock backbeat",
+    "bodyHtml": "\n      <p>Cha-cha-cha (usually shortened to \"cha-cha\") is a mid-1950s Cuban rhythm developed by Enrique Jorrín in the danzón tradition. It was — and still is — Latin music's <em>easiest export</em>: it sits in a comfortable medium tempo (♩=88–132), it pulses in four (not the brisk \"in two\" feel of mambo), and the rock-flavoured backbeat on 2 and 4 already lives inside it. If you've played any rock or pop, your hands almost know cha-cha already.</p>\n      <p>Cha-cha is built around the <strong>cha-cha bell</strong>: a small, high-pitched cowbell that rings out steady quarter notes. On the kit, you can play those quarters on a closed hi-hat, on the bell of the ride, on a small mounted cowbell, or even on the side of the floor tom. The point is a <em>steady quarter-note pulse</em> on a high, bright voice. Underneath it, the kick provides the bottom and the cross-stick provides the backbeat.</p>\n\n      <h2 class=\"section-label\">The Cha-Cha-Cha Kick Figure</h2>\n      <p>The genre's name comes from a kick-foot rhythm at the end of the bar — \"<em>cha · cha · cha</em>\" — that lands on beat 4, the &-of-4, and beat 1 of the next bar. Three quick kicks straddling the barline. That is the whole hook of the rhythm, and you'll hear it in every cha-cha tune ever recorded.</p>\n    ",
+    "graduationCriteria": [
+      "Cha-cha bell quarters + cross-stick on 2 and 4 + kick on 1 holds at ♩=110 for two minutes",
+      "The \"cha-cha-cha\" kick figure (4 + &-of-4 + 1) is even and not lopsided",
+      "The groove still feels like cha-cha at ♩=88 (slow) and ♩=132 (fast) without falling apart"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bell Quarters + Cross-Stick on 2 and 4",
+        "tip": "The high <em>x</em> noteheads are the cha-cha bell — quarter notes on a cowbell or ride bell, struck with the shoulder of the stick for a clear ping. The <em>c/5</em> notes on 2 and 4 are cross-stick clicks. Hands only for now; no feet."
+      },
+      {
+        "title": "2 — Add the Kick on 1",
+        "tip": "Single kick on beat 1. That's it. Cha-cha's bottom is sparse — the bell carries the time, the cross-stick carries the backbeat, the kick just stamps the downbeat. Some players add a second kick on beat 3 as well; try it if it feels good, but a single kick on 1 is the more authentic Cuban sound."
+      },
+      {
+        "title": "3 — The \"Cha-Cha-Cha\" Kick Figure",
+        "tip": "Now the genre's name appears in the foot. Kick on beat 1 (the regular downbeat), then <em>cha · cha</em> on beat 4 and the &-of-4 — two quick 8ths at the end of the bar. When the bar repeats, the next kick on beat 1 is the third <em>cha</em> of the figure: <em>cha · cha · cha</em> straddles the barline. Say it out loud while you play and the foot will fall in line."
+      },
+      {
+        "title": "4 — Add the Hi-Hat Foot on 2 and 4",
+        "tip": "Full cha-cha pattern. Hi-hat foot on 2 and 4 reinforces the cross-stick backbeat (a chick under each click). The kick on the &-of-4 happens with the hi-hat foot still down on 4 — that's why the notation shows them stacked. Loop this for two minutes; this is the production-ready cha-cha groove and it should feel comfortable, almost lazy. If it feels frantic, the tempo is too high — drop to ♩=92."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Orquesta Aragón",
+        "work": "El Bodeguero",
+        "note": "Enrique Jorrín invented the cha-cha-chá in 1951; this charanga is what made it stick. Flute and violins carry the tune, so listen underneath for the güiro and timbales holding the pulse, and count off the percussion rather than the melody."
+      },
+      {
+        "artist": "Tito Puente",
+        "work": "Oye Como Va (El Rey Bravo)",
+        "note": "The cha-cha-chá Santana would rebuild for a rock band eight years later. Timbales ride a repeated piano tumbao of block chords with Johnny Pacheco's flute on top, and nothing rushes; holding that tempo is the discipline."
+      },
+      {
+        "artist": "Michael Shrieve",
+        "work": "Santana — Oye Como Va (Abraxas)",
+        "note": "A rock kit dropped into a real Latin percussion section: José Chepito Areas and Michael Carabello cover timbales and congas around it. Separate the kit from the hand drums while you listen, because most of what makes this track sound Cuban is coming from the hands."
+      }
+    ]
+  },
+  "latin-mambo-intro": {
+    "tagline": "The bell pattern that drives every salsa tune",
+    "bodyHtml": "\n      <p>Mambo is the up-tempo, driving Cuban dance rhythm developed in the late 1930s by Israel \"Cachao\" López and his brother Orestes — and then exported wholesale to New York in the 1940s, where it became the engine of mambo-era big-band music and, eventually, of salsa. Compared to cha-cha (in four, medium), mambo pulses <strong>in two</strong> (you feel it in two halves, not four quarters) and runs faster — typically ♩=180–230 if you're counting the underlying quarter note, which is why most charts notate it in cut time.</p>\n      <p>Mambo on the kit is built around the <strong>mambo bell pattern</strong>, a syncopated cowbell figure played by the timbale player on the large mambo bell (campana). It's <em>not</em> just quarter notes like the cha-cha bell — it's a two-bar pattern with accents on specific beats and \"&'s\" that lock into son clave. You can play it on the ride bell, on a mounted cowbell, or on the bell of the floor tom for a darker version.</p>\n\n      <h2 class=\"section-label\">The Mambo Bell — Notes</h2>\n      <p>The mambo bell pattern (across one bar of son clave's 3-side, or two bars in 4/4): <em>1, &-of-2, 3, 4, &-of-4</em> — heavy on the downbeats, with a syncopated &-of-2 and a pickup &-of-4 that pushes into the next bar. There are several common phrasings; we'll use the most standard one. The bell does <strong>not</strong> match the clave note-for-note — it complements the clave, accenting some clave hits and not others.</p>\n\n      <h2 class=\"section-label\">Underneath the Bell</h2>\n      <p>Kick: syncopated, usually accenting the bombo note (the &-of-2 on the 3-side of the clave) and beat 4. Cross-stick: usually plays the missing notes of the clave, filling in what the bell doesn't catch. The whole texture is <em>woven</em> — multiple voices each catching a different piece of the clave, none of them on their own carrying it.</p>\n    ",
+    "graduationCriteria": [
+      "Mambo bell pattern on the ride bell holds at ♩=110 for two minutes without flagging",
+      "Bell + syncopated kick + cross-stick layer adds together cleanly inside son 3-2 clave",
+      "Foot pulse stays clave-aware (not square): the &-of-2 and the &-of-3 land where they should"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mambo Bell Alone",
+        "tip": "Mambo bell, single bar, alone. Hits on <em>1, &-of-2, 3, 4, &-of-4</em>. The high <em>x</em> notes are the bell of the ride or a mounted cowbell — pick whichever you have. <strong>Drive the off-beats:</strong> the <em>&-of-2</em> and the <em>&-of-4</em> are what give the pattern its forward momentum. If they sound like accidents instead of accents, slow down to ♩=85 and feel them lift the bar."
+      },
+      {
+        "title": "2 — Add the Syncopated Kick",
+        "tip": "Two kicks: <em>&-of-2</em> (this is the <strong>bombo note</strong>, the most important off-beat in 3-2 clave) and <em>4</em>. Notice that the kick on the &-of-2 lines up with one of your bell hits — they should sound together, locked. Beat 1 has <em>no kick</em> — that's intentional. Latin kit kicks rarely live on the downbeat; they live on the syncopations."
+      },
+      {
+        "title": "3 — Add Cross-Stick on the Clave's 2-Side",
+        "tip": "Cross-stick lands on beats 2 and 3 — the 2-side of son clave folded into a one-bar loop. <strong>Ear test:</strong> bell, kick, and cross-stick should read as three separate rhythmic lines. If they clatter into one blob, re-stack the voices one at a time."
+      },
+      {
+        "title": "4 — Full Mambo in Son 3-2 Clave (Two Bars)",
+        "tip": "Bar 1 is the 3-side — bell and kick only. Bar 2 is the 2-side — same bell and kick plus cross-stick on 2 and 3. Hi-hat foot marks beat 4 of each bar. Nothing plays the clave outright; every voice points at it. Listen for it anyway."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Pérez Prado",
+        "work": "Mambo No. 5 / Qué Rico el Mambo",
+        "note": "The brass-driven mambo at its most famous — count the 2-3 clave under the hits."
+      },
+      {
+        "artist": "Tito Puente",
+        "work": "Dance Mania (1958)",
+        "note": "The timbale-led mambo. Everything the kit adaptation imitates is here."
+      },
+      {
+        "artist": "Machito & His Afro-Cubans",
+        "work": "Kenya",
+        "note": "Mambo meets big-band jazz — the blueprint for Latin jazz drumming."
+      }
+    ]
+  },
+  "latin-songo": {
+    "tagline": "Cuba's 1970s bridge between folkloric tradition and modern fusion",
+    "bodyHtml": "\n      <p>Songo is the modern Cuban groove — invented in the early 1970s by José Luis \"Changuito\" Quintana, the legendary timbale player of Los Van Van, and developed alongside bandleader Juan Formell. Songo is what happens when traditional Afro-Cuban percussion (clave, tumbao, conga, timbale) meets American funk and jazz fusion. It's the rhythm that lets a Cuban kit drummer sit in with a contemporary band without leaving the tradition behind.</p>\n      <p>Songo has a <strong>16th-note feel</strong> in the right hand (closer to funk than to mambo's 8th-note bell), a <strong>cross-stick or snare backbeat</strong> on 2 and 4, and a <strong>syncopated kick</strong> that often anticipates the bass line — landing on the &-of-4 of the previous bar to push into beat 1 of the next.</p>\n\n      <h2 class=\"section-label\">Why Songo Matters</h2>\n      <p>For an intermediate-or-better drummer who came up on rock and funk, songo is the easiest entry into authentic Cuban kit drumming. The hand pattern looks like a funk groove. The cross-stick acts like a backbeat. The kick is syncopated like a 16th-note funk kick. Only the <em>where</em> of the kick changes — it has to lock to clave, not to a 1-and-3 rock template. Once you can play songo, the rest of the Latin track makes immediate sense.</p>\n\n      <h2 class=\"section-label\">Variations Covered Here</h2>\n      <p>We'll work through five variations: (1) the basic songo, (2) Joel Rosenblatt's hi-hat sweep variation (a güiro effect), (3) songo with bell-of-ride instead of hat (the \"loud\" songo for choruses), (4) the funkier songo with a snare backbeat instead of cross-stick, and (5) songo with a bass-anticipating kick on the &-of-4 (the most idiomatic Cuban version).</p>\n    ",
+    "graduationCriteria": [
+      "Basic songo pattern (hat 16ths + cross-stick on 2 and 4 + syncopated kick) holds at ♩=100",
+      "Songo with bell ride holds with the same kick figure at ♩=100 (the right hand voice changes, not the timing)",
+      "Bass-anticipating kick (anticipating the &-of-4 of the previous bar) lands cleanly inside clave"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Songo (Hat 16ths + Cross-Stick + Syncopated Kick)",
+        "tip": "Play the snare line on beats 2 and 4 as <strong>cross-stick</strong>, not full snare — that's the songo norm. Right hand: 16ths on closed hi-hat. Kick: <em>&-of-2</em> (bombo) and <em>4</em>, same as mambo. This is the entry-level songo. It already sounds Cuban, but feels familiar from funk because of the 16th-note hand. Lock the kick precisely on the &-of-2; if it drifts to the &-of-3, the groove inverts."
+      },
+      {
+        "title": "2 — Hi-Hat Sweep Variation (Joel Rosenblatt)",
+        "tip": "Joel Rosenblatt's contribution: alternate <em>closed</em> and <em>open</em> hi-hat on every other 16th, creating a güiro-like sweeping wash. The open-hat circles in the notation are your second 16th of every pair — open the hat with your foot just enough to let the cymbals tssss. The cross-stick on 2 and 4 still anchors. <strong>Don't get loud:</strong> the open hat should be a <em>shimmer</em>, not a crash."
+      },
+      {
+        "title": "3 — Songo with Bell Ride (Loud Songo)",
+        "tip": "Move the right hand from the closed hat to the bell of the ride; switch from 16ths to a syncopated 8th-note bell pattern (essentially the mambo bell figure). Cross-stick still on 2 and 4. This is the <em>chorus</em> sound — louder, more open, used when the band lifts. The kick figure does not change — only the right-hand voice."
+      },
+      {
+        "title": "4 — Funky Songo (Snare Backbeat Instead of Cross-Stick)",
+        "tip": "Backbeat is now a <strong>full-volume snare hit</strong> on 2 and 4 (no cross-stick), plus an additional ghosted/popped snare on the &-of-3. This is the funk-fusion songo — the one that crosses over into Yellowjackets/Weather Report territory. The 2 and 4 should crack; the &-of-3 should be a softer accent that pushes into beat 4."
+      },
+      {
+        "title": "5 — Songo with Bass-Anticipating Kick",
+        "tip": "Three kicks: bombo on the &-of-2, beat 4, and the <em>&-of-4</em> anticipation. When the bar loops, that last kick and the next downbeat form one tight kick-into-one phrase — that's the moment to listen for. Land it and this is songo, not funk-with-Latin-decoration."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "José Luis \"Changuito\" Quintana",
+        "work": "Los Van Van — 1980s recordings",
+        "note": "The inventor of songo, inventing it in real time. The kit-plus-timbale hybrid is the sound."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "Absolute Quintet",
+        "note": "Songo vocabulary absorbed into modern composition."
+      }
+    ]
+  },
+  "latin-mozambique": {
+    "tagline": "Steve Gadd's Latin contribution — the funkiest Cuban hybrid",
+    "bodyHtml": "\n      <p>Mozambique started life in 1960s Cuba as a parade rhythm developed by Pedro Izquierdo (\"Pello el Afrokán\") — a hybrid of mambo, conga, and rumba designed for street processions. It would have stayed there if Steve Gadd hadn't picked it up in the 1970s and turned it into one of the most-recorded grooves in modern American music. Gadd's \"Late in the Evening\" (Paul Simon, 1980) is the canonical mozambique — it's also the reason most non-Cuban drummers know the rhythm at all.</p>\n      <p>Mozambique sits at the intersection of mambo and funk. It's syncopated like mambo, but the kick lands on the strong beats (1 and 2) like a rock or funk groove. The result is a deeply <em>danceable</em> Latin pattern that fits inside almost any pop tune.</p>\n\n      <h2 class=\"section-label\">The Signature Accent: &-of-2</h2>\n      <p>If there is one note that defines mozambique, it's the <strong>accent on the &-of-2</strong>. The pattern revolves around it. Gadd-style mozambique amplifies that accent until it's almost a backbeat — the loudest moment in the bar, hitting where most rock drummers would expect beat 2 itself. Get the &-of-2 accent right and you have mozambique; miss it and you have a generic Latin pattern.</p>\n    ",
+    "graduationCriteria": [
+      "Basic mozambique with bell, snare, and 1+2 kick holds at ♩=100",
+      "Gadd-style funky mozambique (kick on 1 and 2, accent on &-of-2) at ♩=100",
+      "The accent on the &-of-2 is consistently louder than the surrounding hits — a real accent, not just a hit"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Mozambique (Bell + Snare + Kick on 1 and 2)",
+        "tip": "Bell plays steady 8ths (or quarters if you prefer — both are common). Snare hits land on the <em>&-of-2</em> (the accent) and on beat 4 (a softer hit). Kick on 1 and 2 — adjacent quarters, like a marching bass-drum. <strong>The &-of-2 snare is the loudest note in the bar.</strong> Make sure you can hear it cut through the bell."
+      },
+      {
+        "title": "2 — The Gadd Variation (Funkier Kick on 1 and 2)",
+        "tip": "Gadd-style funky mozambique. Kick on 1, 2, and the <em>&-of-3</em> — that &-of-3 is the funk-pocket addition that makes the pattern crackle. Snare adds a hit on the &-of-3 as well, landing right on top of that new kick, almost like a paradiddle accent. The &-of-2 snare accent is still the loudest. <em>Late in the Evening</em>, by Paul Simon — if you have it on hand, play it once and try to match Gadd's pattern."
+      },
+      {
+        "title": "3 — Mozambique with Bell Variation",
+        "tip": "Same kick and snare as Exercise 2, but the bell is now syncopated — try moving from steady 8ths into a mambo-bell-flavoured figure (1, &-of-2, 3, 4, &-of-4). The kit voicing is yours: bell of ride, mounted cowbell, or even hi-hat. The mozambique character comes from the snare-and-kick interplay; the bell can be embellished without changing the genre."
+      },
+      {
+        "title": "4 — Mozambique at Tempo (♩ = 116)",
+        "tip": "Same Gadd pattern, pushed to ♩=116 — closer to where mozambique typically lives. At this speed the &-of-2 accent has to be even crisper or it disappears under the bell. If the kick on the &-of-3 starts dragging the kick on beat 1, slow back down. Tempo is a graduation criterion, not a starting point."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Pello el Afrokán",
+        "work": "Mozambique roots recordings",
+        "note": "The Havana carnival original — massed drums and bell."
+      },
+      {
+        "artist": "Eddie Palmieri",
+        "work": "Mozambique",
+        "note": "The New York mozambique — tighter, brass-driven."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Paul Simon — Late in the Evening",
+        "note": "The most famous kit mozambique ever recorded: sticks-on-hat version of the bell pattern."
+      }
+    ]
+  },
+  "latin-merengue": {
+    "tagline": "Dominican Republic's fast boom-chick with tambora on the toms",
+    "bodyHtml": "\n      <p>Merengue is the Dominican Republic's national rhythm — and one of the fastest dance grooves in the Latin canon. A typical merengue runs at ♩=160 or higher; at ♩=180+ it becomes <em>merengue acelerado</em>, almost a sprint. What keeps it manageable on the kit is that the underlying foot pattern is dead simple: <strong>boom on 1, chick on 2</strong>, repeating every two beats. Half the bar at most. Everything else is layered on top of that two-beat ostinato.</p>\n\n      <h2 class=\"section-label\">The Three Voices</h2>\n      <p>Traditional merengue has three percussion voices, all of which translate to the kit:</p>\n      <ul>\n        <li><strong>Tambora</strong> — a two-headed barrel drum played with a stick on one side and a hand on the other. Its characteristic \"<em>pa-ta · pa</em>\" figure becomes a tom pattern on the kit.</li>\n        <li><strong>Güira</strong> — a metal scraper, like a cheese-grater, played with a stiff brush. Its rapid 16th-note scratching becomes 16ths on the closed hi-hat.</li>\n        <li><strong>Bass / Marimbula</strong> — alternates with the tambora. On a one-person kit, you give the kick to the boom-chick foundation.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Tempo Strategy</h2>\n      <p>Don't try to learn merengue at performance tempo. Build the boom-chick foundation slow (♩=120), add the güira slow, add the tambora figure slow, then push the metronome up 4–6 BPM at a time over many practice sessions. ♩=160 is a real merengue tempo; at the start it feels frantic, but with the boom-chick locked and the güira hand relaxed it becomes a steady, propulsive groove.</p>\n    ",
+    "graduationCriteria": [
+      "Boom-chick feet (kick on 1 + hi-hat foot on 2) hold at ♩=160 for one minute",
+      "Güira 16ths on the closed hi-hat at ♩=160 do not collapse into a wash",
+      "Tambora figure on the toms locks to the boom-chick without disrupting the güira hand"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Feet Alone: Boom-Chick at ♩ = 120",
+        "tip": "Just feet, just boom-chick. Kick (\"<em>boom</em>\") on every odd beat, hi-hat foot (\"<em>chick</em>\") on every even beat. ♩=120 is the slow-build tempo — comfortable, almost too slow for real merengue. Lock it for two minutes before adding hands. The whole groove is built on this; if it wobbles, everything above it wobbles."
+      },
+      {
+        "title": "2 — Add Tambora Figure on the Toms",
+        "tip": "Tambora figure on the toms: high-tom (e/5) on beat 1, floor-tom (a/4) on the &-of-1, snare/cross-stick (c/5) on beat 2, then the same shape in the second half of the bar. This stand-in voicing translates the tambora's <em>pa-ta-pa</em> rhythm to the kit. Boom-chick stays underneath. Volume should be mezzo-forte — merengue tom hits are punchy, not flammy."
+      },
+      {
+        "title": "3 — Add Güira 16ths on the Closed Hat",
+        "tip": "Right hand: <em>16ths on closed hi-hat</em>, very even, lightly accented on the downbeats. This is the güira layer — the steady scrape that drives the dance. <strong>Note</strong>: in this exercise we drop the tom figure and isolate the güira+feet, because two new voices at once is too much. Lock this for two minutes before re-adding the toms."
+      },
+      {
+        "title": "4 — Full Merengue (Push to ♩ = 160)",
+        "tip": "Full merengue at performance tempo. Right hand: 16ths on closed hi-hat. Left hand: cross-stick on beat 2, floor-tom (a/4) on beat 4 — a compressed version of the tambora figure inside one hand. Boom-chick feet underneath. ♩=160 is real merengue; if you can't hold it for one minute yet, drop to ♩=132 and rebuild. <strong>The güira hand is the hardest part</strong> — it has to keep flowing while the tambora hand stabs in."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Guy Frómeta",
+        "work": "Juan Luis Guerra y 440 — Ojalá Que Llueva Café",
+        "note": "A full percussion battery shares this record with the kit: two tamboras, a güira, and three congueros. Find the güira scrape and the tambora figure first, since your hi-hat and toms are standing in for them, then listen for what the kit adds underneath."
+      },
+      {
+        "artist": "Juan de la Cruz \"Chocolate\"",
+        "work": "Wilfrido Vargas — El Funcionario",
+        "note": "The hit here is \"El Africano\", the opening cut, and the tambora rather than a kit is the drum credit on this record. Listen for the pa-ta-pa figure your tom part stands in for, and how it keeps driving under the horns."
+      }
+    ]
+  },
+  "latin-cumbia": {
+    "tagline": "Colombia's slower cousin to merengue — accent on the &-of-2",
+    "bodyHtml": "\n      <p>Cumbia originated in Colombia's Caribbean coast as a folkloric Afro-Indigenous dance and gradually spread across Latin America. There are two big cumbia traditions — Colombian (the original, slower, more African in feel) and Mexican (faster, more pop-flavored) — and dozens of regional sub-styles. We're focused on the basic kit translation here: the rhythmic skeleton that fits any of them.</p>\n      <p>Compared to merengue (boom-chick, fast, kicks alternating with hat foot), cumbia is <strong>slower</strong> — typically ♩=88–100 — with the kick on every quarter (almost like a four-on-the-floor disco kick) and the snare/cross-stick on beats 3 and 4. The signature is a syncopated accent on the <strong>&-of-2</strong> — usually played on the snare or a tom — that sets cumbia apart from rock or disco.</p>\n\n      <h2 class=\"section-label\">The Cumbia Texture</h2>\n      <p>The traditional cumbia ensemble has three drum voices: <em>tambor alegre</em> (a big lead drum with hands and accents), <em>tambor llamador</em> (a steady mid-pitched drum on the off-beats), and <em>tambora</em> (a small cylindrical drum, similar to but smaller than the merengue tambora). On the kit, we collapse them into snare/toms and one steady hi-hat 8th-note pulse, with the kick on every beat for groove anchor.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter-note kick + cross-stick on 3 and 4 holds at ♩=92",
+      "The accent on the &-of-2 lands cleanly without disrupting the steady kick",
+      "Groove can run for two minutes at ♩=92 without the &-of-2 accent dropping out under fatigue"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Note Kick + Hi-Hat 8ths",
+        "tip": "Foundation: kick on every quarter (the <em>tambor llamador</em> stand-in), hi-hat 8ths on top. This is essentially a disco foundation — and that's not an accident; cumbia's quarter-note kick is what made it accessible to dance-floor adoption everywhere. Lock it for one minute before adding the cumbia accents."
+      },
+      {
+        "title": "2 — Add Cross-Stick on Beats 3 and 4",
+        "tip": "Cross-stick on beats <em>3</em> and <em>4</em> (not on 2 and 4 like a rock backbeat). This is one of the things that makes cumbia sound non-Western: the snare anchor lives in the second half of the bar, leaving the first half clear for the lead drum's accents. Keep the cross-stick soft — it's a complementary voice, not a drive."
+      },
+      {
+        "title": "3 — Add the Signature Accent on the &-of-2",
+        "tip": "<strong>The accent on the &-of-2</strong> — a louder cross-stick (or a soft snare pop) on the up-beat between 2 and 3. This is the cumbia hook. Once you can place it consistently and louder than the surrounding hits, the pattern stops sounding like a slow disco beat and starts sounding like cumbia."
+      },
+      {
+        "title": "4 — Cumbia with Tom Color",
+        "tip": "Replace the &-of-2 accent with a <strong>floor-tom hit</strong> (a/4) — voicing the tambor alegre. Add a second tom hit on the &-of-4 as a pickup. This is the colored-up version: kick steady, cross-stick on 3 and 4, tom accents on the syncopations. The hi-hat hand has to stay relaxed while the left hand jumps from the snare-line to the floor-tom. If the tom hit drags your kick, slow to ♩=80 and re-stack."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "La Sonora Dinamita",
+        "work": "Classic cumbia sides",
+        "note": "The Colombian cumbia standard — the scraper and the downbeat drum carry the feel."
+      },
+      {
+        "artist": "Totó la Momposina",
+        "work": "La Candela Viva",
+        "note": "Folkloric roots of cumbia — tambora and llamador before any kit existed."
+      },
+      {
+        "artist": "Los Ángeles Azules",
+        "work": "Cómo Te Voy a Olvidar",
+        "note": "Cumbia sonidera — the modern, slower, synth-laden branch."
+      }
+    ]
+  },
+  "latin-cascara": {
+    "tagline": "The timbale player's shell pattern, translated to the kit",
+    "bodyHtml": "\n      <p>Cáscara is the timbale player's secret weapon. Spanish for \"shell,\" cáscara refers both to the <em>place</em> the rhythm is played (the metal shell, or <em>paila</em>, of the timbale, struck with the side of the stick) and to the <em>pattern</em> itself — a syncopated 8th-note figure that complements clave and contrasts with the bell. In a traditional Cuban band, the timbale player switches between bell, cáscara, and abanico (a snare-roll cue) over the course of a tune; cáscara is the verse pattern, bell is the chorus pattern.</p>\n      <p>On the drum kit, cáscara doesn't have a literal home — there's no timbale shell. So we voice it on whatever resonant metal-or-wood surface we have: the <strong>floor-tom rim</strong> (most common), the <strong>bell of the ride</strong> (when louder), or the <strong>shoulder of the closed hi-hat</strong> (the quietest option). The pattern stays the same; only the color changes.</p>\n\n      <h2 class=\"section-label\">The Pattern (Two Bars)</h2>\n      <p>Cáscara in 3-2 clave direction, played as 8th notes across two bars. Hits on: <em>1, &-of-1, &-of-2, &-of-3, 4 / 1, 2, &-of-2, &-of-3, 4, &-of-4</em>. Some authors notate it slightly differently — there are several common phrasings — but the rhythmic shape is consistent. The pattern <strong>has more notes than clave</strong> (cáscara is a flowing 8th-note pattern; clave is sparse), so cáscara can <em>contain</em> clave inside it.</p>\n\n      <h2 class=\"section-label\">Why Cáscara Matters</h2>\n      <p>For the kit drummer, cáscara is the bridge from \"playing time on a hi-hat\" to \"playing time on a Latin instrument.\" Once cáscara is in the right hand, you can put clave under your left foot, the bombo on the kick, and a snare or tom comp on the left hand — that's a complete one-person Latin ensemble. It's also the verse-version of the mambo bell groove, so you can switch between bell (chorus) and cáscara (verse) in a single tune.</p>\n    ",
+    "graduationCriteria": [
+      "Cáscara pattern on floor-tom rim plays continuously for two minutes at ♩=104",
+      "Cáscara on the bell of the ride at ♩=104 with a steady hi-hat foot on 2 and 4",
+      "Cáscara + son 3-2 clave with the left foot (clave-foot ostinato) holds at ♩=92"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cáscara Alone on Floor-Tom Rim",
+        "tip": "<em>a/4</em> stands in for the floor tom, but play the <strong>rim</strong>, not the head — shoulder of the stick for a woody click. Bar 1 feels like a short skipping figure, bar 2 denser; they are one two-bar phrase, so don't let the seam show."
+      },
+      {
+        "title": "2 — Cáscara on the Bell of the Ride",
+        "tip": "Same pattern, voiced on the bell of the ride (the high <em>x</em> notehead in the e/5 position). The bell rings out — the same rhythm sounds twice as loud as the floor-tom rim version. This is the <em>chorus</em> voicing of cáscara, used when the band lifts. Do not change the pattern, only the color."
+      },
+      {
+        "title": "3 — Cáscara + Clave Foot (Son 3-2)",
+        "tip": "Cáscara in the right hand, son 3-2 under the left foot. The interlock helps you: every clave hit falls on or just past a cáscara note, so the foot never fires into silence. <strong>Fail signal:</strong> the clave foot drifting into square quarters — stop, isolate the foot, re-stack."
+      },
+      {
+        "title": "4 — Cáscara as Part of a Mambo Groove",
+        "tip": "Right hand: cáscara on the rim. Left hand: cross-stick voicing the 2-side (beats 2 and 3 of bar 2). Kick: bombo on each &-of-2 plus beat 4, hat-foot with it. <strong>This is a salsa tune's verse</strong> — switch the hand to the bell and you have the chorus."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Nicky Marrero",
+        "work": "Fania All-Stars — Live at Yankee Stadium",
+        "note": "Cáscara and timbale fills in a working salsa rhythm section."
+      },
+      {
+        "artist": "Willie Colón & Héctor Lavoe",
+        "work": "Cosa Nuestra",
+        "note": "Salsa dura — hear cáscara in verses, bell in choruses, and the switch between them."
+      },
+      {
+        "artist": "Tito Puente",
+        "work": "Any live timbale feature",
+        "note": "The cáscara stick sound on the shell — the exact sound your hi-hat/rim version imitates."
+      }
+    ]
+  },
+  "latin-rumba": {
+    "tagline": "Cuba's folkloric heartbeat — clave, cáscara, and the cross-stick",
+    "bodyHtml": "\n      <p>Rumba clave is the displaced sister of son clave. Both are five-note patterns spanning two bars, both have a \"three side\" and a \"two side,\" but the rumba version pushes the fourth note one 16th later. That tiny shift changes everything: where son clave feels danced and conversational, rumba clave feels stretched, urgent, leaning into the second bar. Folkloric rumba (guaguancó, yambú, columbia) is built on this clave, and so is everything we'll do here.</p>\n      <p>On a kit you don't usually <em>play</em> rumba clave on a clave block — you play it as a <strong>cross-stick</strong> on the snare rim. The cáscara, a steady stick pattern that lives on the side of the timbale in a percussion section, moves to the <strong>floor-tom rim</strong> or the side of the hi-hat. The bass drum picks up a syncopated kick figure that locks to the bombo of the clave. Layer those three voices and you have the kit translation of a rumba ensemble: clave, palitos, conga, all in one body.</p>\n    ",
+    "graduationCriteria": [
+      "Rumba clave on cross-stick alone, locked to ♩=92, with the displaced fourth note clearly later than in son clave",
+      "Cáscara on the floor-tom rim plus rumba clave on cross-stick, both hands independent for two minutes without drift",
+      "Full rumba pattern (cáscara + clave + kick) holds at ♩=96 with a clear two-bar 3-2 phrase shape"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rumba Clave on Cross-Stick",
+        "tip": "<strong>Cross-stick</strong> — lay the stick flat across the snare rim, tip resting on the head, and click. The third note of the three side (the &-of-4 in this 8th-grid notation) is the <em>displaced bombo</em> that distinguishes rumba from son. In strict 16th-grid notation it sits a 16th later than the son version. Feel it as a delayed push into bar 2."
+      },
+      {
+        "title": "2 — Add Cáscara on the Floor-Tom Rim",
+        "tip": "Two simultaneous voices in one hand-pair: the cáscara (the steady syncopated bell-like pattern) on the <strong>floor-tom rim</strong> — strike the metal rim with the shoulder of the stick — and the rumba clave layered as <strong>cross-stick</strong> on the snare. Where they coincide (notes 1, 4, 8, 11, 13 of the bar pair) you'll hit both surfaces in one motion. Cáscara is louder and steadier; clave is the accented marker."
+      },
+      {
+        "title": "3 — Add the Kick (Bombo Lock)",
+        "tip": "Kick on <em>1</em> of bar 1 and the <em>&amp; of 2</em> — that's the <strong>bombo</strong>, the lowest, most anchoring note of the clave. The kick on <em>3</em> of bar 2 lands on the second note of the clave's two-side. The foot doesn't play the whole clave; it picks the anchor notes and lets the cross-stick carry the rest. This is how a rumba ensemble distributes labour — no one voice plays everything."
+      },
+      {
+        "title": "4 — Full Rumba Pattern",
+        "tip": "All three voices together: cáscara on the floor-tom rim, rumba clave as cross-stick, kick anchoring the bombo and ponche notes. This is one drummer playing the work of three percussionists. Volume hierarchy: cáscara loud and even, clave a clear accent on top, kick low and felt more than heard. Lock the foot to the cross-stick clave notes — they should feel like they belong to the same instrument."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "Rumba Caliente",
+        "note": "The definitive rumba group. Three drums and voices — no kit anywhere, which is the point."
+      },
+      {
+        "artist": "Los Papines",
+        "work": "Homenaje a mis colegas",
+        "note": "Rumba virtuosity — quinto conversation over the fixed salidor/tres-golpes."
+      },
+      {
+        "artist": "Yoruba Andabo",
+        "work": "El Callejón de los Rumberos",
+        "note": "Modern Havana rumba — guarapachangueo evolution of the style."
+      }
+    ]
+  },
+  "latin-6-8-afro-cuban": {
+    "tagline": "Two pulses inside one bar — the African 6/8 framework",
+    "bodyHtml": "\n      <p>The 6/8 Afro-Cuban framework is older than son or rumba — it traces back to West African bell rhythms carried to Cuba through Yoruba and Bantu lineages. The ear-mark is the <strong>standard pattern</strong>, a seven-note bell figure that fits inside two beats of dotted-quarter pulse but constantly implies a 4-feel underneath. Listen to it long enough and you can hear it as 6/8 (two pulses of 3) <em>or</em> as 4/4 (four pulses of dotted-eighth). The greatest 6/8 drummers feel both at once.</p>\n      <p>Notation here uses <code>6/8</code> with the dotted quarter as the felt pulse — two main beats per bar, each subdivided into three 8th notes. The bell pattern beams as two groups of three: a wave shape that lifts and lands twice per bar. The clave-foot is the dotted quarter: a bedrock pulse on every main beat. Cross-stick adds the 6/8 clave (a five-note pattern across two bars). Kick punctuates the strong points. Build it one layer at a time — the moment you can hold the bell <em>and</em> tap the dotted-quarter pulse without one swallowing the other, you're inside the music.</p>\n    ",
+    "graduationCriteria": [
+      "Standard 6/8 bell pattern alone at dotted-quarter = 92, beamed in two groups of three",
+      "Bell + dotted-quarter foot pulse for two minutes without the foot collapsing into the 8th-note pulse",
+      "Full 6/8 groove (bell + cross-stick clave + kick) holds at dotted-quarter = 100 with both pulses simultaneously feel-able"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Standard 6/8 Bell Pattern",
+        "tip": "<strong>Bell or cowbell</strong> on the <em>e/5</em> line — strike with the shoulder of the stick. Seven strokes spread across two bars of 6/8. Beam in two groups of three to keep the dotted-quarter pulse visible. This pattern has lived under hundreds of folkloric and modern rhythms; the way it nests two pulses inside one bar is the whole point."
+      },
+      {
+        "title": "2 — Add the Dotted-Quarter Foot Pulse",
+        "tip": "Hi-hat foot plays the <strong>dotted quarter</strong> — one stomp per main beat, four stomps across the two-bar phrase. This is the felt pulse the bell hangs off. Hardest part: not letting the foot accelerate into the 8th-note pulse when the bell pattern syncopates. Anchor the foot, let the hand dance over it."
+      },
+      {
+        "title": "3 — Bell + Cross-Stick 6/8 Clave",
+        "tip": "The 6/8 clave (sometimes called the bembé clave) is the bell pattern's distillation — five strokes across two bars instead of seven. Played on <strong>cross-stick</strong>, it sits inside the bell rhythm; every clave note coincides with a bell stroke (chord notation). Listen for it as a five-note skeleton inside the seven-note frame."
+      },
+      {
+        "title": "4 — Full 6/8 Groove with Kick",
+        "tip": "Kick on the first main beat of bar 1 and the second main beat of bar 2 — a sparse two-stroke kick that frames the two-bar phrase. Don't try to make the kick busy; in 6/8 Afro-Cuban styles the bell does the heavy lifting. Hi-hat foot can be added back on every dotted quarter once the kick figure is locked in."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Mongo Santamaría",
+        "work": "Afro Blue",
+        "note": "The most famous 6/8 Afro-Cuban composition — the bell pattern is explicit."
+      },
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "Columbia rumba tracks",
+        "note": "Rural 6/8 rumba — the folkloric home of the bembé bell."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "About the Monks",
+        "note": "6/8 Afro-Cuban vocabulary on a modern jazz kit."
+      }
+    ]
+  },
+  "latin-bembe": {
+    "tagline": "Yoruba ceremonial 6/8 — the bell as the center of gravity",
+    "bodyHtml": "\n      <p>Bembé is a 6/8 folkloric rhythm with deep Yoruba ceremonial roots — used in Cuba for celebrations and rituals tied to specific orishas (deities). It's older than the kit drumming we usually study; on the kit we're representing an ensemble of bell, shekere, and conga voices through three or four limbs. The bell pattern at the heart of bembé is a close cousin of the standard 6/8 pattern from the previous lesson, with subtle variations in stroke placement and accent.</p>\n      <p>The shekere — a beaded gourd shaken in a swooping figure — provides the secondary rhythmic layer: a steady, breath-like accompaniment that underpins the bell. On the kit we translate it to <strong>closed hi-hat</strong> playing every 8th note, with subtle accents marking the dotted-quarter pulse. Add the clave foot and a sparse kick and you have a full bembé feel: the bell as the center, the shekere as the pulse-keeper, the foot as the ground.</p>\n    ",
+    "graduationCriteria": [
+      "Bembé bell pattern alone at dotted-quarter = 92 with the lift on the second main beat clearly audible",
+      "Bell + shekere figure on closed hi-hat for two minutes without losing the bell",
+      "Full bembé (bell + shekere + clave-foot + kick) holds at dotted-quarter = 100 with steady volume hierarchy"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Bembé Bell Pattern Alone",
+        "tip": "Bembé bell — denser than the standard 6/8 pattern, with strokes filling more of the bar. Accent the dotted-quarter beats (positions 1 and 4 of each bar) to keep the main pulse audible. Strike the cowbell with the shoulder of the stick for the loud notes, the tip for the quieter ones — even on one cowbell you can shape a phrase."
+      },
+      {
+        "title": "2 — Add Shekere on Closed Hi-Hat",
+        "tip": "Closed hi-hat plays every 8th — that's the shekere voice, a continuous shaker-like wash. Bell pattern sits on top as accents. In a real bembé the shekere swoops up and down with breath shapes; on the hi-hat you approximate that by accenting the main beats and softening the offbeats. Two hands, two voices, one bell-like instrument."
+      },
+      {
+        "title": "3 — Add Clave-Foot on Dotted Quarter",
+        "tip": "Hi-hat foot on every dotted quarter — four stomps per two-bar phrase, anchoring the main pulse. The two hand voices and one foot voice now form a three-layer texture. The challenge: keep the foot completely steady while the bell's busy 8ths above it are syncopating against it. The foot is the metronome; the hands are the music."
+      },
+      {
+        "title": "4 — Full Bembé with Kick",
+        "tip": "Full bembé: bell pattern + shekere on closed hi-hat + alternating kick (beat 1) and hi-hat foot (beat 2). All four limbs are now active. Volume from loudest to quietest: bell, shekere, kick, hi-hat foot. If anything collapses, it's usually the bell that loses its shape under the pressure of coordinating the feet — slow down, get the bell rock-solid, then add the rest."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Milton Cardona",
+        "work": "Bembé",
+        "note": "An entire record of the tradition this lesson's bell pattern comes from."
+      },
+      {
+        "artist": "Mongo Santamaría",
+        "work": "Afro Blue",
+        "note": "The bembé bell carrying a jazz standard — count the 6/8 bell against the melody."
+      }
+    ]
+  },
+  "latin-guaguanco": {
+    "tagline": "Translating three congas to one kit",
+    "bodyHtml": "\n      <p>Guaguancó is the most widely played folkloric rumba — a romantic, competitive dance with three conga voices: the <strong>salidor</strong> (low, the foundation), <strong>tres-golpes</strong> (mid, fills out the middle), and <strong>quinto</strong> (high, the soloist). On the kit we translate those voices to floor tom, mid tom or snare, and high tom. The <strong>palito</strong> stick pattern — usually played on a piece of bamboo strapped to the side of the conga — moves to the side of the hi-hat or the floor-tom rim. Cross-stick carries the rumba clave. The kick anchors the bombo.</p>\n      <p>The \"Bo Diddley beat\" — that famous American R&amp;B groove from the 1950s — is a guaguancó in disguise. Strip its surface and the rumba clave is right there underneath. We end the lesson with that variant to make the connection explicit: the same African rhythm migrated into pop music and never quite left.</p>\n    ",
+    "graduationCriteria": [
+      "Palito stick pattern + rumba clave cross-stick locked at ♩=92 for two minutes",
+      "Basic guaguancó kit pattern (palito + clave + tom voicings + kick) at ♩=96 with three distinct voices audible",
+      "Bo Diddley variant feels recognisably American while preserving the rumba clave underneath"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Palito Pattern + Rumba Clave",
+        "tip": "Palito = continuous 8ths on the <strong>floor-tom rim</strong> (or the side of the hi-hat shell). Rumba clave layered as <strong>cross-stick</strong>. Where they coincide, you'll hit both surfaces in one motion. Two voices, one hand pair — the rim sound is loud and constant, the cross-stick is the accented signpost on top of it."
+      },
+      {
+        "title": "2 — Basic Guaguancó Kit Pattern",
+        "tip": "Three conga voices distributed across the kit: <strong>salidor</strong> (low) → kick; <strong>tres-golpes</strong> (mid) → mid tom; <strong>quinto</strong> not yet (next exercise). The cross-stick carries the rumba clave. Three pitches, three rhythmic layers, one drummer. Listen to a guaguancó recording and try to identify each voice — once your ear separates them, the kit translation becomes obvious."
+      },
+      {
+        "title": "3 — Add Quinto-Style Fills",
+        "tip": "Quinto on the <strong>hi tom</strong> — the soloing voice, traditionally improvised against the dancers' moves. We've written some quinto-style fills in; in real playing these would change every bar. Treat the quinto figure as something to <em>vary</em>: keep the palito, clave, tres-golpes, and kick locked, and let the high tom move."
+      },
+      {
+        "title": "4 — The Bo Diddley Variant",
+        "tip": "The Bo Diddley beat — Elias McDaniel's 1955 single carried the rumba clave straight into American pop. Hat 8ths instead of palito, kicks fattened up, but the cross-stick still spells out rumba clave 3-2. Once you hear it, you can't unhear it: half the surf records of the 1960s and a chunk of Buddy Holly's catalogue ride this same African pattern."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "Guaguancó Matancero",
+        "note": "The Matanzas school — salidor, tres golpes, and quinto exactly as the lesson maps them to the kit."
+      },
+      {
+        "artist": "Los Papines",
+        "work": "Guaguancó sides",
+        "note": "The Havana school — flashier quinto, same skeleton."
+      }
+    ]
+  },
+  "latin-comparsa": {
+    "tagline": "Cuban Carnaval — march drums, festival heat",
+    "bodyHtml": "\n      <p>Comparsa (also called <em>conga de comparsa</em> or simply <em>conga</em>) is the rhythm of Cuban Carnaval — the music played by parading street ensembles during the pre-Lent festivities. Tempo is fast, feel is march-like, and the texture is dense and festive: multiple bells, large barrel drums (bombo), high congas, snare-like timbales. On the kit we condense that ensemble into <strong>ride bell</strong>, <strong>cross-stick</strong> for the clave, <strong>floor tom</strong> standing in for the conga line, and an <strong>active kick</strong> driving the march pulse.</p>\n      <p>The defining feature is the kick: unlike son or rumba where the bass drum is sparse, in comparsa the kick plays on every beat or near it — a propulsive, marching foundation. The floor tom takes the role of the lead conga, playing a syncopated figure that pulls the parade forward. The bell pattern on top is bright and continuous. Played correctly, it should feel like a parade is walking past you.</p>\n    ",
+    "graduationCriteria": [
+      "Bell pattern + son clave cross-stick locked at ♩=108 with the march pulse audible in both feet",
+      "Floor-tom conga line figure plus bell at ♩=112 with no flam between the toms",
+      "Full comparsa pattern (bell + cross-stick clave + floor tom + active kick) holds at ♩=116 for two minutes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bell Pattern + Son Clave",
+        "tip": "Bell on the <strong>ride bell</strong> (top of the ride cymbal — strike with the shoulder of the stick for a bright, cutting tone) plus son clave on cross-stick. The bell pattern is busier than in rumba or 6/8 — that density is what gives comparsa its festival energy. Don't let the bell drag; this is fast walking music."
+      },
+      {
+        "title": "2 — Floor-Tom Conga Line",
+        "tip": "Floor tom plays the conga-line role — a heavy, pitched march pulse. Where the floor tom and bell coincide (most of the bar), you'll voice both with a single right-hand stroke that catches both surfaces — left hand can shadow on the bell or split the load. This is two-handed bell-and-tom playing; experiment with sticking until the loudest notes feel natural."
+      },
+      {
+        "title": "3 — Full Comparsa Pattern",
+        "tip": "Three hand voices over a marching kick on every beat — the kick is the parade's footsteps, and it's what separates comparsa from rumba. Volume hierarchy: kick loud, bell bright, floor tom full, cross-stick a clear accent on top. Holding it for two minutes at tempo is the real test."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "La Conga de Los Hoyos",
+        "work": "Santiago de Cuba carnival recordings",
+        "note": "The conga santiaguera — corneta china on top, massed bombos underneath."
+      },
+      {
+        "artist": "Conjunto Folklórico Nacional de Cuba",
+        "work": "Comparsa / conga suites",
+        "note": "Staged but faithful — easier to hear each drum's role than in a street recording."
+      }
+    ]
+  },
+  "latin-folkloric": {
+    "tagline": "Playing a whole percussion ensemble on one drum kit",
+    "bodyHtml": "\n      <p>In a real Cuban folkloric ensemble there are five or more players: clave, palitos (sticks on a wooden block), tres congas (quinto, segundo/tres-golpes, tumbadora), and one or more singers. As a kit drummer you are sometimes asked to <em>be</em> that ensemble — alone, on one drum set, in a song that needs the rumba color without the rumba personnel.</p>\n      <p>The job is orchestration. Choose which folkloric voice each part of the kit will represent, respect the original timbres (bright/sharp = high voice, low/round = low voice), and keep the clave audible through everything you play. The cross-stick is your palitos. The bell of the ride is your cata. The high tom is your quinto, the floor tom your tumbadora. The hi-hat foot is your clave when you have nothing else to give it.</p>\n\n      <h2 class=\"section-label\">Voice Mapping (this lesson)</h2>\n      <ul>\n        <li><strong>Cross-stick (c/5)</strong> — palitos / clave-side color</li>\n        <li><strong>Bell of ride (e/5/x2)</strong> — cata or guataca (high iron)</li>\n        <li><strong>Hi tom (e/5)</strong> — quinto (high conga, soloing voice)</li>\n        <li><strong>Floor tom (a/4)</strong> — tumbadora (low conga, anchor)</li>\n        <li><strong>Hi-hat foot (d/4/x2)</strong> — second clave reference / ensemble pulse</li>\n        <li><strong>Kick (f/4)</strong> — bombo accent / segundo low slap</li>\n      </ul>\n\n      <h2 class=\"section-label\">Two Pulses, One Body</h2>\n      <p>Folkloric rumba lives between 4/4 and 6/8 — a guaguanco verse can drop into a bembe-colored 6/8 montuno on the next bar and the bell pattern survives the change. Exercise 1 makes that transition explicit. Exercises 2 and 3 simulate the full ensemble — first in 4/4, then in 6/8. Exercise 4 is the working drummer's reality: a single bar of \"one-kit guaguanco\" you can drop into a song.</p>\n\n      <h2 class=\"section-label\">A Note On Respect</h2>\n      <p>Folkloric rumba is secular party music — there is no sacred barrier — but it carries hundreds of years of Afro-Cuban culture. Listen to Los Munequitos de Matanzas, Yoruba Andabo, and Clave y Guaguanco. Imitate before you arrange.</p>\n    ",
+    "graduationCriteria": [
+      "Guaguanco-to-bembe transition (4/4 to 6/8) lands cleanly with the bell pulse preserved at ♩=92",
+      "Folkloric rumba simulation (palitos, conga, quinto voices on one kit) holds at ♩=104 for 16 bars",
+      "\"One-kit ensemble\" arrangement keeps three distinct timbres audible (bell, cross-stick, low drum) at ♩=96",
+      "Each voice is identifiable by sound alone — a listener can tell which percussion role the kit is currently covering"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Guaguanco: The 4/4 Bar Before the Flip",
+        "tip": "Bar of 4/4 guaguanco simulation — bell on 8ths, cross-stick voicing the rumba clave hits, kick on the bombo (1, &-of-2) and on 4. Once it loops, mentally <em>regroup the same 8ths into two groups of three</em> and the pattern starts to lean toward 6/8. In a band setting you would now switch to the next exercise on a cue. Practice the mental flip — same hand, different feel."
+      },
+      {
+        "title": "2 — Folkloric Rumba Simulation (Palitos + Quinto + Tumbadora)",
+        "tip": "Palitos (cross-stick) run the 16th line; quinto and tumbadora are fixed accents on the toms; hat-foot taps quarters. What matters is separation: palitos crisp and loud, the two toms clearly different in pitch, the kick a soft bombo accent — not a rock kick. Start at ♩=80."
+      },
+      {
+        "title": "3 — Full Ensemble Simulation in 6/8 (Bembe Family)",
+        "tip": "Bell keeps steady 8ths; floor tom answers low on the &-of-1 and the end of the bar, hi tom takes the middle accent; the kick is the dancers' dotted-quarter ground. Count <em>1–2–3 / 4–5–6</em> as two big triple-pulses, never six little ones."
+      },
+      {
+        "title": "4 — One-Kit Arrangement (Drop-in Folkloric Bar)",
+        "tip": "The bar a working drummer plays when the chart says <em>guaguanco feel</em> and there's no percussionist: bell keeps time, cross-stick voices the rumba-clave hits, one floor-tom note on the &-of-3 answers as tumbadora, kick pushes with bombo + anticipation. Pass check from across the room: three distinct timbres — bell, click, low drum."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Horacio \"El Negro\" Hernández",
+        "work": "Michel Camilo — Live at the Blue Note",
+        "note": "Folkloric vocabulary fully integrated: clave in the left foot under jazz piano."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "About the Monks",
+        "note": "Batá and rumba language recomposed for the kit."
+      }
+    ]
+  },
+  "latin-modern-hybrid": {
+    "tagline": "Where Antonio Sanchez and El Negro live — clave inside fusion",
+    "bodyHtml": "\n      <p>The contemporary Latin drummers — Horacio \"El Negro\" Hernandez, Antonio Sanchez, Dafnis Prieto, Marcus Gilmore — do not \"play Latin\" or \"play fusion\". They play music in which clave, funk vocabulary, and odd-meter phrasing coexist on the same kit at the same instant. The clave is no longer always voiced; sometimes it lives in the left foot, sometimes only in the listener's ear. The hands meanwhile are free to use the language of jazz, funk, drum-and-bass — anything — provided it never argues with the clave.</p>\n      <p>This lesson is four exercises in that direction. Each one starts from a traditional Latin shape and adds a modern element. By the end you should hear that <em>clave is a constraint, not a style</em> — once it lives in your foot or your ear, you can play almost anything else above it.</p>\n\n      <h2 class=\"section-label\">A Word On Practice Tempo</h2>\n      <p>These are coordination challenges. Start each one at <em>half</em> the marked tempo and only push up when every limb arrives clean. Sloppy at speed is worse than slow.</p>\n    ",
+    "graduationCriteria": [
+      "Songo + funk hybrid (16th hat, ghost-note snare line, &-of-2 bombo) holds at ♩=104 for 16 bars",
+      "Mozambique with linear ghost notes — every limb sounds at a unique 16th, no voice doubled — holds at ♩=92",
+      "Left-foot son 3-2 clave stays steady under a fusion comping figure for 8 bars at ♩=96 without drift",
+      "5/4 son 3-2 clave variant groove holds at ♩=92 with the clave still feel-able through the odd bar"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Songo + Funk Hybrid (Ghost-Note Snare)",
+        "tip": "Songo kick skeleton (&-of-2 bombo, 4, &-of-4) under a funk ghost carpet. Beats 2 and 4 are the only loud snares; every other snare sits at a quarter of their volume or less. The clave is implied by kick-plus-backbeat geometry — when you can <em>hear</em> it inside the groove, it's locked."
+      },
+      {
+        "title": "2 — Mozambique with Linear Ghost Notes",
+        "tip": "Mozambique bell (offbeats and the &-of-2 accent) running through a <em>linear</em> snare line — bell on every odd 16th, ghost snare on every even 16th. The accented &-of-2 (the mozambique signature) cuts on top. <strong>No two voices ever sound on the same 16th</strong> — that is what 'linear' means. The kick on 1 and 2 anchors. This is the mozambique El Negro plays on Michel Camilo records: still mozambique, but every space is filled."
+      },
+      {
+        "title": "3 — Clave-Foot under Fusion Vocabulary",
+        "tip": "Hernandez's framework: left foot plays the 3-side on the hi-hat pedal — 1, &-of-2, 4 — while the right hand rides 8ths, the left hand comps, and a kick marks beat 1. The goal is a clave-foot on autopilot; if it still needs conscious attention, the tempo is too high."
+      },
+      {
+        "title": "4 — Odd-Meter Clave (5/4 Son 3-2 Variant)",
+        "tip": "Phrase the 5/4 bar <em>3+3+2+2</em>. The cross-stick voices a five-beat clave variant — the same accents son 3-2 would land on if the bar grew an extra beat — while the bell rides 8ths and the kick anchors bombo + 4. It should loop without feeling <em>weird</em>: just clave that happens to be in 5."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Dafnis Prieto",
+        "work": "Absolute Quintet",
+        "note": "The modern hybrid at full complexity — folkloric sources, through-composed results."
+      },
+      {
+        "artist": "Pedrito Martinez",
+        "work": "The Pedrito Martinez Group",
+        "note": "There is no drum set in this band: congas and hand percussion from Martinez and Jhair Sala over piano and bass, so the clave is carried by the battery rather than by one player's four limbs. The only kit on the record is guest producer Steve Gadd's, heard on 'La Luna' and 'Los Santos'."
+      },
+      {
+        "artist": "Horacio \"El Negro\" Hernández",
+        "work": "Italuba",
+        "note": "Cuban drumming and fusion writing merged."
+      }
+    ]
+  },
+  "latin-bata-rhythms": {
+    "tagline": "Sacred Yoruba drum tradition, surveyed respectfully on a single kit",
+    "bodyHtml": "\n      <p><strong>Bata is sacred.</strong> The three hourglass-shaped, double-headed drums — <em>iya</em> (the mother, lowest and largest), <em>itotele</em> (the middle drum), and <em>okonkolo</em> (the smallest, also called omele) — speak the liturgical language of the Lukumi / Santeria religion. Each rhythm is dedicated to a particular orisha and carries words, prayers, and stories in its phrasing. Consecrated bata (<em>bata ana</em>) may only be played by initiated drummers in ceremony.</p>\n      <p>This lesson is a <em>survey</em> of how the bata phrase shapes can be studied on a drum kit, the way a jazz student might study a transcribed line — to understand the architecture, not to reproduce ceremony. <strong>If this music speaks to you, find a teacher.</strong> The Lukumi tradition is intact and there are bata teachers in every major Cuban-diaspora city. There is no substitute for direct transmission.</p>\n\n      <h2 class=\"section-label\">The Three Drums and Their Voices</h2>\n      <p>Each bata drum has two heads producing two pitches — <em>enu</em> (the larger \"mouth\" head, lower) and <em>cha</em> (the smaller, higher). Six pitched voices total across the trio.</p>\n      <ul>\n        <li><strong>Okonkolo</strong> — the time-keeper. Highest and steadiest. We voice it on <em>hi tom (e/5)</em>.</li>\n        <li><strong>Itotele</strong> — the middle answerer. Plays question-and-answer with the iya. We voice it on <em>mid tom (d/5)</em>.</li>\n        <li><strong>Iya</strong> — the mother drum. The conductor of the trio, the only drum that signals changes. Lowest. We voice it on <em>floor tom (a/4)</em>.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Chachalokefun — The Accessible Toque</h2>\n      <p>Of the dozens of bata <em>toques</em> (rhythms), <strong>chachalokefun</strong> is the most accessible to a kit drummer — it is a relatively secular, party-context toque often played to open events and gatherings. The pattern below is a kit reduction of the basic chachalokefun framework. It is a starting point, not a definition.</p>\n    ",
+    "graduationCriteria": [
+      "Each of the three bata voices (okonkolo, itotele, iya) is identifiable on its assigned kit drum at ♩=80",
+      "Combined three-voice chachalokefun on the kit holds for 8 bars at ♩=80",
+      "6/8 voicing of the same pattern preserves the bata phrase shape at dotted-quarter = 72"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Okonkolo Voice (Hi Tom)",
+        "tip": "<strong>Okonkolo on the kit = hi tom (e/5) for the cha head + cross-stick (c/5) for the enu head.</strong> The cha-cha-loke ostinato is the smallest drum's repeated phrase, the timekeeper of the bata trio. Steady quarter pulse on the kick is your foot's metronome — <em>not</em> a bombo, just a count. This voice should disappear into the texture when the other two enter; that is its job."
+      },
+      {
+        "title": "2 — Itotele Voice (Mid Tom)",
+        "tip": "<strong>Itotele on the kit = mid tom (d/5) for the cha head + snare (c/5, played as a soft tap or cross-stick) for the enu.</strong> The itotele plays in conversation with the iya — when the iya asks, the itotele answers. Practice this voice alone first, until the call-and-response feel is clear in your hands. The rhythmic shape is more syncopated than the okonkolo because the itotele is a <em>responder</em>, not a timekeeper."
+      },
+      {
+        "title": "3 — Iya Voice (Floor Tom)",
+        "tip": "Floor tom voices the iya's cha head; the kick takes the enu, the deepest voice. You can't bend pitch the way a bata player does, so give the mother drum her gravitas another way: low, deliberate, and <em>louder</em> than the other two voices. A full minute alone before combining."
+      },
+      {
+        "title": "4 — Combined Chachalokefun (4/4 then 6/8)",
+        "tip": "Hi tom = okonkolo, mid tom = itotele, floor tom = iya, kick = the dance pulse. The interlock is the whole point — each drum's hits land in spaces the others leave open — so practice hands only until the weave is audible, then add the kick."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Milton Cardona",
+        "work": "Bembé",
+        "note": "Authentic batá recordings with documentation — the three-drum conversation this lesson adapts."
+      },
+      {
+        "artist": "Irakere",
+        "work": "Misa Negra",
+        "note": "Batá inside a band arrangement — the bridge between ceremony and stage."
+      },
+      {
+        "artist": "Conjunto Folklórico Nacional de Cuba",
+        "work": "Batá suites",
+        "note": "The toques in their staged-traditional form."
+      }
+    ]
+  },
+  "latin-iyesa": {
+    "tagline": "A Yoruba-derived 6/8 cousin of bembe, with its own bell and its own pulse",
+    "bodyHtml": "\n      <p><strong>Iyesa</strong> (sometimes spelled <em>Iyesa</em>, <em>Iyesha</em>, or <em>Ijesha</em>) is a Yoruba-derived Cuban folkloric tradition — a close cousin of <em>bembe</em>, but distinct. It belongs to the broader Yoruba ceremonial family that gave rise to bembe, batá, and the ceremonial 6/8 rhythms catalogued by Uribe. It is most often felt in 6/8 or 12/8, with a bell pattern that runs continuously underneath two or three supporting drums.</p>\n      <p>Iyesa is sacred in its original ceremonial context. As with bata, this lesson is a <em>survey</em> of the structural shape, not a substitute for ceremony or for study with a knowledgeable teacher. Listen to recordings of Conjunto Folklorico Nacional and the iyesa material on Smithsonian Folkways before you assume you have the feel.</p>\n\n      <h2 class=\"section-label\">How Iyesa Differs from Bembe</h2>\n      <p>Bembe and iyesa share the 6/8 family, but their bell patterns and supporting-drum interlocks are different. Bembe's bell is the famous \"standard\" 6/8 pattern (the \"short bell\"); iyesa's bell pattern is denser and more weighted toward the front of each three-beat group. The supporting drums in iyesa play tighter, more compressed answers than in bembe.</p>\n    ",
+    "graduationCriteria": [
+      "Iyesa bell pattern alone holds at dotted-quarter = 80, every note evenly spaced",
+      "Supporting drum line (low/high tom interlock) holds against a steady kick at the same tempo",
+      "Full pattern (bell + supporting drums + kick) coordinates for 16 bars without losing the 6/8 lilt"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Iyesa Bell Pattern (Alone)",
+        "tip": "Iyesa bell on its own — voice it on the bell of the ride (e/5/x2). Five hits in the six-8th bar, with a rest on position 3. Kick gives you the dotted-quarter pulse so your body keeps the dance feel. <strong>Count slowly</strong> — say <em>1-2-3 / 4-5-6</em>, hit on <em>1, 2, 4, 5, 6</em>, leave <em>3</em> empty. The empty hit on 3 is what gives the iyesa bell its lopsided lift."
+      },
+      {
+        "title": "2 — Supporting Drum Line (Tom Interlock)",
+        "tip": "Two supporting drums on the kit — <strong>low tom = the larger iyesa drum, high tom = the smaller answer</strong>. They interlock: each drum's hits land where the other rests. The kick stays steady on the dotted-quarter pulse. Practice alone, no bell, until the interlock is even. The challenge here is the <em>silence</em> between the hits — leave it open, do not fill it."
+      },
+      {
+        "title": "3 — Full Iyesa Pattern (Bell + Supporting Drums + Kick)",
+        "tip": "Full iyesa-on-one-kit. Bell of ride keeps the iyesa bell pattern (5 of 6 positions). Floor tom and hi tom voice the supporting drums. Kick holds the dance pulse. <strong>The bell never stops</strong> — even as the toms accent inside it. If the bell drops out under stress, slow the tempo; iyesa lives or dies by the bell. Frame this honestly: it is a survey of the shape, not the ceremony."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Conjunto Folklórico Nacional de Cuba",
+        "work": "Iyesá suites",
+        "note": "The iyesá drums and bells in their traditional arrangement."
+      },
+      {
+        "artist": "Síntesis",
+        "work": "Ancestros",
+        "note": "Folkloric material, iyesá included, in a modern setting."
+      }
+    ]
+  },
+  "latin-yoruba": {
+    "tagline": "A respectful survey of the family that gave rise to bembe, iyesa, and bata",
+    "bodyHtml": "\n      <p>Almost everything in this lesson is sacred music in its original context. The Yoruba people of West Africa carried their religious traditions across the Middle Passage to Cuba (where they became <em>Lukumi</em> / Santeria), to Brazil (where they became <em>Candomble</em>), and to Haiti (where they became part of <em>Vodou</em>). The drums and rhythms that accompany the songs of the orishas are not entertainment. They are the way the orisha is called and the way the community speaks back.</p>\n      <p>This lesson is a <strong>cultural survey</strong>, not an initiation. It shows you three representative patterns from the family that gave rise to bembe, iyesa, and bata — patterns you might encounter in a classroom or transcription, in roughly increasing complexity. <strong>If you want to play this music in any public or ceremonial setting, find a teacher.</strong> The tradition is alive; there are bata houses, Yoruba folkloric ensembles, and Candomble drummers in every major city of the diaspora. Direct apprenticeship is the only honest path.</p>\n\n      <h2 class=\"section-label\">What This Lesson Will Not Do</h2>\n      <ul>\n        <li>It will not teach you a specific orisha's toque. Each orisha has dedicated rhythms, and these belong to ceremony.</li>\n        <li>It will not teach you to lead a ceremony. That is a years-long initiated path.</li>\n        <li>It will not \"Westernise\" the music. The patterns below are the published, secular-context structural shapes, not personal arrangements.</li>\n      </ul>\n\n      <h2 class=\"section-label\">What This Lesson Will Do</h2>\n      <p>It will show you three representative phrase shapes from the broader 6/8 / 12/8 Yoruba ceremonial family, voiced on a single kit, so that you can recognize them when you hear them, study them as architecture, and arrive at a teacher's door already speaking some of the language.</p>\n    ",
+    "graduationCriteria": [
+      "Pattern A (basic 6/8 standard bell) holds for 16 bars at dotted-quarter = 76 with the bell unwavering",
+      "Pattern B (12/8 chant ground) holds with a steady three-against-four feel at dotted-quarter = 72",
+      "Pattern C (orisha-pulse 6/8 with answering drums) coordinates bell, tom, and kick for 8 bars",
+      "You can name what each pattern is, what tradition it points to, and what you would still need to learn from a teacher"
+    ],
+    "exercises": [
+      {
+        "title": "Pattern A — The Standard 6/8 Bell (Bembe Family Foundation)",
+        "tip": "Bell hits on positions <em>1, 3, 4, 6</em> of the six-8th bar — silent everywhere else. <strong>Slow and dead even.</strong> This is the pattern that underlies bembe and, rotated and compressed, becomes son and rumba clave; when it locks, every Afro-Cuban 6/8 you ever play sits on top of it."
+      },
+      {
+        "title": "Pattern B — 12/8 Chant Ground (Three Against Four)",
+        "tip": "The bell stays constant across the twelve 8ths; the floor-tom answers speak only in the back half of the bar. Kick walks four dotted-quarters — the dance pulse, three-against-four with the bell. Feel both at once: the bell is the orisha's heartbeat, the kick is your own."
+      },
+      {
+        "title": "Pattern C — Orisha-Pulse with Answering Drums",
+        "tip": "Bell on top, floor tom anchoring the strong front beats, hi tom answering in the middle, feet voicing the dance pulse and a clave reference. That three-layer architecture — bell, low anchor, high answer — is the same shape underneath bembe, iyesa, and many bata toques. Hear the layers separately before you chase the composite."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Lázaro Ros",
+        "work": "Olorun",
+        "note": "The great akpwón (ceremonial singer) — the melodies these rhythms serve."
+      },
+      {
+        "artist": "Síntesis",
+        "work": "Ancestros",
+        "note": "Yoruba liturgical songs arranged for a band — a listenable entry into the repertoire."
+      }
+    ]
+  }
+}

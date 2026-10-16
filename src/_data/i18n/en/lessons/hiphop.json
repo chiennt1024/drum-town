@@ -1,0 +1,885 @@
+{
+  "hiphop-boom-bap": {
+    "tagline": "The 90s drum-machine groove, played live",
+    "bodyHtml": "\n      <p>Say the name out loud and you have the groove: <em>boom · bap · boom-boom · bap</em>. Kick on <em>1</em>, snare on <em>2</em>, kick on <em>3</em> and again on the <em>&amp;</em> of 3, snare on <em>4</em>. Exercise 2 is that bar note for note, and exercise 1 is the same bar with the extra kick removed. Play them back to back: one 8th note in the foot is all that separates a plain backbeat from golden-era hip-hop.</p>\n      <p>That one note does real work. Beat <em>2</em>'s snare stands alone with no kick near it, while beat <em>4</em>'s is set up by a kick an 8th note ahead of it, so the back half of the bar leans forward and the front half sits still. Everything else in exercises 1, 2 and 4 stays plain: straight 8ths on the closed hi-hat, nothing shorter than an 8th note, no crash, no toms, no fills. Boom-bap gives you almost nothing to hide behind.</p>\n      <h2 class=\"section-label\">Six snare notes, only two of them loud</h2>\n      <p>Exercise 3 is where the groove starts to breathe. The hi-hat doubles to 16ths and runs all sixteen of them, and the snare now appears six times: the <em>a</em> of 1, <em>2</em>, the <em>&amp;</em> of 2, the <em>e</em> of 3, the <em>a</em> of 3, and <em>4</em>. Only <em>2</em> and <em>4</em> are backbeats; the other four are <strong>ghost notes</strong> at roughly a quarter of that volume. The staff accents the two backbeats and leaves the four ghosts plain, so you can see the shape, and the Play button sounds it: the two backbeats come out at full volume and the four ghosts at a quarter of it. Hearing that ratio is the easy half; producing it from one hand at two stick heights is the lesson.</p>\n      <p>Snare and hat land together on back-to-back 16ths, so the hat line cannot be shared: the right hand carries all sixteen, and the left hand supplies every snare note, loud and soft. Two things will fight you. The <em>a</em> before each backbeat gives the left hand two consecutive 16ths, quiet then loud, into <em>2</em> and again into <em>4</em>; let the quiet one creep up and the ear hears two hits of equal weight, which blurs where the backbeat is. Beat 3 then alternates foot and left hand under the running hat: kick, ghost, kick, ghost, which puts the second half of the <em>boom-boom</em> on the <em>&amp;</em> of 3 between the two ghost notes. Learn the snare voice alone against the click before adding the hat; one-handed 16ths at ♩ = 88 are their own piece of work.</p>\n      <h2 class=\"section-label\">Dragging the snare without dragging the hat</h2>\n      <p>Exercise 4 drops the ghost notes and returns to exercise 2's bar, deliberately: only one variable changes. Lock the hi-hat and the kick to the metronome, then place the snares on <em>2</em> and <em>4</em> late. That is the <strong>laid-back</strong> feel, and it is the whole assignment. Not late by a rounding error, though. At ♩ = 88 a 16th note runs about 170 milliseconds, and the drag you want is roughly a fifth of that, near 30 milliseconds: small on paper, unmistakable to the ear. Hat and snare are notated together on <em>2</em> and <em>4</em>, so they stop landing as one attack — hat first, snare a hair behind, about the width of a flam. That gap is the sound.</p>\n      <p>The failure is always the same. The hands follow the snare, the hi-hat sags to meet it, the next bar starts a shade late, and thirty seconds later you are playing ♩ = 85 and calling it feel. Laid-back and slow are different things, and the metronome is the referee. Loop exercise 4 for two minutes and grade the hi-hat, not the snare: if the hat is still nailed to the click at the end, the drag was real. When it sags, play exercise 2 square for a minute to reset. The next lesson rejoins the drag to the ghost notes, where the whole snare voice moves late as one instrument.</p>\n    ",
+    "graduationCriteria": [
+      "Boom-bap kick pattern at ♩=88 with ghost notes audible between the snares",
+      "Snare can be deliberately dragged behind the click without the hi-hat dragging too",
+      "The dynamic range — loud snare, soft ghosts — holds across the bar"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Backbeat (Square)",
+        "tip": "Plain backbeat at hip-hop tempo. Right now everything lands square on the click. Lock to the metronome — once we add the boom-bap kick and the laid-back feel, you need this to be your default."
+      },
+      {
+        "title": "2 — The Boom-Bap Kick (Add &amp; of 3)",
+        "tip": "Kick on <em>1</em>, <em>3</em>, and <em>&amp; of 3</em>. <em>Boom · bap · boom-boom · bap</em> — say it out loud, that's the rhythm. This is the most transcribed kick pattern in hip-hop."
+      },
+      {
+        "title": "3 — Add Ghost Notes Between Snares",
+        "tip": "Soft snare ghost notes scattered between the loud backbeat snares — barely audible, a 4-to-1 volume ratio between the loud snares (on 2, 4) and the ghosts. This is what makes a programmed-feeling boom-bap groove feel <em>alive</em> when played live."
+      },
+      {
+        "title": "4 — Now Drag the Snare Behind the Click",
+        "tip": "Same notes as exercise 2, but now <em>play the snares slightly late</em> — a hair behind where the metronome puts beat 2 and beat 4. The hi-hat stays on the click; only the snare drags. Not millisecond-late: <em>perceptibly</em> late, like an actor pausing before the punchline. This is the entire boom-bap sound."
+      }
+    ]
+  },
+  "hiphop-pocket-time": {
+    "tagline": "Playing in, on, and behind the click — the same notes, three different feels",
+    "bodyHtml": "\n      <p>Hip-hop's defining trait isn't the kick pattern or the snare placement — those are surface details that vary from producer to producer. The defining trait is the <strong>pocket</strong>: a deep, consistent time-feel where the drummer plays <em>behind</em> the click for the entire song. Not \"behind for emphasis.\" Not \"behind on the chorus.\" Behind from bar one to the fade-out, by exactly the same amount, every single time.</p>\n      <p>Pocket is what separates a drummer who has learned the boom-bap pattern from a drummer who plays hip-hop. The pattern in this lesson is the same pattern you learned in <em>hiphop-boom-bap</em>. The difference is that here we treat the time-feel as the lesson — three exercises, identical notes, three different placements — and you can hear what each placement does to the music.</p>\n      <h2 class=\"section-label\">What \"Behind\" Means in Numbers</h2>\n      <p>\"Behind the click\" is usually 20–40 milliseconds late at boom-bap tempos. At ♩=88 a 16th note is about 170ms; the drummer's snare lands maybe a fifth of a 16th-note late. That's small enough that it doesn't sound <em>wrong</em> — it just sounds <em>thicker</em>, more relaxed, more grown-up. The hi-hat doesn't drag with the snare; only the snare drags. That tension between hi-hat (on the click) and snare (behind it) is the entire feel.</p>\n      <p>You can't see this on the page. The notation in all three exercises below is identical. The lesson is in the seat — what you do to the snare's placement after you read the notation.</p>\n      <h2 class=\"section-label\">How to Practice This</h2>\n      <p>Set the metronome to ♩=88 and loop each exercise for two minutes. Don't switch back and forth between \"on\" and \"behind\" inside a single take — your ear will get confused. Pick one feel, hold it for the full two minutes, then take a break before changing feel. The sensation you're after on the \"behind\" exercises is that the snare and the click are in <em>conversation</em> — the click goes first, the snare answers a moment later.</p>\n    ",
+    "graduationCriteria": [
+      "Same boom-bap pattern played three ways at ♩=88: square on the click, ~30ms behind, and behind with ghost notes",
+      "The \"behind\" feel is consistent — every snare is late by roughly the same amount across two minutes of playing",
+      "Ghost notes do not drift forward when the loud snares drift back — the relationship between ghosts and backbeat stays intact",
+      "You can switch from \"on\" to \"behind\" between bars without the hi-hat changing tempo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Pattern, Square on the Click",
+        "tip": "The boom-bap pattern, played dead-on the click. Every snare lands exactly with the metronome's <em>2</em> and <em>4</em>. This is your reference. Loop for two minutes — pay attention to what it feels like when everything is square. It should feel <em>tight</em> and a little stiff. That's the baseline; the next exercise loosens it."
+      },
+      {
+        "title": "2 — The Same Pattern, ~30ms Behind",
+        "tip": "Hat on the click; snare ~30ms late — about a fifth of a 16th-note; kick roughly with the click. It should feel <em>fatter</em> than Exercise 1, like the bar grew some extra room. If the hat starts dragging along with the snare, you've gone too far — reset."
+      },
+      {
+        "title": "3 — Behind the Click WITH Ghost Notes",
+        "tip": "The trap: playing the ghosts <em>on</em> the click while only the loud snares drag. They're one instrument — the entire snare voice, ghosts included, carries the same lateness, while hat and kick stay closer to the click. Split them and the ghosts sound rushed and the groove collapses."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Slum Village — Fantastic, Vol. 2",
+        "note": "Programmed but human — the snare is famously late, the hat is famously square."
+      },
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "Live drums with a programmed-feeling pocket — the entire record is a master class in playing behind the beat."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Common — The Dreamer/The Believer",
+        "note": "Reference behind-the-beat hip-hop drumming, played live on a real kit."
+      }
+    ]
+  },
+  "hiphop-classic": {
+    "tagline": "The 90s golden-era vocabulary — boom on 1, bap on 2 and 4, kick on the & of 3",
+    "bodyHtml": "\n      <p>The 90s golden era — Tribe Called Quest, De La Soul, Pete Rock & CL Smooth, Gang Starr — codified a small vocabulary of boom-bap patterns that still defines what people mean when they say \"hip-hop drums.\" The patterns in this lesson are paraphrases of that vocabulary: the canonical placement (kick on 1, snare on 2, kick on the & of 3, snare on 4), the Tribe Called Quest variation that adds a second kick on beat 4, the hat-roll fill that punctuates the end of an 8-bar phrase, and a 4-bar form that strings them together.</p>\n      <p>The notation is straightforward 8th-note grooves. The skill being trained is <em>vocabulary</em> — recognizing these patterns, internalizing them, and being able to switch between them without thinking. You should leave this lesson with three or four boom-bap variations on tap and the ability to stitch them into a phrase.</p>\n      <h2 class=\"section-label\">The Producer Lineage</h2>\n      <p>DJ Premier and Pete Rock are the two big names; almost every other 90s producer is downstream of one or both. Premier's drums tend to be drier, harder, with a kick that punches and a snare that cracks. Pete Rock's are softer, looser, with more bounce and a darker hi-hat. Q-Tip and the Tribe productions sit in between. The exercises below don't try to <em>sound</em> like any of these producers — your kit and tuning will determine that — but the patterns are common to all of them.</p>\n      <h2 class=\"section-label\">Tempo</h2>\n      <p>Boom-bap sits at ♩=88–96. Anything faster starts to feel like uptempo East Coast or breakbeat; anything slower starts to feel like Southern hip-hop or trap. Settle in around ♩=92 for these exercises. Keep the snare behind the click as you learned in <em>hiphop-pocket-time</em>; the patterns sound right only when the pocket is right.</p>\n    ",
+    "graduationCriteria": [
+      "Canonical 90s pattern (Ex 1) holds at ♩=92 with the snares behind the click and the hat on the click",
+      "Tribe-style variation (Ex 2) — the extra kick on 4 — does not pull the kick on the & of 3 forward or back",
+      "Hat-roll fill (Ex 3) lands the next downbeat exactly where the bar wants it — no rushing into the next bar",
+      "4-bar form (Ex 4) holds together as one phrase, not four separate bars stitched together"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Canonical 90s Beat",
+        "tip": "Same kick pattern as Exercise 2 of <em>hiphop-boom-bap</em>: <em>1 · 3 · &amp; of 3</em>. Snare on 2 and 4 (behind the click). Hat on every 8th, on the click. This is the most-used hip-hop drum pattern of the 90s. Loop it until you can play it without thinking — it should be the default that other patterns sit on top of."
+      },
+      {
+        "title": "2 — Tribe Variation: Add Kick on Beat 4",
+        "tip": "Kick lands on 4 underneath the snare — <em>boom</em> and <em>bap</em> together, which rounds the bar off like a sealed envelope. The watch-point is the kick on the &amp; of 3: with another kick coming on 4 it's tempting to shorten it. It sits exactly where Ex 1 put it."
+      },
+      {
+        "title": "3 — Hat-Roll Fill (16ths on the Hat into Beat 1)",
+        "tip": "Beat 4 doubles into four 16th hats — the hat roll — while the snare on 4 still lands underneath. Producers often crack the last hat slightly open for sizzle. One test matters: the roll must deposit the next bar's beat 1 exactly on the click, never early."
+      },
+      {
+        "title": "4 — Four-Bar 90s Form",
+        "tip": "A 4-bar 90s form: canonical, Tribe-variation, canonical, hat-roll into the next phrase. Practice it as a single 4-bar phrase, not four separate bars. The Tribe variation in bar 2 should feel like a small swell; the hat-roll in bar 4 should feel like the form's release. If you can hear the four bars as <em>one phrase</em>, you're playing it right."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "DJ Premier",
+        "work": "Gang Starr — Step in the Arena",
+        "note": "Reference Premier production — dry kick, cracking snare, the canonical pattern in service of the rapper."
+      },
+      {
+        "artist": "Pete Rock",
+        "work": "Pete Rock & CL Smooth — Mecca and the Soul Brother",
+        "note": "Looser pocket than Premier; the snare drags more, the hat is darker."
+      },
+      {
+        "artist": "Q-Tip",
+        "work": "A Tribe Called Quest — The Low End Theory",
+        "note": "The Tribe variation is everywhere on this record."
+      },
+      {
+        "artist": "9th Wonder",
+        "work": "Little Brother — The Listening",
+        "note": "2000s boom-bap that keeps the 90s blueprint intact."
+      }
+    ]
+  },
+  "hiphop-r-and-b-basic": {
+    "tagline": "Slower than hip-hop, smoother, with cross-stick and the swing-16th feel",
+    "bodyHtml": "\n      <p>R&amp;B drumming sits beside hip-hop but isn't the same thing. Hip-hop is descended from drum machines and tends toward the hard, the dry, the programmed-feeling. 90s R&amp;B is descended from soul and gospel and tends toward the smooth, the warm, and the song-supportive. The drummer's job in 90s R&amp;B is to be present without being noticed — to lay down a pocket the singer can ride.</p>\n      <p>The vocabulary in this lesson is the four moves you'll use most often: the cross-stick on 2 and 4 (a softer alternative to the snare backbeat), the swung-16th feel (16ths uneven so the groove has bounce), the syncopated kick on the &amp; of 2 (the new-jack-swing kick), and a Babyface-era groove that combines them.</p>\n      <h2 class=\"section-label\">Cross-stick</h2>\n      <p>A <em>cross-stick</em> (sometimes called a \"side-stick\" or \"rim-click\") is played by laying the stick across the snare drum head with the butt-end resting on the rim and striking the rim with the shaft. The result is a sharp, woody <em>click</em> — quieter and warmer than a snare hit. It's the canonical R&amp;B backbeat sound, especially on slower songs and during verses where a full snare hit would be too aggressive. The renderer notates a cross-stick in the snare's middle space (same as a normal snare); read the tip to know which sound to make.</p>\n      <h2 class=\"section-label\">Swing 16ths</h2>\n      <p>\"Swing 16ths\" means the 16th notes are unevenly spaced — the second of each pair plays slightly late. It's the same idea as swung 8ths in jazz, but applied at the 16th-note level. Most 90s R&amp;B has some degree of swung 16ths; modern R&amp;B sometimes has them and sometimes doesn't. The notation can't show this — you have to hear the recording or set the metronome's swing-16th feature, then play the 16ths so they line up with that grid.</p>\n      <h2 class=\"section-label\">New Jack Swing Influence</h2>\n      <p>The \"new jack swing\" sound (Teddy Riley, Bobby Brown, early Boyz II Men) was 80s R&amp;B with a hip-hop kick pattern bolted on top. Its signature is the kick on the &amp; of 2 — a syncopated push between the snares. By the time R&amp;B rolled into the mid-90s with Babyface, Jam &amp; Lewis, and the rest, that kick was standard equipment.</p>\n    ",
+    "graduationCriteria": [
+      "Cross-stick groove (Ex 1) holds at ♩=82 with the cross-stick clear and consistent — not muffled, not slappy",
+      "Swing-16th groove (Ex 2) — the 16ths are perceptibly uneven, with the second of each pair late",
+      "\"& of 2\" kick variation (Ex 3) lands the syncopated kick without rushing the next snare",
+      "Babyface-era pattern (Ex 4) holds together as a complete groove, not as a sequence of remembered notes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Cross-Stick Groove (Slow, Smooth)",
+        "tip": "The snare-line notes on 2 and 4 are <strong>cross-sticks</strong> — the sound is a sharp, woody <em>click</em>, not a thud. Hat on 8ths, kick on 1 and 3, everything rounder and quieter than a full backbeat groove. This is the R&amp;B verse default; the chorus usually opens to full snare."
+      },
+      {
+        "title": "2 — Swing-16th Feel",
+        "tip": "The page shows straight 16ths; the feel is swung — the <em>2nd</em> and <em>4th</em> 16th of each beat land late, roughly where a 16th-triplet's last note would. Use a swing-16th metronome setting if you have one. The cross-sticks on 2 and 4 don't move; only the hat bounces."
+      },
+      {
+        "title": "3 — New Jack Swing Kick (& of 2)",
+        "tip": "Kick on 1, the &amp; of 2, and 3, with the backbeat untouched. Everything hinges on not rushing the &amp;-of-2 kick: it sits exactly on the second 8th of beat 2, equidistant between the snare on 2 and the kick on 3. Check that spacing before adding tempo."
+      },
+      {
+        "title": "4 — Babyface-Era Combined Groove",
+        "tip": "All three moves at once — cross-stick backbeat, swung hat 16ths, new-jack kick on 1, &amp; of 2, 3 — taken down to ♩=80 to make room. Give it two unbroken minutes; the pocket only shows up after the limbs stop negotiating with each other."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Teddy Riley (production)",
+        "work": "Bobby Brown — Don't Be Cruel",
+        "note": "The new jack swing kick at the source."
+      },
+      {
+        "artist": "Babyface (production)",
+        "work": "Toni Braxton — Toni Braxton",
+        "note": "Reference 90s R&B production — the cross-stick / swung-16th formula in fully developed form."
+      },
+      {
+        "artist": "Jimmy Jam & Terry Lewis (production)",
+        "work": "Janet Jackson — janet.",
+        "note": "Programmed and live drums in conversation; the pocket is the lesson."
+      }
+    ]
+  },
+  "hiphop-quiet-storm": {
+    "tagline": "Late-night R&B — slow, ultra-clean, brush- or rod-driven",
+    "bodyHtml": "\n      <p>\"Quiet storm\" was a late-night radio format from the 80s onward — slow, romantic R&amp;B for after-dark listening. Sade, Anita Baker, Smokey Robinson, Luther Vandross. The drumming style that goes with it is the quietest, cleanest end of the R&amp;B spectrum: tempos around <em>♩=64–72</em>, rim-click instead of snare for almost the entire song, brushes or hot-rods instead of sticks, and a kick that's felt rather than heard.</p>\n      <p>The technical difficulty is low. The musical difficulty is high. Slow tempos punish small timing inconsistencies; quiet dynamics punish small volume inconsistencies; and at this style's tempo, every event is exposed. There's nowhere to hide.</p>\n      <h2 class=\"section-label\">Brushes or Rods?</h2>\n      <p>Either works. Brushes are softer and more traditional for this style; hot-rods (bundles of thin dowels) are slightly louder and have more attack, well-suited to a live setting where brushes might disappear. The exercises below describe brush playing because brushes give you the maximum control over dynamics — but if you only have rods, the patterns are the same; you just hit the drums normally.</p>\n      <h2 class=\"section-label\">The Singer is the Star</h2>\n      <p>Quiet storm drumming exists to be invisible. The singer's phrasing is the entire show; your job is to hold the form so steadily that the singer can take any liberty with the time and trust that the bar will still be there when they get back. If a casual listener could describe what you played after the song, you played too much.</p>\n    ",
+    "graduationCriteria": [
+      "Rim-click groove (Ex 1) holds at ♩=68 for three minutes without speeding up",
+      "Brush-sweep groove (Ex 2) — the sweep is continuous, the rim-click on 2 and 4 is clean and quiet",
+      "\"Sunday Morning\" feel (Ex 3) breathes — there is genuine space inside the bar, not just sparse notes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Rim-Click on 2 and 4 (Slow)",
+        "tip": "Rim-clicks on 2 and 4 — same motion as the R&amp;B cross-stick, quieter and more deliberate. Kick on 1 and 3 is felt, not heard. At ♩=68 an uneven hat has nowhere to hide, so loop a full three minutes; slow tempos only settle with time-on."
+      },
+      {
+        "title": "2 — Brush Sweep + Rim-Click on 2 and 4",
+        "tip": "The notated taps on 2 and 4 are rim-clicks played with the brush handle; beneath them the right-hand brush sweeps one slow circle per bar on the snare head. No hi-hat at all — sweep and click are the whole texture, with a barely-there kick on 1 and 3, everything at conversation volume."
+      },
+      {
+        "title": "3 — \"Easy Sunday Morning\" Feel",
+        "tip": "The hat thins to quarter, two 8ths, quarter, two 8ths, and the rim-click lands on the &amp; of 2 and the &amp; of 4 — an anticipated backbeat that floats rather than lands. Resist filling the gaps with extra hat or ghosts; the breathing space <em>is</em> the music."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Dave Early",
+        "work": "Sade — The Sweetest Taboo",
+        "note": "The toms came off the kit for this one and the hi-hat was left out entirely, so the groove is kick, snare and rim against a shaker that runs the length of the song. Listen for how much space that leaves around the vocal."
+      },
+      {
+        "artist": "Ricky Lawson",
+        "work": "Anita Baker — Sweet Love",
+        "note": "Paulinho da Costa plays percussion alongside the kit on this one. Listen for where the drum set ends and the percussion begins."
+      },
+      {
+        "artist": "Gene Pello & Joseph A. Brown Jr.",
+        "work": "Smokey Robinson — A Quiet Storm",
+        "note": "This is the album whose title track named the format. Across nearly eight minutes the beat sits so far under the vocal that you have to go looking for it, which is exactly the point."
+      }
+    ]
+  },
+  "hiphop-trap": {
+    "tagline": "Translating trap drum vocabulary onto an acoustic kit",
+    "bodyHtml": "\n      <p>Trap drum patterns were born in early-2000s Atlanta — Manny Fresh, Lex Luger, Shawty Redd, eventually Metro Boomin and the modern Atlanta producer canon. Mechanically: half-time tempo (typical \"trap BPM\" of 140 is felt as ♩=70), snare on 3 only (not 2 and 4), 808 sub-bass kick, and 32nd-note hi-hat rolls used as fills and ornaments. The half-time feel is what gives trap its lurching, slow-motion quality; the snare on 3 anchors the half-bar.</p>\n      <p>Translating trap to an acoustic kit means making compromises. The 808 has no acoustic equivalent — it's a long, decaying sub-bass synth note — so we substitute the floor tom (low pitch, longer resonance than the kick) plus the kick on the same beat. The 32nd-note hi-hat roll is the showcase ornament; on an acoustic hat played with a single hand it's hard to play cleanly, so we'll learn it as a triplet ornament that approximates the same effect.</p>\n      <h2 class=\"section-label\">\"Trap BPM\"</h2>\n      <p>Producers tag trap beats as 140, 150, even 170. They mean those numbers as the audible 16th-note pulse — the hat — not as the quarter-note tempo. The actual quarter-note tempo, where you'd tap your foot, is half of that: ♩=70, ♩=75, ♩=85. We'll write all the exercises in 4/4 at the half-time tempo, because that's what your foot does. Just know that when a producer says \"this beat is 140,\" they mean the 16ths.</p>\n      <h2 class=\"section-label\">Snare on 3, Not 2 and 4</h2>\n      <p>This is the biggest single difference from boom-bap. In a bar of trap, the snare hits ONCE — on beat 3, the middle of the bar, treated as the half-time backbeat. Beat 2 and beat 4 are silent (or carry a ghost note at most). It takes some adjusting; the temptation to put a snare on 2 and 4 is strong. Resist it. The half-bar feel is the genre.</p>\n    ",
+    "graduationCriteria": [
+      "Basic trap pattern (Ex 1) holds at ♩=70 with the snare on 3 only and the floor-tom 808 placed deliberately",
+      "Triplet hat-roll (Ex 2) — the 32nd-note triplet roll lands cleanly without disturbing the floor-tom or the snare",
+      "Snare-on-3-only feel (Ex 3) does not drift toward a 2-and-4 backbeat — beat 2 stays empty",
+      "Atlanta-trap form (Ex 4) holds together and the whole groove feels half-time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Trap Pattern",
+        "tip": "Hat plays straight 16ths (the audible \"140 BPM\"). Snare lands on beat 3 ONLY — the half-time backbeat. Kick on 1 and the &amp; of 3. Note that the snare on 3 and the kick on the &amp; of 3 are right next to each other — that's intentional, that's the trap pocket. Loop until the half-bar feel is comfortable; the snare on 3 is the lesson."
+      },
+      {
+        "title": "2 — Triplet Hat-Roll Ornament",
+        "tip": "The bar's last 16th becomes a hat triplet — three notes in one slot, wrist loose, <strong>all three at equal volume</strong> with no accent. The ornament must cost nothing: the next bar's beat 1 lands dead on time, neither pushed nor pulled by the roll."
+      },
+      {
+        "title": "3 — Snare on 3, with Floor-Tom 808",
+        "tip": "New element: floor tom on the &amp; of 4 — the acoustic <em>808 stand-in</em> — with a kick on beat 4 just ahead of it, so the two nearly overlap into one low-end bloop that leads the ear back to beat 1. Snare stays on 3 only; nothing sneaks onto 2 or 4."
+      },
+      {
+        "title": "4 — Atlanta Trap Form",
+        "tip": "16th-note hat, snare on 3, floor-tom 808 on the 14th 16th of the bar, kick on 1, the &amp; of 3, and the &amp; of 4 to grab the 808. At ♩=72 (144 in trap-talk) the test is feel: busy hat or not, the bar has to sit half-time."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Lex Luger / Shawty Redd (production)",
+        "work": "Various Atlanta releases, late 2000s",
+        "note": "The producers who codified the trap drum pattern."
+      },
+      {
+        "artist": "Metro Boomin (production)",
+        "work": "Future — DS2",
+        "note": "The hi-hat roll vocabulary, refined."
+      },
+      {
+        "artist": "Daru Jones",
+        "work": "Jack White — Lazaretto",
+        "note": "Acoustic trap-influenced drumming on a real kit — useful reference for kit translation."
+      }
+    ]
+  },
+  "hiphop-neo-soul": {
+    "tagline": "Behind-the-beat pocket, ghost notes, brush-soft snare — the D'Angelo lineage",
+    "bodyHtml": "\n      <p>Neo-soul is the genre that emerged in the mid-90s out of a conscious return to live drums — D'Angelo, Erykah Badu, Maxwell, Lauryn Hill — drawing on 70s soul and 90s hip-hop equally. The drumming style associated with it, especially through Questlove's playing on D'Angelo's records, is the most extreme version of the \"behind the beat\" pocket in popular music. The snare can be 50–80ms late while the kick stays closer to the click. Different limbs play with different time-feels at the same time.</p>\n      <p>This is the deep end of the pocket pool. <em>hiphop-pocket-time</em> introduced the concept of playing behind the click; this lesson takes that same idea and pushes it further, with the snare dragging hard while the hat and kick hold steadier. The result is a groove that feels almost broken — slightly wrong — and that wrongness <em>is</em> the genre.</p>\n      <h2 class=\"section-label\">Why Neo-Soul Is Hard</h2>\n      <p>Most drummers, asked to play behind the beat, drag the entire kit. Neo-soul drummers don't. They drag specific limbs by specific amounts. The hi-hat sits close to the click. The kick sits a little behind. The snare sits well behind — perceptibly later than where the metronome puts beat 2 and 4. The ghost notes drag with the loud snare. Doing this requires that your limbs aren't synchronized to a single internal pulse but to <em>multiple</em> pulses that happen to share a tempo.</p>\n      <h2 class=\"section-label\">Brush-Soft Snare</h2>\n      <p>Neo-soul snares are typically tuned low, hit softly, and recorded close — they sound thick and warm rather than sharp. You're not laying the stick down hard; you're playing the snare with the same touch as the ghost notes, just louder. The contrast between snare and ghost in neo-soul is more like 2:1 (instead of the 4:1 of funk or boom-bap). Everything is quieter and rounder.</p>\n    ",
+    "graduationCriteria": [
+      "Basic neo-soul groove (Ex 1) holds at ♩=80 with ghost notes and a soft backbeat",
+      "Behind-the-beat snare (Ex 2) is consistently late by the same amount across two minutes",
+      "Canonical \"Lady\" / \"Brown Sugar\" feel (Ex 3) — kick and snare are perceptibly different distances behind the click",
+      "2-bar D'Angelo-style pattern (Ex 4) — every limb has a different time-feel and they hold together"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Neo-Soul Groove",
+        "tip": "Same density as the boom-bap-with-ghost-notes pattern from <em>hiphop-boom-bap</em>, but at slightly slower tempo (♩=80) and played with a brush-soft touch — the loud snare is half as loud as it would be in funk; the ghost notes are barely audible. Time-feel is straight for now (everything on the click); we'll drag the snare in the next exercise. Loop until the touch is consistent."
+      },
+      {
+        "title": "2 — Now Drag the Snare (Hard)",
+        "tip": "Hat on the click. Kick barely behind — 10–15ms. Snare dragged <strong>hard</strong>: 50ms or more, close enough to wrong that it makes you nervous, ghosts travelling with it. Done right, the snare voice sounds like it lives in a different time zone from the rest of the kit."
+      },
+      {
+        "title": "3 — \"Lady\" / \"Brown Sugar\" Canonical Feel",
+        "tip": "Doubled kick on beat 1 (kick on 1 + kick on the &amp; of 1), snare on 2, kick on 3, ghost-note 16th right before the snare on 4. This is the canonical neo-soul opening pattern — paraphrased from the early-D'Angelo records. Play the snares 50ms behind, the kicks 15ms behind, the hat on the click. Loop and let the limbs find their separate placements; don't force everything to drag together."
+      },
+      {
+        "title": "4 — Two-Bar D'Angelo-Style Pattern",
+        "tip": "The two bars deliberately don't mirror: bar 2 doubles the kick on beat 1, adds a syncopated kick on the &amp; of 3, and nudges the ghost positions. That asymmetry is what reads as <em>played</em> rather than looped. The deep-behind snare placement must not waver between the bars."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "Reference neo-soul drumming. The behind-the-beat snare is the genre."
+      },
+      {
+        "artist": "Pino Palladino + Questlove (rhythm section)",
+        "work": "D'Angelo and the Vanguard — Black Messiah",
+        "note": "Two musicians playing in perceptibly different time zones at the same tempo."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Various — Robert Glasper, D'Angelo",
+        "note": "Pushed the pocket vocabulary further into the 2010s."
+      }
+    ]
+  },
+  "hiphop-modern-r-and-b": {
+    "tagline": "2010s+ R&B — sparse, sub-bass-aware, trap-influenced, atmospheric",
+    "bodyHtml": "\n      <p>The R&amp;B that came after 2010 — Frank Ocean, The Weeknd, Solange, H.E.R., SZA, Daniel Caesar — absorbed the vocabulary of trap (sub-808 kicks, half-time feel, hi-hat rolls) and applied it to song-form R&amp;B. The drumming is sparser than 90s R&amp;B, often <em>much</em> sparser; the production is more atmospheric, with reverb and tape effects making the kit feel suspended in space.</p>\n      <p>For a drummer translating this onto a kit, the challenge is restraint. There's a temptation to fill the spaces; the genre's whole point is that the spaces are filled by the production (synth pads, vocal samples, sub-bass), not by drum activity. Your job is to commit to playing less than feels comfortable and let the bar breathe.</p>\n      <h2 class=\"section-label\">Sub-808 on a Kit</h2>\n      <p>In modern R&amp;B production, the kick is often a sub-808 — a long, decaying low note pitched to a specific musical key, more of a bass-instrument event than a percussion event. There's no clean acoustic equivalent. The closest is a low floor-tom (the 16-inch on most kits) hit softly, with the head tuned low and slightly open so it has decay. Combine it with the kick on the same beat for the punch. We notate this as a floor-tom note (<code>a/4</code>); read the tip for the touch.</p>\n      <h2 class=\"section-label\">Hat-Rolls in R&amp;B Context</h2>\n      <p>Modern R&amp;B uses trap-style hat-rolls but uses them sparingly — once or twice per 4-bar phrase, not constantly. They function as fills, not ornaments. We'll practice one in the hat-roll exercise and one in the form.</p>\n    ",
+    "graduationCriteria": [
+      "Sparse modern R&B groove (Ex 1) holds at ♩=72 with no hat-clutter — the silence is intentional",
+      "Sub-808 floor-tom kick (Ex 2) is placed deliberately and has clear long resonance",
+      "Hat-roll fill (Ex 3) integrates without disturbing the sparse feel of the rest of the bar",
+      "Frank Ocean-style feel (Ex 4) — the groove sounds atmospheric and unhurried, not undercooked"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Sparse Modern R&B Groove",
+        "tip": "Quarter-note hat (not 8ths!), snare on 2 and 4, kick on 1 and 3. Half-time feel. The sparseness is the lesson. At ♩=72 every event is exposed and the bar feels long. Don't fill the space. Loop for three minutes; the groove only starts to feel right once you stop trying to make it feel like more."
+      },
+      {
+        "title": "2 — Sub-808 Floor-Tom + Kick",
+        "tip": "Floor tom on the &amp; of 3, played soft with a slightly open tuning so it hums — the kick on 3 supplies the attack, the tom supplies the decay. If yours is muffled, take some dampening off; the note has to read as sub-bass, felt as much as heard."
+      },
+      {
+        "title": "3 — Hat-Roll Fill",
+        "tip": "The <em>hiphop-classic</em> hat roll, downshifted: lighter touch, slower tempo, meant to read as production rather than drumming. Deploy it once every 4 or 8 bars, not every bar — and the roll still owes you the next beat 1 exactly on the click."
+      },
+      {
+        "title": "4 — Frank Ocean-Style Feel",
+        "tip": "Sparse hat — quarter, two 8ths, twice. Snare on 2 and the anticipated &amp; of 4. Kick only on 1, with the floor-tom 808 on the &amp; of 3 sitting in the <em>feet</em> voice — the 808 replaces the kick there. Let it hang suspended; every space you fill costs atmosphere."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Michael Uzowuru / Joe Thornalley (production)",
+        "work": "Frank Ocean — Nights",
+        "note": "The beat switch at 3:30 splits the track in two: an upbeat, guitar-driven first half, then a slower, synth-heavy second. Every drum here is programmed, so listen for how the groove is built rather than played."
+      },
+      {
+        "artist": "Doc McKinney / Illangelo (production)",
+        "work": "The Weeknd — House of Balloons",
+        "note": "The early-2010s blueprint for atmospheric R&B drum programming."
+      },
+      {
+        "artist": "Various producers",
+        "work": "H.E.R. — H.E.R.",
+        "note": "No drummer is credited anywhere on this record; every beat is producer-built, across a dozen different producers. Listen for trap percussion folded into straight song-form R&B."
+      }
+    ]
+  },
+  "hiphop-southern": {
+    "tagline": "The Outkast / UGK tradition — slower, sparse hat, heavy 808-style kick",
+    "bodyHtml": "\n      <p>Before Atlanta trap there was Atlanta-and-Houston-and-Memphis hip-hop — Outkast, Goodie Mob, UGK, Three 6 Mafia, Scarface. The Southern hip-hop tradition is older than trap and somewhat distinct: tempos are slower than East Coast boom-bap (♩=75–85 instead of 88–96), the hi-hat is often sparse rather than continuous, the kick is heavy and frequently 808-style, and the pocket is wider. The \"Dirty South\" sound from the late 90s and early 2000s is the direct ancestor of trap, but it has its own personality.</p>\n      <p>Translating it to a kit means thinking about <em>weight</em>. The kick should feel heavier than in boom-bap — pitched lower, played with more force, sometimes paired with a floor-tom 808 stand-in. The snare can crack but often plays cross-stick or rim-clicks instead. The hat is the surprise: instead of straight 8ths, it's often a sparse pattern with quarter-rests inside it, giving the bar more open space.</p>\n      <h2 class=\"section-label\">Outkast as Reference Point</h2>\n      <p>Outkast's drum production across <em>ATLiens</em>, <em>Aquemini</em>, and <em>Stankonia</em> defined what Southern hip-hop drums could be. Programmed but humanized; the kicks displaced from where you'd expect them; the snare often anticipated by a 16th. The exercises here paraphrase that vocabulary on an acoustic kit.</p>\n    ",
+    "graduationCriteria": [
+      "Basic Southern groove (Ex 1) holds at ♩=78 with the snare on 2 and 4 firmly in the pocket",
+      "Outkast-style displaced kick (Ex 2) — the kick on the e-of-3 is placed cleanly without rushing",
+      "Sparse 8th-hat groove (Ex 3) — alternating hat 8ths and rests, the rests are felt",
+      "\"Down South\" 2-bar pattern (Ex 4) holds together as one phrase"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Southern Groove",
+        "tip": "Boom-bap's shape, but the third kick moves to the &amp; of 4, leaning the bar into the next downbeat — the Southern signature. Play the kick heavier than boom-bap ever asks, tempo down at ♩=78, and verify the &amp;-of-4 hit doesn't pull beat 1 forward with it."
+      },
+      {
+        "title": "2 — Outkast-Style Displaced Kick",
+        "tip": "The beat-3 kick splinters: hits on the <em>e of 3</em> and the &amp; of 3, nothing on the beat itself. Place the e-of-3 exactly halfway between beat 3 and the &amp; — while the snare on 4 stays dead square. It should sound chosen, not slipped."
+      },
+      {
+        "title": "3 — Sparse 8th Hat",
+        "tip": "Hat plays only ON the beat — not the &amp;'s. The result is a sparse, programmed-feeling groove with lots of open space inside the bar. Snare on 2 and 4. Kick on 1, 3, and the &amp; of 3. The hat-rests are felt (count them out loud if you have to); the temptation is to fill them and you mustn't. Loop for two minutes; the groove only sounds right once you commit to the silences."
+      },
+      {
+        "title": "4 — \"Down South\" 2-Bar Pattern",
+        "tip": "Bar 1 is the basic Southern groove with the &amp;-of-4 kick; bar 2 trades the extra kick for a floor-tom 808 on the &amp; of 3 — that swap is the form's whole shape. Keep the snare behind the click, though not as deep as neo-soul territory."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Organized Noize (production)",
+        "work": "Outkast — Aquemini",
+        "note": "Reference Southern hip-hop drum programming — the displaced kicks, the sparse hat."
+      },
+      {
+        "artist": "Pimp C (production)",
+        "work": "UGK — Ridin' Dirty",
+        "note": "Houston-flavored Southern hip-hop, slower and heavier than Atlanta."
+      },
+      {
+        "artist": "DJ Paul / Juicy J (production)",
+        "work": "Three 6 Mafia — When the Smoke Clears",
+        "note": "Memphis Southern hip-hop, the trap-precursor sound."
+      }
+    ]
+  },
+  "hiphop-questlove": {
+    "tagline": "The Roots pocket — drum-machine-inspired, deeply behind, ghost-note rich",
+    "bodyHtml": "\n      <p>Ahmir \"Questlove\" Thompson's drumming with The Roots is the most influential hip-hop drumming on a real kit. His pocket combines two seemingly contradictory ideas: the regularity of a programmed beat (every hat hits exactly the same volume; every kick is exactly placed) with a deep behind-the-beat snare that makes the whole thing feel <em>human</em> rather than machine-made. The result has been the model for live hip-hop drumming for thirty years.</p>\n      <p>This lesson is a study of that vocabulary. The patterns paraphrase common Roots-era moves: ghost-note flurries between the backbeats, the \"drunk\" pocket where different limbs sit at different micro-placements, and the kind of programmed-feeling groove that gives the band its distinctive sound. We're not transcribing tracks; we're working with the vocabulary.</p>\n      <h2 class=\"section-label\">\"Drunk\" Pocket</h2>\n      <p>Questlove has talked about playing with what he calls a \"drunk\" feel — the snare lands so far behind the click that it sounds, for a moment, like he's lost the time, and then beat 3 lands exactly on time and you realize he's been in control the whole bar. The trick is that the lateness is <em>exactly the same amount every bar</em>; if it varied, it would just sound sloppy. Consistency is the difference between intentionally drunk and actually drunk.</p>\n      <h2 class=\"section-label\">Ghost-Note Flurries</h2>\n      <p>Standard funk has ghost notes evenly spaced (16ths between the backbeats). Questlove's grooves often have ghosts <em>clustered</em> — three or four ghost notes in quick succession in one part of the bar, then nothing for a beat, then more. The clusters are paraphrasing what a sampler would do: the producer pulled a fragment of a break and looped it, and the ghost-note pattern reveals the looping. Played live, the clusters sound deliberate and a little uncanny.</p>\n    ",
+    "graduationCriteria": [
+      "Basic Roots-style groove (Ex 1) holds at ♩=86 with the deep-behind snare and ghost-note flurries integrated",
+      "\"Drunk\" placement (Ex 2) — the snare and kick land on visibly different micro-placements relative to the click",
+      "Ghost-note flurries (Ex 3) — the rapid ghosts between backbeats are clean, not mush",
+      "4-bar Roots-style pattern (Ex 4) holds together for two minutes without the limbs collapsing into each other"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Roots-Style Groove",
+        "tip": "Densely ghosted boom-bap pattern — there's a ghost on almost every off-16th. Loud snares on 2 and 4 (a couple times the volume of the ghosts; not as much contrast as funk). Hat on 16ths, even, programmed-feeling. Kick is the canonical 1 / &amp; of 3 / 3 pattern. Drag the loud snares 30–40ms behind the click; the ghosts drag with them. Loop for three minutes — this groove is the Roots' bread and butter."
+      },
+      {
+        "title": "2 — Ahmir's \"Drunk\" Placement",
+        "tip": "<em>hiphop-classic</em> Ex 1's notes with extreme placements: hat and beat-1 kick dead on the click, the &amp;-of-3 kick a hair late, snare on 2 dragged 50ms, snare on 4 dragged 60ms — the two backbeats are <strong>not</strong> equally late. Same offsets every bar; that consistency is the whole trick."
+      },
+      {
+        "title": "3 — Ghost-Note Flurries Between Backbeats",
+        "tip": "Three ghosts in a row after each loud snare — the e, &amp;, a of beat 2, then again after beat 4 — under hat 16ths. The flurry is three <em>distinct</em> soft strokes, not a roll or a buzz, and it can't destabilise the loud snare that follows it."
+      },
+      {
+        "title": "4 — Four-Bar Roots-Style Pattern",
+        "tip": "Bars 1, 3, and 4 are the ghosted basic; bar 2 adds the flurry after the snare on 4 (the &amp;-a cluster). Two things to police: the deep-behind snare stays put through all four bars, and the bar-2 flurry doesn't lever you out of the pocket."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "The album that defined live-band hip-hop drumming. Every track is a study in deep pocket and ghost-note vocabulary."
+      },
+      {
+        "artist": "Questlove",
+        "work": "The Roots — How I Got Over",
+        "note": "Mature, varied — different feels across the record, all unmistakably his."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "The pocket masterpiece — Questlove and Pino in conversation across an entire album."
+      }
+    ]
+  },
+  "hiphop-studio-translation": {
+    "tagline": "Translating a programmed beat to an acoustic kit",
+    "bodyHtml": "\n      <p>A producer hands you a beat made on an MPC or in a DAW and says <em>play this live</em>. The job is not to copy the sample — the job is to <em>translate</em> it. Programmed drums have specific qualities: identical velocities, mathematically locked grid, sounds layered in ways no kit can reproduce. A live drummer who tries to mimic all of that ends up sounding like a stiff metronome. A live drummer who throws away the brief and \"plays themselves\" loses the song.</p>\n      <p>Translation is the middle path. You decide which qualities of the programmed beat are <em>load-bearing</em> — the parts that define the song — and you preserve those exactly. Everything else, you humanise. The kick pattern probably matters. The exact 808 sub frequency does not — a floor tom will get you there. The hat-roll matters as a gesture, not as a literal velocity envelope.</p>\n\n      <h2 class=\"section-label\">Voice Mapping</h2>\n      <ul>\n        <li><strong>Kick (f/4)</strong> — the programmed kick. Match placement exactly.</li>\n        <li><strong>Floor tom (a/4)</strong> — the 808 sub. Lower than the kick, longer decay.</li>\n        <li><strong>Snare (c/5)</strong> — the programmed snare. Match placement exactly; you choose the volume.</li>\n        <li><strong>Hi-hat (g/5/x2)</strong> — the programmed hat. The pattern matters; the literal velocity curve does not.</li>\n        <li><strong>Cross-stick (c/5, played as cross-stick)</strong> — programmed rim or wood-block layer.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Stiff vs Loose — A Choice</h2>\n      <p>Some songs need the <em>stiffness</em> of the programmed feel preserved. Hat 16ths must be metronomic, snare must land on the grid. Other songs are aching for a human to break the grid open — the producer wants the song to breathe. Ask. If you cannot ask, the safe default in modern hip-hop is <em>stiff hat, slightly behind snare</em>.</p>\n\n      <h2 class=\"section-label\">When To Humanise</h2>\n      <p>Humanise the dynamics first, the timing second. A live drummer's dynamic range — even a quiet one — is wider than any drum machine. Use that. Once dynamics are alive, you can start to push or drag the snare; not before.</p>\n    ",
+    "graduationCriteria": [
+      "Programmed-style 16th pattern played human (no audible velocity drift) holds at ♩=86 for 16 bars",
+      "Same pattern with intentional micro-wobble — every snare placement consistent within the chosen drag/push direction",
+      "Floor-tom-as-808 sub voicing is clearly lower in pitch than the kick and lands on its own 16th (not doubling the kick)",
+      "4-bar studio-translation chart can be repeated on demand with the same voice mapping each time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Programmed-Style 16th Pattern Played Human",
+        "tip": "Every hat 16th at one volume — no swing, no downbeat accent, no dip on the &. Snare dead square on 2 and 4. The instinctive micro-accent on each downbeat is exactly what a producer hears as 'wrong', so keep going until the take sounds like a loop."
+      },
+      {
+        "title": "2 — Same Pattern with Intentional Micro-Wobble",
+        "tip": "Identical notes to exercise 1 with one change: the snare sits perceptibly behind the click — a hair late, by the same amount, on every single backbeat. Hi-hat and kick never leave the grid. If the lateness varies from bar to bar, it's a wobble, not a feel."
+      },
+      {
+        "title": "3 — Add a Sub-808 Floor-Tom Voicing",
+        "tip": "Floor tom voices the 808 on the &-of-2 and &-of-4, and it must sit <strong>below</strong> the kick — tune it down, towel the resonant head, whatever gets a long round thud. Kick short and punchy, tom low and lazy: two bass voices answering each other."
+      },
+      {
+        "title": "4 — Four-Bar Studio-Translation Example",
+        "tip": "The drop-in verse bar: flat hat 16ths, snare a hair behind, kick on 1, the &-of-2, and 4. Voice the floor-tom 808 on bars 2 and 4 only if the song asks. The brief is <em>play less than you want to</em> — repetition is the power source."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "Things Fall Apart",
+        "note": "Live-kit translations of MPC-era beats."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Common — Be",
+        "note": "A producer-drummer translating his own beats."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "Studio sensibilities played on a live kit."
+      }
+    ]
+  },
+  "hiphop-displacement": {
+    "tagline": "The deliberately-wrong placement that makes the beat feel right",
+    "bodyHtml": "\n      <p>A drum machine programmed by a careful producer is locked to a grid: every kick, every snare, every hat lands exactly where the math says. A drum machine programmed by J Dilla — or Madlib, or Karriem Riggins, or any producer working in the lineage — sounds <em>broken on purpose</em>. The kick is on the grid. The snare is consistently a tick early. The hat is consistently a tick late. The math is wrong, and the wrongness is the whole sound.</p>\n      <p>This lesson is about doing that consciously. Not \"I played the snare a little early because I felt like it\" — that is just sloppy. This is \"I am playing the snare exactly 30 milliseconds early on every backbeat, deliberately, and the hi-hat is exactly on the click, and the kick is exactly on the click, and the resulting groove leans forward in a way you can <em>hear</em>.\"</p>\n\n      <h2 class=\"section-label\">Why It Works</h2>\n      <p>The ear locks onto the most predictable element. If hi-hat and kick are square, the ear treats them as the grid. The displaced snare then sounds <em>wrong but musical</em> — a tension against the implied grid. The brain enjoys it. This is the same trick that produces swing: the ride is the grid, the snare comp is displaced, and the displacement is the feel.</p>\n\n      <h2 class=\"section-label\">Three Directions</h2>\n      <ul>\n        <li><strong>Early</strong> — the snare arrives before the click. The groove leans forward; it feels urgent.</li>\n        <li><strong>Late</strong> — the snare arrives after the click. The groove drags; it feels heavy.</li>\n        <li><strong>Drunken</strong> — different limbs go in different directions. The kick is early, the snare is late, the hat is on. The whole bar wobbles.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Practice Tool</h2>\n      <p>Use a metronome that plays only on beats 2 and 4. Practice the snare exactly with that click first. Then practice the snare deliberately ahead of it, and deliberately behind it. The ear has to <em>hear</em> the displacement before the body can produce it on demand.</p>\n    ",
+    "graduationCriteria": [
+      "Backbeat played AT the click (no drag, no push) holds clean at ♩=88",
+      "Same backbeat with snare consistently early — the early amount stays the same on every backbeat for 16 bars",
+      "Same backbeat with snare consistently late — the late amount stays the same on every backbeat for 16 bars",
+      "Drunken-feel pattern (kick early, snare late, hat on) sustains for 16 bars without collapsing back to the grid"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Backbeat Played AT The Click (Reference)",
+        "tip": "Everything exactly on the click — snare on 2 and 4, hat 8ths, kick on 1 and 3, no opinions anywhere. The next three exercises displace one element of <em>this same pattern</em>, and without a clean reference in your ears the displacement is inaudible. Earn the boring version first."
+      },
+      {
+        "title": "2 — Snare Consistently 30ms Early (Pushed)",
+        "tip": "Same notes as exercise 1, but <strong>play the snare a hair before the click</strong> on every backbeat. Hat stays exactly on the click. Kick stays exactly on the click. Only the snare moves. The groove will feel <em>urgent</em> — leaning forward, slightly anxious. The hard part is <strong>consistency</strong>: every backbeat has to be early by the same amount. Practice with a 2-and-4 click and watch your snare-clack arrive just before each click."
+      },
+      {
+        "title": "3 — Snare Consistently 30ms Late (Dragged)",
+        "tip": "Same notes again, but <strong>play the snare a hair after the click</strong>. The groove will feel <em>heavy</em> — settled into the pocket, almost reluctant. Same consistency requirement: every backbeat dragged by the same amount. Compare to exercise 2 — same notes, opposite feel. This is how the same song chart can feel like two different songs depending on where the drummer puts the snare."
+      },
+      {
+        "title": "4 — Drunken Feel (Kick Early, Snare Late, Hat On)",
+        "tip": "The canonical Dilla drunken feel. <strong>Kick is slightly early</strong>, <strong>snare is slightly late</strong>, hat is on the click. The two displacements are in <em>opposite directions</em> — that is what creates the wobble. The feet pattern adds an &-of-1 kick to give the kick line shape. Listen to a Dilla beat once before practicing; the wobble is unmistakable. Once it locks, the bar feels like it is breathing."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Donuts",
+        "note": "The original wobble — every beat displaced differently."
+      },
+      {
+        "artist": "J Dilla",
+        "work": "Slum Village — Fantastic, Vol. 2",
+        "note": "Hand-programmed on MPC pads with the quantize off, so the drums lean against the samples instead of sitting on the grid. \"Get Dis Money\" goes further and refuses to put a kick on the downbeat."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Headnod Suite",
+        "note": "A jazz drummer making his own beat tape: some of the drums are takes he recorded himself, the rest are samples, and all of it gets shaped on an MPC. Across the 29 short tracks, listen for a drummer's swing holding up under material pulled from soul, Brazilian jazz and library music."
+      }
+    ]
+  },
+  "hiphop-808-translation": {
+    "tagline": "Trap 808 sub-bass kicks on an acoustic kit",
+    "bodyHtml": "\n      <p>The 808 — Roland's TR-808 drum machine, born in 1980 and almost immediately rejected for being unconvincing — has become the defining bass voice of trap, drill, modern hip-hop and large parts of pop. The 808 kick is not a kick; it is a <em>sub-bass note</em> with a transient at the front. It can be tuned to a pitch (often the song's root), and it sustains for hundreds of milliseconds — much longer than an acoustic kick.</p>\n      <p>Translating the 808 to an acoustic kit means accepting that you cannot reproduce it. You can, however, voice it. A floor tom — tuned low, with the resonant head loose — gives you a long-decay low note. A second kick drum, if you have one, can be detuned to do the same. A combination of acoustic kick and electronic trigger is the modern compromise. The notational convention in this lesson uses the floor tom as the 808 voice and the bass drum as the percussive layer.</p>\n\n      <h2 class=\"section-label\">Voice Mapping</h2>\n      <ul>\n        <li><strong>Bass drum (f/4)</strong> — the <em>kick</em> layer (short, percussive transient).</li>\n        <li><strong>Floor tom (a/4)</strong> — the <em>808</em> layer (long, low, sub).</li>\n        <li><strong>Hi-hat (g/5/x2)</strong> — the trap hat line, often rolling.</li>\n        <li><strong>Snare (c/5)</strong> — backbeat (often on 3 in a half-time trap feel — the second backbeat).</li>\n      </ul>\n\n      <h2 class=\"section-label\">Half-Time Counting</h2>\n      <p>Trap is usually written and felt at <em>half the BPM</em> of the underlying hat roll. A hat playing apparent 16ths at 140bpm is actually playing 32nds against a 70bpm pulse. The snare on 3 — what would be beat 3 at full tempo — is the <em>backbeat</em>. This lesson is notated at the half-time pulse so the snare feels like a 2-and-4 backbeat in a slow song.</p>\n    ",
+    "graduationCriteria": [
+      "Basic 808 kick pattern (long-decay sub on syncopated 16ths) holds at ♩=70 (half-time feel) for 16 bars",
+      "Floor-tom-as-808 voicing is clearly distinguishable in pitch from the kick on every bar",
+      "Canonical 16th hat-roll over an 808 pattern sustains for 8 bars without the roll falling apart on the &-of-3",
+      "4-bar 808-driven groove is repeatable on demand with the same kick/sub voicing each time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic 808 Pattern (Kick Only)",
+        "tip": "808 kick pattern voiced on the bass drum only. Kick on 1, the &-of-2, the &-of-3 and 4. That &-of-3 is the anticipation. <strong>The snare is on 3</strong> — the half-time backbeat. This sparse syncopated kick line is the shape; in exercise 2 we'll add the floor tom as the 808-sub layer. Practice this until the kick pattern is locked. The kick must <em>not</em> drift toward 1-and-3 on autopilot — every 808 hit lands deliberately."
+      },
+      {
+        "title": "2 — Floor-Tom-as-808 Sub Layer",
+        "tip": "The floor tom doubles every kick note, right hand and right foot landing as one — that alignment is the whole challenge, and dropping to ♩=55 to get it clean is legitimate. Locked, the pair reads as a single <em>808</em>: transient on top, sub underneath. Flammed, it reads as two drums."
+      },
+      {
+        "title": "3 — Canonical 16th Hat-Roll Over an 808 Pattern",
+        "tip": "The 16th hat is the engine — if it stumbles, the groove dies. Build in layers: hat alone, then the snare on 3, then the kick pattern. The likely fail point is the &-of-3, where a kick lands mid-roll and the temptation is to drop a hat note. Don't."
+      },
+      {
+        "title": "4 — Four-Bar 808-Driven Groove",
+        "tip": "The rolling-hat gesture on the &-of-4 — 32nds, sticking R-L-R-L — is the hard part; start at ♩=50 and creep up. Around it: snare on 3 and the busy kick line (1, &-of-2, the 16th syncopation, &-of-3, &-of-4). The roll signals the section repeat, so it can't smear."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Various producers",
+        "work": "Travis Scott — Astroworld",
+        "note": "No drum credit appears anywhere in the personnel — the played instruments are keyboards, guitar, bass, cello and strings, so every kick and 808 here was programmed. More than twenty producers worked on the album, so listen for how the 808 tuning and decay shift from track to track."
+      },
+      {
+        "artist": "Metro Boomin",
+        "work": "Heroes & Villains",
+        "note": "The personnel credit here is programming, not performance, so every kick and hat on the record was built rather than struck. Listen for how the live strings, trumpet and French horn sit against drums that no one played."
+      },
+      {
+        "artist": "Tay Keith",
+        "work": "BlocBoy JB — Look Alive",
+        "note": "One producer built this entire instrumental, so the 808 line and the hat rolls come from a single author rather than a committee. Eminem's Not Alike interpolates the same beat, which lets you hear the pattern land in two different settings."
+      }
+    ]
+  },
+  "hiphop-chris-dave": {
+    "tagline": "Behind-the-beat, broken-snare, almost-falling-apart-but-never",
+    "bodyHtml": "\n      <p>Chris Dave's drumming sounds like a groove that is about to fall apart, every bar, and never does. The snare is behind the beat to a degree that on paper looks impossible — the dragged backbeat lands so far behind the click that a less-confident drummer would assume they had simply lost time. Dave knows exactly where the click is. He is choosing not to land on it.</p>\n      <p>The other Dave signature is the <em>broken snare</em>. Where most drummers play ghost notes as a uniform whisper between the loud backbeats, Dave breaks his snare line into uneven velocities — some ghosts almost rim shots, some backbeats almost ghost notes. The snare line tells a story across the bar instead of just keeping the pulse. The result is a groove that <em>conversates</em> with itself.</p>\n\n      <h2 class=\"section-label\">Behind-the-Beat, Definitively</h2>\n      <p>Most drummers' \"behind the beat\" is 10–20 milliseconds. Chris Dave's is closer to 50–80. At ♩=80 that is meaningful — the snare arrives almost a sixteenth-note late. The hat is on the click. The kick is on the click. Only the snare drags this far. To a listener it sounds like the band is rushing and the drummer is the one calm element. It is one of the most distinctive feels in modern music.</p>\n\n      <h2 class=\"section-label\">The Broken-Snare Line</h2>\n      <p>A traditional ghost-note line is mathematical: backbeat backbeat (loud), ghosts (quiet) filling the space. Dave's line is unpredictable. Some 'ghosts' are almost loud. Some 'backbeats' are nearly ghosts. The line sounds like a drummer thinking out loud. It is hard to write down because the velocities themselves are the music; the rhythmic placement is only half the picture.</p>\n\n      <h2 class=\"section-label\">The Drumhedz Record</h2>\n      <p>Dave's own record, <em>Chris Dave and the Drumhedz</em> (2018), shows the approach in its purest form: half-time feel, sparse kick, deeply dragged snare, busy and broken hat line. The hat carries the small motion; the snare carries the large lean. Below is a study in that lineage.</p>\n    ",
+    "graduationCriteria": [
+      "Chris-Dave-style snare drag (snare hits well behind the click while hat stays on) holds at ♩=82 for 16 bars",
+      "Broken-snare 16th line (snare velocities deliberately uneven, ghosts and accents collide) is repeatable",
+      "Canonical Drumhedz-style stomp groove (sparse kick, dragging snare, busy hat) holds at ♩=78 for 16 bars",
+      "4-bar Dave-style pattern can be reproduced on demand with the same drag amount each repetition"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Chris-Dave Snare Drag (Basic)",
+        "tip": "Half-time feel — snare on 3 (the only backbeat in the bar). <strong>Drag that snare hard.</strong> Hat stays on the click. Kick stays on the click. Snare lands well after beat 3, almost on the &-of-3. Loop it until the drag becomes the feel rather than a mistake. The first eight bars will feel wrong; the ninth will start to feel right; by bar sixteen, the click will sound like it is rushing."
+      },
+      {
+        "title": "2 — Broken-Snare 16ths",
+        "tip": "Snare line is broken. <strong>Some ghost notes are accented (marked); some 'backbeats' aren't.</strong> The pattern looks regular on paper but the velocity story is irregular — some hits jump out, some hide. Aim for a four-tier dynamic vocabulary on the snare: <em>full backbeat</em>, <em>accented ghost</em>, <em>ghost</em>, <em>whisper-ghost</em>. The hat plays through. The result reads as conversational, not metronomic."
+      },
+      {
+        "title": "3 — Tabernacle / Stomp Groove Feel",
+        "tip": "Half-time stomp groove in the Drumhedz lineage. Sparse kick (1 and the &-of-3 only). Snare scattered across the 16ths in a broken-line pattern, with the accented backbeat dropped on beat 3 (dragged hard, well behind the click). Hat plays a busy 16th line that <em>also</em> drops out for individual snare hits — a linear-ish texture where some 16ths only have snare, some only have hat. Practice at ♩=60 and bring it up."
+      },
+      {
+        "title": "4 — Four-Bar Dave-Style Pattern",
+        "tip": "Two accented snares — the surprise on the &-of-2, the dragged anchor on 3 — over a broken, whispering snare line and an asymmetric kick (1, just-after-1, &-of-3). The dynamic story matters more than the placements: anchor, surprise, and everything else murmuring underneath."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Dave",
+        "work": "Chris Dave and the Drumhedz (2018)",
+        "note": "'Sensitive Granite' slows down and puts the snare between 3 and 4 for the first half of the track, then squarely on 4 for the second. 'Universal Language' and 'Destiny N Stereo' show the other side: slick grooves that point back at 90s hip-hop."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "On 'Afro Blue' behind Erykah Badu the kit is all trebly snare and cymbals, a hip-hop feel played rather than looped. 'Letter to Hermione' is the contrast: a martial groove that answers the vocal phrase by phrase instead of holding a pattern."
+      },
+      {
+        "artist": "D'Angelo",
+        "work": "Black Messiah (Dave is one of the kit references)",
+        "note": "Dragged snare in a soul context."
+      }
+    ]
+  },
+  "hiphop-anderson-paak": {
+    "tagline": "The singer-drummer pocket — neo-soul, hip-hop, funk, all at once",
+    "bodyHtml": "\n      <p>Anderson .Paak drums and sings at the same time. That single fact dictates everything about his drumming approach. Every kick has to leave room for a vowel. Every snare has to coincide with — or deliberately not with — a syllabic accent. The kit is no longer playing <em>under</em> the song; the kit and the song are one body, and that body has to be coordinated from the inside.</p>\n      <p>The result is a drum approach that sounds like the song is wearing the drums, not the other way around. Pocket is foundational. Restraint is foundational. The fills are short and song-aware — never a drummer showing off, always a drummer making space.</p>\n\n      <h2 class=\"section-label\">The Singer-Drummer Test</h2>\n      <p>The exercises in this lesson are built for the test described in the graduation criteria: <strong>can you sing while playing them?</strong> If you cannot, the groove is not yet locked. A pattern that requires your full attention to play is not yet ready to be a backing for a vocal. Practice each exercise to the point where you can hum the melody of an unrelated song over the top of it without losing the pocket.</p>\n\n      <h2 class=\"section-label\">Vocal-Aware Kick Placement</h2>\n      <p>Listen to a .Paak track and notice that the kick frequently lands on a stressed syllable in his line. The kick is reinforcing the lyrical accent. When he scats or improvises, the kick can move; the kick is part of his voice. As a drummer-only player you do not have a voice, but you can <em>imply</em> one — sing a phrase in your head and let the kick line follow that phrase's stresses. The result is a groove that already feels like a song.</p>\n\n      <h2 class=\"section-label\">Come Down / Bubblin'</h2>\n      <p>The canonical .Paak hits — \"Come Down\" off Malibu, \"Bubblin'\" off Oxnard, much of Ventura — share a half-time-or-shuffle-feeling 16th hat, a dragging snare, and a kick that lives in the syncopations between beats. Below is a study in that direction.</p>\n    ",
+    "graduationCriteria": [
+      ".Paak-style groove holds at ♩=98 while you sing or hum a melody on top — both stay in time",
+      "Vocal-aware kick placement (kick lands on syllabic stresses of the implied vocal line) is consistent for 16 bars",
+      "Canonical \"Come Down\" / \"Bubblin'\" feel (16th hat, dragging backbeat, syncopated kick) holds at ♩=96",
+      "4-bar .Paak-style pattern is repeatable and the pocket survives moments where you stop thinking about it"
+    ],
+    "exercises": [
+      {
+        "title": "1 — .Paak-Style Groove (Sing Or Hum While Playing)",
+        "tip": "Basic .Paak-style pocket. Hat 16ths, snare on 2 and 4 (dragged a hair), kick on 1, &-of-2, 4. Once it is locked, <strong>start humming a melody on top</strong> — any melody, even just a single sustained note. The drumming has to keep going while you do. If your hands tense up the moment you start to hum, the groove is not internalized. Loop until you can do both for 30 seconds without effort."
+      },
+      {
+        "title": "2 — Vocal-Aware Kick Placement",
+        "tip": "Now the kick line is irregular — landing on the 1, the just-after-1, the &-of-2, and the &-of-4. <strong>Imagine a vocal line</strong>: <em>'when the night-time falls and the city goes still'</em> — the kick is voicing the bold-ed syllabic stresses. This is how .Paak's kick patterns feel song-aware: they are speaking the lyric you cannot yet hear. Once locked, hum the line and notice that the kick now feels inevitable rather than placed."
+      },
+      {
+        "title": "3 — \"Come Down\" / \"Bubblin'\" Feel",
+        "tip": "The dragging-backbeat, ghost-note-rich pocket of the canonical .Paak singles. Snare on 2 and 4 dragged behind the click; ghost notes scattered between (some accented, some not, in the Chris-Dave broken-snare lineage). Kick is asymmetrical: 1, &-of-2, &-of-3, 4, &-of-4. The whole bar leans forward into beat 1 of the next bar. Sing along while playing — even a tuneless hum will reveal whether the pocket is strong enough to survive vocal accompaniment."
+      },
+      {
+        "title": "4 — Four-Bar .Paak-Style Pattern",
+        "tip": "Working .Paak bar. Hat 16ths constant, ghost-note carpet of broken snare 16ths, dragging backbeat on 2 and 4, kick line that voices an implied vocal stress pattern. Loop for four bars and <strong>commit to the pocket</strong> — don't add fills. The song-aware drummer is the one who plays nothing extra. The bar repeats and earns its place by repeating well."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Anderson .Paak",
+        "work": "Malibu",
+        "note": "Two cuts carry his own drum credit in the album booklet, \"Heart Don't Stand a Chance\" and \"Your Prime\", and most of the rest of the record is a producer's beat rather than anyone's kit. Those two are where you hear his kit under his own vocal."
+      },
+      {
+        "artist": "Anderson .Paak",
+        "work": "Oxnard / Ventura",
+        "note": "His own drum credits are \"The Chase\" and \"Brother's Keeper\" on Oxnard, and \"Come Home\", \"Good Heels\" and \"King James\" on Ventura. Those five are the cleanest places to hear him behind the kit, since the other cuts either credit no drums at all or put a producer's name on the drum line."
+      },
+      {
+        "artist": "Knxwledge",
+        "work": "NxWorries — Yes Lawd!",
+        "note": "Every groove here is chopped from old soul, gospel and funk records rather than played, vinyl crackle and all. Anderson .Paak only sings on this one, so listen for how a looped bar, not a live drummer, sets the pocket he phrases against."
+      }
+    ]
+  },
+  "hiphop-j-dilla": {
+    "tagline": "Conflicting micro-displacements — the math that sounds drunk",
+    "bodyHtml": "\n      <p>The thing that made J Dilla's beats sound like nobody else's was not a single secret; it was a stack of small ones. He programmed each pad of the MPC separately, and on each pad he chose a slightly different timing offset. The kick was placed at one offset. The snare at another. The hi-hat at a third. The result was a beat where every voice was off the grid in a different direction. The grid was a suggestion that nobody on the track agreed on.</p>\n      <p>What this produces is a feel that the brain reads as <em>drunk</em>. Not careless — drunk in a deliberate, jazz-trained, pocket-deep way. Each voice has internal consistency: the snare is always late by the same amount, the hat is always early by the same amount. But the voices conflict with each other, and the conflict is the music.</p>\n\n      <h2 class=\"section-label\">The Producer's Mind</h2>\n      <p>Dilla was a drummer in a producer's body. He made beats with his fingers on pads, but he heard them as a drummer would: every voice has a feel, every voice can have its own pocket. To translate this to a kit, you have to do something most kit drummers never do — <em>commit your different limbs to different places relative to the click</em>, and hold them there.</p>\n\n      <h2 class=\"section-label\">Three-Voice Displacement</h2>\n      <p>Pick a click. The kick sits on it. The snare sits 30 milliseconds after it. The hi-hat sits 30 milliseconds before it. You now have three different time-feels happening at once: kick is on, snare drags, hat pushes. The challenge is consistency — once you choose the offsets, every bar has to honour them.</p>\n\n      <h2 class=\"section-label\">Donuts-Era Feel</h2>\n      <p>The Donuts album (released the same week Dilla died, 2006) is the source text. It is full of beats where the wobble is severe, the loop is short, the timbres are dense and warm. Listen to it once before practicing the exercises below — the ear has to know what it is aiming for.</p>\n    ",
+    "graduationCriteria": [
+      "Backbeat with kick on, snare late, hat early — three distinct micro-placements stable for 16 bars at ♩=86",
+      "Reversed (kick late, snare on, hat on) — the same pattern with different limb assignments holds for 16 bars",
+      "Donuts-era feel (a Dilla-school wobble pattern with pads-style swung 16ths) holds at ♩=84",
+      "4-bar Dilla-mimic pattern repeatable on demand — the wobble is the same wobble each time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Kick On, Snare Late, Hat Early",
+        "tip": "Build it voice by voice against a 2-and-4 click: snare first (a hair after the click, consistently), then the hat (a hair before), then the kick (dead on). The hat-snare disagreement creates the wobble; the kick is the anchor that lets you hear it."
+      },
+      {
+        "title": "2 — Reversed (Kick Late, Snare On, Hat On)",
+        "tip": "Same notes, different limb-displacement assignment. Now the <strong>kick is dragged</strong> and the hat and snare are on the click. The groove now feels like the bottom is sinking. The point of doing this exercise after exercise 1 is to feel that <em>different displacement assignments produce totally different feels</em>. The notes on paper are identical. The feel is opposite. Loop each exercise for 16 bars before switching."
+      },
+      {
+        "title": "3 — Donuts-Era Wobble (Swung 16ths)",
+        "tip": "Hat 16ths are <strong>swung</strong> — the second 16th of each pair lands closer to the next downbeat (a triplet-ish 'da-ga' rather than even 'da-da'). The snare line is broken with ghost notes scattered in. Kick on 1, &-of-2, &-of-3. <strong>The kick remains on the click. The hat swings. The snare drags.</strong> Three voices, three different feels, all happening at once. This is the Donuts feel in skeleton form."
+      },
+      {
+        "title": "4 — Four-Bar Dilla-Mimic Pattern",
+        "tip": "Hat swung, snare dragged, kick square — all three feels running at once. The checkpoint is the &-of-3, where the kick lands together with a snare ghost; that stacked hit should sound layered, not accidental. If you flub, recover <em>into the wobble</em>, not back onto the grid."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Donuts (2006)",
+        "note": "Listen for each voice sitting at its own offset — kick on, snare late, hat early — bar after bar."
+      },
+      {
+        "artist": "J Dilla",
+        "work": "The Shining",
+        "note": "Posthumous, full songs in the same feel."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Alone Together",
+        "note": "A drummer translating Dilla's wobble back to the kit."
+      }
+    ]
+  },
+  "hiphop-modern-production": {
+    "tagline": "2020s producer-drumming — sparse, sub-heavy, hat-roll-driven",
+    "bodyHtml": "\n      <p>The mid-2010s onward saw a wholesale change in commercial hip-hop drumming. The old Roots / Dilla / boom-bap aesthetic — busy hat, dragged snare, kick patterns full of motion — gave way to a producer-led aesthetic dominated by 808 sub-bass and nervous, rolling hi-hats. Metro Boomin, Pi'erre Bourne, Kenny Beats, Tay Keith, Wheezy: a small group of producers shaped how nearly every Top 40 rap drum track sounds.</p>\n      <p>The new conventions: half-time feel (snare on 3, not 2-and-4). Sparse kick line that voices the song's bass note. Dense hat-rolls in 16ths and 32nds and triplets. Lots of space — the drum track is allowed to breathe in a way the 90s never permitted. As a kit drummer, this is the language modern production sessions want from you.</p>\n\n      <h2 class=\"section-label\">The Hat-Roll Vocabulary</h2>\n      <p>The single most distinctive element of modern production is the rolled hi-hat figure. Most commonly: a 16th-triplet in a single beat (six notes in the space of a quarter), or a 32nd-burst at the end of a section. A drummer who can produce these gestures live, with consistency, is rare and in demand.</p>\n\n      <h2 class=\"section-label\">Sparse Kick</h2>\n      <p>The producer kick of 2020+ is a low, pitched 808-sub. As a kit translator you usually voice it with your bass drum reinforced by a low floor-tom hit, or by a sample trigger. The pattern is rarely a busy kick line — more often it is one syncopated hit per bar, deliberately placed.</p>\n\n      <h2 class=\"section-label\">Snare On 3</h2>\n      <p>In a half-time feel, what would have been beat 2-and-4 in a regular tempo becomes the &-of-2 (skipped) and beat 3 (the only backbeat). The snare on 3 must be unshakable. Even when the hat drops out, even when the kick changes, the snare lands on 3 and the listener is grounded.</p>\n    ",
+    "graduationCriteria": [
+      "Sparse Metro-Boomin-style pattern (kick on 1 + asymmetric placements, snare on 3) holds at ♩=72 (half-time) for 16 bars",
+      "Hat-roll triplets (16th-note triplets in a single beat) are clean — not flammed, not collapsed",
+      "\"Trap snare on 3\" feel survives a bar of dropped hat (silence on the 16ths) — the 3-snare is unshakable",
+      "4-bar modern production pattern is repeatable with consistent kick voicing and consistent hat-roll timing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Metro-Boomin-Style Sparse Pattern",
+        "tip": "Ultra-sparse modern production skeleton. <strong>Snare on 3 only</strong>. Kick on 1 and &-of-2. Hat plays steady 8ths. Beats 4 and the second half of the bar have <em>no kick at all</em> — the bar breathes. Loop and feel how much space there is. This is the canonical Metro-Boomin shape; everything else (hat-rolls, sub-808, ad-libs) layers on top of this skeleton without changing it."
+      },
+      {
+        "title": "2 — Hat-Roll Triplets (Six-Note Run)",
+        "tip": "Beats 3 and 4 carry the six-note triplet roll, sticking <strong>R-L-R-L-R-L</strong>, every note equal, the sixth note functioning as the upbeat into the new bar. Isolate it first — just six even taps across two beats — then thread it back into the groove."
+      },
+      {
+        "title": "3 — \"Trap Snare On 3\" Survives Hat Drop",
+        "tip": "The hat vanishes on the &-of-3 — the production mute — leaving the snare on 3 to land with no support, then returns in the back half of beat 4. Listen for the snare to feel inevitable in the gap; if it wavers when the hat drops, it isn't load-bearing yet."
+      },
+      {
+        "title": "4 — Four-Bar Modern Production Pattern",
+        "tip": "Working modern production bar. Hat 16ths through, then a 32nd-roll on beat 4 (eight even 32nds, sticking R-L alternating). Snare on 3. Kick on 1, &-of-2, &-of-3, &-of-4 — and the &-of-3 and &-of-4 kicks have a floor-tom-808 doubled in (kick + floor tom together = trap sub voice). <strong>The 32nd hat-roll on beat 4 is the producer signature</strong>: it is the gesture that says 'section change next bar'. Practice the roll alone first."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Metro Boomin",
+        "work": "Heroes & Villains",
+        "note": "He produced all fifteen tracks and holds the album's programming credit; no drummer or percussionist appears anywhere in the personnel. On Superhero, listen for the pummeling 808s and muted horns, then the point where they fade into somber synths behind Chris Brown's closing section."
+      },
+      {
+        "artist": "Tay Keith",
+        "work": "BlocBoy JB — Look Alive",
+        "note": "He built this top-five Hot 100 single alone in FL Studio 11, in about thirty minutes. Listen for what he called Memphis bounce in the old Three 6 Mafia mold, rebuilt on a new 808 sound with a creepy piano figure over the top."
+      },
+      {
+        "artist": "Pi'erre Bourne",
+        "work": "Playboi Carti — Magnolia",
+        "note": "One producer, no drummer in the credits: this beat was built, not played. Listen for the New Orleans bounce pattern that drives the track and the rattling low-end bass sitting under it."
+      }
+    ]
+  },
+  "hiphop-sampling": {
+    "tagline": "Locking with a sample loop — knowing when to play less",
+    "bodyHtml": "\n      <p>When a hip-hop track is built around a sample, there is already a drum kit on the recording — the original break, looped. The live drummer's job is not to replace it; it is to <em>conversate</em> with it. This is one of the most under-taught skills in hip-hop drumming and one of the most important. A great sample-aware drummer makes the track sound bigger; a poor one trips over the loop and makes everything muddy.</p>\n      <p>The notation in this lesson cannot show you a sample (the renderer cannot play one back). Instead, each exercise describes an <em>implied sample loop</em> in the tip and asks you to play the kit part as if that loop existed. Practice the exercises while imagining the sample, or — better — find a 4-bar break loop on your phone, play it on a speaker, and play the exercise on top.</p>\n\n      <h2 class=\"section-label\">Four Modes</h2>\n      <ul>\n        <li><strong>Lock</strong> — your kit reinforces the sample's drums note-for-note (or close to it).</li>\n        <li><strong>Double-Time Complement</strong> — your kit plays a denser feel on top of a sparse sample.</li>\n        <li><strong>Sparse-Over-Busy</strong> — the sample is doing the work; your kit fills only the gaps.</li>\n        <li><strong>Transition</strong> — at the end of a 4-bar phrase, your fill announces the next phrase, then both kit and sample settle back in.</li>\n      </ul>\n\n      <h2 class=\"section-label\">The Restraint Principle</h2>\n      <p>The single most important thing to learn from this lesson: <em>most of the time, you should play less than you want to.</em> The sample is already there. Your job is not to add to it; it is to make sure the listener notices it. A bar with you and the sample both playing busy patterns is a bar where neither is heard. Choose.</p>\n    ",
+    "graduationCriteria": [
+      "Locked-with-sample bar (drumming that reinforces an implied looped break) holds at ♩=88 for 16 bars",
+      "Double-time complement (16th-feel kit on top of an implied 8th-feel sample) holds at ♩=88 without one tempo dragging",
+      "Sparse-over-busy bar — kit plays only on the spaces the sample leaves — sustains for 8 bars without tempo loss",
+      "Transition fill resolves cleanly into the implied sample on the downbeat of the next 4-bar phrase"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Locking With An Implied Sample Loop",
+        "tip": "<strong>Imagined sample</strong>: a mid-tempo soul break — kick on 1 and the &-of-3, snare on 2 and 4, hat 8ths. Your part mirrors it almost exactly, and the lock has to be perfect: any flam between your snare and the sample's snare turns reinforcement into mud. A real break loop makes this honest."
+      },
+      {
+        "title": "2 — Double-Time Complement Over A Sparse Sample",
+        "tip": "<strong>Imagined sample</strong>: the same break stripped to kick and snare, half-time. You supply the density — hat 16ths, ghost-note carpet, kick doubling the sample's downbeats. The hazard is drifting down to the sample's energy: hold the 16th feel even though the loop is implying 8ths."
+      },
+      {
+        "title": "3 — Sparse Drumming Over A Busy Sample",
+        "tip": "<strong>Imagined sample</strong>: a busy loop — 16th hats, dense ghosts, kick syncopation everywhere. Against it you play almost nothing: kick on 1, snare on 2, kick and snare on 4. Your sparseness is what lets the listener hear the sample's detail. Sit in it for sixteen bars; the absence does the work."
+      },
+      {
+        "title": "4 — Transition Fill Resolving Into The Sample",
+        "tip": "Bar 4 of the loop: half a bar of the locked groove, then the descending run — snare-snare, hi-hi, mid-mid, floor-floor — aimed at the next phrase's downbeat. The final floor tom is an upbeat, not an ending: the fill announces the loop's return and the loop accepts it."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "DJ Premier",
+        "work": "Gang Starr — Moment of Truth",
+        "note": "Listen for where the drums lock with the loop and where they deliberately leave it alone."
+      },
+      {
+        "artist": "Pete Rock",
+        "work": "Mecca and the Soul Brother",
+        "note": "Sample-driven beats with live touches."
+      },
+      {
+        "artist": "Madlib",
+        "work": "Madvillainy",
+        "note": "Producer-side study — what the live drummer is conversing with."
+      }
+    ]
+  },
+  "hiphop-louis-cole": {
+    "tagline": "The drum machine in a human body — hyper-precise, hyper-clean",
+    "bodyHtml": "\n      <p>Louis Cole drums like a drum machine that has decided it wants to be a person. Every note is placed where the math says — no swing, no drag, no push, no human wobble. But the dynamic range is enormous, the placements are inventive in a way no machine would think of, and the gestures are unmistakably alive. The result is a kind of drumming that nobody else does, and that everyone who hears it tries to copy.</p>\n      <p>The lessons of Cole's drumming are about <em>control</em>. Most kit drummers, when they play fast, lose dynamics. Cole keeps them. Most kit drummers, when they place a snare on a weird 16th, give it away by tensing up. Cole doesn't. The hands and feet do exactly what they are told and nothing else. It looks impossible until you realize it is the result of obsessive practice and absolute economy of motion.</p>\n\n      <h2 class=\"section-label\">Mechanical Precision</h2>\n      <p>Cole's hat 16ths are the same volume from start to finish. Cole's snare backbeats are the same volume from bar one to bar twenty. Cole's kicks are the same volume regardless of where in the bar they land. This is hard to do. Practice with a click and a metronome that exposes velocity — if your phone has a drum-app metronome that flashes when you play softer than the click, use it. The goal is invisibility of the human player.</p>\n\n      <h2 class=\"section-label\">Sudden Dynamic Drops</h2>\n      <p>Cole loves a section that suddenly drops to a whisper. Same notes, same pattern, but everything is quieter — sometimes by a factor of ten. The drop is instant, not a fade. This is a producer's trick translated to a kit, and it requires an actual one-bar mental switch from the player. Practice it as a coin flip: bar one full volume, bar two ghost volume, bar three full, bar four ghost.</p>\n\n      <h2 class=\"section-label\">Cross-Meter Snare</h2>\n      <p>The snare does not have to live on 2-and-4. Cole will sometimes place a sustained snare line on, say, every <em>fifth</em> 16th — a snare on the 1, then on the &-of-2, then on the &-of-3, then on the 4, then on the &-of-1 of the next bar. This forms a 5-against-16 pattern that resolves only every four bars. Sustaining that without resolving back to 2-and-4 is the test.</p>\n    ",
+    "graduationCriteria": [
+      "Mechanical 16th pattern (Cole-style — every note clean, no swing, no drag) holds at ♩=124 for 16 bars",
+      "Sudden dynamic drop (full-volume bar followed by ghost-volume bar with same notes) is repeatable",
+      "Cross-meter snare placement (snare on a non-backbeat 16th, sustained for 4 bars without resolving) holds clean",
+      "4-bar Cole-style passage demonstrates control of all three elements — precision, dynamics, displacement"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Mechanical-Precision 16th Pattern",
+        "tip": "Every stroke identical in volume — hat, snare on 2 and 4 with zero drag, and the busy kick line (1, &-of-1, 3, &-of-3) all at one dynamic. Watch your hands in a mirror: varying stick height <em>is</em> varying dynamics, and Cole's stick height never moves."
+      },
+      {
+        "title": "2 — Same Pattern with Sudden Dynamic Drop",
+        "tip": "Beats 1 and 2 at full volume; beats 3 and 4 at ghost volume — and the drop happens between two adjacent strokes, never as a fade. Snare on 2 cracks, snare on 4 whispers. Done right, the bar sounds like two different songs joined at the seam."
+      },
+      {
+        "title": "3 — Cross-Meter Snare Placement (5-against-16)",
+        "tip": "Snare on every fifth 16th — positions 1, 6, 11, 16 — while the hat stays mechanical and the kick holds the quarters. The line only re-meets a downbeat every four bars, and the exercise is refusing to 'fix' it back to 2-and-4 before then. The non-resolution is the music."
+      },
+      {
+        "title": "4 — Four-Bar Louis-Cole-Style Passage",
+        "tip": "All three Cole devices in one bar: machine placement, a hard dynamic drop at beat 3, and cross-meter snares (2 and the &-of-3 loud; the displaced pair in the whispered half). Keep the busy kick mechanical straight through the drop. Start at ♩=80 — this one is built over weeks."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Louis Cole",
+        "work": "Time",
+        "note": "Cole wrote, recorded and mixed this himself in his Los Angeles garage, and he made the mix distorted and crunchy on purpose because he says it grooves way harder that way. Listen for how much of the aggression on these drums comes from that mix decision rather than from how hard he is hitting."
+      },
+      {
+        "artist": "Louis Cole",
+        "work": "KNOWER — Life",
+        "note": "Cole is the drummer here and, with Genevieve Artadi, the producer, so the kit and the electronics were authored by the same person. He has said he leaned on electronic percussion far more in the KNOWER years than on his solo records, so the useful exercise is trying to hear which hits a person placed and which a machine did."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music (2013 EP)",
+        "note": "Guiliana's kit is not manipulated electronically on this project, so the machine accuracy you hear is coming from his hands. Go to 'Coin Castle', which he describes as a live drum performance with the rest of the track built from synths he played."
+      }
+    ]
+  },
+  "hiphop-future-r-and-b": {
+    "tagline": "The leading edge — alternate grids, hybrid live-electronic, and what comes next",
+    "bodyHtml": "\n      <p>This is a speculative lesson — a survey of where R&B drumming is heading rather than a documentation of where it has been. The trends are clear but the canonical examples are still being recorded. The big movements: <strong>alternate time-grids</strong> (rhythms that don't fit the 4-on-4 / 16th-divided framework), <strong>hybrid live-electronic playing</strong> (kit plus triggers, kit plus drum machine, kit plus modular), and <strong>alternate meters in popular music</strong> (5/4 R&B, 7/8 dance music, songs that change meter mid-phrase).</p>\n      <p>This lesson is a survey of those three. Each exercise demonstrates a frontier element. The fourth exercise combines them. The goal is not to master a finished style; the goal is to develop ears and hands for music that is being composed right now, on records that haven't been made yet.</p>\n\n      <h2 class=\"section-label\">Alternate Grids</h2>\n      <p>Most popular music divides each beat into two (8ths) or four (16ths) or six (16th-triplets). What if a beat is divided into <em>five</em> (quintuplets)? The notes are evenly spaced inside the beat but they don't fall on any familiar position. The sound is a controlled wobble — like swing, but more so. Producers like Arca, Sophie (RIP), and the entire PC Music wave have explored this; live drummers are catching up.</p>\n\n      <h2 class=\"section-label\">Hybrid Live-Electronic</h2>\n      <p>The 2020s drummer often uses electronic triggers — a pad on the kit, a foot trigger, a sample-pad module — to add layers no acoustic drum can produce. The kit plays one rhythm; the triggers play a different one; the two together produce a layered sound that no purely acoustic kit could. This lesson notates the kit part only, but the tip describes the electronic layer that should run alongside.</p>\n\n      <h2 class=\"section-label\">Alternate Meters in R&B</h2>\n      <p>5/4 used to belong to jazz and prog rock. In the late 2010s artists like Solange, Robert Glasper, FKA Twigs put 5/4 (and 7/8 and shifting meters) into R&B and pop contexts. The drummer's job is to make the meter feel <em>natural</em> — not \"look how clever this is\" but \"this is just how this song breathes.\"</p>\n\n      <h2 class=\"section-label\">A Note On The Frontier</h2>\n      <p>The lessons in this curriculum so far have leaned on canonical examples — listen to this album, mimic this drummer. This lesson asks you to listen forward instead. The artists who will define this style in 2030 are recording today. Listen widely; the material is everywhere.</p>\n    ",
+    "graduationCriteria": [
+      "Non-grid pattern (notes that fall between traditional 16ths and 32nds — a \"dragged 24th\" feel) holds at ♩=80 for 8 bars",
+      "Hybrid live-electronic groove (kit playing one rhythm, electronic-trigger feet playing another) sustains for 16 bars",
+      "Alternate-meter R&B groove in 5/4 holds at ♩=92 with a singable, song-shaped feel",
+      "4-bar future-R&B pattern combines all three elements (alternate grid, hybrid voicing, alternate meter) and is repeatable"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Non-Grid Pattern (Quintuplet Subdivision)",
+        "tip": "Five even hat notes per beat. The snares sit on the bar's 6th and 16th quintuplet positions — almost 2 and 4, but not — with kick on 1 and 3. Learn the hat alone, counting <em>'1-2-3-4-5'</em> aloud per beat; the bar should feel stretched, not swung."
+      },
+      {
+        "title": "2 — Hybrid Live-Electronic Groove",
+        "tip": "The d/4/x2 symbol is not a hi-hat foot — it stands for a trigger pad firing on every &-offbeat (an 808 sub or clap layer in performance). Kick on downbeats, snare on 2 and 4, hat 16ths: the kit stays plain so the electronic layer owns the syncopation."
+      },
+      {
+        "title": "3 — Alternate-Meter R&B Groove (5/4)",
+        "tip": "Feel the bar as <em>2 + 3</em>, snares on positions 2 and 4, kick on 1, the &-of-2, 3, and 5. The test is musicality, not arithmetic: sing any melody over it while you play. If the tune feels bolted on, the five isn't natural yet."
+      },
+      {
+        "title": "4 — Four-Bar Future-R&B Pattern",
+        "tip": "One frontier element per zone: beat 1 runs the quintuplet hat, beats 2 and 3 go 16th hat with the trigger pad on the offbeats, beat 4 lands cross-meter snares on the bar's 14th and 15th 16ths, with kick-plus-floor subs on the &-of-3 and &-of-4. Half tempo first; this is a long-term study."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Q-Tip",
+        "work": "Solange — Borderline (An Ode to Self Care)",
+        "note": "No other track on the album carries a drum credit at all, and the one here goes to the producer, keyboards and drums in the same pair of hands. The credits also name a portion of the 'More Than a Woman' composition by Timbaland and Static Major, so listen for where that lineage surfaces."
+      },
+      {
+        "artist": "FKA Twigs",
+        "work": "Magdalene",
+        "note": "Nobody is credited with a drum kit anywhere on this record. Twelve people hold a drums credit across its nine tracks, so listen for the rhythm changing authorship from song to song rather than carrying one player's habits."
+      },
+      {
+        "artist": "Yussef Dayes",
+        "work": "Black Classical Music",
+        "note": "His debut solo album, played and co-produced by him with Miles James. Listen across the 19 tracks for how far the rhythmic sourcing travels, from African polyrhythm through Caribbean groove to Latin inflection."
+      },
+      {
+        "artist": "Makaya McCraven",
+        "work": "In These Times",
+        "note": "Recorded across five studios and four live rooms, then cut apart and rebuilt in post at home, so the kit was played first and produced second. The rhythmic concept underneath it is 7/8, 5/8 and 11/8 folded into grooves rather than displayed, so listen for the point where the bar length stops announcing itself."
+      }
+    ]
+  }
+}

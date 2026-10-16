@@ -1,0 +1,533 @@
+{
+  "polyrhythms-3-2": {
+    "tagline": "Two pulses, one body — the foundational polyrhythm, owned",
+    "bodyHtml": "\n      <p>You've already met 3:2 as a groove in <em>Polyrhythmic Grooves</em>. This lesson is the next step: making 3:2 something you <em>own internally</em>, not just something your hands can execute when the click is on. The goal is two simultaneous pulses living in your body at the same time — so that, mid-groove, you can shine the spotlight on either one without losing the other.</p>\n      <p>The technical content is small (3 against 2 on a kit is six-against-four, you've seen the math). The pedagogical content is large. Three-against-two is the universal solvent of polyrhythms: once you genuinely feel it, every other ratio becomes a variation rather than a new puzzle. West African drumming, Bach's keyboard music, Cuban rumba, and prog rock are all riding on this same skill.</p>\n\n      <h2 class=\"section-label\">The Two Layers, Visualised</h2>\n      <p>A bar of 3:2 has six even pulses underneath. The 3-pulse hits every two of those (positions 1, 3, 5). The 2-pulse hits every three of those (positions 1, 4). They share position 1; everywhere else they argue. Counting \"<em>1-2-3-4-5-6</em>\" works for a few bars, but it's a crutch — eventually you have to stop counting and start <em>feeling</em>.</p>\n\n      <h2 class=\"section-label\">Build Order — From Outside the Kit</h2>\n      <ul class=\"bulleted\">\n        <li>Clap a 2-pulse with your hands while tapping a 3-pulse with your foot. Then swap: 3 in the hands, 2 in the foot.</li>\n        <li>Once both directions are equally easy, sing one pulse while clapping the other. The voice is a third limb here — the more limbs that know the polyrhythm, the deeper it goes.</li>\n        <li>Move to the kit only when the body version is rock-solid. If you can't do it on a tabletop, you cannot do it on a drum set.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Switching Foreground</h2>\n      <p>The deeper skill — and the one that separates a drummer who has practiced 3:2 from one who has <em>internalized</em> it — is being able to switch which pulse you're hearing as primary <strong>without changing what your hands are doing</strong>. The 3-pulse and 2-pulse are both there; your attention picks one. This is the same skill that lets a Cuban drummer hear the 3-side of a 3-2 clave as the strong side, and a North Indian musician hear the same rhythm grouped completely differently. The hands play one thing; the mind hears another.</p>\n\n      <h2 class=\"section-label\">Across the Kit</h2>\n      <p>The final exercise breaks 3:2 across the kit — the 3-pulse on the high tom, the 2-pulse on the floor tom, the kick filling in the underlying six. This is the entry point to <em>polyrhythmic orchestration</em>: distributing the layers of a polyrhythm across multiple voices so a listener can <em>see</em> them in stereo. It's the sound of Tony Williams, Jack DeJohnette, and any modern jazz drummer working in odd subdivisions.</p>\n    ",
+    "graduationCriteria": [
+      "You can <em>feel</em> both the 3-pulse and the 2-pulse simultaneously — switch which one is in the foreground without dropping either",
+      "Clap the 3 while tapping the 2 (and vice versa) for one continuous minute without the pulses collapsing into one another",
+      "3-on-snare-against-2-on-kick groove holds at ♩ = 80 for two minutes with both voices clearly audible"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Clap the 3, Tap the 2 (Body Drill)",
+        "tip": "Hands take pulses 1, 3, 5; feet take 1 and 4 — together on beat 1, arguing everywhere else. Say <em>'hot — cup — of — tea'</em> with the feet while the hands sing <em>'pass-the-but-ter'</em>. Then swap sides: both directions must feel equally natural before you sit at the kit."
+      },
+      {
+        "title": "2 — 3 on Snare against 2 on Kick",
+        "tip": "Snare plays the 3-pulse (quarter-note triplets across two beats, twice per bar). Kick plays a 2-pulse on beats 1 and 3. <strong>They line up only on beat 1.</strong> Practice this with a metronome on quarter notes (the kick), <em>not</em> on the triplets. The 3-pulse must float over a click that is reading the 2-pulse — that is the whole skill."
+      },
+      {
+        "title": "3 — Switching Foreground",
+        "tip": "Nothing changes in the limbs — only the listening. Bars 1–4: hear the snare's 3 as primary. Bars 5–8: promote the kick's 2. It's the duck/rabbit drawing as rhythm: both shapes are always present, and your attention chooses which one to see."
+      },
+      {
+        "title": "4 — 3:2 Broken Across the Kit (Hi Tom + Floor Tom)",
+        "tip": "<strong>Orchestration:</strong> 3-pulse on the <em>high tom</em>, 2-pulse on the <em>floor tom</em> (notated on the floor-tom line, but played with your feet so the orchestration is left/right hands free for melodic decoration above). The high-tom pitch + floor-tom pitch separation lets a listener hear both pulses in stereo, the way Tony Williams or Jack DeJohnette would phrase it. Once this locks, try the inverse: 2-pulse high, 3-pulse low. Same polyrhythm, different color."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Lifetime — Emergency!",
+        "note": "3:2 as orchestration, not exercise."
+      },
+      {
+        "artist": "Steve Reich",
+        "work": "Drumming",
+        "note": "Polyrhythmic phasing — 3:2 stretched over minutes."
+      },
+      {
+        "artist": "Jack DeJohnette",
+        "work": "Special Edition",
+        "note": "Foreground-switching as compositional device."
+      }
+    ]
+  },
+  "polyrhythms-5-4": {
+    "tagline": "Five evenly-spaced notes inside the time of four",
+    "bodyHtml": "\n      <p>Five over four is the next polyrhythm up the ladder, and it's a serious step up. Where 3:2 has a folksy, sing-able quality (<em>\"hot-cup-of-tea\"</em>, <em>\"pass-the-but-ter\"</em>), 5:4 has a slippery, almost queasy character. Five doesn't fold into four cleanly. The two pulses meet only every twentieth subdivision and feel as if they're drifting against each other in slow motion.</p>\n      <p>That's also what makes it so useful. A 5:4 phrase placed inside a 4/4 bar is one of the strongest tension devices a drummer has — the listener feels the bar stretch and resolve. Vinnie Colaiuta builds entire solos around it; modern fusion fills lean on it constantly.</p>\n\n      <h2 class=\"section-label\">The Maths You Have to Internalize</h2>\n      <p>Five even notes in the span of four. The underlying grid is twenty even subdivisions per bar (five 16th-quintuplets per quarter, times four quarters). The 5-pulse hits one every four of those (positions 1, 5, 9, 13, 17). The 4-pulse hits one every five (positions 1, 6, 11, 16). Both are on position 1 of the bar; they don't meet again inside a single bar.</p>\n      <p>You don't need to count to twenty — you'd explode. You need to feel the 5-grouping and the 4-grouping as two independent breathing rates. Use a syllable: \"<em>uni-ver-si-ty</em>\" or \"<em>hippopotamus</em>\" both fit five even syllables across the time of four claps. Loop it, then remove the words.</p>\n\n      <h2 class=\"section-label\">From the Body to the Kit</h2>\n      <ul class=\"bulleted\">\n        <li>Clap-and-tap first. 5-clap over 4-tap. Then invert.</li>\n        <li>Move to the kit with snare = 5 and kick = 4. Practice with the metronome reading the 4 (quarter notes), <em>not</em> the 5.</li>\n        <li>Roll it as a groove. Then deploy it as a one-bar fill inside a 4/4 phrase.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Why This Matters</h2>\n      <p>Most drummers stop at 3:2 and treat 5:4 as a parlour trick. The drummers you steal from (Colaiuta, Carter Beauford, Mark Guiliana, Dave Weckl) treat 5:4 as <em>vocabulary</em> — a phrase they can drop into any solo or fill the way a horn player drops a chromatic enclosure. That's the goal here.</p>\n    ",
+    "graduationCriteria": [
+      "Clap 5 against tap 4 (and the inverse) for one continuous minute without slipping",
+      "5-on-snare against 4-on-kick groove holds at ♩ = 70 for one minute with both voices audible",
+      "A 5:4 fill within a 4/4 bar lands on beat 1 of the next bar without rushing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Clap 5 against Tap 4 (Body Drill)",
+        "tip": "Metronome on the 4; hands chant <em>'u-ni-ver-si-ty'</em> across it, starting at ♩=60. The failure mode is a squeezed five — four claps with an extra crammed in. The five must stay stubbornly even. When it's stable, invert: hands take the 4, feet the 5."
+      },
+      {
+        "title": "2 — 5 on Snare against 4 on Kick",
+        "tip": "Same shape as Exercise 1, on the kit. Snare plays the 5-pulse (a single quintuplet group spread across the entire bar); kick plays straight quarter notes. Kick lines up with snare only on beat 1. <strong>Trust the metronome on the 4</strong>; the snare floats above. If the snare keeps locking back to the click on beats 2–4, the polyrhythm has collapsed — slow down."
+      },
+      {
+        "title": "3 — Rolling 5:4 as a Groove",
+        "tip": "Now in the feet you have a complete groove: kick on 1 and 3, hi-hat foot on 2 and 4 — a four-on-the-floor pulse. The hands play five evenly-spaced snare hits across the bar, the first one accented. Loop it and let the 5 settle. The first time the polyrhythm <em>feels like a groove</em> instead of an exercise is the moment 5:4 actually enters your body. Stay there for as long as it takes."
+      },
+      {
+        "title": "4 — 5:4 Fill Inside a 4/4 Bar",
+        "tip": "Five even hits descending — high tom, mid tom, snare, floor, floor — with the kick on beat 4 to set up the turnaround. Alternate one bar of straight 4/4 groove with one bar of this. The proof is beat 1 of the next bar: arrive a 16th early or late and the quintuplet was mis-spaced."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Seven Days",
+        "note": "Career-defining 5:4 over 7/4 vocabulary."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music",
+        "note": "5:4 quintuplet phrasing as a groove style."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "Five-note phrases across straight bar lines."
+      }
+    ]
+  },
+  "odd-meters-9-8": {
+    "tagline": "9, 11, 13 — the meters past the comfort zone",
+    "bodyHtml": "\n      <p>Once you're comfortable in 5/4 and 7/8, the door opens to everything past them. Nine. Eleven. Thirteen. These meters look intimidating on paper but feel logical the moment you stop counting individual 8ths and start feeling <em>groupings</em>. A bar of 11/8 isn't eleven of anything — it's usually 3+3+3+2, four uneven groups in a recurring shape. Once the shape is in your body, the bar plays itself.</p>\n      <p>The trick that makes every odd meter approachable is the same: identify the small groupings, accent the start of each group, and trust the shape to repeat. Greek and Balkan folk musicians live in 7, 9, 11, and 13 the way most Western players live in 4 — not because they're counting harder but because they grew up <em>dancing</em> these shapes.</p>\n\n      <h2 class=\"section-label\">9/8 — Two Flavours</h2>\n      <p><strong>9/8 as 2+2+2+3</strong> is the most common feel in modern progressive music: three even pairs followed by a long group. Brubeck's \"<em>Blue Rondo à la Turk</em>\", Dream Theater bars, lots of fusion. <strong>9/8 as 3+3+3</strong> is the compound-time feel — think of three big beats, each subdivided into three 8ths. This is the dance-meter feel of a fast Balkan kalamatianos or the swung 9/8 of a Mediterranean folk groove. The same time signature, completely different body.</p>\n\n      <h2 class=\"section-label\">11/8 and 13/8</h2>\n      <p>11/8 most commonly groups as 3+3+3+2 — three \"long\" groups and one \"short\" — and is the meter under tunes like \"<em>Outshined</em>\" (Soundgarden) and many Meshuggah-style prog passages. 13/8 splits a few ways; a useful default is 3+2+3+2+3 (long-short-long-short-long), which gives the bar a clear shape that returns on itself. The principle stays the same: <strong>group it, accent the group, repeat the shape until it's a single thing in your body.</strong></p>\n\n      <h2 class=\"section-label\">Metric Modulation Bars</h2>\n      <p>The fourth exercise in this lesson drops a beat: a bar of 4/4 followed by a bar where one quarter-note is replaced by a quarter-note triplet. The tempo doesn't change, but the <em>perceived</em> bar length does — which is the simplest form of metric modulation. The same skill scales up to large-scale modulations between meters; it starts here, with one missing beat.</p>\n    ",
+    "graduationCriteria": [
+      "9/8 (2+2+2+3) groove holds at ♩ = 90 for two minutes with the long group never collapsing into 2",
+      "11/8 (3+3+3+2) groove loops without losing the grouping",
+      "13/8 (3+2+3+2+3) holds for one minute with each grouping clearly audible"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 9/8 Groove (2+2+2+3)",
+        "tip": "Count: <em>1-2 / 3-4 / 5-6 / 7-8-9</em>, snare marking counts 3 and 7, bass drum launching groups 1 and 3. Everything rides on the long group: clip it into another pair and the bar quietly collapses to 8/8. Loop until 7-8-9 feels like home, not a stumble."
+      },
+      {
+        "title": "2 — 9/8 as 3+3+3 (Compound Feel)",
+        "tip": "Same time signature, completely different feel. Three even <em>dotted-quarter</em> beats, each subdivided into three 8ths. Count: <em>1-2-3 / 4-5-6 / 7-8-9</em>, all groups equal. The hi-hat plays steady 8ths, the snare lands on beats 2 and 3 of the dotted-quarter pulse (count 4 and count 7). This is the dance-meter feel — Mediterranean folk, fast 9/8 jigs, certain prog tunes. Notice how a bar of 3+3+3 has a totally different gravity to 2+2+2+3."
+      },
+      {
+        "title": "3 — 11/8 Groove (3+3+3+2)",
+        "tip": "Count: <em>1-2-3 / 4-5-6 / 7-8-9 / 10-11</em>, snare on counts 4, 7, and 10 so the grouping is audible. The trap is the mirror of 9/8's: stretching the final short group into another three, which turns the bar into 12/8. Say the count aloud until the shape holds."
+      },
+      {
+        "title": "4 — 13/8 Groove (3+2+3+2+3)",
+        "tip": "Count: <em>1-2-3 / 4-5 / 6-7-8 / 9-10 / 11-12-13</em>. The bar pulses long-short-long-short-long, a palindromic shape that returns on itself. Snare on the start of every group except the first; bass drum on count 1 and count 7 anchors the two halves of the bar. Once it loops, you'll feel the shape repeat as a single phrase, not as thirteen 8ths. <strong>13/8 stops being odd the moment you stop counting it.</strong>"
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Joe Morello",
+        "work": "Dave Brubeck Quartet — Blue Rondo à la Turk",
+        "note": "Three bars of 2+2+2+3 answered by one of 3+3+3 — the same nine beats regrouped, and the reason the head never settles."
+      },
+      {
+        "artist": "Mike Portnoy",
+        "work": "Dream Theater — The Dance of Eternity",
+        "note": "An encyclopedia of odd-meter writing: the piece changes time signature well over a hundred times."
+      },
+      {
+        "artist": "Don Ellis",
+        "work": "Live at Monterey",
+        "note": "33/16, 27/16 — odd meter as compositional language."
+      }
+    ]
+  },
+  "soloing-improvisation": {
+    "tagline": "From licks to phrases — the architecture of a drum solo",
+    "bodyHtml": "\n      <p>Most drum \"solos\" are actually licks-in-a-row: an unconnected sequence of one-bar ideas pulled from the practice room and dumped onto the audience. A real solo has <em>architecture</em> — it states an idea, develops it, contrasts it, and resolves it. That's the difference between a player who is <em>improvising</em> and a player who is <em>reciting</em>.</p>\n      <p>This lesson installs the four building blocks: motivic development (state, repeat, vary, transform), orchestration (using the high, mid, and low voices of the kit as separate colors), the four-bar phrase as the basic unit of jazz solo construction, and call-and-response as a way of giving a solo a shape a listener can follow.</p>\n\n      <h2 class=\"section-label\">Motivic Development — The Four Verbs</h2>\n      <ul class=\"bulleted\">\n        <li><strong>State</strong> — play a short, memorable idea. One bar, four to eight notes. The simpler, the better.</li>\n        <li><strong>Repeat</strong> — play it again, more or less verbatim. The repetition tells the listener \"<em>this is the idea</em>.\"</li>\n        <li><strong>Vary</strong> — play it a third time with one element changed (rhythm, orchestration, dynamics, or one note moved).</li>\n        <li><strong>Transform</strong> — fragment it, invert it, augment it, or contrast it with something new. Now the idea has a story arc.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Orchestration — High, Mid, Low</h2>\n      <p>The kit is a small orchestra. Treat the high voicing (cymbals, hi-tom) as the \"soprano\" register, the mid voicing (snare, mid-tom) as the \"alto,\" and the low voicing (floor tom, kick) as the \"bass.\" A solo that uses only one register sounds monochromatic. A solo that moves through all three has shape. Listen to Max Roach: every solo has clearly-defined voicings — he'll spend eight bars on a snare-only motif, then move it to the toms, then drop into the bass register for a transition.</p>\n\n      <h2 class=\"section-label\">The Four-Bar Phrase</h2>\n      <p>In bebop, the fundamental unit of trade is the four-bar phrase. \"Trading fours\" means the soloist and drummer alternate four-bar phrases for a chorus. Internalizing the four-bar phrase as a unit — <em>statement · response · departure · landing</em> — is the single most useful skill for soloing inside a jazz form. A drum solo that respects four-bar phrasing always feels structured, even when the content is wild.</p>\n\n      <h2 class=\"section-label\">Call and Response</h2>\n      <p>Treat your own solo as a conversation: one limb (or one voicing) <em>asks</em>, another <em>answers</em>. Snare asks; tom answers. Two bars of cymbals; two bars of drums. This is the oldest organizing principle in African and African-American music, and it's the easiest way to give a solo audible shape the moment you start playing.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a 1-bar idea, then repeat it twice with one element varied each time (state · repeat · vary)",
+      "A 4-bar solo develops one motif rather than stringing four unrelated licks together",
+      "Solo exhibits clear orchestration — high voicing, mid voicing, and low voicing all used"
+    ],
+    "exercises": [
+      {
+        "title": "1 — One-Bar Idea, Repeated Twice with Variation",
+        "tip": "Bar 1 states: three snare notes, then space. Bar 2 repeats them with one change — the third note moves to the high tom. That's variation by orchestration. Now improvise a bar 3 that varies something <em>else</em> (rhythm, accent), keeping the idea recognisable while it changes."
+      },
+      {
+        "title": "2 — 4-Bar Solo Developing One Motif",
+        "tip": "You're seeing bars 3 and 4 of the arc. Bar 3 keeps the motif's rhythm but moves it to the high tom; bar 4 transforms it into a descending run — high, mid, snare, floor — that lands the phrase. Play all four bars as one sentence, not four events."
+      },
+      {
+        "title": "3 — 'Call-and-Response' 8-Bar Solo (Snare Asks · Tom Answers)",
+        "tip": "One 2-bar cell of the eight: the snare asks with four straight 8ths; the toms answer with the same rhythm. Build the rest — call, response, call with a new rhythm, response matching it. The audience should hear <em>two characters</em> talking, not one drummer filling."
+      },
+      {
+        "title": "4 — Ride-and-Snare Contrast as Solo Color",
+        "tip": "Two beats of ride — quarter, two 8ths — then four accented snare 8ths: high voice, then mid voice, and the contrast itself <em>is</em> the solo. Once the bar sits, scale it up: four bars ride-led, four snare-led, four on toms, four returning. Sixteen bars, three colors."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "We Insist! Freedom Now Suite — All Africa",
+        "note": "Solo as composition; motifs developed across an entire piece."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Live at the Plugged Nickel — Miles Davis",
+        "note": "Trading fours with structural awareness."
+      },
+      {
+        "artist": "Peter Erskine",
+        "work": "Everything Is Timekeeping (instructional video)",
+        "note": "Erskine narrating his own phrasing — hear a solo built from one motif in real time."
+      }
+    ]
+  },
+  "brushes-mastery": {
+    "tagline": "Sweep, comp, fill — the full brush vocabulary",
+    "bodyHtml": "\n      <p>The brush isn't a quiet stick. It's a different instrument. Where the stick produces discrete impacts, the brush produces a continuous <em>texture</em> — a sustained hiss whose volume, density, and direction you control with the angle, weight, and motion of the hand. To play brushes well is to think like a painter, not a striker.</p>\n      <p>This lesson goes past the introduction (steady right-sweep, left-tap on 2 and 4 — the basic brush groove) into the territory where brushes really live: varied sweep shapes, dynamic control across the full range from whisper to forte, comping vocabulary that uses the brush like a soft melodic stick, and brush <em>fills</em> — the hardest moment in brush playing.</p>\n\n      <h2 class=\"section-label\">The Three Sweep Shapes</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Figure-8</strong> — both hands trace a horizontal figure-8 across the snare head, hands crossing in the middle of every beat. Produces a continuous, even hiss with no audible \"seam.\" The Ed Thigpen / Philly Joe Jones default.</li>\n        <li><strong>Oval</strong> — each hand traces an oval, hands moving in opposite directions but never crossing. Slightly grainier sound; more useful when the left hand needs to be free for taps.</li>\n        <li><strong>Line (or \"shuffle\")</strong> — short straight strokes left-right-left-right, pulled across the head rather than circular. Best for fast tempos where a circular sweep can't keep up.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Brush Dynamics</h2>\n      <p>The brush has a wider dynamic range than the stick — from a barely-audible whisper to a surprisingly loud forte (when you angle the brush so the wires bite). Most beginners stay in one volume the whole night. Mastery is hearing the dynamic <em>shape</em> of a tune: verse softer, chorus a hair louder, bridge a feathered whisper, last chorus opens up.</p>\n\n      <h2 class=\"section-label\">Comping with Brushes</h2>\n      <p>Once the right-hand sweep is automatic, the left hand becomes a soft melodic instrument. It can tap rhythms anywhere on the snare or toms while the sweep continues underneath. The basic comping pattern: right hand sweeps a continuous figure-8; left hand taps on every \"&\" of the bar — a constant 8th-note \"and\" pulse against the legato sweep. From there, vary the left-hand placement to comp like you would with a stick.</p>\n\n      <h2 class=\"section-label\">Brush Fills</h2>\n      <p>The hardest moment in a brush ballad is the fill. The instinct is to switch to sticks; the discipline is to fill <em>with the brushes</em>. A brush fill uses small, fast strokes — almost like roll patterns — across the snare and toms, then resumes the sweep on beat 1. The skill is keeping the texture continuous: don't let the sweep stop dead when the fill begins; let the fill emerge from the sweep and dissolve back into it.</p>\n    ",
+    "graduationCriteria": [
+      "Figure-8 sweep produces a continuous, even hiss with no audible gap when hands cross",
+      "Right-sweep + left-tap-on-every-and groove holds at ♩ = 70 for two minutes with the tap audibly distinct from the sweep",
+      "Brush fill in a slow ballad lands cleanly on beat 1 of the next bar without breaking the sweep beforehand"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Figure-8 Sweep (Notation Approximation)",
+        "tip": "The eight notated 8ths are a stand-in: what you actually play is a smooth figure-8 with both brushes, hands crossing at the center of every beat, while the hi-hat foot on 2 and 4 keeps the time articulate. Run it a full minute — any audible gap in the hiss fails."
+      },
+      {
+        "title": "2 — Right-Sweep + Left-Tap on Every '&'",
+        "tip": "Read the dynamics as roles: unaccented 8ths are the right hand's continuous sweep; accented 8ths are left-hand taps on every <em>&amp;</em>. Each tap should surface from the hiss — clearly audible, never as loud as a stick stroke — while the sweep continues unbroken underneath."
+      },
+      {
+        "title": "3 — Brush Dynamics Study (Whisper → Forte → Whisper)",
+        "tip": "One bar, one hairpin: two beats of whisper (brush nearly flat, no weight), the accented 8ths on beat 3 with the wires biting at forte, then beat 4 dissolving back down. Everything except the accent sits below mezzo-piano. Listen for <em>p &lt; f &gt; p</em> on every pass."
+      },
+      {
+        "title": "4 — Brush Fill in a Slow Ballad",
+        "tip": "The fill bar: 16th brush strokes, four each across snare, hi tom, mid tom, floor — tiny, fast, dragged into the head so the wires bite softly — with the kick on 4 setting up the return. Stay on brushes. The fill must <em>emerge</em> from the sweep and dissolve back into it, never interrupt it."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Ed Thigpen",
+        "work": "The Sound of Brushes",
+        "note": "Figure-8, oval, and line sweeps, each named and demonstrated — hear how the shape changes the hiss."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — 'Round About Midnight",
+        "note": "Brush mastery on slow ballads — listen to 'Tadd's Delight'."
+      },
+      {
+        "artist": "Adam Nussbaum",
+        "work": "The Brush Project",
+        "note": "Modern brush vocabulary; comping and fills demonstrated."
+      }
+    ]
+  },
+  "four-way-independence": {
+    "tagline": "The summit — four limbs, four independent voices",
+    "bodyHtml": "\n      <p>This is the summit. Every coordination skill before this lesson — Chapin's method, Chester's system, clave-foot, jazz comping, fusion linear, four-on-the-floor independence — has been a single piece of the same final picture: <strong>four limbs, four independent voices, simultaneously, indefinitely.</strong> When all four can play distinct rhythmic phrases without leaning on one another, you have arrived where Tony Williams, Vinnie Colaiuta, Steve Smith, Jojo Mayer, and Mark Guiliana live.</p>\n      <p>The work that gets you here is not new vocabulary — you already have the vocabulary. The work is integration. Each limb has been trained as a soloist in a previous lesson; now they have to play together as a four-piece chamber group, with each player listening to the other three and contributing its own line.</p>\n\n      <h2 class=\"section-label\">Why It's Hard</h2>\n      <p>The brain hates four independent voices. It will collapse them — shipping two limbs back into a single rhythmic pattern, or letting one limb become the \"leader\" and the others follow. True four-way independence requires that <em>no limb is leaning</em>. Each one knows its job, executes it, and listens to the others without losing its own thread.</p>\n\n      <h2 class=\"section-label\">The Four Distinct Lines</h2>\n      <p>In the first exercise, every limb has a different identity:</p>\n      <ul class=\"bulleted\">\n        <li><strong>Right hand</strong> — ride pattern (jazz quarter-and-skip).</li>\n        <li><strong>Left hand</strong> — melodic snare line (a phrase placed across the bar, not just on backbeats).</li>\n        <li><strong>Right foot</strong> — kick figure that doesn't mirror the snare.</li>\n        <li><strong>Left foot</strong> — clave on the hi-hat (a 3-2 son clave; not a steady 2-and-4 chick).</li>\n      </ul>\n      <p>Four distinct rhythms, none of which line up perfectly with any of the others. This is the gold standard.</p>\n\n      <h2 class=\"section-label\">Two Schools — Chapin and Chester</h2>\n      <p>Two schools of practice helped American drummers learn this. <strong>Chapin's method</strong> (Jim Chapin, \"Advanced Techniques for the Modern Drummer,\" 1948) keeps the ride and hi-hat foot fixed and develops the snare and bass drum as the two free voices, working through every combination of placements. <strong>Chester's system</strong> (Gary Chester, \"The New Breed,\" 1985) does the inverse: the snare-and-bass figure is locked, and the ride and hi-hat foot become free voices reading from a \"system\" sheet of rhythms underneath. Both methods produce the same end skill — composite rhythms across four limbs — by different routes. The final two exercises in this lesson sample each.</p>\n    ",
+    "graduationCriteria": [
+      "Ride pattern + clave on hi-hat foot + kick figure + melodic snare line — all four limbs distinct — holds at ♩ = 80 for one minute",
+      "A 4-bar phrase where every limb has its own rhythmic identity (no two limbs sharing a pattern) plays cleanly",
+      "Limbs can be independently brought to the foreground without disrupting the others"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Four Distinct Limbs (Ride · Clave Foot · Kick Figure · Snare Melody)",
+        "tip": "Read the upper line as <em>ride, ride, snare, ride, snare, ride</em> — the two hands share it. Kick takes beat 1 and the &amp;-of-3; the hi-hat foot walks a 3-2 clave. Assemble limb by limb, a minute each: ride, add the foot clave, add kick, then the snare. Holding all four for 30 seconds is the crossing."
+      },
+      {
+        "title": "2 — 4-Bar Phrase, Each Limb Its Own Phrase",
+        "tip": "This is bar 2 of the phrase. Each limb has its own four-bar arc: the ride fragments from quarters into 8ths, the snare drifts off 2-and-4, the kick climbs to a syncopated peak, the foot-hat morphs from 2-and-4 into clave. Learn each limb's whole arc alone, then layer — four voices, four stories."
+      },
+      {
+        "title": "3 — Chapin-Style Closing Solo Phrase",
+        "tip": "Ride and hi-hat foot hold fixed jazz time; snare and kick are the free voices — accents on the &amp;-of-2, beat 4, and the &amp;-of-4, kick punctuating the gaps. The instruction that matters: read the snare placements as a <em>melody</em>. If it starts feeling like a backbeat, the voices have collapsed."
+      },
+      {
+        "title": "4 — Chester-Style Composite System",
+        "tip": "The inverse of Exercise 3: snare (2 and 3.5) and kick (1 and 3) are the fixed melody; the ride 8ths and the hi-hat foot's system line — <em>foot, foot, rest, foot, foot, rest, foot, foot</em> — are the free voices. One fixed figure, dozens of system lines to read under it: this is what you practice for years."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Live at the Plugged Nickel",
+        "note": "The benchmark for four-way independence in jazz."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — Joe's Garage",
+        "note": "Four-way independence at impossible tempos."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music",
+        "note": "Modern four-way independence in the electronic-music idiom."
+      }
+    ]
+  },
+  "reading-complex-charts": {
+    "tagline": "From slash bars and section repeats to a 16-bar song form",
+    "bodyHtml": "\n      <p>The chart on the music stand at a working gig is rarely a fully written-out drum part. It's a hybrid: a few notated rhythmic figures the band hits together, slashes for the bars where you're expected to \"play time,\" repeat barlines, section markers, and a navigation roadmap (D.S., coda, fine). The drummer's job is to translate that shorthand into music in real time. The notation is sparse on purpose — every dot the arranger writes is a dot the band actually wants to hear.</p>\n      <p>Three skills make a chart-reader. First, <strong>navigate the form</strong>: bars are grouped in fours and eights; the eye tracks where the next double-bar lives before the current bar is over. Second, <strong>play the figures</strong>: where a kick or ensemble figure is notated, the drummer sets it up (usually on the snare, at the &amp; before) and lands it with the band. Third, <strong>fill the slashes</strong>: where the chart says \"/// ///\" you're playing time in the appropriate style — and the only person who has to remember the style is you. This lesson assembles those skills against progressively denser charts.</p>\n      <h2 class=\"section-label\">Chart Symbols You Need to Know</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Slashes (/// ///)</strong> — \"play time in the established style for these bars.\"</li>\n        <li><strong>Pickup figure</strong> — notes before bar 1 that lead into the form. Counted backward from the downbeat.</li>\n        <li><strong>Kick figure</strong> — a rhythmic line written above the staff that the band hits in unison; the drummer catches it.</li>\n        <li><strong>Repeat (||: :||)</strong> — replay the bracketed bars. <strong>Double bar</strong> separates sections without repeat.</li>\n        <li><strong>D.S. al coda</strong> — return to the segno (𝄋), play to the \"to coda\" mark, then jump to the coda (𝄌).</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A 2-beat pickup phrase enters cleanly on beat 3 of bar 1 with no hesitation",
+      "Slash-notation groove bars are filled with a stylistically appropriate pocket while figures are caught exactly as written",
+      "A 16-bar chart with a D.S. al coda can be navigated on first read at ♩=110 without losing the form"
+    ],
+    "exercises": [
+      {
+        "title": "1 — A 2-Beat Pickup Into Bar 1",
+        "tip": "The chart begins mid-bar: beats 3 and 4 are the pickup — two snare 8ths into an accented 4 — and the band downbeat lands on the next bar's 1. Count <em>3 e &amp; a 4</em> aloud before you play; a pickup entered out of time never recovers."
+      },
+      {
+        "title": "2 — Kick Figures + Slash Notation",
+        "tip": "Four slashes mean one thing: play time. The written kick figure arrives in the <em>next</em> bar — 1, the &amp; of 2, and 4 — and you catch it with the band, setting up each hit with a snare 16th-pickup just before. Time first, figures second; never the reverse."
+      },
+      {
+        "title": "3 — A Coda Tag Bar",
+        "tip": "You arrive here via D.S. and the \"to coda\" jump. The bar is <em>arrival, fill, ending</em>: crash-plus-kick on 1, snare 8ths across beats 2 and 3, and the final crash-snare-kick on beat 4 to end the song. Your hands and feet must know exactly which note is the last one."
+      },
+      {
+        "title": "4 — A 16-Bar Form Excerpt: Bar 9 (the Bridge)",
+        "tip": "Bar 9 of a 16-bar form — the lift into the bridge. Move from hi-hat to ride, let the kick syncopate under the snare backbeat, and place the accent on the &amp; of 3 where the new section breathes. The notes are easy; knowing you're at bar 9 is the entire job."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "The classic example of a drummer reading a complex chart and making the figures sound inevitable."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Ten Summoner's Tales",
+        "note": "Studio chart-reading at the highest level — every figure caught, every slash bar made into music."
+      },
+      {
+        "artist": "Gregg Bissonette",
+        "work": "Maynard Ferguson — Live from San Francisco",
+        "note": "Big-band chart-reading: kick figures, ensemble setups, and section navigation in real time."
+      }
+    ]
+  },
+  "solo-drumming": {
+    "tagline": "The drum kit as instrument, not as showcase",
+    "bodyHtml": "\n      <p>The solo drumming most musicians actually want to hear is not a parade of fastest-things-I-can-play. It's drumming that <em>composes</em>: a piece of music with a sketch, a development, a crisis, and a release, played by someone who happens to be using a drum kit instead of a piano. Brian Blade, Antonio Sanchez, Jack DeJohnette, Hamid Drake, Han Bennink, Joey Baron — the players whose solos are listened to repeatedly are not the ones with the most chops; they're the ones whose solos hold up as <em>music</em>. They have shape, narrative, motivic memory, silence, return.</p>\n      <p>This lesson is about that approach. Each exercise is a constraint — a single cymbal, a single dynamic range, six notes per bar — and the constraint forces you out of vocabulary and into composition. The point is not to demonstrate technique. The point is to make four bars feel like they meant something. If you played each of these exercises for an audience that was paying attention, you'd want them to lean forward, not nod along.</p>\n      <h2 class=\"section-label\">The Form of a Drum Composition</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Sketch</strong> — a short motif, 1–2 bars, that the listener will remember.</li>\n        <li><strong>Repeat</strong> — state it again, maybe with a small change. The listener now knows it.</li>\n        <li><strong>Vary</strong> — develop it. New register, new dynamic, fragment it.</li>\n        <li><strong>Climax</strong> — the loudest, densest, or most dissonant moment. Usually arrives 2/3 through.</li>\n        <li><strong>Resolve</strong> — return to the sketch (or its echo). The piece must end somewhere we recognize.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A 16-bar drum composition is performed with a recognizable theme, one development, a climax, and a resolution — not a string of chops",
+      "A solo confined to a single cymbal sustains musical interest for at least 60 seconds through dynamics and articulation alone",
+      "A piece played with brushes and ghost-note vocabulary holds a listener's attention without any forte hits"
+    ],
+    "exercises": [
+      {
+        "title": "1 — A 16-Bar Drum Composition: The Opening Sketch (Bars 1–2)",
+        "tip": "Memorize the shape, silence included: accent on 1, the off-beat skip into 2, a true silence on beat 3, the accented landing into 4, kick on 1 and 4. Bar 2 repeats it verbatim. The next fourteen bars will quote, fragment, and displace exactly this — the silence is part of the motif."
+      },
+      {
+        "title": "2 — Single-Cymbal Study: The Whole Piece on the Ride",
+        "tip": "One sound source. The variables left are placement (bow, edge, bell), weight, and silence — this bar opens quiet, fills its second half with two 8ths, and accents the final quarter. Bars 2–4 (not shown): double the density, climax on the bell, return to bar 1 verbatim."
+      },
+      {
+        "title": "3 — Ghost Notes and Brushes: A Whisper Solo",
+        "tip": "Read every note here as a <em>ghost</em> — almost inaudible — except the single accent on the &amp; of 2, which is just barely audible above the wash. The hi-hat foot taps quarters, equally quiet. The whole bar should feel like a <em>texture</em> rather than a beat. Brian Blade's quietest passages live here: a cloud of sound with one rip of light. Play this for 60 seconds without raising the volume even once."
+      },
+      {
+        "title": "4 — Six Notes Per Bar: A Sparseness Study",
+        "tip": "Six sounds — count them. Let each one ring fully before the next. Then compose three more six-note bars: a variation, a climax, and a return to this one. Every placement is a decision; if a note could be deleted without loss, it was filler."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Drums Unlimited",
+        "note": "Solo drum pieces composed like tunes. Listen for the silences."
+      },
+      {
+        "artist": "Antonio Sanchez",
+        "work": "Birdman (Original Score)",
+        "note": "An entire feature film scored by drum solos — every cue is a drum composition."
+      },
+      {
+        "artist": "Han Bennink",
+        "work": "Solo Drums (ICP, various)",
+        "note": "European free-improv tradition: kit as instrument, every solo a piece of music."
+      },
+      {
+        "artist": "Jack DeJohnette",
+        "work": "Pictures",
+        "note": "Solo drum compositions with motivic development and clear formal architecture."
+      }
+    ]
+  },
+  "transcription-method": {
+    "tagline": "How vocabulary actually enters your hands",
+    "bodyHtml": "\n      <p>Every drummer worth listening to has spent a thousand hours sitting with a record, slowing it down, and writing down what someone else played. Transcription is how vocabulary enters your hands. You think you can hear what Steve Gadd is doing in the second bar of \"Aja\" — you cannot, until you've slowed it to half-speed and written down each limb, one limb at a time. Then you can hear it. Then you own it.</p>\n      <p>The method below is unromantic and works. It's the same one that has been taught at Berklee, North Texas, the Drummers Collective, and in private studios for fifty years. The notation is the destination, not the journey: most of the work is listening. Once you can transcribe a 4-bar passage, the entire history of recorded drumming becomes available as a textbook.</p>\n      <h2 class=\"section-label\">The Method, in Order</h2>\n      <ol class=\"numbered\">\n        <li><strong>Find a clear recording.</strong> Drum-prominent mixes (jazz trios, fusion records, isolated drum tracks) before dense pop productions.</li>\n        <li><strong>Slow it to 50–75% speed.</strong> A DAW or a transcription app does this without changing pitch.</li>\n        <li><strong>Establish the meter and tempo.</strong> Tap your foot. Count out the bar. Don't write a note before you know where 1 is.</li>\n        <li><strong>Transcribe one limb at a time.</strong> Kick first (lowest pitch, easiest to isolate). Then snare. Then hat. Then ride/cymbals last.</li>\n        <li><strong>Combine the limbs on the page.</strong> Stack them in a single staff. Re-listen and verify.</li>\n        <li><strong>Play it.</strong> If it doesn't sound like the recording, something is wrong. Find it.</li>\n      </ol>\n      <h2 class=\"section-label\">Why This Works</h2>\n      <p>The instinct is to hear the whole groove and write down \"what it sounds like.\" That fails — the brain over-fills, you write what you'd play, not what was played. Isolating limbs forces you to hear what's actually there, including the absences. The kick on the &amp; of 3 you didn't expect; the snare ghost note on the e of 4 you didn't notice; the bar where the hat <em>doesn't</em> close on 2.</p>\n    ",
+    "graduationCriteria": [
+      "A 1-bar groove can be notated correctly from a verbal description (kick, snare, hat placement) on first attempt",
+      "A 4-bar phrase is transcribed limb-by-limb (kick → snare → hat → ride) and reassembled on the page without losing the time-feel",
+      "A half-completed bar is filled in correctly by ear-matching against a slow playback"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Notate from a Verbal Description",
+        "tip": "Cover the image, read the verbal cue aloud, and notate the bar yourself on staff paper — then uncover and compare. Details to catch: the cross-stick sits in the snare's middle space (the playing instruction lives in the words, not the notehead), hat quarters above, kick on the &amp; of 2."
+      },
+      {
+        "title": "2 — Transcribe a 4-Bar Phrase from a Description",
+        "tip": "Only bar 4 — the fill — is shown: two 8ths on each drum, descending hi-tom → mid-tom → floor-tom → snare. Notate bars 1–3 (the basic backbeat) from memory, then the fill, then the crash resolving on 1 of bar 5. All four bars, one blank page, no peeking."
+      },
+      {
+        "title": "3 — Complete a Half-Transcribed Bar",
+        "tip": "What you see is the <em>answer</em>. The puzzle gave only the hat 8ths and the kick — 1, the &amp; of 2, 3 — with the snare line blank; the transcriber's job was to hear where the snare falls (2 and 4, the strongest accents). That fill-one-limb-at-a-time loop is the whole method."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Riley",
+        "work": "The Art of Bop Drumming (book)",
+        "note": "Includes step-by-step transcription analyses of Philly Joe, Max Roach, and Tony Williams."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "The most-transcribed drum part in modern recorded music. Worth 100 hours of slowed-down study."
+      },
+      {
+        "artist": "John Riley",
+        "work": "The Art of Bop Drumming (book)",
+        "note": "Published transcriptions of classic performances — a model of how a finished transcription looks."
+      }
+    ]
+  },
+  "practice-systems": {
+    "tagline": "How an hour at the kit becomes an hour you can hear",
+    "bodyHtml": "\n      <p>Most drummers don't have a technique problem. They have a <em>practice</em> problem. They sit at the kit, run through whatever feels exciting, finish 45 minutes later having played fast for half an hour, and wonder why they're not improving. The improvement comes from <em>structured</em> practice — practice that has a plan, a metronome, a journal, and a review. The plan is the easy part. The plan looks like this.</p>\n      <p>This lesson is the meta-skill. It contains no new technique. It tells you how to build a session — what to put in it, in what order, at what proportion — so that the hour you spend tonight produces an audible difference next week. Templates for three session lengths follow: a tight 30 minutes, a balanced 60 minutes, and a comprehensive 2 hours. The exercises are the routine itself, played through.</p>\n      <h2 class=\"section-label\">The Five Categories of Practice</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Warm-up</strong> — slow, low-stakes, technique-priming. Singles, doubles, paradiddles at quarter = 60–80. 5–15% of the session.</li>\n        <li><strong>Technique</strong> — isolated mechanical work. Specific rudiments, hand exercises, foot drills, polyrhythms. 20–30%.</li>\n        <li><strong>Vocabulary acquisition</strong> — new material being learned. A new groove, a transcribed lick, a new fill. 25–35%.</li>\n        <li><strong>Application</strong> — playing music. Loops, charts, playing along to records, soloing over a form. 20–30%.</li>\n        <li><strong>Listening</strong> — recording yourself or studying a recording. Not playing, but attending. 5–10%.</li>\n      </ul>\n      <h2 class=\"section-label\">The Three Tools</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Metronome</strong> — every exercise has a tempo. The tempo is logged.</li>\n        <li><strong>Journal</strong> — date, what was practiced, tempo achieved, one note on what worked or didn't.</li>\n        <li><strong>Recording</strong> — at least once a session. Phone on a stand. Listen back. Identify one thing.</li>\n      </ul>\n      <h2 class=\"section-label\">Three Session Templates</h2>\n      <ul class=\"bulleted\">\n        <li><strong>30 minutes:</strong> 3 warm-up · 8 technique · 10 vocabulary · 8 application · 1 listening.</li>\n        <li><strong>60 minutes:</strong> 5 warm-up · 15 technique · 20 vocabulary · 15 application · 5 listening.</li>\n        <li><strong>2 hours:</strong> 10 warm-up · 35 technique · 40 vocabulary · 30 application · 5 listening (and recording review).</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A written practice plan exists for at least one of the three template lengths (30 min / 60 min / 2 hour) and is followed for one full week",
+      "A practice journal entry exists for each session, with at least one tempo logged and one self-assessment note",
+      "A recording of a 1-minute exercise is reviewed and one specific improvement is identified for the next session"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The 30-Minute Routine: The Warm-Up Bar",
+        "tip": "Bar 1 of the routine — the warm-up. The full playlist:\n          <em>0:00–3:00</em> single strokes at ♩=70, then 80, then 90 (the bar above);\n          <em>3:00–11:00</em> technique block;\n          <em>11:00–21:00</em> today's new vocabulary, slow → at-tempo;\n          <em>21:00–29:00</em> play along to one song;\n          <em>29:00–30:00</em> listen back to your phone recording, write one journal sentence. <strong>Done.</strong>"
+      },
+      {
+        "title": "2 — Journal Template (Use Verbatim or Adapt)",
+        "tip": "The empty bar is the journal page before the session. Fill it in afterward:\n          <strong>Date. Length. Warm-up.</strong> <em>Singles 70 → 90, clean.</em>\n          <strong>Technique.</strong> <em>6-stroke roll struggled at 80.</em>\n          <strong>Vocabulary.</strong> <em>Bossa nova kick on &amp;-of-2 — still rushing.</em>\n          <strong>Application. Recording note.</strong> <em>Hat too loud against the snare.</em>\n          <strong>One thing to focus on next session.</strong>\n          The journal is not optional — it is how you see the curve of your own progress."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Benny Greb",
+        "work": "The Language of Drumming (book/DVD)",
+        "note": "A complete framework for structuring drum practice — the canonical modern reference."
+      },
+      {
+        "artist": "Tommy Igoe",
+        "work": "Great Hands for a Lifetime",
+        "note": "A daily warm-up routine that has become standard at music schools worldwide."
+      },
+      {
+        "artist": "Jojo Mayer",
+        "work": "Secret Weapons for the Modern Drummer",
+        "note": "Two volumes on technique, but as much about <em>how</em> to practice as <em>what</em>."
+      }
+    ]
+  },
+  "accompaniment": {
+    "tagline": "Drumming as listening, response, and restraint",
+    "bodyHtml": "\n      <p>Most drumming is accompaniment. Even on the records the drummer's name is on, 90% of the playing time is supporting somebody else — a singer, a horn player, a guitar solo, a piano comp. Accompaniment is the actual job. It is also the hardest part of the job, because it requires the drummer to do something almost no drum lesson teaches: <em>not play</em>. To leave space. To match volume. To follow energy without leading it. To make the soloist sound like the soloist intended to sound.</p>\n      <p>The best accompanists in jazz, gospel, R&amp;B, and singer-songwriter contexts share three traits: they listen at a higher resolution than the rest of the band; they have a wide dynamic range and use it; and they understand that the most interesting note they can play is sometimes nothing. This lesson rehearses those three traits as exercises. Some of the bars below contain less notation than every other lesson in the curriculum. That's the point.</p>\n      <h2 class=\"section-label\">The Three Disciplines</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Hold</strong> — when the soloist is building, hold the groove. Don't escalate. Don't decorate. Be the floor.</li>\n        <li><strong>Match</strong> — when the soloist's volume changes, match within one bar. Soft → medium → loud → back. The drummer follows.</li>\n        <li><strong>Space</strong> — leave silence. A bar with no drums is a powerful arranging choice. Use it.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A single groove holds for 16 bars without embellishment while a (real or imagined) soloist plays — the drummer's job is the floor, not the ceiling",
+      "Dynamic response across a 12-bar form follows the soloist's intensity (4 bars soft → 4 medium → 4 loud) without rushing",
+      "A 4-bar phrase containing one deliberately empty bar (no drums) feels intentional, not accidental, when looped"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hold the Groove for 16 Bars (Bar 1 Shown)",
+        "tip": "Sixteen repetitions of this exact bar — no fills, no pickups, no cymbal decoration — while an imagined soloist builds over you. The work is listening without responding. Afterward, be honest: did you hold, or did you sneak a fill in at bar 8 because you got bored?"
+      },
+      {
+        "title": "2 — Match the Soloist's Intensity (Bars 1, 5, 9 of a 12-Bar Form)",
+        "tip": "Three dynamic zones:\n          <em>Bars 1–4 (this bar): SOFT.</em> Cross-stick quarters, kick on 1 and 3, hi-hat foot on 2 and 4.\n          <em>Bars 5–8: MEDIUM.</em> Hi-hat 8ths added on top, backbeats become full snare hits.\n          <em>Bars 9–12: LOUD.</em> Ride, open the hi-hat foot, kick doubled to 1, &amp; of 2, 3, &amp; of 4.\n          Each step tracks the soloist's arc; when the form returns to bar 1, so do you."
+      },
+      {
+        "title": "3 — Create Space: 4-Bar Phrase with an Empty Bar 3",
+        "tip": "Bar 3 of the phrase — total silence, both voices resting all four beats, while bars 1, 2, and 4 carry the backbeat. The band keeps moving through your rest; count it with intention and re-enter exactly on bar 4's downbeat. Done well the silence sounds composed; done late it sounds like you forgot."
+      },
+      {
+        "title": "4 — Accompany a Ballad: Brushes + Minimal Cymbal",
+        "tip": "♩=60, almost too slow to play: right hand sweeps quarter-note circles on the snare, left hand taps quarters underneath, hi-hat foot whispers quarters, and once per bar the right hand touches the ride bell on beat 1 — just barely audible. That bell is how the singer hears the bar lines. Everything else is texture."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade (Wayne Shorter Quartet)",
+        "work": "Beyond the Sound Barrier",
+        "note": "Accompaniment as listening — the entire record is one long lesson in what to do behind a soloist."
+      },
+      {
+        "artist": "Steve Gadd (Paul Simon)",
+        "work": "Late in the Evening / Still Crazy After All These Years",
+        "note": "Pop-context accompaniment: holding a groove without ever pulling focus from the singer."
+      },
+      {
+        "artist": "Bill Stewart (John Scofield Trio)",
+        "work": "Bump",
+        "note": "Modern jazz-fusion accompaniment — dynamic range, space, response."
+      },
+      {
+        "artist": "Larnell Lewis (Snarky Puppy)",
+        "work": "We Like It Here",
+        "note": "Studio-precision accompaniment in an ensemble context."
+      }
+    ]
+  },
+  "clave-as-feel": {
+    "tagline": "The hidden two-bar pulse inside Bo Diddley, blues, and rock",
+    "bodyHtml": "\n      <p>Clave is a two-bar rhythmic figure — five strokes spread across eight beats — that organizes most Afro-Cuban music. But it didn't stay in Cuba. Once you know what clave sounds like, you start hearing it everywhere: in the Bo Diddley beat, in countless Chuck Berry tunes, in the swing of \"Killing Me Softly,\" in half the New Orleans second-line vocabulary, in the shuffles of Texas blues, and quietly underneath dozens of pop and rock songs that nobody would call \"Latin.\" The clave was the secret rhythm of much of 20th-century American popular music. Once you hear it, you can't un-hear it.</p>\n\n      <p>This lesson teaches the ear-training task of <em>finding</em> clave inside non-Latin music, and gives you exercises that make the connection explicit. The notation below uses two-bar layouts (<code>bars: 2</code>) with each clave hit at its natural note value. The point isn't to play Cuban music. The point is to recognize that the rhythmic gravity behind Bo Diddley and the Rolling Stones and a thousand other records is the same gravity that organizes a son montuno. The drummer who hears clave as feel — not just as a written rhythm in a Latin chart — is operating at a higher rhythmic resolution than the drummer who doesn't.</p>\n    ",
+    "graduationCriteria": [
+      "A Bo Diddley pattern with rumba-clave-shaped accents holds at quarter = 104 for two minutes",
+      "A rock backbeat with son 3-2 clave on the cross-stick is playable without the clave or the backbeat being lost",
+      "A non-Latin recording can be analyzed in real time: which clave variant does it lean on, and on which beats does the clave land?"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Bo Diddley Pattern (Rumba 3-2 Shape)",
+        "tip": "Continuous snare 8th-notes with five accents tracing rumba 3-2: bar 1 carries 1, the &amp; of 2, and the &amp; of 4; bar 2 carries 2 and 3, kick holding a rock pulse on 1 and 3 throughout. Then put on \"Bo Diddley\" and find your accent pattern inside it."
+      },
+      {
+        "title": "2 — Rock Backbeat + Son 3-2 Clave on Cross-Stick",
+        "tip": "Straight 8th hats and a rock-pulse kick on 1 and 3; against them the cross-stick spells the full son 3-2 — 1, the &amp; of 2, and 4, then 2 and 3. Feel how little the clave fights the backbeat framework; most rock grooves already live next door to it."
+      },
+      {
+        "title": "3 — Jazz Ride with Son 3-2 Accents",
+        "tip": "The skip pattern itself never changes — only the accents move, tracing son 3-2 through the swing texture: beat 1, the &amp; of 2, and beat 4 in bar 1; beats 2 and 3 in bar 2. Mind bar 1's beat-4 accent: it falls on an 8th note, not a quarter — hit it with intent."
+      },
+      {
+        "title": "4 — Son 3-2 Reference Pattern: The Listening Game",
+        "tip": "Play the son 3-2 on cross-stick eight times, until it is a reference in your head. Then play along with:\n          <em>\"Pretty Woman\" — Roy Orbison.</em> 3-side or 2-side?\n          <em>\"Sympathy for the Devil\" — The Rolling Stones.</em> The percussion traces a clave — which one?\n          <em>\"Killing Me Softly\" — Roberta Flack.</em> Find it.\n          <em>\"Iko Iko\" — The Dixie Cups.</em> Tap along.\n          The game ends when you hear the two-bar pulse without playing."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bo Diddley",
+        "work": "Bo Diddley",
+        "note": "The original — a rumba-shaped accent pattern reframed as American R&amp;B."
+      },
+      {
+        "artist": "John \"Jabo\" Starks (with James Brown / Bobby Byrd)",
+        "work": "various",
+        "note": "Funk drumming with clave-shaped figures buried inside the groove."
+      },
+      {
+        "artist": "Zigaboo Modeliste",
+        "work": "The Meters — Cissy Strut / Look-Ka Py Py",
+        "note": "New Orleans second-line — clave traditions filtered through American R&amp;B."
+      },
+      {
+        "artist": "Ned Sublette",
+        "work": "Cuba and Its Music (book)",
+        "note": "The historical case for clave as a hidden organizer of much American popular music."
+      }
+    ]
+  }
+}

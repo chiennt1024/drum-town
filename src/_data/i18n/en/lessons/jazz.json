@@ -1,0 +1,974 @@
+{
+  "jazz-ride-pattern": {
+    "tagline": "The four-beat phrase that defines jazz time",
+    "bodyHtml": "\n      <p>Where rock has the backbeat, jazz has the <strong>ride pattern</strong>: a four-beat phrase on the ride cymbal that goes \"<em>ding · ding-a · ding · ding-a</em>\" — quarter, two swung 8ths, quarter, two swung 8ths. The 8ths are <em>swung</em> (the second of each pair plays late, like the third note of a triplet). This is the heartbeat of every jazz groove.</p>\n      <p>Build it the same way you'd build any complex coordination skill: top-down. Quarters first. Add the skip-note. Add the hi-hat foot on 2 and 4. Add the bass drum on 1. Each layer is a new limb that has to know its job.</p>\n      <h2 class=\"section-label\">Getting the Swing Right</h2>\n      <p>At medium tempos the skip-note lands like the third note of a triplet: \"<em>ding-a</em>\" is a triplet with the middle note missing. Two failures sit on either side of it. Play the 8ths straight (50/50) and it stops being jazz; swing them too hard and it turns into a stiff shuffle. The ratio also breathes with tempo: swing tightens toward even 8ths as things get fast, so trust your ear over any formula.</p>\n      <p>The ear is trained by listening, and there's no substitute: put on a classic ride-driven record and play along until your \"ding-a\" disappears into the drummer's. Keep the skip-note lighter than the quarters; it decorates the pulse, it doesn't compete with it. And check the hi-hat foot — eager left feet love to sneak ahead of 2 and 4.</p>\n    ",
+    "graduationCriteria": [
+      "Ride pattern + hi-hat foot on 2 and 4 holds at ♩=90",
+      "Swing 8ths are perceptibly later than straight 8ths (not 50/50)",
+      "The bass drum on beat 1 is felt, not heard, when used"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarters on the Ride",
+        "tip": "Just quarter notes on the ride cymbal. The 8ths come next, but first your hand needs to feel the pulse without the skip-note. Steady, even, lock to the click."
+      },
+      {
+        "title": "2 — Add the Skip-Note (the Ride Pattern)",
+        "tip": "<em>Ding · ding-a · ding · ding-a</em>. The two 8ths are swung — play the second one late, where the third note of an 8th-triplet would land. The first 8th is on the beat (\"<em>ding</em>\"), the second is the swung skip (\"<em>a</em>\")."
+      },
+      {
+        "title": "3 — Add the Hi-Hat Foot on 2 and 4",
+        "tip": "The hi-hat foot lands on <em>2</em> and <em>4</em> — the chick that you hear underneath every jazz recording. This is jazz's equivalent of the rock backbeat: the pulse marker. The hi-hat foot is non-negotiable from here on."
+      },
+      {
+        "title": "4 — Add the Bass Drum on Beat 1",
+        "tip": "Optional — modern jazz often drops the bass drum entirely or \"feathers\" it (so quiet it's felt, not heard). For now, a soft bass drum on beat 1 anchors the bar. Three limbs in motion: ride, hi-hat foot, bass drum."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Jimmy Cobb",
+        "work": "Miles Davis — So What (Kind of Blue)",
+        "note": "The medium-swing ride pattern, possibly the most listened-to in history. Focus only on the cymbal for one full listen."
+      },
+      {
+        "artist": "Art Blakey",
+        "work": "Cannonball Adderley — Somethin' Else",
+        "note": "Ride time with more push. Compare his skip-note weight to Cobb's — same pattern, different personality."
+      },
+      {
+        "artist": "Ed Thigpen",
+        "work": "Oscar Peterson Trio — Night Train",
+        "note": "Swing time at its most polished. The hi-hat on 2 and 4 is quiet, constant, and completely load-bearing."
+      }
+    ]
+  },
+  "jazz-comping-foot": {
+    "tagline": "The chick on 2 and 4 — jazz's non-negotiable pulse",
+    "bodyHtml": "\n      <p>If the ride is jazz's voice, the <strong>hi-hat foot on 2 and 4</strong> is jazz's pulse. Listen to any small-group recording from 1955 forward and you'll hear it underneath everything: a soft, articulate <em>chick</em> on every backbeat, never absent for more than a few bars at a time. It's the equivalent of a rock drummer's snare — non-negotiable, structural, the thing the rest of the band locks to.</p>\n      <p>Beginners often treat the hat-foot as decoration. It isn't. Pull it out and a jazz groove sounds incomplete; the time-feel collapses without it because there's nothing marking 2 and 4. This lesson installs it as a separate, autonomous limb. By the end, the foot should be doing its job whether or not the rest of you is doing yours.</p>\n      <h2 class=\"section-label\">Build It from the Bottom</h2>\n      <p>Foot alone first — no hands. Then foot under quarter notes on the ride. Then foot under the full swing pattern. Then foot + ride + a soft kick on 1 (the \"feathered\" kick that anchors the bar without intruding). Each layer is a new responsibility for the foot to keep doing while another limb arrives.</p>\n    ",
+    "graduationCriteria": [
+      "Hi-hat foot lands on 2 and 4 for two minutes at ♩=90 without drifting",
+      "Foot does not get louder when the snare or kick enters — same volume from start to finish",
+      "You can stop the ride completely and the hat-foot keeps the same tempo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Hi-Hat Foot Alone on 2 and 4",
+        "tip": "Just the foot. Two soft <em>chicks</em> per bar, on counts <em>2</em> and <em>4</em> — count out loud so they don't drift onto 1 and 3. Clamp the hat tightly enough for a clean closing sound, not a long sloppy <em>shhk</em>. One full minute before moving on."
+      },
+      {
+        "title": "2 — Foot Under Straight Quarters on the Ride",
+        "tip": "Ride hand on every quarter note. The hat-foot lands at the same instant as the ride on beats 2 and 4 — three things sound at once on those beats (ride, hat-stick clamp, hat-foot). Beats 1 and 3 are ride alone. Listen for the hat-foot's <em>chick</em> — it should be soft but distinct, not buried under the ride."
+      },
+      {
+        "title": "3 — Foot Under the Full Swing Ride Pattern",
+        "tip": "Now the full ride pattern: <em>ding · ding-a · ding · ding-a</em>, swung. The hat-foot keeps marking 2 and 4 underneath. The new challenge is that the ride is no longer landing exactly with the foot on every backbeat — there's a swung 8th right before the foot on beat 4. Don't let the foot follow the swung 8th; the foot has its own job and it lands on the BEAT, not the skip-note."
+      },
+      {
+        "title": "4 — Add the Feathered Kick on Beat 1",
+        "tip": "Soft kick on beat 1 — <em>feathered</em>, meaning so quiet it's felt rather than heard. The kick is not announcing the downbeat; it's grounding it. If the bassist is in the room, your kick should disappear into the bass note. Four limbs in motion now: ride, snare hand silent, hat-foot on 2/4, kick on 1. This is the absolute baseline of jazz time — every other lesson in the genre builds on this scaffold."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "The hat-foot on 2 and 4 is rock-solid and audible from the first bar to the last."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — 'Round About Midnight",
+        "note": "Listen for the chick under the ride; it never leaves."
+      }
+    ]
+  },
+  "jazz-brushes-intro": {
+    "tagline": "The right hand sweeps, the left hand taps",
+    "bodyHtml": "\n      <p><strong>Brushes</strong> are wire-bristle implements you use instead of sticks for quiet jazz, especially ballads and accompaniment behind a vocalist or solo instrument. They produce two completely different sounds depending on what you do with them: a <em>tap</em>, where you strike the head like a stick, and a <em>sweep</em>, where you drag the bristles across the head in a circular motion to create a continuous <em>shhh</em>.</p>\n      <p>Conventional drum notation can't really capture brush playing. The sweep has no attack to notate; it's a continuous sound. The tap can be notated, but without the sweep underneath it the notation is misleading. The exercises below notate the LEFT-HAND tap pattern only; the right-hand sweep is described in prose in each tip and you should imagine the sweep continuing through every bar.</p>\n      <h2 class=\"section-label\">The Two Hands Do Different Things</h2>\n      <p>This is the central thing to internalize about brushes: the right hand and the left hand are doing fundamentally different actions. The right hand <em>sweeps</em> in a slow circular pattern on the snare head, never lifting, producing a constant low <em>shhh</em>. The left hand <em>taps</em>, just like it would with a stick, marking the time on top of the sweep. Both hands on the same drum, doing different jobs simultaneously.</p>\n      <h2 class=\"section-label\">The Sweep, in Words</h2>\n      <p>Hold the brush in your right hand the way you'd hold a stick — but don't lift it off the head. Move your hand in a flat circle on the snare, the bristles dragging across the surface. The circle should take one full bar (four beats) to complete. Counterclockwise is the most common direction for the right hand. The contact pressure is light — you're <em>brushing</em>, not scrubbing. Practice the sweep alone for two minutes before doing anything else; it should sound like a soft, even cymbal wash that never stops.</p>\n      <p>(There are many variations on the sweep — figure-eight patterns, sweeps that move toward and away from you, sweeps that change direction with the form — but they all build on this basic circular sweep. Master the circle first.)</p>\n    ",
+    "graduationCriteria": [
+      "Right-hand sweep produces a continuous, even <em>shhh</em> with no audible gap between bars",
+      "Left-hand taps land cleanly on 2 and 4 without disturbing the right-hand sweep",
+      "Sweep + tap pattern (Ex 3) holds at ♩=80 for two minutes",
+      "Volume of taps is controlled — a tap is not a slap"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Sweep Alone (Described, Not Notated)",
+        "tip": "<strong>This bar is silent on the staff because brush sweeps don't notate.</strong> Play the slow counterclockwise circle — one full circle per bar — with the hat-foot on 2 and 4 as your only landmark in the bar. Two minutes; listen for one thing: no louder spot anywhere in the circle, and no gap between bars."
+      },
+      {
+        "title": "2 — Left-Hand Tap on 2 and 4",
+        "tip": "The notated taps on 2 and 4 are your <em>left hand</em>, played with a brush like a stick. The right-hand circle keeps going underneath — it never stops for a tap. Soft taps, but distinct: you should hear a clear backbeat sitting on top of the <em>shhh</em>."
+      },
+      {
+        "title": "3 — Sweep + Tap on Every Beat (the Canonical Pattern)",
+        "tip": "Quarter-note taps with the LEFT hand on every beat, sweep continuing in the right hand. This is the canonical brush-time pattern — the brush equivalent of the jazz ride pattern. The four taps mark the pulse audibly while the sweep gives the constant texture underneath. If the sweep stutters when the tap lands, you're using too much arm in the tap; let the wrist do it."
+      },
+      {
+        "title": "4 — Brushes During a Slow Ballad",
+        "tip": "At ♩=65 the sweep circle takes nearly four full seconds. Resist speeding it up to burn off nervous energy — the slower the circle, the more you must <em>commit</em> to the pressure and the path. Taps stay minimal on 2 and 4, behind the singer."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Ed Thigpen",
+        "work": "Oscar Peterson Trio — at the Stratford Shakespearean Festival",
+        "note": "Reference brush playing — the sweep is audible and consistent, the taps are placed perfectly."
+      },
+      {
+        "artist": "Vernel Fournier",
+        "work": "Ahmad Jamal — At the Pershing",
+        "note": "Brushes on \"Poinciana\" — endlessly cited as the model for ballad brush feel."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Brush Artistry (instructional)",
+        "note": "An entire record dedicated to brush vocabulary."
+      }
+    ]
+  },
+  "jazz-ballad": {
+    "tagline": "Brushes at 65 BPM — the long, breathing pulse",
+    "bodyHtml": "\n      <p>A jazz <strong>ballad</strong> is a slow tune — typically <em>♩=60–80</em> — and it's where brushes earn their keep. The sticks would be too loud, too articulate, too in-the-way; the brushes provide a soft cushion that the soloist can ride on top of. Done right, the audience barely notices the drummer is there until they suddenly notice that nothing in the room has more authority than the brush sweep.</p>\n      <p>The challenge isn't technical — the patterns are simple. It's <em>holding the pulse at slow tempo</em> while keeping everything quiet. Slow tempos punish small timing errors; quiet dynamics punish small volume inconsistencies. Both at once is the test.</p>\n      <h2 class=\"section-label\">What Changes at Ballad Tempo</h2>\n      <p>The sweep slows down so much that one full circle takes roughly four seconds. The taps need to be lighter — softer than the sweep, almost — because at this volume even a normal-strength tap will stick out and break the spell. The hat-foot on 2 and 4 is still present but should be the quietest thing on the kit. Most importantly: the kick almost disappears. Modern ballad playing barely uses the kick at all; what little kick there is is <em>feathered</em> on beat 1, felt not heard.</p>\n      <p>The exercises below build a basic ballad accompaniment, then add small variations — a brushed grace pickup, a sustained sweep moment with no taps at all (a \"breathing\" bar), and a section over a held note where the drums do almost nothing.</p>\n    ",
+    "graduationCriteria": [
+      "Sweep + tap pattern at ♩=65 holds for three minutes without the sweep stuttering",
+      "Soloist accompaniment exercise (Ex 4) is played quietly enough to fit under a melody — your sweep is softer than a normal speaking voice",
+      "Hat-foot on 2 and 4 is present but quieter than the taps — and the taps are quieter than they would be at medium tempo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ballad Tempo: Sweep + Tap on 2 and 4",
+        "tip": "Right-hand sweep continues throughout (described, not notated). Left-hand taps and the hat-foot land together on beats 2 and 4. At <em>♩=65</em> there's a long stretch between every event; resist the urge to fill it. The sweep IS the filler. Loop for three full minutes — slow tempos require time-on to internalize."
+      },
+      {
+        "title": "2 — Add a Pickup Tap on the &amp; of 4",
+        "tip": "Tiny variation: a soft tap on the <em>&amp; of 4</em>, leading into beat 1 of the next bar. This is the most common ballad embellishment — a brushed pickup that hands the bar back to the soloist. The tap is even quieter than the 2 and 4 taps; it's a hint, not a hit. Sweep continues."
+      },
+      {
+        "title": "3 — A Breathing Bar (Sweep Only, No Taps)",
+        "tip": "No taps — just the sweep and the hat-foot, the bar you play while the soloist holds a long note. Alternate one bar of Exercise 2 with one bar of this; the skill being drilled is <em>when not to tap</em>, which is half of ballad playing."
+      },
+      {
+        "title": "4 — Soloist Accompaniment: 4-Bar Phrase",
+        "tip": "Two bars of basic time, one breathing bar, one bar with a pickup back to the top — the sweep unbroken through all four (sixteen seconds of circle). Aim to make the phrase feel like <em>one breath</em>, not four separate bars."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Vernel Fournier",
+        "work": "Ahmad Jamal — But Not For Me",
+        "note": "Listen to how the sweep holds the room while the taps barely disturb it — ballad brushwork at its most complete."
+      },
+      {
+        "artist": "Ed Thigpen",
+        "work": "Oscar Peterson Trio — Night Train",
+        "note": "Quiet, supportive, never overplays."
+      },
+      {
+        "artist": "Lewis Nash",
+        "work": "Tommy Flanagan — Sea Changes",
+        "note": "Modern ballad brushwork at the highest level."
+      }
+    ]
+  },
+  "jazz-medium-swing": {
+    "tagline": "Ride + foot + feathered kick + one snare hit per bar",
+    "bodyHtml": "\n      <p>Medium swing — roughly <em>♩=130 to ♩=180</em> — is the default jazz feel. More small-group recordings live at this tempo than at any other. It's fast enough to swing convincingly but slow enough that there's room for snare comping, kick variations, and the listener to hear what the soloist is doing. If you only ever played one feel for the rest of your life, this would be the one.</p>\n      <p>The texture is four layers: the ride pattern in your right hand, the hi-hat foot on 2 and 4, a feathered kick on every quarter (or just on 1), and an occasional snare comping figure. This lesson installs all four, one at a time, and ends with a single Chapin-style snare hit on the <em>&amp; of 2</em> — the most common comping position in the genre.</p>\n      <h2 class=\"section-label\">The Feathered Kick</h2>\n      <p>\"Feathered\" means played so quietly that you can <em>feel</em> it but not really hear it. In the bebop tradition, the kick plays a soft pulse on every quarter note (sometimes called \"four on the floor jazz\") while the bass walks above it. The drummer's kick blends into the bass note so completely that they sound like one instrument. For now, we'll just feather beat 1; the every-quarter version is a refinement for later.</p>\n    ",
+    "graduationCriteria": [
+      "Full four-limb medium swing (Ex 4) holds at ♩=140 for two minutes",
+      "Feathered kick is felt not heard — a band member could not pick it out from the bass note",
+      "Single snare comp on the &amp; of 2 lands consistently in the swung skip-note position, not on the downbeat"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ride Pattern Alone",
+        "tip": "Just the ride. Faster tempo than your earlier ride-pattern work — <em>♩=140</em> is the slow end of medium swing, and your right hand needs to be relaxed enough to keep the swing 8ths swinging at this speed. If the skip-note flattens into a straight 8th, drop the tempo; if you can play it cleanly here, you'll have no trouble at slower tempos."
+      },
+      {
+        "title": "2 — Add the Hi-Hat Foot on 2 and 4",
+        "tip": "Two limbs. The hat-foot lands with the ride's quarter on beats 2 and 4 — three sounds at the same instant on those beats (ride quarter, hat clamp, hat-foot kick). You drilled this in <em>Hi-Hat Foot on 2 and 4</em>; now it's at medium-swing tempo. If the foot drifts toward landing on the swung skip-note instead of the beat, slow down."
+      },
+      {
+        "title": "3 — Add the Feathered Kick on Beat 1",
+        "tip": "Soft kick on beat 1. Feathered — barely audible. If you can hear it as a distinct note, it's too loud; if you can't feel it at all, it's too soft. The right amount sits underneath the bass like a shadow. Three limbs in motion: ride hand, hat-foot, kick. The snare hand is still doing nothing."
+      },
+      {
+        "title": "4 — Add a Snare Hit on the &amp; of 2 (First Comping Figure)",
+        "tip": "A single snare hit on the <em>&amp; of 2</em>, landing at the same instant as the ride's swung skip — not beside it. This is Chapin's first single-position comping figure (<em>Advanced Techniques</em> p.10). Four limbs now; loop until the snare stops feeling like an event."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones",
+        "note": "Medium swing as a benchmark — every limb in its place, single-position comping for chorus after chorus."
+      },
+      {
+        "artist": "Papa Jo Jones",
+        "work": "Count Basie — Live at Newport 1957",
+        "note": "The model for the feathered-kick approach."
+      },
+      {
+        "artist": "Kenny Clarke",
+        "work": "Modern Jazz Quartet — Fontessa",
+        "note": "Quiet, restrained medium swing — comping is sparse and always at the right moment."
+      }
+    ]
+  },
+  "jazz-comping-basics": {
+    "tagline": "The snare's eight most common positions, one per bar",
+    "bodyHtml": "\n      <p>Comping — short for \"accompanying\" — is what the drummer does behind a soloist. Specifically, it's the snare drum's quiet, conversational hits that comment on what the soloist is playing while the ride and hi-hat foot hold time. Done well, it sounds like the drummer is speaking to the soloist; done poorly, it's a random snare drum interrupting the music.</p>\n      <p>The vocabulary of comping is built from <em>single-position</em> figures: one snare hit per bar, in each of the eight common positions in the bar. Once you can play any one of those positions cleanly while the ride and foot hold time, you can combine them, vary them, and start to comp musically. But first, drill them one at a time. This is the same Chapin-method philosophy that drove the <em>Independence (Chapin Method)</em> lesson — depth, not variety.</p>\n      <h2 class=\"section-label\">The Eight Common Positions</h2>\n      <p>Counted in 8th notes within the swung 4/4 bar, the positions are:</p>\n      <ul>\n        <li><strong>Beat 1</strong> — landing on the downbeat with the ride.</li>\n        <li><strong>&amp; of 1</strong> — the swung skip after beat 1.</li>\n        <li><strong>Beat 2</strong> — with the hat-foot and the ride's second quarter.</li>\n        <li><strong>&amp; of 2</strong> — the most common comp position; with the ride's swung skip.</li>\n        <li><strong>Beat 3</strong> — with the ride's third quarter.</li>\n        <li><strong>&amp; of 3</strong> — the swung skip after beat 3.</li>\n        <li><strong>Beat 4</strong> — with the hat-foot and the ride's fourth quarter.</li>\n        <li><strong>&amp; of 4</strong> — the swung skip into the next bar; the natural pickup.</li>\n      </ul>\n      <p>The exercises below drill five of these — the ones not already covered in the Chapin-method lesson. Each holds the ride pattern + hi-hat foot + feathered kick on 1 constant, and adds ONE snare hit per bar at the named position. Loop each one twenty to forty times before moving on.</p>\n    ",
+    "graduationCriteria": [
+      "Each of the five single-position comp figures loops at ♩=140 for one minute without the ride wobbling",
+      "You can switch between any two figures from bar to bar without a stumble",
+      "The single snare hit is unambiguously placed — its position in the bar is clear to a listener with no count given"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Snare on Beat 1",
+        "tip": "Snare on the downbeat — landing with the ride quarter and the feathered kick. Three things sound at once on beat 1 (ride, snare, kick), then the snare is silent for the rest of the bar. The whole-bar snare rest after the hit is what makes this position feel like a <em>statement</em>; the snare hits, then yields the bar back to the soloist."
+      },
+      {
+        "title": "2 — Snare on the &amp; of 1",
+        "tip": "The snare sits with the second 8th of the first ride pair — the swung skip after beat 1, which is the <em>&amp; of 1</em>. Pass/fail: the snare locks with that skip note every time and never lands on the downbeat."
+      },
+      {
+        "title": "3 — Snare on Beat 2",
+        "tip": "Position-counting in shorthand jazz notation is famously confusing — play the loop and let your ears confirm which beat the snare lands on. The point of this one: the snare falls on a beat the hat-foot is <em>also</em> marking, so the two must sound as one attack, not a flam."
+      },
+      {
+        "title": "4 — Snare on the &amp; of 3",
+        "tip": "Snare on the swung skip after beat 3 — the second 8th of the third ride pair. It lands with the ride's <em>ding-a</em> in the second half of the bar, balancing the &amp; of 1 in the first half. Many comping ideas pair these two positions (a hit on the &amp; of 1 and a hit on the &amp; of 3) for symmetry. For now, just isolate it. Loop forty times."
+      },
+      {
+        "title": "5 — Snare on Beat 3 with Off-Kick",
+        "tip": "Snare on beat 3, with the ride's third quarter — and the kick now plays 1 <em>and</em> 3, so three voices stack on that beat. Listen for a single clean attack on 3: if you hear a flam between kick, snare, and ride, slow it down and re-stack."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Clifford Brown and Max Roach",
+        "note": "Listen for how often Roach plays a single snare hit per bar — comping basics taken to a master level."
+      },
+      {
+        "artist": "Art Blakey",
+        "work": "Jazz Messengers — Moanin'",
+        "note": "The hard-bop comping vocabulary; positions used here are everywhere on this record."
+      },
+      {
+        "artist": "Kenny Clarke",
+        "work": "Bud Powell — The Amazing Bud Powell Vol. 1",
+        "note": "Bebop comping at its origins — Clarke was the architect of single-position figures."
+      }
+    ]
+  },
+  "jazz-waltz": {
+    "tagline": "Swing in three — the other meter every jazz drummer plays",
+    "bodyHtml": "\n      <p>A large slice of the jazz repertoire lives in 3/4: \"My Favorite Things,\" \"Someday My Prince Will Come,\" \"Bluesette,\" \"Alice in Wonderland,\" half of Bill Evans' set lists. The jazz waltz is not 4/4 swing with a beat missing — it's its own feel, with its own ride pattern and its own way of breathing.</p>\n\n      <h2 class=\"section-label\">The Ride in Three</h2>\n      <p>The standard waltz ride is <em>ding · ding-a · ding</em>: quarter on 1, swung 8ths on 2, quarter on 3. The skip note (the \"a\" of 2) is swung exactly like the 4/4 skip note — late, in the last third of the beat. The hi-hat foot moves from \"2 and 4\" to just <strong>beat 2</strong>, which is what makes the bar feel like it turns in a circle rather than marching in a line.</p>\n\n      <h2 class=\"section-label\">Keeping the Bar From Turning Around</h2>\n      <p>The classic beginner failure in 3/4 is losing which beat is \"1\" — the bar silently rotates and you're suddenly playing the ride pattern starting on 2. The fix is the hi-hat foot: as long as the chick is on beat 2, your body knows where the bar is. If you feel the pattern drift, stop, sing <em>\"ONE two-and three\"</em> for a bar, and re-enter.</p>\n\n      <h2 class=\"section-label\">Where the Comp Goes</h2>\n      <p>In 4/4 the snare comps around the backbeat; in a waltz there is no backbeat. Comps in 3/4 most naturally land on the <em>&amp; of 2</em> (locking with the skip note) or on beat 3 (setting up the next downbeat). The exercises add one comp at a time — the goal is a rolling, circular time-feel, not a downbeat-heavy \"oom-pah-pah.\"</p>\n    ",
+    "graduationCriteria": [
+      "Waltz ride pattern (Ex 1) loops in 3/4 at ♩=120 without the bar turning around",
+      "Hi-hat foot lands on beat 2 of every bar and nowhere else",
+      "Two-bar phrase (Ex 4) holds for two minutes with the comp landing on the swung \"&\" of 2"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Waltz Ride Pattern",
+        "tip": "Ding · ding-a · ding. Swing the second 8th of beat 2 — it lands where the last triplet partial would, exactly like the 4/4 skip note. Count \"1, 2-and, 3\" out loud until the three-ness stops feeling strange."
+      },
+      {
+        "title": "2 — Add the Hi-Hat Foot on 2",
+        "tip": "One chick per bar, on 2. This is your anchor against the bar turning around — if the chick ever feels like it's on 1 or 3, the bar has rotated on you."
+      },
+      {
+        "title": "3 — Comp on the & of 2",
+        "tip": "The snare joins the skip note — ride and comp land together on the swung &-of-2. Keep the comp lighter than the ride; it's a nudge inside the time, not an accent on top of it."
+      },
+      {
+        "title": "4 — Two-Bar Waltz Phrase",
+        "tip": "Bar 1 plain, bar 2 comps on the &-of-2 and beat 3 — a question-and-answer phrase. The beat-3 comp sets up the next downbeat; let it breathe rather than punch."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — My Favorite Things",
+        "note": "The most famous jazz waltz recording. The bar circles; it never marches."
+      },
+      {
+        "artist": "Paul Motian",
+        "work": "Bill Evans Trio — Waltz for Debby",
+        "note": "Waltz time at its most elastic — brushes, space, and implied rather than stated pulse."
+      },
+      {
+        "artist": "Jimmy Cobb",
+        "work": "Miles Davis — Someday My Prince Will Come",
+        "note": "A straighter, more grounded waltz feel — a useful contrast with Elvin's circling version."
+      }
+    ]
+  },
+  "jazz-trading-fours": {
+    "tagline": "Three bars of comping, one bar of solo — repeat",
+    "bodyHtml": "\n      <p><strong>Trading fours</strong> is a jazz performance convention: after the head and the main solos, the band takes turns soloing in four-bar increments. The horn plays four bars, the drummer plays four bars, the horn plays four, the drummer plays four. (You also get \"trading eights\" and \"trading twos\" — the duration changes, the principle doesn't.) It's a jazz-specific structural game built into the form.</p>\n      <p>Why four bars? Because the standard jazz form (the 32-bar AABA standard, the 12-bar blues) is built out of four-bar phrases, and trading fours respects that phrasing. Each four-bar trade is one phrase of the form. The soloing drummer is filling in for the horn during one of the form's natural phrases, then handing it back.</p>\n      <h2 class=\"section-label\">The Practice Format</h2>\n      <p>You can't really practice trading fours alone with a metronome — there's no horn to trade with. The practical workaround used in this lesson is the <em>solo-bar template</em>: comp for three bars, solo for one bar, comp for three bars, solo for one bar. The single solo bar is a stand-in for the band's four-bar phrase, scaled down for solo practice. Once that's automatic, you scale up — comp for four bars, then solo for four bars (Exercise 2).</p>\n      <h2 class=\"section-label\">Motivic Development</h2>\n      <p>The hardest thing about a four-bar solo is making it sound like a phrase, not a random fill. The traditional solution is <em>motivic development</em>: pick a small rhythmic idea (a \"motive\"), play it in bar 1, vary it slightly in bar 2, vary it again in bar 3, resolve it in bar 4. The idea is recognisable across all four bars because all four bars are versions of the same shape. Exercise 3 demonstrates this with a single 16th-note triplet motive.</p>\n    ",
+    "graduationCriteria": [
+      "3-bar comp + 1-bar solo template (Ex 1) loops at ♩=140 with the comp returning cleanly each time",
+      "A 4-bar solo (Ex 2) starts and ends on beat 1 — no rushing the first hit, no overshooting the last",
+      "Motivic exercise (Ex 3): the same rhythmic idea is recognisable in all four bars of the solo"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Solo-Bar Template (3 + 1)",
+        "tip": "Three bars of comping (different snare position each bar) followed by one solo bar of straight 8ths on the snare. The hat-foot on 2 and 4 keeps going through the solo bar — that's important. The form is what you're holding when you let go of the time. Loop the four-bar phrase. The challenge is reentering the comp cleanly on bar 1 of the next loop after the solo bar."
+      },
+      {
+        "title": "2 — A Full 4-Bar Solo at Medium Tempo",
+        "tip": "Bar 1 states on the snare, bar 2 answers on the toms, bar 3 mixes, bar 4 resolves to the ride to hand it back — hat-foot on 2 and 4 through everything. The moments that count: the FIRST hit of bar 1 and the FINAL hit of bar 4."
+      },
+      {
+        "title": "3 — Motivic Development: One Idea, Four Variations",
+        "tip": "One motive — <em>two 8ths + a quarter</em> — in every bar; only the last note moves (high tom → mid tom → floor tom, inverting in bar 4). You have it when the four bars feel like one sentence rather than four separate ideas."
+      },
+      {
+        "title": "4 — Trading Yourself: Comp 4, Solo 4 (Loop)",
+        "tip": "Four bars of comp (two single-position figures), four bars of the Exercise 3 motive, looped — hat-foot marking 2 and 4 across all eight. Judge yourself only on the two handoffs: bar 4 into bar 5, and bar 8 back into bar 1. Everything else is preparation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Sonny Rollins — Saxophone Colossus",
+        "note": "\"Blue 7\" — the iconic recorded trading-fours session."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Trading fours and twos at very fast tempos; Williams is articulate at every speed."
+      },
+      {
+        "artist": "Roy Haynes",
+        "work": "Chick Corea — Now He Sings, Now He Sobs",
+        "note": "Trios trading at the highest level of motivic development."
+      }
+    ]
+  },
+  "jazz-bossa-jazz": {
+    "tagline": "Jazz tunes that swing as a bossa — Wave, Desafinado, etc.",
+    "bodyHtml": "\n      <p>A large slice of the jazz repertoire is in <em>bossa-jazz</em> feel: tunes by Jobim (Wave, Desafinado, Corcovado, How Insensitive), tunes by Carlos Lyra, and many of the standards that the Bill Evans/Stan Getz axis brought into the jazz canon. They're played with the bossa kick pattern and cross-stick on 2 and 4 from the Brazilian tradition, but with jazz-style ride accents and Chapin-style snare comping figures. The result is a hybrid: the rhythm section's foundation is bossa; the soloist treats it like a jazz tune; the drummer plays both worlds at once.</p>\n      <p>You can think of this as bossa-with-jazz-vocabulary, or as jazz-with-bossa-feet. Either framing works. The exercises below assume comfort with the basic bossa pattern (from <em>Bossa Nova</em>) and add three layers in sequence: jazz-style accents on the ride bell, the bossa pattern at jazz medium-swing tempos, and Chapin-style snare comping over the bossa foundation.</p>\n      <h2 class=\"section-label\">What's Different from Pure Bossa</h2>\n      <p>The kick is the same (1, &amp; of 2, 3, &amp; of 4). The cross-stick is the same (2 and 4, simple version). What changes:</p>\n      <ul>\n        <li><strong>Ride hand</strong> often plays the ride cymbal (not the hi-hat), with accents on the bell on beats 2 and 4 — like a bossa cáscara translated to ride.</li>\n        <li><strong>Tempo</strong> is faster — pure bossa lives at ♩=92; jazz-bossa lives at ♩=120–150.</li>\n        <li><strong>Snare comping</strong> figures from the jazz vocabulary are added on top of the bossa cross-stick.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Bossa pattern with jazz ride (Ex 2) holds at ♩=130 for two minutes",
+      "Cross-stick on 2 and 4 is consistent — the click is even, not patchy",
+      "Single Chapin-style snare comp (Ex 3) lands cleanly without disturbing the bossa kick"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Bossa Pattern at Jazz Tempo",
+        "tip": "Standard bossa: hi-hat 8ths, cross-stick on the &amp; of 1, 3, and &amp; of 4 (the clave-flavoured pattern), bossa kick (1, &amp; of 2, 3, &amp; of 4). Same as the <em>Bossa Nova</em> lesson but at <em>♩=130</em> — faster than pure bossa would normally sit. <strong>Play the snare line as cross-stick.</strong> The cross-stick should be a soft click, not a snare hit; the dynamic level of the entire groove is quiet."
+      },
+      {
+        "title": "2 — Bossa Pattern with Jazz-Style Ride Accents",
+        "tip": "The hand moves from hi-hat to ride — same 8th pattern. Strike the <em>bell</em> on beats 2 and 4 (the accent marks) and the bow everywhere else. Two distinct sounds from one cymbal is the exercise; if the bell ping isn't obviously different, exaggerate the contrast."
+      },
+      {
+        "title": "3 — Add a Chapin-Style Snare Comp",
+        "tip": "One snare line, two sounds: the bossa cross-stick figure (stick across the rim, soft click) plus a full-snare jazz comp on the <em>&amp; of 4</em> (tip of the stick, louder). Loop until your left hand switches articulations on demand without breaking the pattern."
+      },
+      {
+        "title": "4 — A Two-Bar Bossa-Jazz Phrase",
+        "tip": "Bar 1 adds the jazz comp on the <em>&amp; of 2</em>; bar 2 moves it to the <em>&amp; of 4</em> — same cross-stick pattern underneath both. With the bell accents and the bossa kick, this is the full texture: what Edison Machado or Paulo Braga plays on a Jobim record."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tutty Moreno",
+        "work": "Various Jobim recordings",
+        "note": "Bossa-jazz from the Brazilian side — the bossa is intact, the jazz vocabulary is layered carefully on top."
+      },
+      {
+        "artist": "Buddy Deppenschmidt",
+        "work": "Stan Getz & Charlie Byrd — Jazz Samba",
+        "note": "American jazz drummer playing bossa-jazz; the ride accents are unmistakably jazz."
+      },
+      {
+        "artist": "Edison Machado",
+        "work": "Various 1960s recordings",
+        "note": "The originator of the ride-pattern-on-the-bossa approach."
+      }
+    ]
+  },
+  "jazz-up-tempo-intro": {
+    "tagline": "At 250 BPM, less is faster",
+    "bodyHtml": "\n      <p>\"Up-tempo\" in jazz means roughly <em>♩=200 and faster</em>, and at that speed everything you've learned about medium swing has to be reconsidered. The same four limbs that played a complex texture at 130 cannot do the same thing at 250 — there isn't time, there isn't physical capacity, and most importantly, there isn't <em>musical room</em>. At fast tempos, the listener's ear flattens out the texture; what feels rich at 130 sounds like noise at 250.</p>\n      <p>The principle is counterintuitive: <strong>at fast tempos, the drum part gets simpler, not more complex</strong>. The ride pattern thins out (often to just quarters, or quarters with the skip-note used sparingly). The kick almost disappears, or feathers to inaudibility. The hi-hat tightens into a dry <em>chick</em> on 2 and 4. Snare comping becomes rare — single hits that punctuate, not the conversation it can be at medium tempo. Less is faster.</p>\n      <h2 class=\"section-label\">Why Less Is Faster</h2>\n      <p>Two reasons. <strong>Physical</strong>: at ♩=250, full swing 8ths in the right hand are 500 strokes per minute. Even a relaxed wrist tires; the swing degrades into a stiff straight-8th feel as fatigue sets in. Quarter notes (250 strokes per minute) are easy to sustain. Quarter+occasional-skip (300) is also sustainable. The ride pattern's full-on swing 8ths (500) is the thing that breaks first. <strong>Musical</strong>: at fast tempos the ear hears the QUARTER PULSE more strongly than the 8ths. Adding swing 8ths to the ride doesn't add more groove; it just adds noise. A clean quarter-note ride at 250 swings harder than a busy ride pattern at 250 because the listener can hear the time clearly.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter-note ride at ♩=200 holds for two minutes without the right hand cramping",
+      "Thinned ride pattern (Ex 2) at ♩=250 holds for one minute",
+      "Up-tempo time with no kick (Ex 3) does not feel like the time is collapsing — the hat-foot is doing the anchoring"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Note Ride at Up-Tempo",
+        "tip": "Quarters only at <em>♩=200</em>, hat-foot on 2 and 4, no kick. Let the stick rebound — shoulder down, wrist loose. The test is a two-minute loop: if your forearm burns after thirty seconds, the tempo drops until it doesn't. Learning to <em>not get tired</em> is the exercise."
+      },
+      {
+        "title": "2 — Thinned Ride Pattern (Quarter + Sparse Skip)",
+        "tip": "At <em>♩=250</em> the ride keeps quarters through beats 1, 2, and 3, and adds one swung skip on beat 4 — a small lift back to the top of the bar. (Some drummers put it on beat 2 instead; both work.) The skip is a color here, not a constant."
+      },
+      {
+        "title": "3 — Up-Tempo Time with No Kick",
+        "tip": "Same ride as Exercise 2, but the kick is <em>completely absent</em> — not feathered, gone. The hat-foot on 2 and 4 is the only anchor. If the time starts slipping, the fix is not to sneak the kick back in; it's to commit harder to the foot and the quarters."
+      },
+      {
+        "title": "4 — Up-Tempo Time with a Single Comp Per Phrase",
+        "tip": "Three bars of plain thinned-ride time, then one snare comp on the <em>&amp; of 4</em> of bar 4, leading back to the top. That's the up-tempo ratio: one figure per four-bar phrase, placed where the phrase turns over — not one per bar."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones (title track)",
+        "note": "Up-tempo time with the thinned ride pattern, comping reserved for endings of phrases."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Up-tempo at the most extreme level; the kick is gone and the hat-foot is doing all the anchoring."
+      },
+      {
+        "artist": "Jeff \"Tain\" Watts",
+        "work": "Branford Marsalis Quartet — Footsteps of Our Fathers",
+        "note": "Modern up-tempo playing — fast, simple, and heavy on the hat-foot."
+      }
+    ]
+  },
+  "jazz-broken-time-intro": {
+    "tagline": "The ride pattern fragments — the pulse is implied",
+    "bodyHtml": "\n      <p>So far, every jazz pattern in this curriculum has STATED the ride pattern — every quarter and every skip note in their place, the pulse explicit. <strong>Broken time</strong> is the next move: the ride pattern fragments, leaves space, and is implied rather than stated. The pulse is still there — the bassist and the hat-foot keep it — but the ride no longer plays it on every beat.</p>\n      <p>Broken time is what most modern jazz drummers do most of the time. Brian Blade, Bill Stewart, Eric Harland, Marcus Gilmore — when they're not doing something more elaborate, they're playing broken time. It's the contemporary default, the way medium swing was the default in 1960. If you understand it, you understand modern jazz drumming; if you can't do it, your playing will sound dated regardless of how clean your technique is.</p>\n      <h2 class=\"section-label\">The Logic of Implication</h2>\n      <p>If the ride pattern is the explicit statement of jazz time, broken time is what happens when you start removing parts of that statement. The ride pattern only has two quarters in it, on beats 1 and 3. Pull out the one on beat 3 and the bar still reads as jazz, because the hat-foot is marking 2 and 4 underneath and the bass is walking through. Pull out the one on beat 1 as well and the ride has stopped stating any downbeat at all. Take away the on-the-beat 8ths too and you are left with nothing but the swung skip notes, and the time is <em>still</em> intact, because the bass and the hat-foot never stopped holding it.</p>\n      <p>This is harder than it sounds, because removing notes from a memorized pattern goes against years of muscle memory. The exercises below build the skill incrementally: first remove one note, then two, then everything but the skip-notes. The hat-foot on 2 and 4 stays constant the entire time — it's the anchor that makes the implication possible.</p>\n    ",
+    "graduationCriteria": [
+      "Ride pattern with one beat removed (Ex 1) loops at ♩=140 with the hat-foot keeping the time",
+      "Skip-notes-only pattern (Ex 3) does not collapse — the listener can still feel where 1, 2, 3, 4 are",
+      "You can stop the ride completely for one full bar and re-enter on the right beat"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ride Pattern with Beat 3 Removed",
+        "tip": "The quarter on beat 3 is REMOVED — a visible rest where it used to be, right after the first ding-a. The hat-foot still marks both backbeats, so the time survives; the hole in the ride is the point. Ride pattern minus one quarter: the simplest broken-time move."
+      },
+      {
+        "title": "2 — Ride Pattern with Beats 1 and 3 Removed",
+        "tip": "Both downbeat quarters gone — the ride now plays only the swung skip pairs, and nothing from you lands on beats 1 or 3 at all. It won't sound like a ride pattern anymore; that's correct. Trust the foot on 2 and 4 and loop until the time feels solid anyway."
+      },
+      {
+        "title": "3 — Skip Notes Only (No Quarters)",
+        "tip": "Ride on the <em>&amp; of 2</em> and the <em>&amp; of 4</em> only — the two swung skips, with every quarter and every on-the-beat 8th now gone. Nothing of yours lands on a beat at all. The stuttered, off-balance result is the bedrock of broken time; the hat-foot is what keeps a listener oriented, so it cannot waver here."
+      },
+      {
+        "title": "4 — Broken-Time Bar Responding to a Phantom Soloist",
+        "tip": "Bar 1: one ride note on <em>beat 2</em>, the snare on the swung 8th right after it, then nothing — the soloist is holding a long note and you're just acknowledging it. Bar 2: the full ride pattern returns. That empty-bar / full-bar alternation is the conversational logic of broken time."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — MoodSwing",
+        "note": "Broken time as the default, throughout the record."
+      },
+      {
+        "artist": "Bill Stewart",
+        "work": "John Scofield — Time on My Hands",
+        "note": "Broken-time master class — listen for how often the ride leaves space."
+      },
+      {
+        "artist": "Paul Motian",
+        "work": "Bill Evans Trio at the Village Vanguard",
+        "note": "The historical origin point — Motian's broken time was decades ahead of its time."
+      },
+      {
+        "artist": "Marcus Gilmore",
+        "work": "Vijay Iyer Trio — Accelerando",
+        "note": "Contemporary broken time at the highest level of abstraction."
+      }
+    ]
+  },
+  "jazz-bop-vocabulary": {
+    "tagline": "The Philly Joe / Max Roach / Kenny Clarke language",
+    "bodyHtml": "\n      <p>By 1947 the small-group rhythm section had been reinvented. Kenny Clarke moved the time-keeping off the bass drum and onto the ride; Max Roach turned the snare into a melodic voice; Philly Joe Jones perfected the syncopated kick-and-snare conversation that became the working language of the next thirty years. Together they built a vocabulary — a set of recurring comping figures every working bop drummer is expected to know.</p>\n      <p>This lesson installs four of those figures. None of them are hard to play in isolation; the discipline is keeping the ride pattern <em>completely undisturbed</em> while the snare and kick speak underneath. The ride is the metronome the band hears. Anything you do with the other three limbs has to coexist with it.</p>\n      <h2 class=\"section-label\">The Four Figures</h2>\n      <ul class=\"bulleted\">\n        <li><strong>The Philly-Joe lick</strong> — snare on the <em>&amp; of 4</em>, followed by a kick on the <em>1</em> of the next bar. The setup-and-resolve that punctuates the end of almost every chorus.</li>\n        <li><strong>Bell accents on 1 and 3</strong> — instead of (or in addition to) the bow accents on 2 and 4, hit the bell on the strong beats. A brighter, more declarative ride sound.</li>\n        <li><strong>The \"extra skip\" ride</strong> — the standard skip-pattern with an additional 8th-note skip added on the <em>&amp; of 1</em> or <em>&amp; of 3</em>, pushing the time forward.</li>\n        <li><strong>Snare-and-kick unison on the &amp;</strong> — both lower-voice limbs hit together on a syncopated point, doubling the impact.</li>\n      </ul>\n      <p>Listen to Philly Joe with Miles (\"Four\", \"Walkin'\"), Max Roach with Clifford Brown, and Kenny Clarke with the MJQ. The vocabulary is on every track.</p>\n    ",
+    "graduationCriteria": [
+      "Philly-Joe lick (snare on &-of-4 + kick on the next downbeat) lands cleanly under the ride at ♩=160",
+      "Bell-of-the-ride accent on 1 and 3 is audibly distinct from the bow accents on 2 and 4",
+      "Four classic bop comping figures memorized and playable in any order over a 4-bar form",
+      "Ride pattern remains undisturbed when comping figures land on syncopated points"
+    ],
+    "exercises": [
+      {
+        "title": "1 — The Philly-Joe Lick",
+        "tip": "Standard ride pattern with a sharp accented snare on the <em>&amp; of 4</em>. The kick on the next downbeat (which becomes beat 1 of the next loop) is the resolution — the lick is a setup-and-snap over the barline. Keep the ride absolutely steady; only the snare changes."
+      },
+      {
+        "title": "2 — Bell Accents on 1 and 3",
+        "tip": "Move the tip of the stick onto the <em>bell</em> of the ride for the quarter-note hits on beats 1 and 3 — a brighter, more cutting ping. Return to the bow for the swung 8ths. The accent marks here indicate <em>where</em> the bell hits land, not just how loud they are. Two distinct cymbal sounds in one bar."
+      },
+      {
+        "title": "3 — The Extra-Skip Ride",
+        "tip": "Every 8th-note position now has a ride hit — so the standard skip pattern (<em>ding · ding-a · ding · ding-a</em>) becomes <em>ding-a · ding-a · ding-a · ding-a</em>. The 8ths still swing. This denser ride pushes the time forward and is the texture Philly Joe leans into when the band is cooking."
+      },
+      {
+        "title": "4 — Snare-and-Kick Unison on the &amp;",
+        "tip": "Snare and kick land together on the <em>&amp; of 2</em>. A doubled syncopated stab — two voices reinforcing each other on the off-beat. Ride keeps moving; hi-hat foot lands on 4 only this bar (skipping its 2-and-4 duty briefly to make space for the kick on the &amp; of 2)."
+      },
+      {
+        "title": "5 — Four-Bar Bop Comping (Combine the Vocabulary)",
+        "tip": "A composite bar — bell accents on 1 and 3, plus the Philly-Joe lick at the end. Practice this loop, then improvise: pick any of the four figures from this lesson and drop it in over the next four bars. The ride pattern never moves; only the snare and kick rotate. <em>This is bop comping.</em>"
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis Quintet — Workin'",
+        "note": "Every track is a master class in the bop comping vocabulary."
+      },
+      {
+        "artist": "Max Roach",
+        "work": "Clifford Brown & Max Roach — Study in Brown",
+        "note": "Listen for the snare melodies and bell-of-the-ride accents."
+      },
+      {
+        "artist": "Kenny Clarke",
+        "work": "Modern Jazz Quartet — Django (Prestige, 1956)",
+        "note": "Quieter, but the same vocabulary, refined."
+      }
+    ]
+  },
+  "jazz-up-tempo": {
+    "tagline": "Sustained 220–280 BPM swing",
+    "bodyHtml": "\n      <p>At 240 BPM and beyond, the ride pattern has to thin out. The classic skip-pattern works through about 220; past that, the second 8th-note becomes a liability — your forearm seizes, your shoulder rises, and the time falls apart. The fix is structural: <strong>drop the skip-note</strong> (or play it only intermittently) and let the ride become quarters or near-quarters.</p>\n      <p>Three other things change at uptempo:</p>\n      <ul class=\"bulleted\">\n        <li><strong>Hi-hat goes flat.</strong> Instead of clamping tight on 2 and 4, the foot relaxes — the cymbals close audibly but loosely. A \"chick\" with some sizzle in it.</li>\n        <li><strong>Bass drum disappears.</strong> Feathered so quietly that you feel it more than hear it. Any audible click on the floor is too loud.</li>\n        <li><strong>The body posture changes.</strong> Less arm motion, more wrist and finger. Shoulders drop. The motion gets economical or it cannot be sustained.</li>\n      </ul>\n      <p>This lesson steps the tempo up in stages — 200, 220, 250, 280. Don't skip stages. The technique that works at 200 will not work at 280.</p>\n    ",
+    "graduationCriteria": [
+      "Thinned ride pattern (quarters only) holds at ♩=240 for two minutes without tension in the forearm",
+      "Hi-hat foot stays loose (\"flat\") — closes audibly on 2 and 4 but does not clamp",
+      "Bass drum is felt but not heard at full uptempo (no audible click on the floor)",
+      "Can step from ♩=200 to ♩=280 in 20-BPM increments without the ride collapsing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Standard Skip Pattern at ♩=200",
+        "tip": "The standard skip pattern still works at ♩=200. Use this exercise as your <em>technique check</em> — if your forearm is tense or your shoulder rises, you can't go faster yet. Drop to ♩=180, fix the technique, then come back."
+      },
+      {
+        "title": "2 — Drop the Skip-Note at ♩=220",
+        "tip": "Just quarter notes on the ride. The skip-note is gone — the swing feel comes from the bass and the hi-hat foot, not from your hand. This is what most uptempo recordings actually contain (Roy Haynes, Tony Williams in his uptempo passages, Joey Baron). Listen for it."
+      },
+      {
+        "title": "3 — Intermittent Skip at ♩=250",
+        "tip": "Quarters on beats 1, 2, 3, with the skip-pattern <em>only</em> on beat 4. The skip becomes punctuation rather than continuous texture — a small flutter at the end of each bar that pushes the time forward without taxing your forearm. Roy Haynes uses this device constantly."
+      },
+      {
+        "title": "4 — Quarter-Only Ride + Feathered Bass at ♩=280",
+        "tip": "At ♩=280 the ride is just quarters and the bass drum plays on every beat — but <em>feathered</em>, almost inaudible. The foot is doing the time-keeping; the cymbal is just a top layer. Do not strike the kick hard; aim for so quiet you have to lean in to hear it. The hi-hat foot stays loose — flat hi-hat at this tempo is essential."
+      },
+      {
+        "title": "5 — Flat Hi-Hat Texture at ♩=240",
+        "tip": "Now the hi-hat foot plays on <em>every</em> beat — alternating loose-open (1, 3) and closed (2, 4). The result is a wash of cymbals at 240 BPM that drives the band without ever clamping shut. Tony Williams pioneered this; Jeff Watts, Eric Harland, and Brian Blade all use it at fast tempos. The 'open' articulation marks the loose hits."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Roy Haynes",
+        "work": "Out of the Afternoon",
+        "note": "Quarter-note rides at uptempo with intermittent skip-notes — hear how much harder the time swings for being thinned out."
+      },
+      {
+        "artist": "Tony Williams (Miles Davis)",
+        "work": "Four & More",
+        "note": "Flat-hi-hat uptempo time at 280+ BPM. Studied for fifty years and still inimitable."
+      },
+      {
+        "artist": "Jeff 'Tain' Watts (Branford Marsalis)",
+        "work": "Crazy People Music",
+        "note": "Modern uptempo language — the lineage from Williams forward."
+      }
+    ]
+  },
+  "jazz-broken-time": {
+    "tagline": "The full vocabulary, not just a fragmented ride",
+    "bodyHtml": "\n      <p>Broken time is not \"playing less.\" It is playing <em>different things</em> in places where you would normally play the ride pattern. The pulse is still there; the band still hears 2 and 4; the form still moves. But the drummer is no longer the metronome — they are a voice in conversation with the bass, the soloist, and the form itself.</p>\n      <p>The Arthur Taylor interview at the back of <em>The Art of Bop Drumming</em> is the closest thing to a written rulebook for this. The summary: the pulse must be <em>implied</em>, the bass is your closest partner (you and the bassist together hold the form), and the snare can take over the ride's role for a bar or two before handing it back. The space between events does the work — what you don't play matters as much as what you do.</p>\n      <h2 class=\"section-label\">Three Behaviors</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Fragmented ride</strong> — the skip pattern interrupted by silences, with the ride voice landing only on selected beats.</li>\n        <li><strong>Snare as ride voice</strong> — the cross-stick or soft snare takes over the timekeeping role for a bar.</li>\n        <li><strong>Solo phrase interruption</strong> — a one-bar burst of activity that breaks the texture, then resolves on the next downbeat.</li>\n      </ul>\n      <p>Brian Blade with the Joshua Redman trio is the modern reference. Listen to how the ride disappears for whole bars and the form is still there.</p>\n    ",
+    "graduationCriteria": [
+      "Four bars of broken time at ♩=110 with the pulse <em>implied</em> — a listener could clap on 2 and 4 throughout",
+      "Snare functions as a \"ride voice\" for at least one full bar without losing the form",
+      "A single solo phrase can interrupt the broken time and resolve back into it on beat 1",
+      "Broken-time response to an implied soloist (8-bar exchange) maintains the chorus length"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Fragmented Ride (4 bars)",
+        "tip": "Four bars: full ride · sparse ride · sparser ride · full ride. The hi-hat foot on 2 and 4 is the pulse anchor — it holds the form together while the ride disappears. Count out loud to keep your place. The fragmented bars should still <em>feel</em> like 4/4, not like silence."
+      },
+      {
+        "title": "2 — Snare as Ride Voice (cross-stick takes over)",
+        "tip": "The ride pattern is now on the <strong>cross-stick</strong> — lay the stick across the rim with the tip on the head, then strike. The result is a clicking version of the swing pattern. The pulse is preserved (the hi-hat foot still marks 2 and 4), but the timbre has gone from cymbal to wood. This is the texture under a quiet ballad solo or a rubato vamp."
+      },
+      {
+        "title": "3 — Solo Phrase Interruption (4 bars)",
+        "tip": "Two bars of broken time, one bar of solo (8th-note snare flurry with quarter-note kicks underneath), then back into the ride pattern. The solo bar is the <em>interruption</em> — a sudden burst of activity that punctuates the sparse texture, then resolves cleanly on the next 1. The form is intact throughout: hi-hat foot on 2 and 4, every bar."
+      },
+      {
+        "title": "4 — Response to an Implied Soloist (8-bar exchange)",
+        "tip": "Bars 1–2: quarter-note rides only while the phantom soloist holds a note. Bars 3–4: answer their flurry with snare commentary and denser ride. Bars 5–6: release into space; bars 7–8: full ride restored, Philly-Joe lick on the <em>&amp;</em> of bar 7. Play it <em>as a response</em> — imagine the soloist the whole way."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade Fellowship — Perceptual",
+        "note": "Modern broken time — entire bars where the ride disappears and the form holds via the snare and the hi-hat foot."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — Back East (Zarafah)",
+        "note": "Redman's trio carries no piano and no guitar, so the bass alone states the harmony. Listen for how the bass and the drums divide the job of holding the form when nothing else marks it."
+      },
+      {
+        "artist": "Jack DeJohnette (Keith Jarrett Trio)",
+        "work": "Standards Live",
+        "note": "Listen to 'Stella by Starlight': the ride fragments, the snare takes over the timekeeping for bars at a time, and the form never wobbles."
+      }
+    ]
+  },
+  "jazz-modal-comping": {
+    "tagline": "Comping when the chord doesn't change",
+    "bodyHtml": "\n      <p>Modal jazz changed what comping is for. When the chord stays the same for sixteen or thirty-two bars (think \"So What\" — D-7 for sixteen bars, then E♭-7 for eight, then D-7 again), the harmonic information is gone. The drummer's job stops being to <em>articulate</em> chord changes and starts being to <em>generate energy</em> across long, harmonically static stretches.</p>\n      <p>Elvin Jones with Coltrane is the textbook. The ride pattern stays in motion, but the kick and snare start participating in a <strong>rolling 8th-note triplet feel</strong> — kicks and snare hits land on the second or third partial of the triplet group, creating a constant sense of forward motion that doesn't depend on harmonic change to push the music. The whole texture becomes one rolling wave.</p>\n      <h2 class=\"section-label\">Three Devices</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Triplet kicks</strong> — the bass drum lands on triplet partials, often the second or third of the group, weaving with the ride.</li>\n        <li><strong>Snare-and-hat building</strong> — the hi-hat hand opens up to a wash, the snare adds intermittent comments. Density increases bar by bar.</li>\n        <li><strong>The arc</strong> — every 4-bar phrase has a contour. Start sparse, build, peak, release. The release is what makes the build mean something.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "A 4-bar comping pattern with rolling triplet kicks holds at ♩=110 without the ride collapsing into the triplets",
+      "An 8-bar arc that builds intensity and resolves on bar 8 — the listener feels a clear \"release\" point",
+      "Snare and hi-hat hand can both build over the bar without the ride pattern dropping out",
+      "Triplet feel is rolling, not stiff — the kick on triplet partials feels like part of the ride, not against it"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Triplet Kicks Under the Ride",
+        "tip": "Kick on every beat (with the hi-hat foot doubling on 2 and 4) under the standard ride skip pattern. <em>The Elvin device:</em> as you play this, place each kick stroke <em>slightly late</em> — closer to the second triplet partial of the beat than the downbeat. The kick weaves into the swung 8ths of the ride rather than landing under them. Notation says quarters; feel says triplet partials."
+      },
+      {
+        "title": "2 — Snare and Hat Building (4-bar arc)",
+        "tip": "A 4-bar build: bar 1 ride only, bar 2 adds one snare comment, bar 3 adds another, bar 4 has the snare on every &amp;. The hi-hat foot stays consistent throughout; the kick joins from bar 2. Density increases bar by bar — the listener should hear the music <em>tightening</em> across the four bars without anything explicitly changing in the harmony."
+      },
+      {
+        "title": "3 — Rolling Triplet Texture",
+        "tip": "Twelve even ride triplets per bar, kick on every beat, hat-foot doubling 2 and 4. The device: let each kick land <em>slightly late</em> — between the first and second triplet partial — so it weaves through the ride instead of sitting under it. Nothing should articulate a clean beat division."
+      },
+      {
+        "title": "4 — 8-Bar Arc (Build and Resolve)",
+        "tip": "Eight bars in three phases: spacious (1–2), building (3–4), peak (5–6), release (7–8). The snare density tracks the arc — none in the first two bars, syncopated in the next two, every &amp; in the peak, then silent again. Same harmonic landscape from start to finish; the drumming creates the entire shape. Practice this until you can feel the build as a physical sensation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — A Love Supreme",
+        "note": "Start with 'Acknowledgement' and follow how the energy builds with no chord changes to lean on. The lift comes entirely from the ride tightening and the triplet pulse thickening underneath."
+      },
+      {
+        "artist": "Jimmy Cobb",
+        "work": "Miles Davis — Kind of Blue",
+        "note": "Sparser, quieter modal comping over the same kind of static harmony. Listen to how much space the ride leaves on 'So What' and how rarely the snare interrupts."
+      },
+      {
+        "artist": "Elvin Jones",
+        "work": "McCoy Tyner Trio — Inception",
+        "note": "Stripped to a piano trio, the rolling triplet feel is laid bare with no horns covering the ride. Use it to hear the pulse that the quartet records bury."
+      }
+    ]
+  },
+  "jazz-comping-vocab": {
+    "tagline": "From single figures to snare melody",
+    "bodyHtml": "\n      <p>Chapin's <em>Advanced Techniques for the Modern Drummer</em> opens with two chapters of single-position comping figures: snare on a single beat, kick on a single beat, ride and hat foot steady. Twenty pages of \"snare on the &amp;-of-1, snare on the &amp;-of-2, snare on the &amp;-of-3...\" — a complete catalogue of where a single voice can land in a swing bar.</p>\n      <p>The point of that catalogue is not to play it. The point is to get fluent enough that you can stop thinking in single hits and start thinking in <strong>phrases</strong>. The snare becomes a melodic voice — three or four contoured hits per bar, designed as a phrase rather than as isolated stabs. That's <em>comping vocabulary</em>: not \"where can the snare go\", but \"what does the snare want to say\".</p>\n      <h2 class=\"section-label\">The Build</h2>\n      <ul class=\"bulleted\">\n        <li><strong>1-bar melody</strong> — three or four snare hits in one bar, contoured (e.g. low–high–low or rising).</li>\n        <li><strong>2-bar melody</strong> — a phrase that connects across the barline, with a clear answer in the second bar.</li>\n        <li><strong>4-bar melody</strong> — full ABAB or ABAC phrase structure. The shape that fits an 8-bar form section.</li>\n      </ul>\n      <p>The ride pattern stays absolutely undisturbed under all of this. Whatever the snare does, the ride is the riverbed.</p>\n    ",
+    "graduationCriteria": [
+      "A 1-bar contoured snare melody (3–4 hits, varied positions) holds at ♩=130 under steady ride",
+      "A 2-bar snare melody connects across the barline as a single phrase, not two separate bars",
+      "A 4-bar snare melody has clear phrase structure (call/response or ABAB) — a listener can hum it back",
+      "Ride pattern remains undisturbed under all melodic variations"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Single-Position Reference (Chapin-style)",
+        "tip": "One snare hit per bar, on the <em>&amp; of 2</em>. The simplest possible comping figure — one note in one position, repeating. Chapin's first chapter is twenty pages of this, with the snare moved to every possible 8th-note position. Loop this until the single hit feels effortless and the ride stays undisturbed."
+      },
+      {
+        "title": "2 — 1-Bar Snare Melody (3 hits, contoured)",
+        "tip": "Three snare hits in one bar — <em>&amp; of 2</em> (soft), <em>3</em> (loud, accent), <em>&amp; of 4</em> (medium). A small phrase: setup, peak, tail. The contour is everything; the same three positions played at the same volume is just three hits. Played dynamically as drawn, it becomes a tiny melody."
+      },
+      {
+        "title": "3 — 2-Bar Snare Melody (call and response)",
+        "tip": "Bar 1 is the call: snare on <em>&amp;-of-2</em> and <em>&amp;-of-4</em>, a quietly rising figure. Bar 2 is the response: a strong accented snare on beat 1 (the answer), then the same internal shape as bar 1. The two bars connect into a single 8-beat phrase, not two separate bars. Listen for whether your loop sounds like one phrase or two."
+      },
+      {
+        "title": "4 — 4-Bar Snare Melody (ABAC structure)",
+        "tip": "ABAC: bars 1 and 3 share the A figure (snare on &amp;-of-2 only); bar 2 is the B response, which keeps that &amp;-of-2 and adds snare on 1 and the &amp;-of-4 around it; bar 4 is the climax C, accented snare on 1, 3, and the &amp;-of-4, closing on the Philly Joe lick. Bar 3 repeats bar 1 exactly, hands and feet, so the snare drops from three hits back to one and you hear A return. The new C then resolves the phrase. This is how a comping figure becomes a <em>solo statement</em>."
+      },
+      {
+        "title": "5 — Improvisation Frame (4-bar template)",
+        "tip": "The frame: ride and hi-hat foot run continuously for four bars; bar 4 ends with the Philly Joe lick. Bars 1–3 are <em>your improvisation space</em> — drop in the 1-bar, 2-bar, and 4-bar melodies you built earlier. Same form every chorus, different snare melody every time. This is exactly what comping is, in practice."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams (Miles Davis)",
+        "work": "Miles Smiles",
+        "note": "Snare-as-melodic-voice taken to its limit. Every comp is a phrase, not a stab."
+      },
+      {
+        "artist": "Roy Haynes (Chick Corea)",
+        "work": "Now He Sings, Now He Sobs",
+        "note": "Listen specifically for how Haynes contours snare hits within a single bar."
+      },
+      {
+        "artist": "Jack DeJohnette (Keith Jarrett Trio)",
+        "work": "Standards Vol. 1",
+        "note": "Snare-melody comping at ballad tempos — every comp has shape."
+      }
+    ]
+  },
+  "jazz-free-jazz": {
+    "tagline": "Pulse-optional playing — texture, density, color",
+    "bodyHtml": "\n      <p>Free jazz removes the obligation to play time. Pulse becomes optional. Form becomes optional. Harmony, often, becomes optional. What remains is <strong>texture</strong>: density, color, dynamic shape, and the dramatic arc of the improvisation as a whole.</p>\n      <p>This is not a license for chaos. The drummer in a free-jazz context is making moment-by-moment decisions about <em>density</em> (how many events per second) and <em>color</em> (which surfaces are sounding) and <em>shape</em> (how the texture changes over time). The discipline is harder than playing time, not easier — there is no metronome to fall back on, no form to navigate by. The structure is whatever you build in the room.</p>\n      <h2 class=\"section-label\">The Three Studies</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Density</strong> — the only variable is how many events happen per second. Sparse to dense to sparse, like breathing.</li>\n        <li><strong>Color</strong> — the only variable is which sound is sounding. Cymbal wash → snare buzz → tom roll → silence.</li>\n        <li><strong>Pulse-implied</strong> — there is no fixed tempo, but the rhythmic events suggest one. A listener could clap along (and would be wrong) but feels invited to.</li>\n      </ul>\n      <p>The exercises below are <em>scores</em>, not loops. Each is meant to be played through once, deliberately, with attention to shape. Listen to Sunny Murray with Albert Ayler, Milford Graves, Andrew Cyrille with Cecil Taylor, Paul Motian's later trio work. The vocabulary is not transcribable but the <em>concept</em> is teachable.</p>\n    ",
+    "graduationCriteria": [
+      "A 30-second density study — sparse → dense → sparse — without falling into a fixed pulse",
+      "A color study contrasting at least three distinct timbres (cymbal wash, snare buzz, tom roll) within one continuous improvisation",
+      "A pulse-implied passage: no fixed tempo, but rhythmic events that suggest one — a listener could place where a hypothetical \"1\" would be",
+      "Sustained 60-second texture-only improvisation with no metric reference"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Density Study (sparse → dense → sparse)",
+        "tip": "Read this as a <em>shape</em>, not a metric exercise. The 4/4 is for visual reference only — play it in <strong>free time</strong>: bar 1 is one isolated event followed by long silence; bar 2 adds a second event; bar 3 is a flurry of eight events; bar 4 returns to silence. The visible rests show the silence as content. Goal: a 16-second arc that breathes once."
+      },
+      {
+        "title": "2 — Color Study (three distinct timbres)",
+        "tip": "Three timbres in succession. <strong>Bar 1:</strong> open hi-hat held — one continuous wash. <strong>Bar 2:</strong> snare buzz — press the stick into the head and let it stutter (the 16ths are a notational stand-in for an actual buzz roll). <strong>Bar 3:</strong> silence, held for the full bar's length. The 16th-note grid in bar 2 is a visual cue, not a metric one; play it as a single <em>texture event</em>. Color, color, silence."
+      },
+      {
+        "title": "3 — Pulse-Implied (no tempo, but events suggest one)",
+        "tip": "No click. Stretch the silences, let the bar-3 flurry briefly state a tempo, then dissolve it. The pass condition is strange but real: a listener should be able to <em>imagine</em> a beat — and be wrong if they clapped it."
+      },
+      {
+        "title": "4 — Free Improvisation Frame (60 seconds, no notation)",
+        "tip": "<strong>Prompt-only exercise.</strong> The notated sound is your starting event; improvise sixty seconds from it. Constraints: no fixed pulse for more than two seconds, at least three distinct timbres, density shaped sparse → dense → sparse → dense → sparse, end on silence. Listen back for the trap: a pulse that appeared and stuck."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Sunny Murray",
+        "work": "Albert Ayler Trio — Spiritual Unity",
+        "note": "Nobody is keeping time on this record. Follow the cymbals instead, which chatter and cascade gently one moment and attack outright the next, and hear texture doing the work a pulse usually does."
+      },
+      {
+        "artist": "Andrew Cyrille",
+        "work": "Cecil Taylor — Conquistador!",
+        "note": "Texture-first drumming at high density. Tracking it metrically is impossible; tracking it texturally is the point."
+      },
+      {
+        "artist": "Paul Motian",
+        "work": "I Have the Room Above Her",
+        "note": "On the title track the cymbals and brushes lay cross-rhythms under Lovano's melody while nothing marks a bar line. Across the record the drums work in texture and color rather than tempo, dropping to a near whisper and then churning into the turbulence of 'Shadows'."
+      }
+    ]
+  },
+  "jazz-post-bop": {
+    "tagline": "The conversational language between Tony and Brian Blade",
+    "bodyHtml": "\n      <p>Post-bop drumming begins where Tony Williams left it. The standard skip pattern is no longer the default — it is one option among several. The kick is no longer a feathered timekeeper — it is a melodic voice. The snare is no longer a comping accent — it is a conversational partner.</p>\n      <p>The vocabulary is conversational rather than periodic: each phrase responds to the last, builds toward a peak, and resolves. The Arthur Taylor interview (in Riley) describes the same mindset that Brian Blade brought to the Joshua Redman Trio thirty years later: every event is a <em>response</em>. Nothing is automatic.</p>\n      <h2 class=\"section-label\">Three Skills</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Ride-pattern variations</strong> — alternates to the standard skip pattern: triplet ride, dotted-quarter ride, ride with displacement.</li>\n        <li><strong>Kick as melodic voice</strong> — the bass drum varies bar to bar, becoming part of the comping conversation rather than a foundation.</li>\n        <li><strong>Anchor phrases</strong> — a recognisable rhythmic figure that recurs every few bars, providing structural reference. (This is paraphrased from the structural device used throughout Brian Blade's recorded work — short returning fragments rather than continuous patterns.)</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Three distinct ride-pattern variations (each clearly different from the standard skip pattern) playable on demand",
+      "A 4-bar pattern where the kick varies as a melodic voice — different on every bar — under steady ride",
+      "A Brian Blade-style phrase used as a comping anchor in an 8-bar form, returning every 2 bars",
+      "Snare comping continues uninterrupted under all ride variations"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ride Variation A: Triplet Ride",
+        "tip": "Variation A: a continuous 8th-note-triplet ride — twelve hits per bar — instead of the skip pattern. The hi-hat foot still marks 2 and 4. This is one of Tony Williams' most-used variations on uptempo tunes (and was directly inherited from Elvin Jones)."
+      },
+      {
+        "title": "2 — Ride Variation B: Dotted-Quarter Displacement",
+        "tip": "Variation B: dotted-quarter, 8th, dotted-quarter, 8th. The ride hits land on <em>1</em>, <em>&amp;-of-2</em>, <em>3</em>, <em>&amp;-of-4</em> — a long-short-long-short shape. Same total duration as the standard skip pattern but a completely different rhythmic feel. Brian Blade and Bill Stewart both use this device frequently."
+      },
+      {
+        "title": "3 — Ride Variation C: Skip-Pattern with Displaced Skip",
+        "tip": "Variation C: the skip-pattern <em>flipped</em>. Two 8ths first, then a quarter — <em>ding-a · ding · ding-a · ding</em>. The skip lands on the &amp; of beat 1 and the &amp; of beat 3 instead of the usual placements. A subtle shift, but the time-feel changes completely."
+      },
+      {
+        "title": "4 — Kick as Melodic Voice (4-bar variation)",
+        "tip": "Same ride pattern in all four bars. The <em>kick</em> rotates: bar 1 = 1; bar 2 = 1 + &amp;-of-3; bar 3 = 1 + 2 + 4 (stacked with hi-hat foot); bar 4 = only the &amp;-of-2. The kick is doing the comping — it's the melodic voice. Hi-hat foot keeps 2 and 4 throughout (except where the kick joins it). This is what 'kick as melodic voice' means in practice."
+      },
+      {
+        "title": "5 — Anchor Phrase Comping (Blade-style 8-bar)",
+        "tip": "<em>Anchor-phrase comping.</em> The 1-bar anchor (snare on 2 + the &amp;-of-3) returns in bars 1, 3, 5, 7; bars 2, 4, and 6 are improvised differently every time; bar 8 resolves. The anchor gives the listener structure — the variation between is the conversation."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti",
+        "note": "The post-bop foundation. Williams varies the ride bar by bar; the kick is fully melodic."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade & The Fellowship Band — Season of Changes",
+        "note": "Anchor-phrase comping in modern context. Listen for short returning figures rather than continuous patterns."
+      },
+      {
+        "artist": "Bill Stewart",
+        "work": "John Scofield — Hand Jive",
+        "note": "Ride-pattern variations as primary vocabulary. Stewart almost never plays the standard skip pattern straight."
+      }
+    ]
+  },
+  "jazz-elvin-jones": {
+    "tagline": "The rolling 8th-note triplet feel",
+    "bodyHtml": "\n      <p>Elvin Jones did not play swing; he played <em>triplets</em>. Where the standard ride pattern is \"quarter, two swung 8ths, quarter, two swung 8ths\" — six events per bar with two of them swung — Elvin's ride pattern was twelve evenly-spaced 8th-note triplets, with the snare and kick adding hits on selected triplet partials. The result is a continuous rolling wave: no clear \"beat\" division, just constant motion.</p>\n      <p>The 3-against-2 implications are everywhere. Twelve triplets per bar of 4/4 means three triplets per beat; clap on every other triplet and you get six hits per bar — which is also two hits per beat. The triplet feel <em>contains</em> a 3:2 polyrhythm at every level. Internalizing this is half the battle.</p>\n      <h2 class=\"section-label\">The Layers</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Triplet ride</strong> — twelve hits per bar, all on the ride, all evenly-spaced.</li>\n        <li><strong>Snare on triplet partials</strong> — the snare lands on the second or third partial of selected beats, not on the beats themselves.</li>\n        <li><strong>Rolling kick</strong> — the kick joins the triplet flow, hitting first and third partials in turn.</li>\n        <li><strong>Full-triplet feel</strong> — all three voices participating in the triplet stream simultaneously.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Triplet ride with snare on the second triplet partial of beats 2 and 4 holds at ♩=100 for two minutes",
+      "Rolling kick on triplet partials (kick on first and third partials of every beat) sustains under triplet ride",
+      "Full-triplet feel (ride, snare, kick all participating in the triplet flow) at ♩=85 — a slow burner",
+      "Implied 3-against-2 — a listener can clap the 2-pulse over the triplet wash without disturbing it"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Triplet Ride Foundation",
+        "tip": "Twelve evenly-spaced ride hits per bar. No skip-pattern; no swung 8ths. Continuous triplets. The hi-hat foot still marks 2 and 4. Stay here until your hand is comfortable with the unbroken triplet flow — usually that's longer than you think."
+      },
+      {
+        "title": "2 — Snare on the Second Triplet Partial",
+        "tip": "The snare lands on the <em>second triplet partial</em> of beats 2 and 4 — not on the beat itself, but on the middle of the triplet. This is the position that creates the rolling feel: the snare is <em>inside</em> the triplet, not on top of it. Hi-hat foot still marks 2 and 4."
+      },
+      {
+        "title": "3 — Rolling Kick on Triplet Partials",
+        "tip": "Kick on every beat, both feet landing together on 2 and 4. Feel each kick as the first partial of its triplet group, with a <em>felt-but-not-played</em> second kick on the third partial — once that's internal, the stroke can drift toward it without losing place. Feathered, never stomped."
+      },
+      {
+        "title": "4 — Full-Triplet Feel (Slow Burner)",
+        "tip": "Ride keeps the twelve triplets; the snare contours through three inside-the-triplet spots — second partial of beat 2, third of beat 3, second of beat 4. Let the kick melt into the wash rather than tick under it. One rolling wave, <em>Crescent</em> in essence."
+      },
+      {
+        "title": "5 — 3-Against-2 Implication",
+        "tip": "Quarter-note triplets in the kick — six evenly-spaced strokes against the bar's four beats. The triplet ride masks that 6-pulse; the kick exposes it. The hat-foot is omitted so you can hear the 3-against-2 clearly; put it back once you can feel both pulses at once."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — Crescent",
+        "note": "The triplet feel at its slowest and most exposed. Listen to 'Wise One' — the rolling triplet wave is the entire texture."
+      },
+      {
+        "artist": "Elvin Jones",
+        "work": "Live at the Lighthouse",
+        "note": "Triplet vocabulary in its full intensity. Pay attention to where the snare lands within the triplet group."
+      },
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — A Love Supreme",
+        "note": "'Resolution' contains the textbook 3-against-2 implications buried inside the triplet feel."
+      }
+    ]
+  },
+  "jazz-tony-williams": {
+    "tagline": "Quarter-note ride, hi-hat as second ride, intensity through space",
+    "bodyHtml": "\n      <p>Tony Williams was seventeen when he joined the Miles Davis Quintet in 1963. Inside two years he had reinvented the jazz drum language. Three of his innovations are foundational to modern jazz drumming:</p>\n      <ul class=\"bulleted\">\n        <li><strong>Quarter-note ride as primary feel.</strong> Where Philly Joe and Max Roach swung the 8ths, Williams often played just quarters — and made them <em>drive</em>. The skip-note became optional ornamentation rather than the default.</li>\n        <li><strong>Hi-hat as a second ride voice.</strong> Williams would play the skip pattern on the ride <em>and simultaneously</em> on the closed hi-hat with the other hand. Two ride patterns at once — twice the cymbal density.</li>\n        <li><strong>Intensity through space.</strong> The most aggressive moments in Williams' playing are often the <em>quietest</em>. Sudden silence, a single sharp accent, then resumption — more dramatic than any flurry.</li>\n      </ul>\n      <p>The foreword Tony Williams wrote for Riley's <em>Art of Bop Drumming</em> articulates the philosophy: jazz drumming is not about doing more, it is about doing exactly what the music needs and nothing else. Williams' actual playing turned out to involve a lot more cymbal density than that, but the principle of <em>intentionality</em> remains.</p>\n    ",
+    "graduationCriteria": [
+      "Quarter-note ride at ♩=200 holds for two minutes — driving, not ticking",
+      "Hi-hat hand plays the same skip pattern as the ride simultaneously (two ride voices) at ♩=140",
+      "Aggressive snare comping with sharp dynamic contrast (loud accents, soft fills) at ♩=160",
+      "A 4-bar passage where intensity rises through silence rather than activity"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter-Note Ride That Drives",
+        "tip": "Just quarters on the ride. The accents on 1 and 3 — a <em>slight</em> emphasis, not a slam — create the forward drive. This is the same notation as a beginner ride pattern, but at ♩=200 with accents on 1 and 3, it becomes the most aggressive cymbal sound in jazz. Williams' quarter-note ride is on every Miles Davis recording from 1963 to 1968."
+      },
+      {
+        "title": "2 — Hi-Hat as Second Ride Voice",
+        "tip": "Both hands play the skip pattern <em>simultaneously</em> — the right hand on the ride, the left hand on the closed hi-hat. Two ride voices in unison. The result is a doubled cymbal density that defines the Williams sound. Mechanically: the hi-hat foot stays on 2 and 4, but the closed hi-hat is also being struck on every ride note. Two cymbals at once, one foot keeping the time."
+      },
+      {
+        "title": "3 — Aggressive Snare Comping",
+        "tip": "Four bars of escalation: accented hits on the <em>&amp; of 2</em> and <em>&amp; of 4</em>, a soft ghost on beat 1 of bar 2 to set up the climb, three accents peaking in bar 3, space in bar 4. The exercise is the contrast — ghosts whisper, accents cut."
+      },
+      {
+        "title": "4 — Intensity Through Space (4-bar)",
+        "tip": "Bar 2 stops dead on beat 3; bar 3 is two beats of silence, one sharp snare-and-ride accent on beat 2, two more beats of silence; bar 4 explodes back. Play the silences as the loudest thing in the phrase — tension from absence, resolution from return."
+      },
+      {
+        "title": "5 — Williams-era Miles Vocabulary (composite)",
+        "tip": "The full Williams texture: ride and closed hi-hat in unison (two ride voices), accents on 1 and 3, snare on the &amp; of 2 inside the ride hits. Four limbs, three of them busy, one (the kick) feathered. At ♩=180 this is the sound of the second Miles Davis quintet at full cooking. Don't try this until exercises 1–4 are clean."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "At full intensity, ♩=300+ — notice how much he leaves out to keep that tempo driving."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti",
+        "note": "At slower tempos, with the hi-hat-as-second-ride device fully developed."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Tony Williams Lifetime — Emergency!",
+        "note": "The fusion-era playing: the same vocabulary at electric volume."
+      }
+    ]
+  },
+  "jazz-modern-jazz": {
+    "tagline": "Capstone — flexible swing, broken-time, melodic-snare",
+    "bodyHtml": "\n      <p>This is the capstone of the jazz track. Everything from the previous nine lessons converges here: bop vocabulary, uptempo time, broken time, modal comping, comping vocabulary, free-jazz texture, post-bop independence, the Elvin triplet feel, the Williams quarter-note ride. Modern jazz drumming — the language of Brian Blade, Eric Harland, Marcus Gilmore, Jeff Watts, Bill Stewart, Antonio Sánchez — is a fluent recombination of all of it.</p>\n      <p>The exercises below are five concrete vocabulary studies. Three are paraphrased from structures in the <em>50 Phrases of Brian Blade</em> collection — not the phrases themselves (those are Blade's transcribed work) but the <em>structural ideas</em>: a short anchor figure that returns; an 8th-note flurry that lands on a syncopated point; a snare-as-conversation device that responds to an implied soloist; the use of broken time as a stable groove rather than a special effect. The fourth uses a Carlos Vega-style flexible swing feel (from the 20 Transcriptions). The fifth puts everything together as a 12-bar form.</p>\n      <h2 class=\"section-label\">The Phrase Studies</h2>\n      <ul class=\"bulleted\">\n        <li><strong>Phrase 1</strong> — paraphrased from a Blade structural device: a short anchor figure (snare on the &amp;-of-3) returning every two bars within otherwise improvised comping.</li>\n        <li><strong>Phrase 2</strong> — paraphrased from a Blade flurry-and-resolution device: an 8th-note triplet flurry on the snare that lands on the &amp;-of-3 of the next bar.</li>\n        <li><strong>Phrase 3</strong> — paraphrased from a Blade kick-conversation device: kick on a syncopated point in bar 1, snare answering on the same point in bar 2.</li>\n        <li><strong>Phrase 4</strong> — Carlos Vega-style flexible swing 8ths: the same ride pattern played first with straight 8ths, then with deep triplet feel, in adjacent bars.</li>\n        <li><strong>Phrase 5</strong> — a 12-bar capstone combining all four phrases with broken time in bars 9–10.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Three Brian Blade-style anchor phrases (paraphrased structures from the 50 Phrases collection) memorized and deployable in a comping context",
+      "Flexible swing 8ths — can shift placement from straight-8th-feel to deep-triplet-feel within four bars without disrupting the form",
+      "Broken time within a 12-bar form: the form is preserved despite ride disappearing for whole bars",
+      "Melodic-snare conversation — a 4-bar exchange where snare and kick respond to each other as if they were two different soloists"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Phrase Study A: Anchor Figure (paraphrased Blade structure)",
+        "tip": "<em>Anchor figure structure (paraphrased from the recurring-fragment device in the Blade phrases):</em> the snare lands on beat 4 in bars 1 and 3 — that's the anchor. Bars 2 and 4 are improvised (varied snare placements). The repeating beat-4 hit gives the phrase an internal logic that the listener can track even though the comping is otherwise free."
+      },
+      {
+        "title": "2 — Phrase Study B: Flurry-and-Resolution (paraphrased)",
+        "tip": "<em>Flurry-and-resolution structure (paraphrased — an 8th-note triplet flurry that lands on the &amp;-of-3):</em> bar 1 is normal ride. Bar 2: ride on beat 1, then six snare 8th-note triplets across beats 2 and 3, resolving to a strong accented snare-and-ride hit on the &amp;-of-3. Bar 3 returns to the ride pattern. The flurry creates tension; the resolution is the snap on the &amp;-of-3 — that placement is the whole device."
+      },
+      {
+        "title": "3 — Phrase Study C: Kick-and-Snare Conversation (paraphrased)",
+        "tip": "<em>Kick-and-snare conversation structure (paraphrased — kick states a syncopated figure, snare answers it):</em> in bar 1 the kick lands on the &amp;-of-2, accented — that's the call. In bar 2 the snare lands on the &amp;-of-2 (same beat-position, different voice) — that's the response. Two voices passing the same rhythmic figure between them. This is one of Blade's most-used phrasing devices and shows up across the 50 Phrases collection in many forms."
+      },
+      {
+        "title": "4 — Phrase Study D: Flexible Swing Placement (Vega-style)",
+        "tip": "Same notated ride in all four bars; only the 8th placement moves. Bar 1: dead straight. Bar 2: standard swing. Bar 3: deep triplet feel (notated as triplets for clarity). Bar 4: standard swing again. Don't change the notes — change where they sit. That's the Vega flexibility."
+      },
+      {
+        "title": "5 — Capstone: 12-Bar Form (combine all four phrases)",
+        "tip": "<strong>The capstone.</strong> Bars <em>1–2</em>: Phrase A anchor. <em>3–4</em>: Phrase C — kick on &amp;-of-2, snare answering on &amp;-of-3. <em>5–6</em>: Phrase B flurry. <em>7–8</em>: Phrase D, bar 7 straighter, bar 8 swung. <em>9–10</em>: broken time. <em>11–12</em>: return and resolve with the Philly Joe lick. Once it runs, improvise your own placements inside the same 12-bar shape."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade & The Fellowship Band — Season of Changes",
+        "note": "The bandleader on this record is the drummer, and he barely solos on it. Start with the opener, Rubylou's Lullaby, and follow how Blade shapes the tune from the kit rather than waiting for a feature."
+      },
+      {
+        "artist": "Eric Harland",
+        "work": "Charles Lloyd — Mirror",
+        "note": "Flexible swing 8ths within a single tune; deep-triplet to straight-8th and back."
+      },
+      {
+        "artist": "Marcus Gilmore",
+        "work": "Vijay Iyer Trio — Accelerando",
+        "note": "The trio's Human Nature is the Michael Jackson song, so you already know the melody they are pulling out of shape. Listen underneath it for Gilmore's broken grooves, then go to Actions Speak for his extended feature."
+      },
+      {
+        "artist": "Carlos Vega",
+        "work": "James Taylor — Hourglass",
+        "note": "Studio-precision flexible swing — listen to how Vega reshapes the same groove across choruses."
+      }
+    ]
+  }
+}

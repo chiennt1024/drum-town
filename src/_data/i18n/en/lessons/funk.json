@@ -1,0 +1,706 @@
+{
+  "funk-ghost-notes": {
+    "tagline": "The micro-dynamics that make funk feel like funk",
+    "bodyHtml": "\n      <p>Five snare notes go by in the bar below and only two of them are meant to carry across a room. The backbeat tells you <em>where</em>; the <strong>ghost notes</strong> tell you <em>how</em>. A ghost note is a snare stroke played so quietly that it registers as texture rather than as an event, a whisper laid into the gaps between the loud snares on 2 and 4. They're not decoration; they're structural. Take the three of them out of this groove and you still have a beat, but you no longer have funk.</p>\n      <p>The bar stacks three simple layers. The hi-hat plays straight 16ths, all sixteen of them, unbroken. The kick stays out of the way with quarter notes on 1 and 3 and nothing else. The snare carries the rest: loud on 2 and 4, ghosted on the <em>\"&amp;\" of 2</em>, the <em>\"e\" of 3</em>, and the <em>\"a\" of 3</em>. Beat 1 goes by with no snare at all, so the bar opens on hi-hat alone, and the last three snare notes crowd closer together as they run into the backbeat on 4.</p>\n      <h2 class=\"section-label\">Splitting the bar between your hands</h2>\n      <p>The hi-hat never steps aside for the snare. At each of the five snare notes there's a hat note stacked on the same stem, so no one hand can cover both, and you can't pass the hat back and forth between your hands the way continuous 16ths are usually played. One hand rides all sixteen 16ths on its own and the other takes every snare note: right on the hat, left on the snare, for most players. At ♩ = 90 that's six hat strokes a second, so keep the motion small and let the stick rebound rather than lifting it for each one.</p>\n      <p>The left hand walks a fixed route: slap on 2, whisper on the <em>\"&amp;\" of 2</em>, whisper on the <em>\"e\" of 3</em>, whisper on the <em>\"a\" of 3</em>, slap on 4. That last whisper and the slap on 4 are back to back, a single 16th apart, so treat the <em>\"a\"</em> as the run-up into the backbeat rather than a note of its own. The two volumes come from two stick heights. Ghosts start about 1 inch off the head and are played from the fingers; the backbeats start 10–12 inches up and are driven from the wrist, and the hand has to drop straight back down to ghost height afterward.</p>\n      <h2 class=\"section-label\">Building the 4-to-1 ratio</h2>\n      <p>Add the layers in the order the difficulty arrives. Hands only first, no kick, slow enough that the three ghosts stay quiet under an even hat. Then set your stick heights on purpose and loop eight bars listening for one thing: the gap between backbeat and ghost, roughly 4 to 1 in volume. Bring in the kick on 1 and 3 last, since two quarter notes are the easiest layer in the bar and they won't disturb hands that have already settled. The backbeats on 2 and 4 carry accents on the staff and the ghosts deliberately do not, so you can see the shape as well as read it described. The Play button sounds it too: the two accented snares play at full volume and the three ghosts at a quarter of it, so you can hear the ratio you are chasing before you try to produce it. Hearing it is the easy half, and only your two stick heights will put it in the room.</p>\n      <p>Two failures arrive first. The ghost on the <em>\"&amp;\" of 2</em> rides the rebound off the backbeat in front of it and comes out nearly as loud, which flattens the bar into a busy 16th-note snare part. The ghost on the <em>\"a\" of 3</em> drifts late and fuses with the backbeat on 4 into a flam. Record 30 seconds on a phone and play it back quietly: the two backbeats should still land, and the ghosts should read as motion underneath them rather than as five snare notes of equal weight. When you tire, the opposite failure shows up and the ghosts vanish altogether, which is the other way this groove dies.</p>\n    ",
+    "graduationCriteria": [
+      "Loud snare on 2 and 4 is at least 4× the volume of the ghost notes",
+      "Ghost notes are present and audible (not skipped under pressure)",
+      "Groove holds at ♩=90 for 2 minutes without the dynamic ratio collapsing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Funk Groove with Ghost Notes",
+        "tip": "Snare on beat 2 and beat 4 is loud (the backbeat). All other snare hits are <em>ghost notes</em> — barely audible, played from your fingers. Aim for a 4-to-1 ratio between accented and ghosted snare. The groove should feel like a whisper interrupted by two slaps."
+      }
+    ]
+  },
+  "funk-sixteenth-feel": {
+    "tagline": "The 16th-note pulse that turns a beat into funk",
+    "bodyHtml": "\n      <p>The first thing that turns a backbeat into <em>funk</em> is density. Where rock lives on 8th notes and jazz lives on swing triplets, funk lives on <strong>16th notes</strong>. A continuous 16th pulse — usually on the hi-hat or a shaker — runs underneath everything, and the kick and snare answer it. That 16th carpet is what the band locks to and what makes a funk groove feel like it's <em>moving</em> even when nothing on top is changing.</p>\n      <p>This lesson is about installing the carpet. You'll play sixteen even hits per bar on the hat, drop a backbeat on top, and then add the canonical funk kick figure — the kick on <em>1, the \"&amp;\" of 2, 3</em>, and the <em>\"e\" of 4</em>. Get those three layers ringing together and you have the engine of every funk groove ever written.</p>\n      <h2 class=\"section-label\">The Four 16th-Note Feels</h2>\n      <p>Sixteenths aren't just sixteenths. Inside a single tempo, drummers shape the feel by where each 16th sits relative to the click:</p>\n      <ul>\n        <li><strong>Even</strong> — the metronomic placement. All four 16ths in a beat are equally spaced. This is the textbook starting point and the feel of most modern recordings made to a click.</li>\n        <li><strong>Slightly behind</strong> — every 16th lands a hair late. The feel becomes heavy, lazy, deeply rooted. The Stubblefield / Jabo Starks pocket lives here.</li>\n        <li><strong>Slightly ahead</strong> — every 16th leans into the next beat. The groove pushes; energy rises. Some Tower of Power material does this.</li>\n        <li><strong>Ghost-noted</strong> — the 16ths between the backbeats are present but barely audible, so the loud snare on 2 and 4 jumps out of a whisper. This is the <em>funk-ghost-notes</em> aesthetic applied to the whole bar.</li>\n      </ul>\n      <p>You don't pick one and stick with it forever. Every drummer in this lesson's reference list moves between feels inside a single song. The point of this lesson is to get all four under your hands so you have the choice.</p>\n      <h2 class=\"section-label\">A Note on Stickings</h2>\n      <p>Continuous 16ths on a single hi-hat are usually played alternating R-L-R-L. Some drummers play them all with the right hand for a few bars at slow tempos to dig into the pocket — you'll see that occasionally, but it's a finish move, not a starting point. For now, alternate.</p>\n    ",
+    "graduationCriteria": [
+      "16 even hi-hat 16ths per bar at ♩=80 with no audible volume bumps between R/L hands",
+      "Canonical funk kick (1, \"&\" of 2, 3, \"e\" of 4) lands cleanly under the 16th hat for two minutes",
+      "Can switch between even, slightly-behind, and slightly-ahead 16th feels on cue without breaking time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Even 16ths on the Hat with a Backbeat",
+        "tip": "Sixteen 16ths per bar, alternating <em>R L R L</em>. On beats 2 and 4 the R hand drops from the hat to the snare in one motion — the backbeat replaces that hat note — then returns for the next 16th. Keep the hat dynamic flat; the only loud notes in the bar are the two backbeats."
+      },
+      {
+        "title": "2 — Canonical Funk Kick (1, & of 2, 3, e of 4)",
+        "tip": "Kick on <em>1</em>, the <em>&amp; of 2</em>, <em>3</em>, and the <em>e of 4</em>. Count <em>1 e &amp; a</em> through the bar and feel where each one lands — the <em>e of 4</em> is the odd one out, coiling into the next downbeat. If it keeps sliding onto the &amp;, count that beat out loud alone."
+      },
+      {
+        "title": "3 — Same Pattern with Ghost Notes Filling the Snare Line",
+        "tip": "Backbeats on 2 and 4 stack with the hat; every other snare 16th is a ghost at roughly a quarter of their volume. Target sound: a continuous rustle interrupted by two cracks. If you can pick out any single ghost as a discrete hit, it's too loud."
+      },
+      {
+        "title": "4 — Displaced 16ths (Hat-Snare Tradeoff)",
+        "tip": "A 16th-note feel where the right hand is on the hi-hat and the left hand fills <em>every</em> 16th with a snare ghost note (except where the backbeat lands, where you stack snare + hat). This is texturally dense — the whole bar is a continuous rustle. Think of it as Stubblefield-style preparation: get used to playing a snare on every &quot;e&quot;, &quot;&amp;&quot;, and &quot;a&quot; without the loud snares getting any louder than they are now."
+      }
+    ]
+  },
+  "funk-pocket-drumming": {
+    "tagline": "Where the time sits — at, behind, and in front of the click",
+    "bodyHtml": "\n      <p>\"Pocket\" is the most overused word in drumming and the hardest to define. The simplest working definition: <em>the pocket is where the time sits</em>. Two drummers can play the same beat at the same tempo and have completely different time-feels because one is placing every note a hair behind the click and the other is placing every note right on top of it. Both are correct. Neither is rushing or dragging. They are <em>placing</em> differently.</p>\n      <p>This lesson is about getting that placement under conscious control. Most drummers default to one of the three places (at / behind / ahead) and never realize there are alternatives. Once you can hear the difference and produce all three on demand, you have a powerful expressive tool — and you can adapt to whatever the music in front of you needs.</p>\n      <h2 class=\"section-label\">A Word on \"Behind the Beat\"</h2>\n      <p>Behind the beat does <em>not</em> mean slowing down. It means every note arrives a few milliseconds after the click, but the <em>tempo</em> stays exactly the same. If the click is at 90 bpm, every beat is still 666 ms apart — your hits just consistently land 10 or 20 ms later than the click within that 666 ms window. The drummers in the references for this lesson — Stubblefield, Starks, Purdie at low tempos — built careers on that placement. It feels heavy, deliberate, deeply rooted. It does not feel late.</p>\n      <h2 class=\"section-label\">How to Practice It</h2>\n      <p>You need a click — a metronome with a clear tone, ideally one that ticks loudly enough to hear over your kit. Play the same one-bar groove at three different placements. Don't change the kick or snare pattern; only change <em>when</em> you play it relative to the click. Then record yourself and listen back. Recording is non-negotiable for this lesson — you cannot reliably hear your own placement in real time.</p>\n      <p>Pro tip: most drummers find &quot;at the click&quot; the hardest of the three at first. The click and your snare on 2 should sound like one thing, not two adjacent things. If you hear two distinct clicks, you're either ahead or behind by enough to be a problem.</p>\n    ",
+    "graduationCriteria": [
+      "Can play 16 bars of a backbeat AT the click without drifting",
+      "Can play the same 16 bars deliberately BEHIND the click without slowing down",
+      "Can identify, after listening to a recording of yourself, whether you played at, behind, or in front"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Backbeat AT the Click (Reference Feel)",
+        "tip": "Set a metronome at ♩=90 with a click loud enough to hear over the kit. Play this groove with every note <em>directly on top of the click</em>. The click and the snare on 2 should sound like one event. Loop for one minute. Record it. Listen back wearing headphones — the click should disappear behind your snare, not next to it. This is your reference feel."
+      },
+      {
+        "title": "2 — Same Groove, Slightly Behind the Click",
+        "tip": "Same groove, same 90 BPM — but every limb lands a hair after the click by the <em>same</em> amount. Don't drag the tempo; move the reference point. On playback you should hear two events, click then hit, with a gap that's tiny and identical every beat."
+      },
+      {
+        "title": "3 — Same Groove, Slightly In Front",
+        "tip": "Now the opposite: every note lands <em>a fraction of a second before the click</em>. Don't rush — tempo stays at 90 — you've just moved your reference point to &quot;a hair ahead.&quot; This feel pushes; energy rises; the listener feels propelled. Used heavily in punk-leaning funk and some Tower-of-Power material. Record and listen back: now your hit should arrive first, then the click."
+      },
+      {
+        "title": "4 — &quot;Find the Pocket&quot;: Free Feel Exercise",
+        "tip": "This time, no instructions about placement. Loop the groove for two full minutes at ♩=85 and aim for the placement that feels best — the one that makes <em>you</em> nod your head. Record it. Listen back the next day, fresh ears. Was it on, behind, or ahead? Most drummers default to one. Knowing your default is the first step toward being able to choose differently when the music asks you to."
+      }
+    ]
+  },
+  "funk-clyde-stubblefield": {
+    "tagline": "The Funky Drummer feel — ghost notes, kick syncopation, hat-open punctuation",
+    "bodyHtml": "\n      <p>Of all the drummers in the funk canon, Clyde Stubblefield's influence per minute of recorded playing is probably the highest. As a drummer in James Brown's band in the late 1960s, he played a 20-second drum break on a track called &quot;Funky Drummer&quot; that became — once sampling technology arrived — one of the most heavily sampled drum performances in the history of recorded music. You have heard this groove. You have heard a thousand records built on top of it.</p>\n      <p>This lesson teaches the structural pieces of a Funky-Drummer-style pattern: the ghost-noted 16ths, the syncopated kick, and the open hi-hat punctuation. We are not transcribing the recording note-for-note — that's a dozen books worth of debate among drummers. We are teaching the <em>shape</em>: the layout of features that make a groove sound &quot;Stubblefield-y.&quot;</p>\n      <h2 class=\"section-label\">The Three Structural Pieces</h2>\n      <ul>\n        <li><strong>16th-note hi-hat carpet</strong> with strong dynamic contrast between accents and ghosts on the hat itself.</li>\n        <li><strong>Snare ghost notes</strong> filling the space between loud backbeats on 2 and 4, with one or two snares hitting on the &quot;e&quot; or &quot;a&quot; of beats other than 2 and 4.</li>\n        <li><strong>Open hi-hat</strong> on a specific 16th — most often the &quot;a of 4&quot; or the &quot;&amp; of 3&quot; — that hangs in the air for one 16th before being clamped shut on the next note.</li>\n      </ul>\n      <p>Build the groove one piece at a time. Don't try to play it all at once on the first read.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a Funky-Drummer-style 1-bar groove with 4-to-1 ghost-to-backbeat ratio at ♩=92",
+      "Open hi-hat punctuation lands cleanly without disrupting the 16th carpet",
+      "Full 2-bar phrase loops for 16 bars without the ghost-note density collapsing"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Stubblefield-Style Pattern, Bar by Bar (Hat + Backbeat + Kick)",
+        "tip": "Skeleton: 16ths on the hat, backbeats on 2 and 4, kicks on <em>1, &amp; of 2, 3, e of 4</em>. No ghost notes yet. Lock this in before adding any other layer. The kick on the &quot;e of 4&quot; is the propulsive note — it pushes the bar across the bar line into the next 1."
+      },
+      {
+        "title": "2 — Add Ghost-Note Variations on the Snare",
+        "tip": "Same kick figure. Now ghost notes pepper the snare line on the &quot;e&quot; of 1, the &quot;a&quot; of 2, the &quot;e&quot; of 3, and the &quot;a&quot; of 4. The snares on 2 and 4 are still loud backbeats; everything else with a snare in it is whisper-quiet. Aim for that 4-to-1 ratio you built in <em>funk-ghost-notes</em>. The bar should sound like a continuous 16th rustle with two crisp slaps."
+      },
+      {
+        "title": "3 — Add Open Hi-Hat Punctuation",
+        "tip": "An <em>o</em> appears above one hi-hat note — that's the open hat. It's on the &quot;a&quot; of 3 here. Lift your left foot off the hi-hat pedal a touch <em>just before</em> hitting that note, then clamp it shut again on the next note. The result is a one-16th-long &quot;tssss&quot; that punctuates the bar. Keep it short; an open hat that hangs across two 16ths starts to swamp the groove."
+      },
+      {
+        "title": "4 — Full 2-Bar Funky-Drummer-Style Pattern",
+        "tip": "Two-bar phrase: bar 1 is the bar from exercise 3; bar 2 is a small variation — the kick on the &quot;a&quot; of 3 (instead of beat 3 and the &quot;e&quot; of 4) gives the second bar a slightly different push, and a different ghost-note distribution on the snare keeps the listener's ear engaged. Loop for at least 16 bars (8 repetitions of this 2-bar phrase) without letting the ghost density flatten out."
+      }
+    ]
+  },
+  "funk-the-meters-intro": {
+    "tagline": "Zigaboo's broken-snare second-line approach — first taste",
+    "bodyHtml": "\n      <p>If James Brown's band gave the world tight, sparse, on-the-grid funk, The Meters gave the world the opposite: <strong>loose, broken, swinging funk</strong> rooted in the New Orleans second-line tradition. The drummer was Joseph &quot;Zigaboo&quot; Modeliste, and the most distinctive feature of his playing — the thing that immediately marks a groove as &quot;Zigaboo-style&quot; — is what he does with the snare.</p>\n      <p>Most funk drummers play a backbeat on 2 <em>and</em> 4. Zigaboo often doesn't. He plays the snare on <strong>4 only</strong>, fills the space between with ghost notes and rim hits, and lets the kick and hi-hat carry the rest. The result is a backbeat that feels delayed, a bar that breathes differently, a groove that swings without swinging in the jazz sense. It's also the rhythmic DNA of New Orleans drumming going back a century — second-line parade-drum patterns, Bo Diddley's variant of the same idea, and a thousand records out of New Orleans share this skeleton.</p>\n      <h2 class=\"section-label\">What Makes It &quot;Second-Line&quot;</h2>\n      <p>Second-line refers to the parade tradition where a brass band leads (the first line) and a crowd of dancers follows, drums in tow. The drumming style is loose, syncopated, and emphasizes the &quot;and&quot;-of-2 and the &quot;and&quot;-of-4 as much as the downbeats themselves. When that approach gets translated to a drum kit, you get this lesson — broken backbeats, kicks on unexpected 16ths, and ghost notes everywhere.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a 1-bar Zigaboo-style groove with snare on 4 only (no snare on 2) for 16 bars",
+      "Ghost notes between snare hits sit at sub-backbeat volume",
+      "Cissy-Strut-flavored figure loops at ♩=88 without drifting"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Zigaboo-Style Groove",
+        "tip": "Snare hits on 2 <em>and</em> 4 (a normal backbeat for now) but the kick is doing something Zigaboo-flavoured: 1, the <em>&amp;</em> of 1, and the <em>a</em> of 2, then 3 — a syncopated front half of the bar. Hi-hat keeps a 16th carpet underneath. This is the &quot;normal&quot; version of a Meters-flavored groove; the next exercise removes the snare on 2 to reveal the broken-backbeat trick."
+      },
+      {
+        "title": "2 — Broken Backbeat (Snare on 4 Only, Ghosts Between)",
+        "tip": "Now the only <em>loud</em> snare is on beat 4. Every other snare in the bar is a ghost note. This is the Zigaboo-flavored skeleton — the backbeat appears once per bar, late, and the rest of the bar is texture. Listeners' ears expect a snare on 2; not getting one creates the slight forward lean that defines this style. Keep the loud-vs-ghost ratio dramatic."
+      },
+      {
+        "title": "3 — &quot;Cissy Strut&quot;-Flavoured Feel",
+        "tip": "Kick on 1, the <em>&amp;</em> of 2, and 3; snare on 2, the <em>&amp;</em> of 3, and 4. That snare on the &amp; of 3 — the push between backbeats — is the New Orleans signature. Keep the hat 8ths dead even; the kick and snare carry all the syncopation."
+      }
+    ]
+  },
+  "funk-james-brown": {
+    "tagline": "Clyde + Jabo — the JB language: the One, sparse precision, ensemble locking",
+    "bodyHtml": "\n      <p>James Brown's band redefined what a rhythm section was for. Where most popular music up to that point treated rhythm as accompaniment, Brown's band treated rhythm as the <em>whole</em> arrangement — every instrument, vocals included, became a percussion part contributing to a single interlocking pulse. The drummers in that band — primarily Clyde Stubblefield and John &quot;Jabo&quot; Starks, with several others passing through — developed a vocabulary that's still the lingua franca of funk drumming sixty years later.</p>\n      <p>The defining principle of JB drumming: <strong>everything is on the One</strong>. Brown himself would shout it on stage. The downbeat of every bar is the gravitational center, and every other note — kick, snare, ghost, fill — orbits it. A JB groove that has lost its sense of the One isn't a JB groove anymore.</p>\n      <h2 class=\"section-label\">Stubblefield vs Starks</h2>\n      <p>Clyde and Jabo are often discussed together but they had different feels. Clyde played busy, ghost-note-dense, 16th-heavy patterns — closer to what we built in <em>funk-clyde-stubblefield</em>. Jabo played sparser, more &quot;upright&quot; grooves with cleaner lines and bigger pocket. Both work. Many recordings are debated among drummers as to which one is on the kit. For practicing, alternate between dense (Clyde) and sparse (Jabo) versions of the same skeleton; this gets both feels under your hands.</p>\n      <h2 class=\"section-label\">Locking with the Band</h2>\n      <p>JB grooves don't exist in isolation. A signature feature is the <em>ensemble hit</em> — a horn or guitar stab on a specific 16th that the drummer either reinforces (with a kick or snare) or leaves bare (so the band hits it together while the drummer continues the underlying groove). The exercises below include a pattern where a hypothetical horn hit lands on a specific 16th — your job is to keep the underlying groove going while &quot;hearing&quot; the hit as if the band were there.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a Cold-Sweat-flavoured 1-bar groove for 16 bars at ♩=108 without losing the One",
+      "Can play a Sex-Machine-flavoured 16th-driven groove with rolling kick at ♩=110",
+      "4-bar phrase locks with imagined ensemble hits without disrupting the underlying time"
+    ],
+    "exercises": [
+      {
+        "title": "1 — &quot;Cold Sweat&quot;-Style Pattern (Sparse, On-the-One)",
+        "tip": "Sparse and clean. Kick on 1, the <em>&amp;</em> of 2, and the <em>&amp;</em> of 3. Snare on 2 and 4, no ghost notes. Hat is plain even 16ths. This is closer to the Jabo Starks approach than to Clyde — fewer notes, bigger pocket. Lean slightly behind the click. The bar should sound massive, not busy."
+      },
+      {
+        "title": "2 — &quot;Sex Machine&quot;-Style Feel (Rolling 16ths, Driving Kick)",
+        "tip": "More kick density. Kicks land on <em>1, &amp; of 1, &amp; of 2, 3, &amp; of 3, &amp; of 4</em> — a rolling, driving foot pattern that gives the bar a propulsive, almost relentless feel. Snare keeps a clean backbeat on 2 and 4. The trick: keep the kicks <em>even in volume</em>. Beginners default to making the &quot;1&quot; the loudest kick — the kicks on the &quot;ands&quot; should be just as strong."
+      },
+      {
+        "title": "3 — Ensemble-Hit-Aware Pattern (Drummer Locks with the Band)",
+        "tip": "The accents on the &quot;a&quot; of 1 and the &quot;a&quot; of 3 are the imagined horn stabs — kick, snare, and accented hat land together on those 16ths, then the groove carries on. Pass/fail: the bar feels continuous, not &quot;groove, hit, groove, hit&quot;."
+      },
+      {
+        "title": "4 — JB-Style 4-Bar Phrase",
+        "tip": "Three bars of basic JB groove, then a small snare-and-floor-tom fill on beat 4 of bar 4 that resolves <em>onto</em> the One of the next phrase. The fill is small on purpose: in the JB band, the drummer rarely takes long fills — the music is too tight for it. The point of the fill is to <em>get back to the One</em>, not to show off."
+      }
+    ]
+  },
+  "funk-linear-funk": {
+    "tagline": "No two limbs at once — the Garibaldi/Tower of Power approach",
+    "bodyHtml": "\n      <p><strong>Linear funk</strong> is funk where no two limbs ever play at the same time. Where a normal funk groove stacks the hi-hat and snare into a single 16th-note slot, linear funk separates them: hat, then snare, then kick, then hat, then snare — every voice gets its own slot in the 16th-note grid, and the listener hears a continuous stream of single hits that traces out the groove.</p>\n      <p>The drummer most associated with this style is <strong>David Garibaldi</strong>, who developed it in the 1970s playing with Tower of Power. The aesthetic is precise, clean, mathematical — every note has a defined place, and the groove's energy comes from the relentless density of the 16th-note flow rather than from accent contrast. It demands real coordination because you can't &quot;hide&quot; a sloppy hat hit underneath a snare; if the hat is late, you can hear it.</p>\n      <h2 class=\"section-label\">The Building Block: a Linear Cell</h2>\n      <p>A &quot;linear cell&quot; is a short repeating pattern that defines the texture. The classic 6-note cell is <em>R-K-L-K-R-L</em> — right hand, kick, left hand, kick, right hand, left hand. That cell stretched across a bar (with backbeats laid on top) becomes a Garibaldi-style groove. Other cells exist; this is the most common starting point.</p>\n      <h2 class=\"section-label\">A Word on Notation</h2>\n      <p>Linear funk reads visually similar to other 16th-note grooves — but the rule is &quot;no stacked notes&quot;. If you see a chord-stacked snare-and-hat note in this lesson's exercises, it's because the line tells you to play the snare loud as a backbeat, but the hat in that 16th slot has been replaced by the snare. Read carefully.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a 6-note linear cell (R-K-L-K-R-L) repeated for 16 bars at ♩=92 with no two limbs ever overlapping",
+      "Can play a 1-bar 16th linear groove with snare on 2 and 4 (loud) and ghost notes on other &quot;e/a&quot; positions",
+      "Garibaldi-flavoured 16th pattern loops at ♩=96 without dropping notes"
+    ],
+    "exercises": [
+      {
+        "title": "1 — 6-Note Linear Cell (R-K-L-K-R-L), Repeated",
+        "tip": "Read carefully: every 16th has exactly one limb playing it. Pattern is <em>R-K-L-K-R-L-R-K-L-K-R-L</em> repeating. No stacked notes — that's the linearity rule. Start dead slow (♩=70) and build only when zero notes overlap. If you hear a hat and a snare hitting at the same instant, you're not playing linear funk anymore."
+      },
+      {
+        "title": "2 — 1-Bar Linear Funk Groove (Backbeat on 2 and 4)",
+        "tip": "Hat and kick alternate every 16th, like a march. The snare on 2 and 4 <em>replaces</em> the hat in those slots — that's why no chord-stack appears there. The result: a continuous, perfectly even 16th stream where each note is one limb. Accent the snares on 2 and 4 to make them backbeats. This is linearity at its most rigid; the next exercise loosens it."
+      },
+      {
+        "title": "3 — Linear Funk with Ghost Notes on the Snare",
+        "tip": "Now ghost-note snares on the &quot;e&quot; of 1, the &quot;e&quot; of 3, and the &quot;a&quot; of 4. Still linear — every 16th is a single limb. The snares marked with accents (beats 2 and 4) are loud backbeats; every other snare is whisper-quiet. Maintains the &quot;no stacked notes&quot; rule while sounding much more musical than exercise 2."
+      },
+      {
+        "title": "4 — Garibaldi-Flavoured 16th-Note Linear Pattern",
+        "tip": "Accents define the shape: hat on 1 and 3, snare on 2 and 4 — the bones of a backbeat — but every other 16th is a non-accented hat or ghost snare or kick, all in different slots. The accents pop out of a continuous 16th stream. This is the Tower of Power flavor in miniature. Build slowly: start at ♩=70 and add tempo only when the linearity is perfect."
+      }
+    ]
+  },
+  "funk-the-meters": {
+    "tagline": "Deeper Zigaboo — broken backbeat, rolling 16ths, kick-bass conversation",
+    "bodyHtml": "\n      <p>The first Meters lesson got the basics under your hands — broken backbeats, the second-line lean, the basic Cissy Strut feel. This lesson goes deeper. Zigaboo's playing has three more features that make it instantly recognisable: a <strong>rolling right hand</strong> that plays continuous 16ths even at slow tempos, a <strong>kick that converses with the bass</strong> rather than locking with it (kick and bass guitar trade syncopated figures, leaving each other's space alone), and a <strong>broken backbeat</strong> that moves around the bar — sometimes on 4, sometimes on the &quot;e&quot; of 2, sometimes nowhere at all, with cross-stick or rim hits filling in.</p>\n      <h2 class=\"section-label\">A New-Orleans-via-Bo-Diddley Note</h2>\n      <p>The pattern most often called &quot;Bo Diddley beat&quot; — a tresillo-shaped figure (1, the <em>&amp;</em> of 2, the &quot;a&quot; of 3, beat 4-or-thereabouts, beat 4-and-a-bit) — predates Bo Diddley and predates rock. It comes out of the same Afro-Caribbean rhythmic grammar that gives us son clave, the New Orleans second line, and the funk we're studying here. Zigaboo's playing draws on this lineage; many Meters records use a kick figure that's essentially a tresillo with funk dressing. (See <em>Goines/Ameen — Afro-Cuban Grooves for Bass and Drums</em> for the deep-dive on the cross-pollination.)</p>\n      <h2 class=\"section-label\">Practice Approach</h2>\n      <p>Don't try to play these grooves &quot;tight&quot; in the Stubblefield sense. Zigaboo's pocket is loose. Notes are placed where they feel right, not on the metronomic grid. Practice with a metronome anyway — but let your ear lead, and let the click be a guide rather than a tyrant. If a snare on 4 wants to be a hair late, let it be a hair late.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a Meters-style pocket groove for 16 bars at ♩=90 with snare on 4 only",
+      "Kick-and-ride dialogue exercise sustains a clear two-voice conversation for 16 bars",
+      "Full 2-bar Zigaboo-flavored phrase loops without the broken backbeat collapsing into a normal one"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Classic Meters Pocket Groove",
+        "tip": "Tresillo-flavoured kick: 1, the <em>a</em> of 1, 3, the <em>a</em> of 3 — a 3+3+2 shape that's the rhythmic skeleton of countless Caribbean and New Orleans grooves. Snare lands on the <em>&amp;</em> of 1, beat 2, the <em>a</em> of 2, the <em>&amp;</em> of 3, and 4 — a busy, almost-rim-popping snare line. Loose feel, slightly behind, ghost the non-backbeat snares heavily."
+      },
+      {
+        "title": "2 — Broken Backbeat (Snare on 4 Only)",
+        "tip": "Only the snare on beat 4 is loud — every other snare hit in the bar is a ghost note. Read it as: 16th hat carpet, snare ghosts scattered, one big snare slap on 4. The bar feels like it's <em>holding its breath</em> through 1, 2, and 3 and finally exhaling on 4. Beginners want to add a snare on 2; resist."
+      },
+      {
+        "title": "3 — Kick + Ride Dialogue",
+        "tip": "Move to the ride for this one (<em>f/5/x2</em>). The right hand plays simple 8ths; the kick is doing all the work — a syncopated, almost-busy 16th-note pattern that converses with where the bass guitar would sit in a band. The snare is just a backbeat marker. Imagine a bass player finding pockets between your kicks; that two-voice conversation is what makes Meters records groove."
+      },
+      {
+        "title": "4 — Full Zigaboo-Flavoured 2-Bar Pattern",
+        "tip": "Two bars of Meters-style pocket. Bar 1 emphasizes the broken feel; bar 2 has slightly more density — extra ghosts in the back half of the bar pushing into bar 1 of the repeat. The snare lands on slightly different 16ths in the two bars, which keeps the listener's ear engaged across the phrase. Aim for a relaxed, slightly-behind feel; this groove should feel like it's strolling, not running."
+      }
+    ]
+  },
+  "funk-purdie-intro": {
+    "tagline": "Ghost-noted density and the half-time shuffle preview",
+    "bodyHtml": "\n      <p><strong>Bernard Purdie</strong> is the most-recorded drummer in the history of popular music — sessions, by his own count, in the high four figures. He played on hundreds of records that shaped the sound of soul, R&amp;B, and funk in the late 1960s and 1970s, including the Aretha Franklin recordings of that era. The Purdie aesthetic is <em>controlled density</em>: lots of ghost notes, lots of 16th-note motion on the hat, but a perfectly steady groove underneath.</p>\n      <p>This lesson is an introduction. The full <em>Purdie Shuffle</em> — the half-time triplet feel he became famous for — is its own L3 lesson. Here we cover the building blocks: dense ghost notes, the studio-pocket feel, the basic 16th groove that sits beneath the more famous patterns, and a small preview of the half-time shuffle so you have a sense of where you're heading.</p>\n      <h2 class=\"section-label\">What Makes a Groove &quot;Purdie-Style&quot;</h2>\n      <ul>\n        <li><strong>Ghost notes everywhere</strong>. More than Stubblefield, more than Starks. The snare is constantly active.</li>\n        <li><strong>Hat 16ths with subtle accenting</strong>. Not every hat hit is the same volume; small accents on certain 16ths shape the bar without anyone noticing consciously.</li>\n        <li><strong>A bass drum that talks rather than hammers</strong>. Where Stubblefield's kick is busy and propulsive, Purdie's kick is conversational — placed where it needs to be, not constantly.</li>\n        <li><strong>Studio-clean execution</strong>. Every note has a defined volume and place. Nothing is sloppy.</li>\n      </ul>\n      <h2 class=\"section-label\">A Word About the Shuffle Preview</h2>\n      <p>The last exercise of this lesson is a four-bar preview of a half-time shuffle. You're not expected to master it here — that's what the L3 lesson is for. The point of including it now is so you've heard and felt the shape, and the L3 lesson can build on that familiarity rather than introducing the feel from cold.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a Purdie-style 16th-note groove with dense ghost notes for 16 bars at ♩=88",
+      "2-bar Aretha-flavored pattern loops with hi-hat 16ths, kick, and ghost notes all clearly audible",
+      "Half-time shuffle preview holds the triplet feel for 8 bars at ♩=72 (half-time)"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Purdie-Style 16th Groove (Backbone)",
+        "tip": "Plain skeleton — kick on 1, the <em>&amp;</em> of 2, and 3, with snare on 2 and 4 — but the hat has to be impossibly even. This is what Purdie sounds like at his most basic: a perfectly clean foundation. Loop until the hat 16ths are absolutely flat in dynamic. The next exercise adds the ghost-note density that makes it actually sound like Purdie."
+      },
+      {
+        "title": "2 — Add Characteristic Ghost-Note Density",
+        "tip": "Ghosts on every &quot;e&quot; and every &quot;a&quot; — eight of them around the skeleton. Keep them all whisper-quiet: the bar should read as one continuous 16th rustle with two crisp slaps standing out on 2 and 4. If any single ghost pokes through, that's the one to fix."
+      },
+      {
+        "title": "3 — 2-Bar Aretha-Style Pattern",
+        "tip": "Two bars of an Aretha-era studio feel. Bar 1 has a slightly less dense snare; bar 2 thickens up the snare line in the back half of the bar. The kick figure is the canonical funk shape with a small variation in the second bar. Aim for the controlled-density sound: it should feel busy in texture but rock-solid in time. Slightly behind the click."
+      },
+      {
+        "title": "4 — Half-Time Shuffle Preview (Triplet Feel)",
+        "tip": "<strong>Swing the 8ths — each beat divides into a triplet and you play its 1st and 3rd parts.</strong> The lone snare lands on beat 3: a half-time backbeat, once per bar. At ♩=72 it should lope, not march. Feel the triplet pulse; cleanliness comes later, in the L3 lesson."
+      }
+    ]
+  },
+  "funk-ghost-displacement": {
+    "tagline": "Moving the ghost notes off their default positions for new feels",
+    "bodyHtml": "\n      <p>The default ghost-note positions are between beats 1 and 2 (the &quot;e&quot;, &quot;&amp;&quot;, and &quot;a&quot; of 1) and between beats 3 and 4. Beginners learn it that way, and most funk grooves you've heard sit there. But ghost notes don't have to live there. Move them, and you change the entire <em>feel</em> of the bar without touching anything else.</p>\n      <p>This lesson walks through four placements, each producing a recognisably different groove. Same kick figure, same backbeat, same hi-hat — only the ghost-note positions change — but the bar feels totally different at each one. Once you have these four under your hands, you have a vocabulary of ghost-note placements you can deploy depending on what the music asks for.</p>\n      <h2 class=\"section-label\">Why It Matters</h2>\n      <p>Listen to a Stubblefield groove and a Purdie groove and an early Steve Jordan record back to back. Same tempo, same kit, same backbeat shape — but they sound completely different. A huge part of that difference is <em>where the ghost notes live</em>. This is one of the most underrated tools in a funk drummer's box, and it's all about millimeter-precise placement of soft snare hits.</p>\n      <h2 class=\"section-label\">Practice Approach</h2>\n      <p>Pick one exercise. Loop it for two minutes. Don't change to the next exercise until the ghost notes are absolutely consistent — same volume, same position, every bar. Then move on. Resist the temptation to mash placements together; you want them as four distinct vocabularies, not one mush.</p>\n    ",
+    "graduationCriteria": [
+      "Can play a 1-bar pattern with ghost notes on the &quot;e&quot; of 1 (and nowhere else between backbeats) for 16 bars",
+      "Can play the same pattern with ghosts on the &quot;a&quot; of 3 only for 16 bars",
+      "Can play a pattern with ghosts on every 16th except the backbeats with backbeat dynamics preserved"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Ghosts on the &quot;e&quot; of 1 Only",
+        "tip": "Single ghost note on the <em>e</em> of 1 — and nowhere else in the bar besides the loud backbeats on 2 and 4. The early ghost gives the bar a forward lean: the listener hears that whisper-snare just after the downbeat and the rest of the bar feels like it's catching up. Loop until the ghost is consistent in volume; if it's audible as a discrete hit on its own, you're playing it too loud."
+      },
+      {
+        "title": "2 — Ghost on the &quot;a&quot; of 3 Only",
+        "tip": "Single ghost on the <em>a</em> of 3 — the 16th immediately before the loud backbeat on 4. This placement creates a small <em>setup</em> for the snare on 4: a quiet shadow note leading directly into the loud one. Compare it to exercise 1: the &quot;e&quot; of 1 ghost felt forward-leaning; the &quot;a&quot; of 3 ghost feels like an anticipation, like a runner's crouch before a sprint."
+      },
+      {
+        "title": "3 — Ghosts on Every 16th Except the Backbeats",
+        "tip": "The notation shows the ghost carpet — every &quot;e&quot;, &quot;&amp;&quot;, and &quot;a&quot; — but beats 2 and 4 themselves must still be <em>loud accented snares</em> on top of those slots. Aim for an unbroken rustle with two cracks. Exhausting is normal; that's what controlled density costs."
+      },
+      {
+        "title": "4 — Ghosts Filling Between Kick Figures",
+        "tip": "Each ghost sits a 16th away from a kick — the &quot;e&quot; and &quot;&amp;&quot; of 2, the &quot;e&quot; and &quot;&amp;&quot; of 4 — so the bar becomes a dialogue: kick speaks, snare answers softly, kick speaks again. Subtler than Exercise 3's wall of ghosts, and far more common on records."
+      }
+    ]
+  },
+  "funk-new-orleans": {
+    "tagline": "The parade march that became American funk",
+    "bodyHtml": "\n      <p>Before there was funk there was the New Orleans second-line — the brass-band parade that follows the \"first line\" of the band and the family at a jazz funeral, a wedding, or a Sunday afternoon street procession. The drummer in that parade is split in two: a <strong>bass drummer</strong> walking with the low pulse, and a <strong>snare drummer</strong> ornamenting it with rolls and accents. When that two-player vocabulary moves onto a single drum kit, you get the New Orleans groove that runs through Earl Palmer's 1950s rock-and-roll sessions, Joseph \"Zigaboo\" Modeliste's work with The Meters, and the modern continuation through drummers like Stanton Moore, Russell Batiste, and Herlin Riley.</p>\n      <p>The signature of the style is a <em>conversation</em> between bass drum and snare. The kick is not glued to 1 and 3 — it walks, it anticipates, it lands on the upbeats. The snare is not glued to 2 and 4 — it ghosts, it press-rolls, it accents in unexpected places. The whole point is that the two voices keep talking to each other, like two parade drummers passing a phrase back and forth.</p>\n\n      <h2 class=\"section-label\">The Bass Drum's Job</h2>\n      <p>In a marching band the bass drummer carries the dotted-quarter walking pulse — sometimes called \"tipitina\" pulse after Professor Longhair's piano figure. On the kit you hear a kick on <em>1</em>, on <em>the &amp; of 2</em>, on <em>3</em>, and often on <em>the &amp; of 4</em> — leaning forward into the next bar. That syncopation is the parade bass drum, transcribed for the foot.</p>\n\n      <h2 class=\"section-label\">The Snare's Job</h2>\n      <p>The snare drummer in a parade plays <strong>press rolls</strong> — short buzz strokes pressed into the head — and <strong>rim accents</strong> on the strong beats. On the kit, that becomes ghost-note 16ths between accented backbeats, often colored with a buzz or a flam. The snare doesn't simply mark 2 and 4; it <em>weaves</em> between them.</p>\n\n      <h2 class=\"section-label\">Why It Matters</h2>\n      <p>Almost every funk groove that came after — Memphis, Detroit, Bay Area — descended from this parade vocabulary. The Meters' \"Cissy Strut\" is a New Orleans groove on a rock kit. James Brown's \"Funky Drummer\" inherits the kick-on-the-and. Even the modern displaced backbeat (the next lesson) starts with the seed Zigaboo planted: <em>the kick is allowed to walk, the snare is allowed to talk back</em>.</p>\n    ",
+    "graduationCriteria": [
+      "Basic second-line groove (Ex 1) holds at ♩=92 for 16 bars without the kick-snare conversation collapsing",
+      "Press-roll pattern (Ex 2) sustains the buzz under the backbeat for 8 bars at ♩=88",
+      "Backbeat-shifted variant (Ex 3) — kick on 4-and-1 — locks in without slipping back to 1-and-3 at ♩=92",
+      "Full second-line pattern (Ex 4) holds the parade-bass figure and snare conversation at ♩=96 for 16 bars"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Basic Second-Line Groove",
+        "tip": "Snare stays on 2 and 4 for now; the kick does the parade walk — 1, &-of-2, 3, &-of-4. <strong>Lean slightly into the &-of-4</strong> so it pulls you across the barline. Pass check: 2 and 4 still feel like the strongest beats. The syncopation lives in the kick, not the snare."
+      },
+      {
+        "title": "2 — Adding the Press-Roll Snare",
+        "tip": "Those soft 16th pairs are <strong>press rolls</strong> in shorthand — press the stick into the head and let it buzz rather than articulating two notes. Aim for a sustained hiss under the loud 2 and 4; the wider that dynamic gap, the more parade you sound. Hat 8ths never drop out."
+      },
+      {
+        "title": "3 — Kick on 4-and-1 (Backbeat-Shifted Bass)",
+        "tip": "The kick leaves 3 and lands on 4, doubling the snare — bass drum now on 1 and 4 only. The bar suddenly weights its second half; Zigaboo built half a vocabulary on this rotation. Choose your snare on 4: unaccented for lightness, accented for the parade snap."
+      },
+      {
+        "title": "4 — Full Second-Line Pattern",
+        "tip": "Walking kick, ghost carpet, loud 2 and 4, hat 16ths on top. <strong>Listen for the dialogue</strong>: every kick answering the ghost before it, every backbeat answering a kick. The moment it turns mechanical, the conversation is gone — drop to ♩=70 and find it again."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Zigaboo Modeliste",
+        "work": "The Meters — Cissy Strut",
+        "note": "The two-drummer parade squeezed onto one kit: the kick walks off the downbeat while the snare presses between the backbeats. Robert Christgau heard the drums as the lead voice here rather than the accompaniment."
+      },
+      {
+        "artist": "Earl Palmer",
+        "work": "Professor Longhair — Tipitina",
+        "note": "Palmer keeps the cymbals out of it entirely. The groove is bass drum and snare only, syncopated against the piano figure that gives the parade pulse its name."
+      },
+      {
+        "artist": "Stanton Moore",
+        "work": "All Kooked Out!",
+        "note": "Cut live in New Orleans right after Mardi Gras with no overdubs, no headphones and no samples. No click in anyone's ears, so the time is entirely the band's, tuba and horns included."
+      }
+    ]
+  },
+  "funk-displacement": {
+    "tagline": "Move the backbeat. Watch the whole groove transform.",
+    "bodyHtml": "\n      <p>Most funk drummers spend years learning to put the snare exactly on 2 and 4. Once that's locked, an entire layer of funk vocabulary opens up: <strong>moving the snare somewhere else</strong>. Not a missed backbeat — an intentionally <em>relocated</em> one. The body still hears it as \"the backbeat\", but the music suddenly tilts — like a familiar room with the furniture rearranged.</p>\n      <p>Beat displacement is not the same as ghost-note displacement. In ghost-note work you keep 2 and 4 loud and only move the soft notes around them. Here we move the loud notes themselves. The reference is still the standard backbeat in your head; the drum kit is contradicting it on purpose.</p>\n\n      <h2 class=\"section-label\">Three Common Displacements</h2>\n      <ul>\n        <li><strong>Onto the \"&\"s of 2 and 4</strong> (an 8th late). Pulls the bar forward — this is what J Dilla and the post-Dilla beatmakers did to the snare on a beat machine.</li>\n        <li><strong>Onto 2.5 and 4.5</strong> (the \"&\" of 2 and the \"&\" of 4 — same as above, conceptually a half-beat shift). Some patterns push only one of the two backbeats.</li>\n        <li><strong>Onto 1 and 3</strong>. Now the kick and the snare have swapped roles entirely — a destabilising effect used by drummers like Chris Dave.</li>\n      </ul>\n\n      <h2 class=\"section-label\">A 16th-Note Shift</h2>\n      <p>The most subtle displacement is moving the backbeat by a single 16th note — a small enough shift that to a listener it sounds <em>almost</em> right, but the body never quite settles into the groove. This is the territory of modern producers and drummers like Chris Dave. We get there in Ex 4.</p>\n\n      <h2 class=\"section-label\">A Word On Practice</h2>\n      <p>Loop the reference backbeat (Ex 1) for at least one minute before each variation. The displacement only works if your body knows where 2 and 4 <em>should</em> be. If you lose the reference, you stop displacing — you just play a different groove. <em>Hear the original through the variation.</em></p>\n    ",
+    "graduationCriteria": [
+      "Reference backbeat (Ex 1) holds at ♩=96 cleanly as a baseline",
+      "Snare-on-the-& variant (Ex 2) locks in for 16 bars at ♩=92 without drifting back to 2 and 4",
+      "Half-step displaced version (Ex 3) — snare on 2.5 and 4.5 — holds at ♩=88",
+      "Sixteenth-shifted version (Ex 4) holds for 8 bars at ♩=84 with the displaced snare clearly identifiable as the backbeat"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Reference Backbeat",
+        "tip": "The home position. Snare on 2 and 4, kick on 1 and 3, hat on 8ths. Loop this for one full minute before moving to Ex 2 — your body needs to know where the backbeat normally lives so it can recognize the displacement when it happens. <strong>Sing 1-2-3-4 out loud</strong> and place the snare on the count words 2 and 4. This is your reference."
+      },
+      {
+        "title": "2 — Snare on the & of 2 and the & of 4",
+        "tip": "Hat and kick unchanged; the snare slides an 8th late, onto the <em>&amp; of 2</em> and the <em>&amp; of 4</em>. Count <em>1, 2 &amp;, 3, 4 &amp;</em> and land the snare on each &amp;. The drift back toward 2 and 4 is the failure mode — counting aloud is what prevents it."
+      },
+      {
+        "title": "3 — Snare on 2.5 and 4.5 (Half-Beat Shift)",
+        "tip": "The snare lands on the <em>third 16th of beat 2</em> (count: <em>2-e-&amp;-a</em> — the &) and on the same position in beat 4. With 16th-note hats, that displacement is more clearly a half-beat shift. The first time you hear it, your brain will try to relabel that note as beat 3 — resist. Beat 3 still has nothing on it (no kick, no snare); the snare has just moved off 2 by an 8th."
+      },
+      {
+        "title": "4 — 16th-Shifted Backbeat",
+        "tip": "The subtlest displacement: snare on the <em>e of 2</em> and the <em>e of 4</em>, one 16th off the home position. Played imprecisely it just sounds like a miss; played exactly it sounds like a backbeat that tripped. Set the metronome to 16ths and hit that <em>e</em> dead-on, every bar."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Welcome 2 Detroit — instrumental beats",
+        "note": "Snare-on-the-& displacement as a programming aesthetic."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "Snare placement that wanders by 16ths around the home backbeat."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "The earliest mainstream record built around displaced backbeats played by a human."
+      }
+    ]
+  },
+  "funk-purdie-shuffle": {
+    "tagline": "Half-time shuffle plus ghost notes — every triplet partial audible",
+    "bodyHtml": "\n      <p>The Purdie shuffle is one of the most over-quoted and under-played grooves in popular music. Bernard Purdie put it on countless Steely Dan and Aretha Franklin records and it has been imitated, half-imitated, and badly imitated for fifty years. The actual groove is harder than it looks — what makes it sound like a Purdie shuffle is not the basic skeleton (which is just a half-time shuffle) but the <strong>ghost notes on every triplet partial</strong> that fill the space between the loud snare hits.</p>\n      <p>If you can hear every single triplet of the bar — twelve triplets in a 4/4 bar, played as 8th-note triplets — then you have it. If any of them disappear, you don't.</p>\n\n      <h2 class=\"section-label\">The Skeleton</h2>\n      <p>Half-time shuffle: the loud backbeat lands on count 3 only (not 2 and 4). The hi-hat plays a swung pattern — typically the first and third triplet of every beat, leaving the middle triplet open. That's the basic shuffle on its own.</p>\n\n      <h2 class=\"section-label\">The Magic</h2>\n      <p>Now: every triplet partial that does not have a hi-hat or a loud snare on it gets a <strong>ghost-note snare</strong>. Every single one. The result is a groove where you hear hi-hat, ghost, hi-hat across the first beat — twelve audible articulations per bar. The loud snare on 3 cuts through that carpet like a slap. Played correctly, it sounds inevitable.</p>\n\n      <h2 class=\"section-label\">The Bass Drum</h2>\n      <p>Kick figures vary, but the canonical placement is on count 1 and on the third triplet of count 2 (the <em>\"a\"</em> of 2 in shuffle-talk). That single anticipation pulls the snare on count 3 out of you — you hear the kick land just before, and the loud snare answers it.</p>\n\n      <h2 class=\"section-label\">A Note on Tempo</h2>\n      <p>The Purdie shuffle wants to live around ♩=80. Slower and the ghost notes lose definition; faster and they collapse into a buzz. Practice at 80, then drop to 70 to dig deeper, then push to 90 to test the time.</p>\n    ",
+    "graduationCriteria": [
+      "Basic shuffle skeleton (Ex 1) holds at ♩=80 for 16 bars with the swung 8ths visibly even",
+      "All-triplet-partial ghost note pattern (Ex 2) sustains for 16 bars at ♩=78 without the ghosts disappearing under the backbeat",
+      "Bass-drum kick figures (Ex 3) lock in across the triplet grid at ♩=80",
+      "Full Purdie-shuffle pattern (Ex 4) holds for 16 bars at ♩=82 with the half-time backbeat firmly on count 3"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Half-Time Shuffle Skeleton",
+        "tip": "The bare bones. Count <em>1-trip-let, 2-trip-let, 3-trip-let, 4-trip-let</em>. Hi-hat on the <em>1</em> and the <em>let</em> of every beat — the first and third triplet — with the middle triplet (<em>trip</em>) open. Snare on count 3 only. Kick on 1 only. <strong>This is a half-time shuffle, no ghost notes yet.</strong> Loop until the swing feels like one big lazy lope, not four separate beats."
+      },
+      {
+        "title": "2 — Ghost Notes on Every Triplet Partial",
+        "tip": "Now every single triplet partial has something on it — hi-hat alone, ghost snare alone, or hi-hat + ghost together. The accented snare on count 3 is the only loud note in the whole bar. <strong>Twelve articulations per bar, only one of them loud.</strong> If you can clearly hear all twelve and one stands out as the backbeat, you are inside the shuffle. If they smear together, slow to ♩=68 and rebuild from Ex 1."
+      },
+      {
+        "title": "3 — Adding the Bass Drum Figure",
+        "tip": "The kick adds a second hit on the <em>a of 2</em> — the third triplet of beat 2, which lands an 8th-triplet before the snare on count 3. That kick acts as a launch pad: <em>kick — snare</em> as a tiny pickup phrase, the snare arriving feeling inevitable. Don't rush it. Play the kick exactly on the <em>let</em> of 2; if you place it on the <em>trip</em> instead, the whole shuffle limp."
+      },
+      {
+        "title": "4 — Full Purdie-Style Shuffle Pattern",
+        "tip": "Two kick anticipations now — the <em>let</em> of 2 before the backbeat, the <em>let</em> of 4 before the next downbeat — so the bar leans forward twice. Ghosts whispered, the 3 a slap, hat feathered. Bernard plays it at exactly this tempo on the records; don't sprint."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Babylon Sisters",
+        "note": "Sit with it and count along — every triplet partial of the bar is in there, and hearing each one is the whole assignment."
+      },
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Home at Last",
+        "note": "Same vocabulary, faster tempo, more space — easier entry point for a learner."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Porcaro's combination of the Purdie shuffle with the half-time Bonham feel — a study in the lineage."
+      }
+    ]
+  },
+  "funk-david-garibaldi": {
+    "tagline": "Linear 16ths, open hats, rim-shot backbeat — the Oakland sound",
+    "bodyHtml": "\n      <p>David Garibaldi's work with Tower of Power redefined what funk could sound like in the early 1970s. Where James Brown's drummers had built grooves on layered 16ths — hi-hat <em>and</em> snare <em>and</em> kick stacking on the same notes — Garibaldi went the other way. Every 16th has <strong>exactly one voice</strong>. Hi-hat or snare or kick or hand, but only one. That's the definition of a <em>linear</em> groove: one note at a time, never two simultaneous.</p>\n      <p>The result is a groove that sounds intricate but breathes. Nothing is buried under anything else. Each note has its own seat in the bar.</p>\n\n      <h2 class=\"section-label\">Two Innovations</h2>\n      <p><strong>The open hat on the &.</strong> Garibaldi opens the hi-hat momentarily on the offbeats and snaps it closed on the downbeats. Each open-hat note is a tiny \"tssss\"; each closed hat is a tight \"tsk\". The pattern itself sings — like a rhythm guitarist's picking hand applied to the cymbal.</p>\n      <p><strong>The rim-shot snare.</strong> The backbeat on 2 and 4 is a <em>rim shot</em> — stick striking the head and the rim simultaneously — for maximum cut. On the studio recordings the rim shot is so loud it sounds amplified by itself. That hard backbeat is what punches through the horn section.</p>\n\n      <h2 class=\"section-label\">Why It Works</h2>\n      <p>Linear funk forces the drummer to <em>hear</em> every note independently. There's no leaning on stacked-up density to disguise weak placement. If the kick is late, you hear it; if the hat drops in volume, you hear it. The tradeoff for that exposure is that when it lands, every note feels precisely placed — like a sequenced beat played by a human.</p>\n\n      <h2 class=\"section-label\">A Word on Speed</h2>\n      <p>Tower of Power tempos sit around ♩=100. Below that the linear logic feels too sparse; above that the ghost-note 16ths blur. Practice at 80, perform at 100.</p>\n    ",
+    "graduationCriteria": [
+      "Tower-style linear pattern (Ex 1) holds at ♩=98 for 16 bars with no two voices on the same 16th",
+      "Open-close hat variant (Ex 2) — hat opens on every \"&\" — sustains at ♩=92 with the open hats clearly audible",
+      "Rim-shot backbeat (Ex 3) cuts cleanly on 2 and 4 at ♩=96",
+      "Two-bar Garibaldi pattern (Ex 4) holds at ♩=100 with the linear logic preserved across both bars"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Tower-Style Linear Pattern",
+        "tip": "Read the bar 16th by 16th and verify <strong>exactly one voice per slot</strong> — hat, ghost, rim shot, or kick, never two at once. The instant you catch a doubling (hat + kick on the same 16th, usually), the linear logic has broken: rebuild that beat alone."
+      },
+      {
+        "title": "2 — Open Hat on Every &",
+        "tip": "Foot technique carries this one: start closed, lift briefly on each <em>&amp;</em> for a sustained <em>tsss</em>, snap down on the next downbeat to choke it to a <em>tsk</em>. Closed-open-closed-open, all bar long, while the backbeats stay cutting rim shots. If the open notes smear past the downbeat, slow the foot, not the hands."
+      },
+      {
+        "title": "3 — Rim-Shot Backbeat with Ghost Carpet",
+        "tip": "For the rim shot: tip of the stick on the center of the head, shoulder on the rim, both at once — a woody <em>crack</em> with real cut. Aim for a 6:1 or 8:1 volume ratio between that accent and the ghost 16ths around it."
+      },
+      {
+        "title": "4 — Two-Bar Garibaldi Pattern",
+        "tip": "Bar 1 keeps the home kick (1, 3, &-of-4); bar 2 adds the &-of-2, leaning harder into the next downbeat — a question bar and an answer bar. The extra kick must not create a stack: check that every 16th of bar 2 still carries exactly one voice."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — Soul Vaccination",
+        "note": "Linear-funk masterclass; the rim-shot backbeat is louder than the horns."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — What Is Hip",
+        "note": "Two-bar phrasing — each bar leans on the next."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Future Sounds (instructional)",
+        "note": "Garibaldi's own book and DVD — the linear approach explained by the man who invented it, worth working through alongside this lesson."
+      }
+    ]
+  },
+  "funk-quarter-pulse": {
+    "tagline": "The opposite of busy 16ths — funk built on space",
+    "bodyHtml": "\n      <p>Most funk lessons drill 16th-note hi-hats. This one does the opposite. Some of the heaviest funk grooves in popular music are built on a <strong>quarter-note hi-hat</strong> — one hat hit per beat, not four — with the kick and snare doing the syncopation underneath. John Bonham played this way most of his career; Steve Jordan made it his trademark with John Mayer and Keith Richards; Charlie Watts laid down half a century of Stones grooves on a quarter-note hat.</p>\n      <p>The point is <strong>space</strong>. With only four hat hits per bar, every kick and snare placement is fully exposed. There is nowhere to hide a slightly late kick or a slightly weak snare. The result is a groove that sounds enormous — because every note has room to breathe.</p>\n\n      <h2 class=\"section-label\">Why It's Hard</h2>\n      <p>Counterintuitively, slow quarter-note hat funk is harder than busy 16th funk. The 16ths give you a constant subdivision to lock to; without them, you have to <em>generate</em> the subdivision internally and place every kick and snare against an internal grid. Drift the time by a 16th and everyone in the band hears it.</p>\n\n      <h2 class=\"section-label\">Three Things to Get Right</h2>\n      <ul>\n        <li><strong>The hat must be steady.</strong> Same volume, same height, every quarter, like a metronome. If the hat starts to vary, the groove falls apart.</li>\n        <li><strong>The backbeat must be massive.</strong> When there are no 16ths around it, the snare on 2 and 4 has to fill the room. Hit it like you mean it.</li>\n        <li><strong>The kick must be deliberate.</strong> Every kick placement is exposed — make each one a decision. Don't sneak kicks in.</li>\n      </ul>\n    ",
+    "graduationCriteria": [
+      "Quarter-pulse hat + heavy backbeat (Ex 1) holds at ♩=88 for 16 bars without the hat starting to subdivide on its own",
+      "Kick on 1 + &-of-3 variant (Ex 2) locks at ♩=84 with the syncopation clearly heard against the quarter hat",
+      "Sparse ghost-note variant (Ex 3) keeps the ghosts barely audible at ♩=86",
+      "Bo-Diddley / Bonham hybrid (Ex 4) holds at ♩=80 with the kick figure sounding deliberate, not absent"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Quarter Hat + Heavy Backbeat",
+        "tip": "Four hat hits per bar — one per beat. Snare on 2 and 4, kick on 1 and 3. <em>That's it.</em> Most beginners rush this because the gaps feel uncomfortable. Resist. Set the metronome to <em>8th notes</em> if you need to feel the subdivision; play the hat only on every <em>other</em> click. The bar should feel like an open room with four pillars — each note clearly placed, none of them touching."
+      },
+      {
+        "title": "2 — Kick on 1 and the & of 3",
+        "tip": "One kick moves off 3 onto the <em>&amp; of 3</em> — with quarter hats around it, that single note owns the second half of the bar. Place it dead-center between the hats on 3 and 4 (on the 8th click, if your metronome does 8ths). Pure Steve Jordan."
+      },
+      {
+        "title": "3 — Sparse Ghost Notes",
+        "tip": "Hat doubles to 8ths on beats 1 and 3 only, with a <strong>ghost snare on each &amp;</strong>; 2 and 4 stay loud. The bar is still mostly air. Ghosts at a quarter of the backbeat's volume or less — let them swell and the openness is gone."
+      },
+      {
+        "title": "4 — Bo-Diddley-Meets-Bonham Feel",
+        "tip": "The hambone kick: 1, the &-of-2, 3, and <em>nothing</em> on 4 — under a quarter hat and a heavy backbeat, that's the Bonham illusion of a second drummer. Build it kick-plus-metronome-on-8ths first, no hat; bring the hat back only once each placement is rock-solid."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — When the Levee Breaks",
+        "note": "Quarter-note hat and the most-sampled drum sound in history."
+      },
+      {
+        "artist": "Charlie Watts",
+        "work": "The Rolling Stones — Honky Tonk Women",
+        "note": "Half-century-long quarter-note hat funk."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer Trio — Try!",
+        "note": "Modern continuation — vast space, deliberate kicks, nothing extra."
+      }
+    ]
+  },
+  "funk-d-angelo": {
+    "tagline": "The deliberately late pocket — drum and bass playing 'wrong' on purpose",
+    "bodyHtml": "\n      <p>In the late 1990s D'Angelo, ?uestlove, and Pino Palladino made a record called <em>Voodoo</em> that broke a rule everyone thought was inviolable: you do not play behind the click on purpose. Drums had been pulling back from the beat for decades — Al Jackson Jr was doing it at Stax, Stewart Copeland did it on early Police records — but those drummers were behind a few milliseconds. ?uestlove was behind <em>tens</em> of milliseconds. The bass and the drums dragged so hard the music sounded drunk.</p>\n      <p>And it worked — it became the foundation of a generation of neo-soul and the hip-hop that came after it. Behind the beat became a stylistic choice, not an error.</p>\n\n      <h2 class=\"section-label\">Three Layers</h2>\n      <p>The Voodoo time-feel isn't just \"play late\". It's three different elements placed against each other:</p>\n      <ul>\n        <li><strong>The hi-hat — on the click or slightly ahead.</strong> Provides a reliable spine.</li>\n        <li><strong>The snare — way behind the click.</strong> Maybe 30–60ms late on 2 and 4. Drags the whole groove.</li>\n        <li><strong>The kick — also behind, but not as far as the snare.</strong> Floats between the hat (early) and the snare (late).</li>\n      </ul>\n      <p>The result is a bar where every limb is in a slightly different temporal location. Your brain can't lock to a single placement, so the music feels suspended — present but not arrived.</p>\n\n      <h2 class=\"section-label\">A Warning</h2>\n      <p>Late playing only works if the rest of the band knows what you're doing and chooses placements that complement yours. Pino Palladino on Voodoo plays just slightly behind ?uestlove — late on top of late. With a band that doesn't know the trick, late playing just sounds like rushing or dragging. <em>This is repertoire-specific vocabulary.</em></p>\n    ",
+    "graduationCriteria": [
+      "Reference late-snare backbeat (Ex 1) records cleanly against a click — recording shows snare arriving consistently after the click on 2 and 4 at ♩=84",
+      "Snare-late, kick-on-time pattern (Ex 2) holds at ♩=82 for 8 bars with the dragging snare clearly identifiable",
+      "Hat-on-time, kick + snare both behind (Ex 3) sustains for 8 bars at ♩=80 without the hat slipping back",
+      "Voodoo-era pattern (Ex 4) holds for 16 bars at ♩=78 with all three elements (early hat, late snare, late kick) audibly distinct"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Reference: Backbeat Played Slightly Late (Record It)",
+        "tip": "<strong>Set up a recorder — it is the method here.</strong> Click on quarters; aim the snare about a 16th-note's worth after it, by feel, not by counting. On playback: snare on or before the click means not late enough; beyond a 16th means too far. Iterate until it sounds drunk-but-locked."
+      },
+      {
+        "title": "2 — Snare Late, Kick On Time",
+        "tip": "Placement is now <em>per limb</em>: hat 16ths locked dead even on the click, kick on 1 and 3 also on the click, and only the snare dragging — a 16th's worth late on 2 and 4. The even hats surrounding the late snare are what make the drag audible."
+      },
+      {
+        "title": "3 — Hat On Time, Kick + Snare Both Behind",
+        "tip": "Three placements stacked: hat on the click, kick a 32nd's worth behind, snare a 16th behind — the kick floats <em>between</em> hat and snare. Feel, not math. The hat has to stay rock-solid or the whole stack collapses into generalized dragging."
+      },
+      {
+        "title": "4 — Voodoo-Era Pattern",
+        "tip": "The full texture: whispered ghost 16ths on the snare, loud-and-<em>late</em> backbeats on 2 and 4, kick on 1 + &-of-2 + &-of-3 slightly behind, hat 16ths on the click. Three temporal layers in one bar — heavy, slow, and locked when each element keeps its own seat."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove + Pino Palladino",
+        "work": "D'Angelo — Voodoo (entire album)",
+        "note": "Listen many times before practicing — how far behind the click can a snare live and still lock? You cannot study what you have not internalized."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Untitled (How Does It Feel)",
+        "note": "The single clearest example of the late drag — slow tempo makes it audible."
+      },
+      {
+        "artist": "James Gadson",
+        "work": "Bill Withers — Use Me",
+        "note": "An earlier ancestor — Gadson dragging hard, decades before Voodoo."
+      }
+    ]
+  },
+  "funk-modern-neo-soul": {
+    "tagline": "Drum-machine precision meeting human swing",
+    "bodyHtml": "\n      <p>The decade after <em>Voodoo</em> produced a wave of records — Erykah Badu's <em>Mama's Gun</em>, Bilal's <em>1st Born Second</em>, Robert Glasper's <em>Black Radio</em>, Anderson .Paak's <em>Malibu</em> — that took the late-pocket vocabulary and refined it. Where ?uestlove's drumming on Voodoo was thick and dragging, the second wave is more precise: drum-machine-influenced placement (sounds programmed but isn't) sitting alongside the deliberate human swing.</p>\n      <p>The signature is a <strong>mechanical-feeling 16th-note hat</strong> — no acceleration, no slowing, the way a drum machine plays — combined with a <strong>snare and kick that intentionally don't sit on the grid</strong>. The contrast (rigid hat, fluid backbeat) is the sound.</p>\n\n      <h2 class=\"section-label\">Two Common Hat Approaches</h2>\n      <ul>\n        <li><strong>Even 16ths.</strong> The rigid version. Every 16th identical, no swing.</li>\n        <li><strong>Swung 16ths (the half-time shuffle).</strong> The 8th-note triplet feel of the Purdie shuffle, brought into a more modern context.</li>\n      </ul>\n\n      <h2 class=\"section-label\">The Wobble</h2>\n      <p>Many neo-soul drummers — Chris Dave most famously — push their ghost notes <em>slightly off the 16th grid</em>. Not on the &, not on the e — somewhere between, perhaps four or five 16th-grid positions per bar that all live a few milliseconds early or late. The result is a groove that feels human and slippery — like the drummer is sliding around inside a rigid metronomic frame.</p>\n\n      <h2 class=\"section-label\">Four-Bar Phrasing</h2>\n      <p>Modern neo-soul is rarely a one-bar pattern. The phrase typically extends four bars — small variations every bar, a release on bar 4. Practice the four-bar version (Ex 4) as a single phrase, not four iterations of the same bar.</p>\n    ",
+    "graduationCriteria": [
+      "Programmed-feel 16th pattern (Ex 1) holds at ♩=86 with mechanically even hat 16ths and tight ghost-note dynamics",
+      "Micro-wobble pattern (Ex 2) — ghosts placed slightly off the grid — sustains for 16 bars at ♩=82 with the wobble audible",
+      "Half-time-shuffle hybrid (Ex 3) holds at ♩=82 with the swung 8th-triplets clear",
+      "Four-bar neo-soul phrase (Ex 4) holds for 32 bars at ♩=84 without the placement collapsing back to standard funk"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Programmed-Feel 16th Pattern",
+        "tip": "Play this <strong>like a drum machine</strong>. Every hi-hat 16th identical in volume. Ghost notes mathematically the same volume as each other. Backbeats on 2 and 4 are the only loud notes. No human acceleration through the bar; no slowing into the backbeat. <em>Mechanical and exact.</em> This is the inverse of the deeply human Voodoo feel from the previous lesson — and the contrast between this version and Ex 2 is what makes neo-soul work."
+      },
+      {
+        "title": "2 — Intentional Micro-Wobble",
+        "tip": "Same skeleton, but now <strong>place certain ghost notes deliberately off the grid</strong>. The notation says they land on specific 16ths, but you play them a hair early or a hair late — your choice — wherever it feels right. Hat 16ths stay machine-tight. Backbeats stay locked. Only the ghosts wobble. The result should sound like a programmed beat that someone has manually nudged a few hits with a mouse — slippery, never quite settled."
+      },
+      {
+        "title": "3 — Half-Time Shuffle Hybrid",
+        "tip": "The half-time shuffle returns — but with modern neo-soul touches. <strong>Sparser ghost notes than the Purdie shuffle</strong> (you don't fill every triplet partial — only some). Backbeat on count 3, swung 8th-triplets in the hat. Listen to Robert Glasper's records — Chris Dave plays this kind of shuffle but with the precision of a drum machine and the wobble of a human, simultaneously. Same vocabulary as Purdie, different aesthetic."
+      },
+      {
+        "title": "4 — Four-Bar Neo-Soul Phrase",
+        "tip": "Bar 1 is home; bar 2 adds one extra ghost on the <em>e</em> of 1; bar 3 pulls back; bar 4 releases with a kick anticipation. Play tension → more tension → pull-back → release as one breath. Each four-bar block should feel identical to the last; the bars inside it shouldn't."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "The defining drummer of the post-Voodoo wave. Wobble, swung hat, machine-tight backbeat."
+      },
+      {
+        "artist": "Anderson .Paak",
+        "work": "Malibu (Heart Don't Stand a Chance, Your Prime)",
+        "note": "Both are DJ Khalil productions tracked with a live band, Sam Barsh on keys and Daniel Seeff on bass and guitar. They are the only two tracks on the album that carry a drum credit for the singer; every other beat is credited to its producer."
+      },
+      {
+        "artist": "Questlove",
+        "work": "Erykah Badu — Mama's Gun",
+        "note": "Six of the fourteen cuts are his kit, including 'Penitentiary Philosophy,' 'Cleva' and 'Green Eyes.' Gino Iglehart plays 'Orange Moon' and 'Bag Lady,' and the two Dilla tracks, 'Didn't Cha Know' and 'My Life,' carry no live-kit credit at all, so the album sets played and programmed side by side."
+      }
+    ]
+  },
+  "funk-questlove": {
+    "tagline": "The Roots / Voodoo lineage — extreme behind-the-beat as identity",
+    "bodyHtml": "\n      <p>Ahmir \"?uestlove\" Thompson is the most studied drummer of his generation. His time-feel — the deep behind-the-beat playing he developed on D'Angelo's <em>Voodoo</em> and continued through The Roots' decades-long catalog — became a vocabulary of its own. This lesson is the next step beyond the D'Angelo-era introduction: pushing the placement <em>further</em> behind, letting the ghost notes themselves drag, and shifting the placement bar by bar.</p>\n\n      <h2 class=\"section-label\">The Drag</h2>\n      <p>The previous lesson placed the snare a 16th-note's worth late. ?uestlove on his most exposed records goes further — sometimes a full 8th-note's worth of drag at slow tempos. The body has to keep playing as if everything's normal while internally maintaining the much-later placement. It is the most demanding form of the late-pocket vocabulary and it requires a click and a recorder to develop.</p>\n\n      <h2 class=\"section-label\">Dragging Ghost Notes</h2>\n      <p>It's not just the loud snare that drags. The ghost notes drag too — and crucially, they drag <em>more</em> as the bar progresses. The first ghost in the bar might be on time; the last ghost in the bar might be a 32nd late. The whole bar leans backward as it unfolds.</p>\n\n      <h2 class=\"section-label\">Bar-By-Bar Variation</h2>\n      <p>?uestlove's recordings show subtle variation from one bar to the next — bar 1 sits in one micro-position, bar 2 in another. The variation is rarely conscious; it emerges from listening to the band and adjusting in real time. Practicing it consciously, in the form of bar-1-here, bar-2-there alternations, builds the awareness for it to happen unconsciously later.</p>\n\n    ",
+    "graduationCriteria": [
+      "Deeply behind backbeat (Ex 1) records cleanly with the snare measurably late on every iteration at ♩=80",
+      "Dragging-ghost-notes pattern (Ex 2) holds for 16 bars at ♩=78 with the ghosts pulling the pulse backward",
+      "Two-bar shifting placement (Ex 3) — bar 1 normal, bar 2 deeper behind — sustains for 8 phrases at ♩=82",
+      "Roots-era pattern (Ex 4) holds for 16 bars at ♩=80 with the late-pocket vocabulary fully present"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Deeply Behind Backbeat",
+        "tip": "Like the D'Angelo reference exercise, but an <em>8th-note's</em> worth behind instead of a 16th. Hats stay welded to the click; only the snare drags. The playback test: the snare should sound like a missed beat on first listen — and still lock. Clear-mistake territory is the right neighbourhood."
+      },
+      {
+        "title": "2 — Ghost Notes That Drag the Feel",
+        "tip": "The ghosts drag progressively: the <em>e</em> of 1 sits near the grid, the <em>a</em> of 4 lands noticeably behind, and everything between slides on a gradient. Backbeats keep the Ex 1 placement. Every ghost must still <em>land</em> — a ghost that misses isn't late, it's gone."
+      },
+      {
+        "title": "3 — Two-Bar Shifting Placement",
+        "tip": "Identical bars on the page, different placement in performance: bar 1 sits a 16th behind the click, bar 2 a full 8th behind, hat 16ths never moving. Drill it explicitly — call out 'closer, further, closer, further' until the shift happens on command."
+      },
+      {
+        "title": "4 — Roots-Era Pattern",
+        "tip": "Hip-hop kick shape (1, &-of-2, &-of-3) dragging slightly, ghosts dragging more as the bar unfolds, backbeats a 16th-to-8th late, hats near the click. Even at ♩=80 it should feel impossibly heavy and slow. And remember: this only works with a band that knows the trick."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "The first full-length showcase of the deep-pocket vocabulary."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "The album that made the late pocket a stylistic option for everyone after."
+      },
+      {
+        "artist": "Questlove",
+        "work": "The Roots — How I Got Over",
+        "note": "Mature continuation — the placement is so internalized it never wavers."
+      }
+    ]
+  },
+  "funk-vinnie-funk": {
+    "tagline": "Polyrhythmic ghost notes inside a backbeat — Vinnie's funk vocabulary",
+    "bodyHtml": "\n      <p>Vinnie Colaiuta is what happens when you spend a lifetime studying every drumming tradition simultaneously. His funk vocabulary is informed by jazz independence, Indian rhythmic theory, fusion polyrhythm, and Zappa-era odd-meter playing — and yet, when he plays a funk groove, it feels like funk first and theory second. The trick is that the polyrhythmic vocabulary lives <em>inside</em> the backbeat, never on top of it. The audience hears 4/4. The drummer is doing math.</p>\n\n      <h2 class=\"section-label\">Three Tools</h2>\n      <ul>\n        <li><strong>Grouping over a backbeat.</strong> The ghost notes are placed in groups of 3 (or 5, or 7) across a 4/4 16th-note grid. The grouping starts to imply a different meter — but the loud snare on 2 and 4 anchors the listener to the home pulse.</li>\n        <li><strong>Metric superimposition.</strong> Playing a phrase that is X 16ths long in a bar of 16 16ths — the phrase will end up out of phase with the bar, and the resulting tension is the point.</li>\n        <li><strong>Odd meters as funk.</strong> A 7/8 or 5/4 bar with a strong backbeat on the obvious accent — Vinnie can make 7/8 feel as natural as 4/4 in a funk context.</li>\n      </ul>\n\n      <h2 class=\"section-label\">Why This Is Hard</h2>\n      <p>Most drummers can play polyrhythms or play funk. Combining them — keeping a hard backbeat and clear pocket while the inner voice plays groupings of 3 or 5 — requires the body to maintain two parallel feels. The hands play the polyrhythm; the foot keeps the home pulse. Most people lose one or the other. Vinnie keeps both, every bar, for as long as you'd like.</p>\n\n      <h2 class=\"section-label\">Practice Strategy</h2>\n      <p>Start by playing the polyrhythmic component <em>without</em> the funk groove — just the grouping on its own. Then add the kick and snare backbeat. Then add the hat. Build it from the inside out.</p>\n    ",
+    "graduationCriteria": [
+      "Polyrhythmic ghost-note pattern (Ex 1) — ghost-note grouping of 3 over 16ths — holds for 8 bars at ♩=92",
+      "Metric superimposition (Ex 2) — 5-grouping over a 4/4 backbeat — sustains for 4 phrases at ♩=88",
+      "7/8 funk groove (Ex 3) holds for 8 bars at ♩=96 with the backbeat clearly identifiable",
+      "Two-bar Vinnie-style phrase (Ex 4) holds at ♩=92 with all four limbs participating in the polyrhythm"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Polyrhythmic Ghost Notes (3-Grouping)",
+        "tip": "Ghosts land every third 16th — 1, the &-of-1, the e-of-2, then 3, the &-of-3, the e-of-4. The accented 2 and 4 cut through and re-assert 4/4 while the ghosts imply three. Listener hears a backbeat; you feel both meters at once."
+      },
+      {
+        "title": "2 — 5-Note Phrase Superimposed Over 4/4",
+        "tip": "Accent + four ghosts, five notes repeating: sixteen 16ths divide 5+5+5+1, so the phrase never lands the same place twice and a lone 16th dangles at the bar's end. That leftover is why it sounds restless. Kick on 1 and 3 is the anchor — without it, the home pulse vanishes."
+      },
+      {
+        "title": "3 — 7/8 Funk Groove",
+        "tip": "Count the seven 8ths <em>1-2-3-4 1-2-3</em>. Snare on the 3rd and 5th 8ths — the 5th is the backbeat, right where the 3-group starts — kick on 1 and the 5th. It should feel like 4/4 with a beat shaved off. Pass test: heads nod. If they'd have to count, it isn't funk yet."
+      },
+      {
+        "title": "4 — Two-Bar Vinnie-Style Funk Phrase",
+        "tip": "Bar 1 runs the 3-grouping from Ex 1; bar 2 switches to the 5-grouping from Ex 2 over a denser kick. The backbeat on 2 and 4 never moves. Two polyrhythms in two bars, one obvious pocket — the whole Vinnie sleight-of-hand in miniature."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Ten Summoner's Tales",
+        "note": "Polyrhythmic funk inside a pop record — 'Seven Days' is the textbook study."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — Joe's Garage",
+        "note": "The Zappa years — odd-meter funk as routine working vocabulary."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Vinnie Colaiuta (self-titled solo)",
+        "note": "Vinnie's own record — every track demonstrates a different polyrhythmic funk approach."
+      }
+    ]
+  },
+  "funk-modern-r-and-b": {
+    "tagline": "2020s production vocabulary — 808s, hat rolls, programmed-feel snare",
+    "bodyHtml": "\n      <p>The 2020s R&B drum vocabulary is the result of decades of cross-pollination between human drumming and beat-machine production. The drum-machine influences come from Roland's TR-808 (the sub-bass kick), modern trap production (the rapid-fire hi-hat rolls, the half-time backbeat), and the J Dilla / Madlib programming aesthetic (the deliberately displaced snare). The human influences come from the neo-soul lineage we've already studied.</p>\n      <p>The goal of this lesson is not to <em>replace</em> a producer; it's to <em>play</em> these productions live so they feel right. When the kick on a record is actually a sub-808 sample, the live drummer needs to play a kick that sits in the same role — a low, sustained, melodic note rather than a sharp percussive thud.</p>\n\n      <h2 class=\"section-label\">Three Production Elements</h2>\n      <ul>\n        <li><strong>Sub-808 kicks.</strong> Long, low, melodic. The kick is doubling the bass line, not just punctuating beats. On a kit, this means tuning the bass drum low, dampening less, and leaving more air in the room.</li>\n        <li><strong>Hat rolls.</strong> Rapid 32nd-note bursts on the hat — typically four or eight 32nds at the end of a beat — borrowed from trap. They generate forward motion and tension.</li>\n        <li><strong>Half-time backbeat.</strong> Like the half-time shuffle, the loud snare lands on count 3 only. At slow tempos this gives the production massive space.</li>\n      </ul>\n\n      <h2 class=\"section-label\">A Note on Tempo</h2>\n      <p>Modern R&B lives slow. Many records sit at ♩=70 or below. The slowness gives every element room to develop and lets the sub-bass breathe. Don't be tempted to push the tempo to make it feel \"more like funk\" — the slow tempo <em>is</em> the genre.</p>\n\n      <h2 class=\"section-label\">A Note on Drum Sound</h2>\n      <p>Choose your drum sounds for this style: tune the bass drum low and unmuffled. Use a darker hi-hat. Use a snare with deep crack. Use a small ride cymbal or a stack for accents. The sounds matter as much as the notes.</p>\n    ",
+    "graduationCriteria": [
+      "Sub-808 kick pattern (Ex 1) holds for 16 bars at ♩=72 with the kick voicing the bass-line shape",
+      "Hat-roll variant (Ex 2) — bursts of 32nd-note hat — locks at ♩=80 with the rolls landing precisely",
+      "Live trap beat (Ex 3) holds for 16 bars at ♩=68 with the half-time backbeat firmly placed",
+      "Two-bar modern R&B pattern (Ex 4) holds for 32 bars at ♩=76 with all production elements (808 kick, hat rolls, displaced backbeat) audibly distinct"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Sub-808 Kick Pattern",
+        "tip": "Think bass line, not drum part: long note on 1, short on the &-of-2, short on the &-of-3, long on 4. Phrase the kick the way a bassist would — let the long notes ring. The snare on 3 is the bar's only loud hit."
+      },
+      {
+        "title": "2 — Hat Roll Over Backbeat",
+        "tip": "On count 4 the hat breaks into eight 32nds. Alternate the sticks or use finger control for the burst — either works, tension doesn't. The roll's job is to <em>launch the next bar</em>, so its last note should hand off cleanly to beat 1."
+      },
+      {
+        "title": "3 — Live Trap Beat",
+        "tip": "Live trap. <strong>Half-time feel</strong> at ♩=68 — the snare on 3 only, not 2 and 4. 16th hat through the bar with a 32nd-note roll on the &-of-2 leading into the snare on 3. Trap-style kick figure: 1, e-of-2, &-of-3, &-of-4 — a syncopated low-end shape. Note the slow tempo: trap lives slow, and the half-time feel makes ♩=68 feel even slower. <em>Don't try to push the tempo</em>. Trap sits where it sits."
+      },
+      {
+        "title": "4 — Two-Bar Modern R&B Pattern",
+        "tip": "Bar 1: programmed-feel 16th hat, melodic sub-808 kick, ghost carpet, accented 2 and 4. Bar 2: same skeleton plus the 32nd hat roll launching out of beat 4. Loop until the bar boundary disappears and it reads as one two-bar flow, bar 2 always throwing you back into bar 1."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Alchemist (production)",
+        "work": "Anderson .Paak — Make It Better",
+        "note": "The drums on this track belong to the producer, not to .Paak, who does play the kit on four other Ventura cuts. Listen to how that drum part sits against live bass, live keys and Miguel Atwood-Ferguson's string arrangement, then work out what a kit player would have to change to sound like it."
+      },
+      {
+        "artist": "Carter Lang",
+        "work": "SZA — Kill Bill",
+        "note": "The kit here is a full live pass that was edited and comped, with a programmed drum-machine kick layered underneath it for extra low end. Study that doubled kick: an acoustic bass drum carrying the attack and a machine kick carrying the weight."
+      },
+      {
+        "artist": "Daniel Caesar",
+        "work": "Freudian",
+        "note": "Slow-tempo R&B with the half-time-feel + hat-roll vocabulary fully present."
+      }
+    ]
+  }
+}
