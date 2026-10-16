@@ -7,4 +7,4 @@
   publish = "_site"
 
 [build.environment]
-  SITE_URL = "https://drum.town"
+  SITE_URL = "https://drum-town.netlify.app"

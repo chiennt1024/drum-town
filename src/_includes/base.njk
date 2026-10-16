@@ -104,16 +104,6 @@
         <path d="M20.5 14.6A8.6 8.6 0 1 1 9.4 3.5a7 7 0 0 0 11.1 11.1z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
       </svg>
     </button>
-      <svg class="theme-toggle__sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <circle cx="12" cy="12" r="4.6" fill="none" stroke="currentColor" stroke-width="1.8" />
-        <g stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
-          <path d="M12 2.4v2.6M12 19v2.6M2.4 12h2.6M19 12h2.6M5.2 5.2l1.9 1.9M16.9 16.9l1.9 1.9M18.8 5.2l-1.9 1.9M7.1 16.9l-1.9 1.9" />
-        </g>
-      </svg>
-      <svg class="theme-toggle__moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="M20.5 14.6A8.6 8.6 0 1 1 9.4 3.5a7 7 0 0 0 11.1 11.1z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
-      </svg>
-    </button>
     {#- Collapsed state of the transport dock (system.md §3/§7). Live BPM and
         time signature are written here by metronome.js; the lamp pulses with
         the beat so a running metronome is never hidden.
@@ -196,11 +186,6 @@
       <ul>
         <li><a href="https://github.com/dylanpjenkins/drum-town">GitHub</a></li>
         <li><a href="{{ (curriculum.foundations.sections[0].lessons[0].slug | lessonUrl(locale or 'en')) }}">{{ 'Start at lesson one' if (locale or 'en') == 'en' else 'Bắt đầu từ bài học số 1' }}</a></li>
-        <li class="site-footer__lang">
-          <span class="sr-only">{{ 'Language' if (locale or 'en') == 'en' else 'Ngôn ngữ' }}:</span>
-          <a href="{{ page.url | localeUrl('en') }}"{% if (locale or 'en') == 'en' %} aria-current="true" class="is-active"{% endif %} hreflang="en" lang="en">English</a> ·
-          <a href="{{ page.url | localeUrl('vi') }}"{% if locale == 'vi' %} aria-current="true" class="is-active"{% endif %} hreflang="vi" lang="vi">Tiếng Việt</a>
-        </li>
       </ul>
     </nav>
   </div>
