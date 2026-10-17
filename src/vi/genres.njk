@@ -7,8 +7,8 @@ pagination:
   size: 1
 permalink: "vi/genres/{{ track.slug }}/"
 eleventyComputed:
-  title: "{{ track.title }} — Bài học trống"
-  description: "{{ track.description }}"
+  title: "{{ track.slug | localizedTrackTitle('vi') }} — Bài học trống"
+  description: "{{ track.slug | localizedTrackDescription('vi') }}"
 ---
 
 {% set locCurr = curriculum | localizedCurriculum('vi') %}

@@ -440,6 +440,26 @@ module.exports = function (eleventyConfig) {
     return (locale === 'vi') ? `/vi/genres/${slug}/` : `/genres/${slug}/`;
   });
 
+  eleventyConfig.addFilter('localizedLessonTitle', function (slug, locale) {
+    return i18n.getLocalizedLessonTitle(slug, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedLessonTagline', function (slug, locale) {
+    return i18n.getLocalizedLessonTagline(slug, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedTrackTitle', function (slug, locale) {
+    return i18n.getLocalizedTrackTitle(slug, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedTrackDescription', function (slug, locale) {
+    return i18n.getLocalizedTrackDescription(slug, locale || 'en');
+  });
+
+  eleventyConfig.addFilter('localizedLessonsData', function (baseData, locale) {
+    return i18n.getLocalizedLessonsData(baseData, locale || 'en');
+  });
+
   const FOCUS_VI = {
     'Getting Started': 'Bắt đầu làm quen',
     'Reading': 'Đọc bản nhạc',

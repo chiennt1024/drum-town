@@ -24,6 +24,27 @@
       {
         "title": "4 — Clave Kết hợp Chân Giữ Nhịp",
         "tip": "Dậm chân trái trên hi-hat ở các phách 2 và 4 (hoặc phách 1, 2, 3, 4) trong khi tay trái tiếp tục chơi Son Clave 3-2. Đây là bước đầu tiên để rèn luyện tính độc lập giữa tay chơi clave và trục nhịp của chân."
+      },
+      {
+        "title": "5 — Son Clave 2-3 kết hợp giữ nhịp nốt đen bằng chân",
+        "tip": "Cấu trúc tương tự như Bài tập 4 nhưng đảo ngược chiều clave sang 2-3. Nhịp chân giữ nguyên không thay đổi — nốt đen vẫn là nốt đen. Tay bạn phải cảm nhận được mình đang ở vế nào mà không bị nhịp chân lôi kéo. Tập bài này trong 1 phút, sau đó lập tức chuyển lại Bài tập 4 (3-2) mà không dừng nhịp. Mục tiêu là chuyển đổi chiều clave mượt mà: chân tiếp tục giậm đều, chỉ có chiều đánh của tay đảo ngược."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tito Puente",
+        "work": "Dance Mania (1958)",
+        "note": "Nhịp Son Clave 3-2 được thể hiện bởi dàn nhạc Tito Puente kinh điển. Hãy lắng nghe chiếc mõ clave dẫn dắt toàn bộ cấu trúc bài hát."
+      },
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "any rumba recording",
+        "note": "Bản thu âm Rumba Clave Cuba cội nguồn với sự kết hợp của dàn trống conga và tiếng gõ gỗ palitos."
+      },
+      {
+        "artist": "Eddie Palmieri",
+        "work": "Vamonos Pa'l Monte",
+        "note": "Hãy lắng nghe chiều hướng của nhịp clave — cả ban nhạc khóa chặt theo nó dù bạn có thể gọi tên nó ra hay không."
       }
     ]
   },
@@ -51,6 +72,23 @@
       {
         "title": "4 — Chuyển sang Cymbals Ride và Tăng Tốc",
         "tip": "Đưa tay phải sang mặt chuông hoặc thân cymbals ride, đồng thời dùng chân trái dậm hi-hat nhẹ ở các phách 2 và 4. Đẩy dần tốc độ lên ♩=135–140 với sự thả lỏng tối đa ở cổ tay."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Milton Banana",
+        "work": "João Gilberto — Chega de Saudade",
+        "note": "Tiếng gõ cạnh cross-stick mô phỏng nhịp clave bossa nova ấm áp của Milton Banana trên nền hi-hat chân dậm đều đặn."
+      },
+      {
+        "artist": "Milton Banana",
+        "work": "Stan Getz & João Gilberto — Getz/Gilberto",
+        "note": "Joao Gilberto và bản ghi âm kinh điển đưa bossa nova ra toàn thế giới. Chú ý tiếng chổi sắt quét nhẹ như hơi thở."
+      },
+      {
+        "artist": "Claudio Slon",
+        "work": "Antônio Carlos Jobim — Wave",
+        "note": "Hãy lắng nghe xem bộ trống chơi ít đến nhường nào — và rãnh nhịp vẫn hít thở sống động đến dường bao."
       }
     ]
   },
@@ -84,6 +122,23 @@
         "title": "5 — Đẩy Lên Tốc Độ Carnaval",
         "tip": "Tăng tốc độ lên ♩=120–135. Ở tốc độ này, dòng móc kép của tay phải hòa thành một dải âm thanh lấp lánh và nhịp kick surdo sẽ là động lực chính đẩy người nhảy tiến bước dọc đại lộ."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Paulo Braga",
+        "work": "Elis Regina & Tom Jobim — Elis & Tom",
+        "note": "Nhịp Samba Rio de Janeiro dồn dập với tiếng trống bass mô phỏng nhịp đập của trống surdo."
+      },
+      {
+        "artist": "Airto Moreira",
+        "work": "Fingers",
+        "note": "Bản phối samba jazz tốc độ cao với các cú nhấn nhá điêu luyện trên trống snare và cymbal."
+      },
+      {
+        "artist": "Escola de samba batucada",
+        "work": "Any Mangueira or Portela carnival recording",
+        "note": "Cội nguồn gốc rễ: trống surdo giữ nhịp đập, trống caixa lấp đầy các nốt móc kép 16th — hai chân và một tay của bạn đang chuyển ngữ cả một đoàn diễu hành đường phố."
+      }
     ]
   },
   "latin-cha-cha": {
@@ -111,6 +166,23 @@
         "title": "4 — Thêm Chân Hi-Hat và Hoàn Thiện Groove",
         "tip": "Dậm chân trái trên hi-hat ở phách 2 và 4 để tăng cường độ nén cho tiếng cross-stick. Luyện tập vòng lặp này trong 2 phút với thái độ chơi thảnh thơi, tự tin."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Orquesta Aragón",
+        "work": "El Bodeguero",
+        "note": "Tiết tấu Cha-cha-cha thanh lịch với tiếng mõ chuông campana giữ phách 1, 2, 3, 4 và tiếng guiro cọ xát nhịp nhàng."
+      },
+      {
+        "artist": "Tito Puente",
+        "work": "Oye Como Va (El Rey Bravo)",
+        "note": "Sự kết hợp giữa dàn trống timbales và dàn trống mộc trong một bản cha-cha-cha mambo quyến rũ."
+      },
+      {
+        "artist": "Michael Shrieve",
+        "work": "Santana — Oye Como Va (Abraxas)",
+        "note": "Một bộ trống rock được đặt vào giữa dàn nhạc cụ gõ Latin đích thực: José Chepito Areas chơi timbales và Mike Carabello chơi congas đảm nhiệm các khuôn mẫu truyền thống trong khi Shrieve gắn kết tất cả lại cho đài phát thanh rock."
+      }
     ]
   },
   "latin-mambo-intro": {
@@ -137,6 +209,23 @@
       {
         "title": "4 — Cấu Trúc Mambo Hoàn Chỉnh 2 Ô Nhịp (Son 3-2)",
         "tip": "Ô nhịp 1 là vế 3 nốt (chỉ có chuông và kick). Ô nhịp 2 là vế 2 nốt (chuông, kick kết hợp cùng cross-stick ở phách 2 và 3). Chân hi-hat dậm nhẹ ở phách 4 của mỗi ô nhịp để neo nhịp."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Pérez Prado",
+        "work": "Mambo No. 5 / Qué Rico el Mambo",
+        "note": "Khuôn mẫu cáscara trên vành trống timbales hoặc thân lá ride trong các đoạn điệp khúc mambo rực lửa."
+      },
+      {
+        "artist": "Tito Puente",
+        "work": "Dance Mania (1958)",
+        "note": "Cách Tito Puente xây dựng năng lượng bùng nổ cho dàn kèn đồng bằng những cú đánh mõ bongo bell."
+      },
+      {
+        "artist": "Machito & His Afro-Cubans",
+        "work": "Kenya",
+        "note": "Mambo meets big-band jazz — the blueprint for Latin jazz drumming."
       }
     ]
   },
@@ -169,6 +258,18 @@
         "title": "5 — Songo Đón Đầu Nhịp (Bass Anticipation)",
         "tip": "Thêm một cú kick đón đầu ở nốt &-của-4 cuối ô nhịp. Nốt kick này cùng với phách 1 của ô nhịp kế tiếp tạo nên sức bật dồn dập đặc thù của phong cách bass hiện đại Cuba."
       }
+    ],
+    "listening": [
+      {
+        "artist": "José Luis \"Changuito\" Quintana",
+        "work": "Los Van Van — 1980s recordings",
+        "note": "Huyền thoại Changuito sáng tạo ra điệu Songo cho ban nhạc Los Van Van — sự kết hợp tuyến tính đột phá giữa trống kick, snare và mõ chuông."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "Absolute Quintet",
+        "note": "Steve Gadd chuyển ngữ điệu songo lên bộ trống mộc phương Tây trong các tác phẩm fusion kinh điển."
+      }
     ]
   },
   "latin-mozambique": {
@@ -195,6 +296,23 @@
       {
         "title": "4 — Chơi Mozambique Ở Tốc Độ Chuẩn (♩ = 116)",
         "tip": "Ghép nối hoàn chỉnh tất cả các chi ở tốc độ ♩=116. Giữ cho chuyển động của hai tay luôn thanh thoát, mềm dẻo và cảm nhận sức sống rạo rực của lễ hội đường phố Havana."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Pello el Afrokán",
+        "work": "Mozambique roots recordings",
+        "note": "Steve Gadd biến tấu nhịp Mozambique Cuba thành rãnh nhịp nổi tiếng thế giới trong 'Late in the Evening' của Paul Simon."
+      },
+      {
+        "artist": "Eddie Palmieri",
+        "work": "Mozambique",
+        "note": "Nhịp Mozambique truyền thống của Pello el Afrokán tại các đường phố La Habana."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Paul Simon — Late in the Evening",
+        "note": "Điệu mozambique trên bộ trống nổi tiếng nhất từng được thu âm: phiên bản gõ chuông trên mặt hi-hat bằng hai cặp dùi được dán băng dính lại với nhau."
       }
     ]
   },
@@ -223,6 +341,18 @@
         "title": "4 — Merengue Toàn Diện (Đẩy Lên ♩ = 160)",
         "tip": "Kết hợp cả 4 chi ở tốc độ cao ♩=160. Thư giãn toàn bộ cơ thể; nếu cảm thấy căng cứng, hãy hạ bớt lực đánh xuống — Merengue cần sự dẻo dai và thanh thoát chứ không cần cơ bắp."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Guy Frómeta",
+        "work": "Juan Luis Guerra y 440 — Ojalá Que Llueva Café",
+        "note": "Nhịp Merengue Dominican tốc độ cao với kỹ thuật mô phỏng tiếng trống tambora hai mặt trên bộ trống mộc."
+      },
+      {
+        "artist": "Juan de la Cruz \"Chocolate\"",
+        "work": "Wilfrido Vargas — El Funcionario",
+        "note": "Tiết tấu dậm kick 2/4 liên hồi kết hợp cùng các câu snare đảo phách lướt nhanh như gió."
+      }
     ]
   },
   "latin-cumbia": {
@@ -249,6 +379,23 @@
       {
         "title": "4 — Cumbia Biến Tấu Màu Sắc Với Toms",
         "tip": "Điểm xuyết thêm các nốt gõ tom trầm ấm ở tay trái để mô phỏng tiếng trống truyền thống Alegre và Llamador của Colombia."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "La Sonora Dinamita",
+        "work": "Classic cumbia sides",
+        "note": "Nhịp Cumbia Colombia mộc mạc với tiếng hi-hat giữ nhịp phân chia phách nảy đặc trưng."
+      },
+      {
+        "artist": "Totó la Momposina",
+        "work": "La Candela Viva",
+        "note": "Cumbia hiện đại pha trộn các yếu tố điện tử và nhịp bass trầm ấm."
+      },
+      {
+        "artist": "Los Ángeles Azules",
+        "work": "Cómo Te Voy a Olvidar",
+        "note": "Cumbia sonidera — the modern, slower, synth-laden branch."
       }
     ]
   },
@@ -277,6 +424,23 @@
         "title": "4 — Cáscara Trong Cấu Trúc Nhịp Mambo Hoàn Chỉnh",
         "tip": "Đưa Cáscara vào ngữ cảnh ban nhạc: tay phải chơi Cáscara, tay trái gõ cross-stick, chân phải đạp kick nốt bombo (& của 2) và phách 4."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Nicky Marrero",
+        "work": "Fania All-Stars — Live at Yankee Stadium",
+        "note": "Kỹ thuật gõ cáscara chuẩn xác trên thân trống hoặc lá ride trong bối cảnh salsa và afro-cuban jazz."
+      },
+      {
+        "artist": "Willie Colón & Héctor Lavoe",
+        "work": "Cosa Nuestra",
+        "note": "Sự tương phản giữa cáscara ở đoạn verse và mõ chuông bongo bell ở đoạn montuno."
+      },
+      {
+        "artist": "Tito Puente",
+        "work": "Any live timbale feature",
+        "note": "Âm thanh dùi gõ cáscara trên vỏ trống — chính là âm thanh mà phiên bản hi-hat/vành trống của bạn đang nỗ lực tái hiện."
+      }
     ]
   },
   "latin-rumba": {
@@ -303,6 +467,23 @@
       {
         "title": "4 — Mẫu Rumba Hoàn Chỉnh Toàn Bộ Dàn Trống",
         "tip": "Kết hợp tất cả các thành phần: Cáscara (tay phải), Rumba Clave (tay trái), Kick bombo (chân phải) và Hi-hat pedal dậm nhẹ ở phách 2 và 4. Cảm nhận nhịp thở dân gian Cuba đầy mê hoặc."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "Rumba Caliente",
+        "note": "Rumba Guaguanco truyền thống với sự phân chia vai trò giữa ba chiếc trống conga: Quinto, Conga và Tumbadora."
+      },
+      {
+        "artist": "Los Papines",
+        "work": "Homenaje a mis colegas",
+        "note": "Cách các tay trống hiện đại áp dụng các câu rumba quinto lên dàn tom và snare."
+      },
+      {
+        "artist": "Yoruba Andabo",
+        "work": "El Callejón de los Rumberos",
+        "note": "Modern Havana rumba — guarapachangueo evolution of the style."
       }
     ]
   },
@@ -331,6 +512,23 @@
         "title": "4 — Groove 6/8 Hoàn Chỉnh Kết Hợp Kick",
         "tip": "Đưa tiếng kick vào các nốt nhấn chiến lược để tạo nền móng trầm vững chắc. Cảm nhận sự uyển chuyển như dòng nước của nhịp 6/8 Afro-Cuban."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Mongo Santamaría",
+        "work": "Afro Blue",
+        "note": "Nhịp 6/8 Afro-Cuban (Bembe) với câu gõ chuông nanigo linh thiêng kết nối giữa nhịp 3 và nhịp 2."
+      },
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "Columbia rumba tracks",
+        "note": "Horacio 'El Negro' Hernandez chơi nhịp chuông 6/8 bằng chân trái trên mõ pedal trong khi hai tay tung hoành solo."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "About the Monks",
+        "note": "6/8 Afro-Cuban vocabulary on a modern jazz kit."
+      }
     ]
   },
   "latin-bembe": {
@@ -357,6 +555,18 @@
       {
         "title": "4 — Bembé Hoàn Chỉnh với Tiếng Kick Trầm",
         "tip": "Thêm kick mô phỏng tiếng trống mẹ Iya lớn nhất trong dàn trống. Giữ âm lượng kick trầm ấm, nâng đỡ chứ không lấn át tiếng chuông thanh thoát."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Milton Cardona",
+        "work": "Bembé",
+        "note": "Tiết tấu Bembe 6/8 truyền thống với sự đối thoại giữa các nhạc cụ gõ tôn giáo Cuba."
+      },
+      {
+        "artist": "Mongo Santamaría",
+        "work": "Afro Blue",
+        "note": "Bản phóng tác jazz hiện đại trên nền tảng nhịp bembe của các bậc thầy bộ gõ."
       }
     ]
   },
@@ -385,6 +595,18 @@
         "title": "4 — Biến Thể Bo Diddley",
         "tip": "Khám phá cách huyền thoại Bo Diddley biến tấu Guaguancó thành nhịp Rock 'n' Roll kinh điển của nước Mỹ — một sự kết hợp lịch sử giữa nhạc dân gian Cuba và nhịp đập Blues."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Los Muñequitos de Matanzas",
+        "work": "Guaguancó Matancero",
+        "note": "Điệu nhảy tán tỉnh Guaguanco với nhịp rumba clave 3-2 và các cú nhấn nốt trống conga đầy kịch tính."
+      },
+      {
+        "artist": "Los Papines",
+        "work": "Guaguancó sides",
+        "note": "Ứng dụng chuyển dịch Guaguanco sang bộ trống mộc trong phong cách Latin Funk."
+      }
     ]
   },
   "latin-comparsa": {
@@ -407,6 +629,18 @@
       {
         "title": "3 — Mẫu Comparsa Hoàn Chỉnh Toàn Lực",
         "tip": "Ghép nối tất cả các chi ở tốc độ ♩=116. Chơi với tinh thần lễ hội: tiếng chuông lanh lảnh, tiếng tom rền vang và tiếng kick dồn dập kéo dòng người diễu hành bước đi."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "La Conga de Los Hoyos",
+        "work": "Santiago de Cuba carnival recordings",
+        "note": "Âm nhạc diễu hành lễ hội đường phố Comparsa của Cuba với tiếng trống bumbo và chảo gang ngân vang rộn rã."
+      },
+      {
+        "artist": "Conjunto Folklórico Nacional de Cuba",
+        "work": "Comparsa / conga suites",
+        "note": "Năng lượng bùng nổ của nhịp trống lễ hội carnival được tái hiện trên sân khấu jazz sống động."
       }
     ]
   },
@@ -434,6 +668,18 @@
       {
         "title": "4 — Phối Khí Hoàn Chỉnh: Ô Nhịp Dân Gian Chèn Vào Nhạc Hiện Đại",
         "tip": "Thực hành đưa một ô nhịp dân gian nguyên bản vào giữa một bản nhạc pop hoặc funk hiện đại rồi quay trở về nhịp chính một cách ngọt ngào."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Horacio \"El Negro\" Hernández",
+        "work": "Michel Camilo — Live at the Blue Note",
+        "note": "Các nhịp điệu dân gian Cuba nguyên bản với chiều sâu văn hóa và tâm linh phong phú."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "About the Monks",
+        "note": "Cách chắt lọc tinh hoa dân gian vào âm nhạc thính phòng đương đại."
       }
     ]
   },
@@ -463,6 +709,23 @@
         "title": "4 — Clave Trong Số Chỉ Nhịp Lẻ (Biến Thể Son 3-2 Trong 5/4)",
         "tip": "Thử thách đỉnh cao: kéo dài chu kỳ Clave sang số chỉ nhịp 5/4. Bạn phải luôn cảm nhận được dòng chảy của Clave xuyên suốt qua ô nhịp lẻ mà không bị mất phương hướng."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Dafnis Prieto",
+        "work": "Absolute Quintet",
+        "note": "Dafnis Prieto và Horacio Hernandez định nghĩa lại phong cách Latin Jazz hiện đại bằng kỹ thuật độc lập tứ chi siêu phàm."
+      },
+      {
+        "artist": "Pedrito Martinez",
+        "work": "The Pedrito Martinez Group",
+        "note": "Sự kết hợp giữa nhịp clave Cuba và các số chỉ nhịp lẻ của toán học phức điệu thế kỷ 21."
+      },
+      {
+        "artist": "Horacio \"El Negro\" Hernández",
+        "work": "Italuba",
+        "note": "Cuban drumming and fusion writing merged."
+      }
     ]
   },
   "latin-bata-rhythms": {
@@ -490,6 +753,23 @@
         "title": "4 — Ghép Trọn Vẹn Chachalokafun (Hệ 4/4 và 6/8)",
         "tip": "Hợp nhất cả ba bè trên toàn bộ dàn trống. Cảm nhận sự giao thoa kỳ diệu khi nhiều tầng âm sắc hòa làm một dưới sự kiểm soát điêu luyện của bạn."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Milton Cardona",
+        "work": "Bembé",
+        "note": "Hệ thống ba chiếc trống thiêng Batá (Iyá, Itótele, Okónkolo) của người Yoruba với ngôn ngữ đối thoại đa tầng phức tạp."
+      },
+      {
+        "artist": "Irakere",
+        "work": "Misa Negra",
+        "note": "Cách chuyển hóa các tiết tấu trống Batá thần bí lên các mặt trống và cymbals của bộ trống mộc hiện đại."
+      },
+      {
+        "artist": "Conjunto Folklórico Nacional de Cuba",
+        "work": "Batá suites",
+        "note": "Các bài nhạc gõ toque thiêng liêng ở hình thức trình diễn truyền thống trang trọng."
+      }
     ]
   },
   "latin-iyesa": {
@@ -512,6 +792,18 @@
       {
         "title": "3 — Mẫu Iyesá Hoàn Chỉnh Toàn Diện",
         "tip": "Kết hợp chuông, toms và kick ở tốc độ nốt đen chấm dôi = 80. Giữ cho chuyển động luôn tròn trịa và để tiếng chuông ngân vang tự nhiên."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Conjunto Folklórico Nacional de Cuba",
+        "work": "Iyesá suites",
+        "note": "Nhịp Iyesá linh thiêng với tiếng chuông dồn dập và tiếng trống hai đầu mang năng lượng mạnh mẽ."
+      },
+      {
+        "artist": "Síntesis",
+        "work": "Ancestros",
+        "note": "Ứng dụng nhịp Iyesá trong các bản phối afro-cuban jazz tốc độ cao."
       }
     ]
   },
@@ -536,6 +828,18 @@
       {
         "title": "3 — Mẫu C: Nhịp Xung Orisha với Hệ Thống Trống Đối Đáp",
         "tip": "Kết hợp tất cả các kỹ năng phối khí toms, chuông và kick để tạo nên một bản hòa tấu nghi lễ thu nhỏ trên bộ trống của bạn."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Lázaro Ros",
+        "work": "Olorun",
+        "note": "Cội nguồn tiết tấu Tây Phi của người Yoruba truyền sang châu Mỹ qua các nghi lễ thiêng liêng."
+      },
+      {
+        "artist": "Síntesis",
+        "work": "Ancestros",
+        "note": "Dòng chảy nhịp điệu xuyên đại dương kết nối châu Phi, Cuba và dòng nhạc Jazz toàn cầu."
       }
     ]
   }

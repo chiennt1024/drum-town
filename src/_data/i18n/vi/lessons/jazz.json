@@ -24,6 +24,23 @@
         "title": "4 — Thêm Chân Kick Feathering ở Phách 1",
         "tip": "Nhẹ nhàng áp quả đấm pedal vào mặt trống kick ở phách 1 (hoặc cả 4 phách). Âm lượng kick chỉ đủ để làm dày thêm âm trầm của cây đàn Double Bass chứ không được lấn át."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Jimmy Cobb",
+        "work": "Miles Davis — So What (Kind of Blue)",
+        "note": "Khuôn mẫu nhịp ride jazz kinh điển của Philly Joe Jones. Hãy lắng nghe cách chiếc cymbal ride dẫn dắt toàn bộ ban nhạc tiến bước với cảm giác nảy swing hoàn hảo."
+      },
+      {
+        "artist": "Art Blakey",
+        "work": "Cannonball Adderley — Somethin' Else",
+        "note": "Tiếng ride tinh tế của Jimmy Cobb trong bản thu âm jazz vĩ đại nhất mọi thời đại. Chú ý tiếng feathering nhẹ nhàng trên trống bass."
+      },
+      {
+        "artist": "Ed Thigpen",
+        "work": "Oscar Peterson Trio — Night Train",
+        "note": "Cảm giác nhịp swing ở độ tinh tế hoàn hảo nhất. Tiếng hi-hat ở phách 2 và 4 êm ái, liên tục và khóa chặt tuyệt đối cùng lá ride."
+      }
     ]
   },
   "jazz-comping-foot": {
@@ -50,6 +67,18 @@
       {
         "title": "4 — Thêm Kick Feathering Nhẹ Nhàng",
         "tip": "Dậm chân phải nhẹ như hơi thở ở phách 1. Lúc này bạn đã có bộ khung 3 chi tiêu chuẩn của Jazz truyền thống."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Kỹ thuật dậm hi-hat ở phách 2 và 4 kết hợp cùng những cú đá kick đón đầu ngẫu hứng (comping)."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — 'Round About Midnight",
+        "note": "Chân hi-hat giữ nhịp đập thời gian vững chắc trong khi chân kick tự do tung hoành đối đáp cùng các câu kèn solo."
       }
     ]
   },
@@ -79,6 +108,23 @@
         "title": "4 — Ứng Dụng Chổi Trong Bản Ballad Chậm",
         "tip": "Thử nghiệm trong không gian một bản nhạc Jazz Ballad chậm rãi. Cảm nhận cách tiếng chổi nâng niu giai điệu của ca sĩ hoặc tiếng kèn saxophone."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Ed Thigpen",
+        "work": "Oscar Peterson Trio — at the Stratford Shakespearean Festival",
+        "note": "Nghệ thuật quét chổi sắt (brush sweeps) hình số 8 tạo dải âm thanh xì xào liên tục nâng đỡ bản ballad."
+      },
+      {
+        "artist": "Vernel Fournier",
+        "work": "Ahmad Jamal — At the Pershing",
+        "note": "Kỹ thuật gõ chổi nhịp nhàng trên mặt trống snare với độ nhạy và sự tinh tế tột bậc."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Brush Artistry (instructional)",
+        "note": "An entire record dedicated to brush vocabulary."
+      }
     ]
   },
   "jazz-ballad": {
@@ -106,6 +152,23 @@
         "title": "4 — Đệm Ballad Cụm 4 Ô Nhịp",
         "tip": "Chơi một chu kỳ 4 ô nhịp hoàn chỉnh với sắc thái tinh tế, hỗ trợ hoàn hảo cho một giai điệu độc tấu tưởng tượng."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Vernel Fournier",
+        "work": "Ahmad Jamal — But Not For Me",
+        "note": "Bài học bậc thầy về cách chơi ballad jazz: không gian tĩnh lặng, những tiếng quét chổi êm ái và những cú nhấn nhá đúng thời điểm."
+      },
+      {
+        "artist": "Ed Thigpen",
+        "work": "Oscar Peterson Trio — Night Train",
+        "note": "Độ kiên nhẫn phi thường trong việc giữ nhịp tempo cực chậm mà không hề bị chao đảo hay trôi nhịp."
+      },
+      {
+        "artist": "Lewis Nash",
+        "work": "Tommy Flanagan — Sea Changes",
+        "note": "Modern ballad brushwork at the highest level."
+      }
     ]
   },
   "jazz-medium-swing": {
@@ -132,6 +195,23 @@
       {
         "title": "4 — Cú Comping Đầu Tiên: Snare ở Nốt '&' Của Phách 2",
         "tip": "Thêm một cú gõ snare nhẹ ở nốt <em>'&' của phách 2</em>. Nốt này rơi đồng thời với nốt lướt của ride — hai âm thanh hòa làm một cú hích tiết tấu tuyệt đẹp."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones",
+        "note": "Tốc độ medium swing hoàn hảo nơi dòng chảy thời gian của jazz đạt độ thư thái và lôi cuốn nhất."
+      },
+      {
+        "artist": "Papa Jo Jones",
+        "work": "Count Basie — Live at Newport 1957",
+        "note": "Cách Max Roach điều khiển cường độ âm thanh của cả ban nhạc chỉ bằng chiếc cymbal ride và những cú comping snare sắc sảo."
+      },
+      {
+        "artist": "Kenny Clarke",
+        "work": "Modern Jazz Quartet — Fontessa",
+        "note": "Medium swing tĩnh lặng, kiềm chế — phần đệm comping thưa thớt nhưng luôn xuất hiện chính xác vào thời điểm đắt giá nhất."
       }
     ]
   },
@@ -164,6 +244,23 @@
         "title": "5 — Snare ở Phách 3 Kết Hợp Kick Nghịch Phách",
         "tip": "Kết hợp snare ở phách 3 và một cú đá kick nhẹ ở nốt nghịch phách, mở rộng khả năng phối hợp giữa hai chi độc lập."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Clifford Brown and Max Roach",
+        "note": "Những câu đệm comping snare cơ bản tương tác đối thoại cùng giai điệu của bản nhạc bebop."
+      },
+      {
+        "artist": "Art Blakey",
+        "work": "Jazz Messengers — Moanin'",
+        "note": "Sự kết hợp giữa cú đánh snare và dậm kick tạo nên những điểm tựa nhịp điệu nâng đỡ nghệ sĩ solo."
+      },
+      {
+        "artist": "Kenny Clarke",
+        "work": "Bud Powell — The Amazing Bud Powell Vol. 1",
+        "note": "Bebop comping at its origins — Clarke was the architect of single-position figures."
+      }
     ]
   },
   "jazz-waltz": {
@@ -190,6 +287,23 @@
       {
         "title": "4 — Cụm Comping Hoàn Chỉnh 2 Ô Nhịp",
         "tip": "Ghép nối thành câu nhạc 2 ô nhịp (6 phách). Giữ cho dòng chảy luôn bồng bềnh, duyên dáng như một điệu khiêu vũ xoay vòng."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — My Favorite Things",
+        "note": "Nhịp Jazz Waltz ở số chỉ nhịp 3/4 kinh điển. Hãy lắng nghe cảm giác nhịp nảy trôi chảy trên 3 phách thay vì 4 phách thông thường."
+      },
+      {
+        "artist": "Paul Motian",
+        "work": "Bill Evans Trio — Waltz for Debby",
+        "note": "Cách Elvin Jones biến tấu nhịp 3/4 thành những lớp sóng phức điệu dạt dào cảm xúc."
+      },
+      {
+        "artist": "Jimmy Cobb",
+        "work": "Miles Davis — Someday My Prince Will Come",
+        "note": "A straighter, more grounded waltz feel — a useful contrast with Elvin's circling version."
       }
     ]
   },
@@ -218,6 +332,23 @@
         "title": "4 — Tự Đối Đáp Với Chính Mình: 4 Đệm, 4 Solo",
         "tip": "Tạo một vòng lặp liên tục: 4 ô đệm comping, 4 ô solo. Luyện tập cho đến khi cảm giác về cấu trúc 4 ô nhịp ngấm sâu vào tiềm thức."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Sonny Rollins — Saxophone Colossus",
+        "note": "Màn đối thoại ngẫu hứng 4 ô nhịp (Trading Fours) giữa tay trống và các nhạc cụ lĩnh xướng."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Cách xây dựng câu solo 4 ô nhịp có mở đầu, cao trào và kết nối mượt mà trở lại giai điệu chính của bài hát."
+      },
+      {
+        "artist": "Roy Haynes",
+        "work": "Chick Corea — Now He Sings, Now He Sobs",
+        "note": "Trios trading at the highest level of motivic development."
+      }
     ]
   },
   "jazz-bossa-jazz": {
@@ -244,6 +375,23 @@
       {
         "title": "4 — Câu Bossa Jazz 2 Ô Nhịp Hoàn Chỉnh",
         "tip": "Ghép nối thành câu nhạc 2 ô nhịp hoàn chỉnh với đầy đủ màu sắc hòa quyện giữa Rio de Janeiro và New York."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tutty Moreno",
+        "work": "Various Jobim recordings",
+        "note": "Sự giao thoa tuyệt mỹ giữa nhịp Bossa Nova của Brazil và phong cách đệm comping phóng khoáng của Jazz Mỹ."
+      },
+      {
+        "artist": "Buddy Deppenschmidt",
+        "work": "Stan Getz & Charlie Byrd — Jazz Samba",
+        "note": "Kỹ thuật cross-stick gõ nhịp clave bossa nova bên cạnh tiếng chổi sắt quét nhẹ nhàng trên snare."
+      },
+      {
+        "artist": "Edison Machado",
+        "work": "Various 1960s recordings",
+        "note": "Người tiên phong cho cách tiếp cận chơi khuôn mẫu nhịp ride trên nền nhạc bossa nova."
       }
     ]
   },
@@ -272,6 +420,23 @@
         "title": "4 — Thêm Cú Comping Đơn Lẻ Trong Mỗi Câu Nhạc",
         "tip": "Chỉ đưa đúng một cú chạm snare sắc bén vào mỗi cụm 4 ô nhịp để tạo điểm tựa cho người chơi solo đang lướt đi với tốc độ ánh sáng."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones (title track)",
+        "note": "Kỹ thuật kiểm soát cổ tay và ngón tay để duy trì khuôn mẫu nhịp ride ở tốc độ cao mà không bị căng cứng cơ bắp."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Cách giữ tiếng hi-hat chân ở phách 2 và 4 sắc gọn, chuẩn xác khi tốc độ vượt qua ngưỡng 240 BPM."
+      },
+      {
+        "artist": "Jeff \"Tain\" Watts",
+        "work": "Branford Marsalis Quartet — Footsteps of Our Fathers",
+        "note": "Lối chơi up-tempo hiện đại — tốc độ cao, dứt khoát và dậm chân hi-hat đầy uy lực."
+      }
     ]
   },
   "jazz-broken-time-intro": {
@@ -298,6 +463,28 @@
       {
         "title": "4 — Ô Nhịp Broken Time Đối Đáp Solo Ảo",
         "tip": "Tạo ra một ô nhịp ngẫu hứng tự do đan xen giữa ride và snare để phản hồi lại một câu solo tưởng tượng."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — MoodSwing",
+        "note": "Khái niệm thời gian phi đối xứng (Broken Time): khuôn mẫu ride truyền thống tan biến thành các cụm nốt đối thoại tự do mà vẫn giữ được nhịp mạch ngầm bên trong."
+      },
+      {
+        "artist": "Bill Stewart",
+        "work": "John Scofield — Time on My Hands",
+        "note": "Cách Roy Haynes giải phóng đôi bàn tay khỏi bổn phận giữ nhịp đơn thuần để biến bộ trống thành một nhạc cụ giai điệu hoàn chỉnh."
+      },
+      {
+        "artist": "Paul Motian",
+        "work": "Bill Evans Trio at the Village Vanguard",
+        "note": "The historical origin point — Motian's broken time was decades ahead of its time."
+      },
+      {
+        "artist": "Marcus Gilmore",
+        "work": "Vijay Iyer Trio — Accelerando",
+        "note": "Contemporary broken time at the highest level of abstraction."
       }
     ]
   },
@@ -331,6 +518,23 @@
         "title": "5 — Kết Hợp Comping Bebop Trong 4 Ô Nhịp",
         "tip": "Nối kết toàn bộ vốn từ vựng đã học thành một dòng chảy đối thoại sinh động kéo dài 4 ô nhịp."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis Quintet — Workin'",
+        "note": "Vốn từ vựng Bebop kinh điển của Kenny Clarke và Max Roach với những cú thả bom 'dropping bombs' bất ngờ trên trống kick."
+      },
+      {
+        "artist": "Max Roach",
+        "work": "Clifford Brown & Max Roach — Study in Brown",
+        "note": "Các câu báo snare dồn dập nốt liên ba (triplets) đặc trưng của kỷ nguyên bebop thập niên 40 và 50."
+      },
+      {
+        "artist": "Kenny Clarke",
+        "work": "Modern Jazz Quartet — Django (Prestige, 1956)",
+        "note": "Quieter, but the same vocabulary, refined."
+      }
     ]
   },
   "jazz-up-tempo": {
@@ -363,6 +567,23 @@
         "title": "5 — Kiểm Soát Chân Hi-Hat Thả Lỏng ở ♩ = 240",
         "tip": "Tập trung giữ cho bàn chân trái luôn thả lỏng, chỉ nhấc nhẹ mắt cá chân để lá hi-hat va vào nhau tự nhiên."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Roy Haynes",
+        "work": "Out of the Afternoon",
+        "note": "Bậc thầy tốc độ up-tempo Buddy Rich phô diễn khả năng kiểm soát dùi trống siêu phàm ở tốc độ nghẹt thở."
+      },
+      {
+        "artist": "Tony Williams (Miles Davis)",
+        "work": "Four & More",
+        "note": "Tony Williams giữ nhịp up-tempo với nguồn năng lượng cuồn cuộn và những cú dậm chân hi-hat vang như sấm sét."
+      },
+      {
+        "artist": "Jeff 'Tain' Watts (Branford Marsalis)",
+        "work": "Crazy People Music",
+        "note": "Ngôn ngữ up-tempo hiện đại — dòng chảy kế thừa và phát triển từ di sản của Tony Williams."
+      }
     ]
   },
   "jazz-broken-time": {
@@ -391,6 +612,23 @@
         "title": "4 — Đối Đáp 8 Ô Nhịp Với Người Độc Tấu Ảo",
         "tip": "Tưởng tượng bạn đang đệm cho một câu kèn saxophone bay bổng: lúc nâng đỡ bằng nốt lướt, lúc đối đáp bằng cú gõ rim-shot."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade Fellowship — Perceptual",
+        "note": "Thời gian phi đối xứng ở đẳng cấp cao nhất — các cú đánh ride, snare và kick đan xen tự do như một dòng suối chảy xiết."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — Back East (Zarafah)",
+        "note": "Paul Motian phiêu lưu trong không gian thời gian mở, nơi mỗi cú gõ cymbal là một vệt màu hội họa trừu tượng."
+      },
+      {
+        "artist": "Jack DeJohnette (Keith Jarrett Trio)",
+        "work": "Standards Live",
+        "note": "Hãy lắng nghe 'Stella by Starlight': tiếng ride phân mảnh, tiếng snare đảm nhận việc giữ thời gian, và nhịp đập vẫn sáng rõ mà không ai cần phải dậm to."
+      }
     ]
   },
   "jazz-modal-comping": {
@@ -418,6 +656,23 @@
       {
         "title": "4 — Cung Bậc 8 Ô Nhịp Hoàn Chỉnh (Dâng Trào và Giải Tỏa)",
         "tip": "Thực hiện hành trình 8 ô nhịp: 6 ô tích tụ năng lượng, 1 ô bùng nổ cao trào, và ô thứ 8 giải phóng trở về trạng thái phẳng lặng."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — A Love Supreme",
+        "note": "Đệm trống cho nhạc Modal Jazz (jazz thang âm) — nơi các hợp âm đứng yên hàng chục ô nhịp đòi hỏi tay trống phải tạo ra chuyển động bằng màu sắc và cường độ."
+      },
+      {
+        "artist": "Jimmy Cobb",
+        "work": "Miles Davis — Kind of Blue",
+        "note": "Jimmy Cobb và Paul Chambers tạo nền tảng bất hủ cho kiệt tác Modal Jazz 'So What'."
+      },
+      {
+        "artist": "Elvin Jones",
+        "work": "McCoy Tyner Trio — Inception",
+        "note": "Được tinh gọn thành tam tấu piano trio, cảm giác liên ba cuộn sóng (rolling triplets) hiển hiện rõ mồn một khi không bị tiếng kèn kèn cựa không gian."
       }
     ]
   },
@@ -451,6 +706,23 @@
         "title": "5 — Khuôn Khổ Ngẫu Hứng (Bản Mẫu 4 Ô Nhịp)",
         "tip": "Tự do sáng tác các giai điệu của riêng bạn trên chiếc trống snare dựa trên bộ khung 4 ô nhịp đã học."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams (Miles Davis)",
+        "work": "Miles Smiles",
+        "note": "Vốn từ vựng đệm comping phong phú kết hợp các nốt nhấn đảo phách, nốt câm và các cụm nốt luân chuyển giữa các chi."
+      },
+      {
+        "artist": "Roy Haynes (Chick Corea)",
+        "work": "Now He Sings, Now He Sobs",
+        "note": "Cách lắng nghe và phản hồi tức thì trước những câu chạy ngón ngẫu hứng của nghệ sĩ piano."
+      },
+      {
+        "artist": "Jack DeJohnette (Keith Jarrett Trio)",
+        "work": "Standards Vol. 1",
+        "note": "Snare-melody comping at ballad tempos — every comp has shape."
+      }
     ]
   },
   "jazz-free-jazz": {
@@ -478,6 +750,23 @@
       {
         "title": "4 — Khung Ngẫu Hứng Tự Do (60 Giây Không Ký Âm)",
         "tip": "Nhắm mắt lại và để đôi tai dẫn lối trong 60 giây tự do tuyệt đối. Lắng nghe từng tần số rung động của nhạc cụ."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Sunny Murray",
+        "work": "Albert Ayler Trio — Spiritual Unity",
+        "note": "Trường phái Free Jazz: năng lượng thuần khiết giải phóng khỏi nhịp phách và số chỉ nhịp cố định."
+      },
+      {
+        "artist": "Andrew Cyrille",
+        "work": "Cecil Taylor — Conquistador!",
+        "note": "Sunny Murray và Milford Graves định hình cách tiếp cận bộ gõ dựa trên sóng âm, kết cấu và cảm xúc trực giác."
+      },
+      {
+        "artist": "Paul Motian",
+        "work": "I Have the Room Above Her",
+        "note": "Trong bài hát chủ đề, cymbals và chổi sắt dệt nên những nhịp giao thoa nghịch phách bên dưới giai điệu của Lovano mà không hề nêu rõ một nhịp độ cố định nào."
       }
     ]
   },
@@ -511,6 +800,23 @@
         "title": "5 — Comping Với Môtip Mỏ Neo (Phong Cách Brian Blade)",
         "tip": "Tạo một câu tiết tấu mỏ neo lặp lại định kỳ sau mỗi 2 ô nhịp để tạo điểm tựa cho những đoạn phiêu lãng tự do."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti",
+        "note": "Thời kỳ Post-Bop đỉnh cao của thập niên 60: kỹ thuật phức điệu tinh vi, nhịp điệu mở rộng và sự tương tác tức thời giữa các thành viên ban nhạc."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade & The Fellowship Band — Season of Changes",
+        "note": "Tony Williams tái định nghĩa vai trò của người chơi trống trong ngũ tấu Miles Davis Quintet thứ hai."
+      },
+      {
+        "artist": "Bill Stewart",
+        "work": "John Scofield — Hand Jive",
+        "note": "Ride-pattern variations as primary vocabulary. Stewart almost never plays the standard skip pattern straight."
+      }
     ]
   },
   "jazz-elvin-jones": {
@@ -542,6 +848,23 @@
       {
         "title": "5 — Cảm Giác Phức Điệu 3 Đấu 2 Ngầm Định",
         "tip": "Lồng ghép cảm giác 2 phách lớn đối đầu với 3 phách con, tạo ra một trường lực căng nhịp điệu cuốn hút không thể cưỡng lại."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — Crescent",
+        "note": "Phong cách liên ba cuộn sóng (rolling triplets) huyền thoại của Elvin Jones trong tứ tấu John Coltrane Quartet."
+      },
+      {
+        "artist": "Elvin Jones",
+        "work": "Live at the Lighthouse",
+        "note": "Cách Elvin hòa quyện tiếng trống kick, snare và toms thành một khối năng lượng đa chiều bao bọc lấy tiếng kèn saxophone."
+      },
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — A Love Supreme",
+        "note": "'Resolution' chứa đựng hàm ý phức điệu 3 trên 2 sách giáo khoa ẩn sâu bên trong chuỗi cuộn liên ba."
       }
     ]
   },
@@ -575,6 +898,23 @@
         "title": "5 — Vốn Từ Vựng Thời Kỳ Miles Davis (Tổng Hợp)",
         "tip": "Tổng hòa tất cả các yếu tố: ride nốt đen, hi-hat mở, comping bùng nổ và khoảng trống đầy ma mị của thời kỳ 'Nefertiti'."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Tony Williams năm 17 tuổi thay đổi lịch sử âm nhạc bằng những cú đá kick đảo phách, tiếng ride sắc bén và sự táo bạo tột bậc."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti",
+        "note": "Khả năng tạo độ căng nhịp điệu (metric tension) và giải phóng nó vào những thời điểm không ai ngờ tới."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Tony Williams Lifetime — Emergency!",
+        "note": "Phong cách chơi kỷ nguyên fusion: cùng một vốn từ vựng jazz nhưng được thể hiện ở mức âm lượng nhạc điện tử bùng nổ."
+      }
     ]
   },
   "jazz-modern-jazz": {
@@ -606,6 +946,28 @@
       {
         "title": "5 — Bài Tập Tốt Nghiệp: Cấu Trúc 12 Ô Nhịp Hoàn Chỉnh",
         "tip": "Kết hợp tất cả các kỹ năng và câu nhạc đã học vào một vòng 12 ô nhịp trọn vẹn. Chơi với tâm hồn tự do và niềm tự hào của một nghệ sĩ trống Jazz thực thụ."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade & The Fellowship Band — Season of Changes",
+        "note": "Jazz đương đại thế kỷ 21: sự tích hợp của phức điệu châu Phi, nhịp lẻ, âm hưởng hip-hop và kỹ thuật tay chân siêu việt."
+      },
+      {
+        "artist": "Eric Harland",
+        "work": "Charles Lloyd — Mirror",
+        "note": "Brian Blade dẫn dắt cảm xúc cả dàn nhạc bằng dải sắc thái từ thì thầm tĩnh mịch đến bão táp cuồng nộ."
+      },
+      {
+        "artist": "Marcus Gilmore",
+        "work": "Vijay Iyer Trio — Accelerando",
+        "note": "Marcus Gilmore và Justin Brown đại diện cho thế hệ tay trống mới làm chủ mọi ranh giới tiết tấu."
+      },
+      {
+        "artist": "Carlos Vega",
+        "work": "James Taylor — Hourglass",
+        "note": "Studio-precision flexible swing — listen to how Vega reshapes the same groove across choruses."
       }
     ]
   }

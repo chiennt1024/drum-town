@@ -28,6 +28,18 @@
         "title": "5 — Kick ở các nốt lệch (Offbeats)",
         "tip": "Chân kick chỉ dậm vào các nốt <em>&amp;</em> — xen kẽ vào giữa các phách chính. Đây là bước đột phá mở khóa sự độc lập tay - chân."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Joey Kramer",
+        "work": "Aerosmith — Walk This Way",
+        "note": "Tiếng trống kick đảo phách bên dưới đôi tay ổn định vững vàng — chính là cách giải quyết triệt để vấn đề của Bài tập 5 trong bài học này ở tốc độ chuẩn. Bàn chân bay bổng linh hoạt trong khi đôi tay không hề nao núng."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Immigrant Song",
+        "note": "Đôi tay thôi thúc mạnh mẽ cùng tiếng kick vận động bên dưới bằng các tiết tấu móc kép 16th. Sự phối hợp tứ chi được biến thành sức mạnh công phá."
+      }
     ]
   },
   "three-limb-patterns": {
@@ -59,6 +71,23 @@
       {
         "title": "5 — Bộ ba C: Ride + Kick + Chân Hi-Hat",
         "tip": "Chơi lá Ride ở trên, hai chân bên dưới làm việc độc lập: chân phải kick ở 1 và 3, chân trái hi-hat ở 2 và 4. Nền tảng tuyệt mỹ của Jazz và Big Band."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Carlton Barrett",
+        "work": "Bob Marley & The Wailers — Exodus",
+        "note": "Khuôn mẫu nhịp ride jazz kinh điển: tay phải giữ nhịp ride, chân trái giữ nhịp hi-hat phách 2 và 4, trong khi tay trái tự do đệm snare."
+      },
+      {
+        "artist": "Bernard Purdie",
+        "work": "Aretha Franklin — Rock Steady",
+        "note": "Kết cấu ba chi trong nhạc rock được đẩy lên đỉnh cao tuyệt đối."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Miles Smiles",
+        "note": "Sự tương tác qua lại giữa ride, chân hi-hat và trống snare; chi thứ ba luôn luôn chuyển động không ngừng."
       }
     ]
   },
@@ -92,6 +121,23 @@
         "title": "5 — Dẫn dắt tiếng Snare đi dạo khắp ô nhịp",
         "tip": "Chân và tay phải giữ nguyên chiếc khung bất biến, tay trái tự do di chuyển cú đánh snare qua các vị trí khác nhau trong ô nhịp."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Elvin Jones",
+        "work": "John Coltrane — A Love Supreme",
+        "note": "Khả năng độc lập bốn chi được đưa đến tột cùng của nghệ thuật đối thoại âm nhạc."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "Nền tảng vận động bốn chi của nhạc fusion xuất hiện tràn ngập trong mọi tác phẩm."
+      },
+      {
+        "artist": "Stewart Copeland",
+        "work": "The Police — Walking on the Moon",
+        "note": "Tay đánh hi-hat, chân đạp hi-hat, chân dậm kick, tay gõ snare — cả bốn chi thực hiện bốn việc hoàn toàn khác nhau trong một bài hát pop."
+      }
     ]
   },
   "limb-substitution": {
@@ -120,6 +166,23 @@
         "title": "4 — Hoán vị trống Kick: Chuyển nốt & của 3 lên Snare",
         "tip": "Nốt kick ở &amp; của 3 được chuyển giao cho tay trái đánh một cú ghost note trên snare. Tiết tấu giữ nguyên, màu sắc âm thanh đổi mới."
       }
+    ],
+    "listening": [
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — What Is Hip?",
+        "note": "Phối khí tuyến tính — tiếng hi-hat liên tục được phân chia luân phiên giữa tay và chân."
+      },
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Khanda West",
+        "note": "Cùng một câu tiết tấu nhưng được phối khí qua ba cách khác nhau ngay trong cùng một đoạn điệp khúc."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Chick Corea Elektric Band",
+        "note": "Kỹ thuật thay thế chi ở đẳng cấp bậc thầy — hãy lắng nghe những khoảnh khắc mà câu kick đột ngột xuất hiện trên snare và ngược lại."
+      }
     ]
   },
   "independence-singing": {
@@ -147,6 +210,23 @@
       {
         "title": "4 — Hát nốt đen, chơi câu đệm Snare biến tấu bên dưới",
         "tip": "Giọng hát đóng vai trò ngọn hải đăng giữ nhịp nốt đen vững chãi, trong khi tay trái tự do đệm các nốt syncopation phức tạp trên snare."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Gary Chester",
+        "work": "The New Breed (book)",
+        "note": "Toàn bộ cuốn sách được xây dựng trên kỹ thuật này. Hãy thử đọc bài tập Reading I-A trong khi hát giai điệu Melody 1."
+      },
+      {
+        "artist": "Mike Mangini",
+        "work": "Various clinics on YouTube",
+        "note": "Thường xuyên thị phạm việc vừa hát một tiết tấu vừa chơi một tiết tấu khác ở tốc độ cực hạn."
+      },
+      {
+        "artist": "Marcus Gilmore",
+        "work": "Vijay Iyer Trio — Accelerando",
+        "note": "Bạn có thể nghe thấy nhịp mạch nội tâm được hát thầm trong tiếng trống của anh — tứ chi thỏa sức tung hoành nhưng tâm điểm cảm giác nhịp vẫn vững vàng."
       }
     ]
   },
@@ -180,6 +260,23 @@
         "title": "5 — Một nốt Snare duy nhất ở nốt 'a của 4' (Vị trí trễ)",
         "tip": "Nốt snare rơi vào nốt móc kép cuối cùng của ô nhịp. Đòi hỏi sự định vị thời gian cực kỳ tinh xảo."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "Clifford Brown and Max Roach",
+        "note": "Kỹ thuật đệm comping ở một vị trí đạt đỉnh cao biểu cảm — một câu tiết tấu lặp đi lặp lại qua hết điệp khúc này đến điệp khúc khác."
+      },
+      {
+        "artist": "Philly Joe Jones",
+        "work": "Miles Davis — Milestones",
+        "note": "Ảnh hưởng trực tiếp từ Chapin; đệm comping từng nốt đơn lẻ được giữ vững liên tục suốt mười sáu ô nhịp."
+      },
+      {
+        "artist": "Jim Chapin",
+        "work": "Advanced Techniques for the Modern Drummer (audio examples)",
+        "note": "Lắng nghe chính Jim Chapin thị phạm các bài tập kinh điển của mình."
+      }
     ]
   },
   "independence-chester-system": {
@@ -208,6 +305,23 @@
         "title": "4 — Hát nốt đen trên câu đệm Snare di chuyển",
         "tip": "Giọng hát giữ nhịp đập thời gian vững chãi trong khi tay trái đệm ứng biến (comping) khắp mặt trống snare."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information",
+        "note": "Học trò trực tiếp của Gary Chester. Hãy lắng nghe tầm ảnh hưởng của hệ thống trong các khuôn mẫu độc lập tứ chi của anh."
+      },
+      {
+        "artist": "Kenwood Dennard",
+        "work": "Various studio recordings",
+        "note": "Một học trò nổi tiếng khác của Chester; áp dụng trọn vẹn hệ thống trong các màn trình diễn thực chiến."
+      },
+      {
+        "artist": "Gary Chester",
+        "work": "The New Breed (book)",
+        "note": "Cội nguồn gốc rễ. Hãy tìm đọc cuốn sách và thử tập Melody 1 trên nền Reading 1-A trong buổi luyện tập đầu tiên của bạn."
+      }
     ]
   },
   "independence-melodic-snare": {
@@ -235,6 +349,23 @@
       {
         "title": "4 — Giai điệu tối giản: Hai nốt trong hai ô nhịp",
         "tip": "Thử thách nghệ thuật tối giản: chỉ đánh đúng hai nốt snare đắt giá trong suốt hai ô nhịp. Đòi hỏi sự kiên nhẫn và độ đĩnh đạc phi thường."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti",
+        "note": "Đệm snare như một giai điệu — mỗi nốt nhạc là một quyết định cân nhắc về vị trí đặt để."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Wayne Shorter — Footprints Live",
+        "note": "Những câu snare mang tính giai điệu trường đoạn uốn lượn xuyên suốt các đoạn điệp khúc."
+      },
+      {
+        "artist": "Jeff \"Tain\" Watts",
+        "work": "Branford Marsalis — Trio Jeepy",
+        "note": "Đường nét và sắc thái biểu cảm trên snare — hãy lắng nghe các cung bậc dồn nén và giải phóng năng lượng."
       }
     ]
   },
@@ -268,6 +399,23 @@
         "title": "5 — Chân Clave 2-3 + Ride + Cross-Stick ở 2 và 4",
         "tip": "Hoàn thiện hệ thống Clave đảo chiều 2-3 với sự phối hợp đầy đủ của cả ba chi."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Horacio \"El Negro\" Hernández",
+        "work": "Italuba — first album",
+        "note": "Lắng nghe hệ thống giữ nhịp foot-clave hoạt động thực tế xuyên suốt cả một album."
+      },
+      {
+        "artist": "Dafnis Prieto",
+        "work": "Absolute Quintet",
+        "note": "Nhịp foot-clave được sử dụng trong bối cảnh jazz hiện đại; nguyên lý vận hành hoàn toàn tương đồng."
+      },
+      {
+        "artist": "Giovanni Hidalgo (with Michel Camilo)",
+        "work": "Live at the Blue Note",
+        "note": "Không phải tay trống chính, nhưng bạn có thể nghe thấy rõ ràng nhịp son 2-3 trong phần gõ định âm (percussion)."
+      }
     ]
   },
   "basic-fills": {
@@ -298,6 +446,18 @@
       {
         "title": "5 — Fill ở ô nhịp 4: Nốt móc đơn chạy quanh dàn Tom",
         "tip": "Mỗi trống gõ hai nốt móc đơn: 2 nốt trên snare, 2 nốt trên high tom, 2 nốt trên mid tom, 2 nốt trên floor tom rồi crash ở phách 1."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Phil Collins",
+        "work": "Genesis — Turn It On Again",
+        "note": "Hãy lắng nghe cách các câu báo đánh dấu từng phân đoạn 4 ô nhịp, ngay cả khi câu báo rất ngắn gọn."
+      },
+      {
+        "artist": "Ringo Starr",
+        "work": "The Beatles — A Day in the Life",
+        "note": "Những câu báo tom được xây dựng từ chính cấu trúc nốt móc đơn giống như Bài tập 5."
       }
     ]
   },
@@ -330,6 +490,18 @@
         "title": "5 — Cú Tom đón đầu dẫn vào đoạn Điệp khúc",
         "tip": "Sử dụng Floor tom hoặc Mid tom cho cú pickup để tạo độ trầm uy lực, báo hiệu phân đoạn cao trào sắp bắt đầu."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade Fellowship — Perceptual",
+        "note": "Lắng nghe cách các câu báo đón đầu chuẩn bị tâm thế chuyển dịch sang phân đoạn mới của bài hát."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "Câu báo mở đầu bài hát về bản chất là một câu đón đầu trường đoạn dài."
+      }
     ]
   },
   "fills-around-kit": {
@@ -360,6 +532,23 @@
       {
         "title": "5 — Kết thúc câu fill bằng một cú Snare đón đầu",
         "tip": "Sau khi lượn qua các tom, quay trở lại gõ nốt cuối cùng trên snare trước khi giáng cú Crash ở phách 1."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Rock and Roll",
+        "note": "Câu báo mở đầu là chuỗi nốt móc kép 16th đổ dồn xuống quanh dàn trống."
+      },
+      {
+        "artist": "Stewart Copeland",
+        "work": "The Police — Synchronicity II",
+        "note": "Phối khí hỗn hợp — khiến các câu báo mang đậm chất giai điệu."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Seven Days",
+        "note": "Những câu báo định hướng theo thế tay lượn quanh những hình thế bất đối xứng."
       }
     ]
   },
@@ -396,6 +585,18 @@
         "title": "6 — Bài tập giãn nở mật độ nốt (Density Swell)",
         "tip": "Leo từ nốt đen lên móc đơn, liên ba, rồi móc kép và từ từ hạ xuống lại. Làm nóng toàn bộ hệ thống thần kinh vận động."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Max Roach",
+        "work": "The Drum Also Waltzes",
+        "note": "Đoạn solo được xây dựng từ chính vốn từ vựng bạn vừa khởi động: đánh đơn, đánh đôi, nốt nhấn và khoảng lặng. Các khuôn mẫu thế tay biến hóa thành âm nhạc đích thực."
+      },
+      {
+        "artist": "Art Blakey",
+        "work": "The Drum Thunder Suite (Moanin')",
+        "note": "Vốn từ vựng của đôi tay được phối khí trên toàn bộ dàn trống với cường độ bùng nổ. Đây chính là đích đến cuối cùng của những giờ miệt mài trên mặt tập pad."
+      }
     ]
   },
   "recording-yourself": {
@@ -410,6 +611,13 @@
       {
         "title": "1 — Thử thách ghi âm: Giữ nhịp Backbeat liên tục trong 2 phút",
         "tip": "Bấm ghi âm trên điện thoại. Bật máy đếm nhịp ở ♩=80. Chơi nhịp backbeat mộc mạc nhất trong đúng hai phút không ngừng nghỉ. Sau đó đeo tai nghe vào và lắng nghe chính mình với sự khách quan tuyệt đối."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer Trio — Try!",
+        "note": "Bản thu âm trực tiếp — hãy lắng nghe nhịp thời gian vững như bàn thạch xuyên suốt cả buổi biểu diễn, chứ không chỉ trong một ô nhịp đơn lẻ."
       }
     ]
   },
@@ -429,6 +637,23 @@
       {
         "title": "2 — Mẫu tham chiếu: Tấm thảm nốt móc kép (16th-Note Carpet)",
         "tip": "Lắng nghe mật độ bốn nốt trong mỗi phách. Cảm nhận dòng chảy cuộn trào của Funk và R&amp;B hiện đại."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "Nốt móc đơn thẳng tuyệt đối, không pha tạp. Hãy hiệu chỉnh cảm giác nhịp 'thẳng' của bạn theo bản nhạc này."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Nốt móc kép nảy trong nhịp half-time shuffle — bài kiểm tra kinh điển: 'đây là nhịp thẳng hay nhịp nảy (swing)?'"
+      },
+      {
+        "artist": "Clyde Stubblefield",
+        "work": "James Brown — Funky Drummer",
+        "note": "Mật độ nốt móc kép 16th dày đặc. Hãy đếm các phân đoạn 4 ô nhịp và đoán trước điểm nhấn mà ban nhạc sẽ cùng dậm phách."
       }
     ]
   },
@@ -461,6 +686,18 @@
         "title": "3 — Khuôn mẫu cấu trúc ABA (Verse · Chorus · Verse)",
         "tip": "Thực hành toàn bộ hành trình: 8 ô nhịp Verse trên hi-hat, 8 ô nhịp Chorus trên lá Ride, rồi quay trở về Verse êm dịu."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Charlie Watts",
+        "work": "The Rolling Stones — Start Me Up",
+        "note": "Hãy lắng nghe kỷ luật nghiêm cẩn qua từng ô nhịp ở đoạn verse, rồi các cú crash bùng nổ khi bước vào điệp khúc."
+      },
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "Sách giáo khoa mẫu mực tối thượng về việc giữ vững một rãnh nhịp suốt cả phân đoạn mà không hề xao nhãng."
+      }
     ]
   },
   "two-minute-loops": {
@@ -483,6 +720,18 @@
       {
         "title": "3 — Vòng lặp cảm giác Half-Time",
         "tip": "Snare chỉ rơi ở phách 3. Giữ cho không gian rộng lớn giữa các phách không bị sụp đổ hay chạy vội."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "Hãy lắng nghe cách anh giữ vững từng rãnh nhịp pocket suốt thời gian dài mà không hề thay đổi — kỷ luật thép chính là chất âm."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Paul Simon — 50 Ways to Leave Your Lover",
+        "note": "Cả một bài hát biểu tượng được xây dựng trên một vòng lặp mà anh gần như không bao giờ phá vỡ."
       }
     ]
   }

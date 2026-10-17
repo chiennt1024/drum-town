@@ -193,39 +193,40 @@
           "title": "Cấp độ 1",
           "lessons": {
             "jazz-ride-pattern": "Khuôn mẫu nhịp Ride Jazz",
-            "jazz-feathering": "Kỹ thuật vuốt nhẹ trống Bass (Feathering)",
-            "jazz-hat-two-four": "Đạp Hi-Hat ở phách 2 và 4",
-            "jazz-first-comping": "Đệm Snare cơ bản (Comping)",
-            "jazz-charleston": "Tiết tấu nhịp Charleston"
+            "jazz-comping-foot": "Đạp Hi-Hat ở phách 2 và 4",
+            "jazz-brushes-intro": "Nhập môn gõ chổi Jazz (Brushes)",
+            "jazz-ballad": "Kỹ thuật quét chổi Ballad chậm",
+            "jazz-medium-swing": "Đệm nhịp Medium Swing"
           }
         },
         "2": {
           "title": "Cấp độ 2",
           "lessons": {
-            "jazz-syncopated-comp": "Đệm Snare đảo phách linh hoạt",
-            "jazz-bass-comping": "Đệm trống Bass ngẫu hứng",
-            "jazz-brushes-intro": "Nhập môn gõ chổi Jazz (Brushes)",
+            "jazz-comping-basics": "Kỹ thuật đệm Comping cơ bản",
             "jazz-waltz": "Nhịp Jazz Waltz (3/4)",
-            "jazz-bop-vocabulary": "Vốn từ vựng Bebop kinh điển"
+            "jazz-trading-fours": "Đối thoại 4 ô nhịp (Trading Fours)",
+            "jazz-bossa-jazz": "Jazz ảnh hưởng Bossa Nova",
+            "jazz-up-tempo-intro": "Nhập môn nhịp Jazz tốc độ cao",
+            "jazz-broken-time-intro": "Thời gian phi đối xứng (Broken Time) — Nhập môn"
           }
         },
         "3": {
           "title": "Cấp độ 3",
           "lessons": {
+            "jazz-bop-vocabulary": "Vốn từ vựng Bebop kinh điển",
             "jazz-up-tempo": "Làm chủ nhịp Jazz tốc độ cao (Up-Tempo)",
-            "jazz-broken-time-intro": "Thời gian phi đối xứng (Broken Time)",
-            "jazz-elvin-jones": "Phong cách phức điệu Elvin Jones",
+            "jazz-broken-time": "Thời gian phi đối xứng (Broken Time)",
             "jazz-modal-comping": "Đệm trống phong cách Modal Jazz",
-            "jazz-trading": "Đối thoại Solo ngẫu hứng (Trading Fours)"
+            "jazz-comping-vocab": "Vốn từ vựng đệm Comping"
           }
         },
         "4": {
           "title": "Cấp độ 4",
           "lessons": {
-            "jazz-post-bop": "Kỹ thuật Post-Bop đỉnh cao",
-            "jazz-tony-williams": "Nghệ thuật tiết tấu Tony Williams",
-            "jazz-odd-meters": "Số chỉ nhịp lẻ trong Jazz",
             "jazz-free-jazz": "Tự do biểu đạt (Free Jazz)",
+            "jazz-post-bop": "Kỹ thuật Post-Bop đỉnh cao",
+            "jazz-elvin-jones": "Phong cách phức điệu Elvin Jones",
+            "jazz-tony-williams": "Nghệ thuật tiết tấu Tony Williams",
             "jazz-modern-jazz": "Jazz đương đại thế kỷ 21"
           }
         }
@@ -239,41 +240,41 @@
         "1": {
           "title": "Cấp độ 1",
           "lessons": {
-            "funk-sixteenth-grooves": "Nhịp Funk móc kép kinh điển",
             "funk-ghost-notes": "Nghệ thuật nốt bóng (Ghost Notes)",
+            "funk-sixteenth-feel": "Cảm giác nhịp nốt móc kép (Sixteenth-Note Feel)",
+            "funk-pocket-drumming": "Nghệ thuật giữ nhịp Pocket",
             "funk-clyde-stubblefield": "Huyền thoại Clyde Stubblefield",
-            "funk-james-brown": "Rãnh nhịp James Brown Funk",
-            "funk-one-drop": "Nhịp One-Drop R&B"
+            "funk-the-meters-intro": "The Meters — Những bước đầu tiên"
           }
         },
         "2": {
           "title": "Cấp độ 2",
           "lessons": {
-            "funk-linear-intro": "Nhập môn tiết tấu tuyến tính (Linear Funk)",
-            "funk-the-meters": "Phong cách Zigaboo Modeliste (The Meters)",
-            "funk-purdie-intro": "Nhịp xáo lừng danh Bernard Purdie",
-            "funk-open-hat-accents": "Nhấn mở Hi-Hat đảo phách",
-            "funk-displaced-snare": "Dịch chuyển vị trí Snare (Displacement)"
+            "funk-james-brown": "Rãnh nhịp James Brown Funk",
+            "funk-linear-funk": "Điệu Funk tuyến tính (Linear Funk)",
+            "funk-the-meters": "Phong cách ban nhạc The Meters",
+            "funk-purdie-intro": "Nhập môn điệu Purdie Shuffle",
+            "funk-ghost-displacement": "Dịch chuyển nốt bóng (Moving Ghost Notes)"
           }
         },
         "3": {
           "title": "Cấp độ 3",
           "lessons": {
-            "funk-tower-of-power": "Phong cách David Garibaldi (Tower of Power)",
-            "funk-david-garibaldi": "Vốn từ vựng David Garibaldi",
-            "funk-displacement": "Kỹ thuật dịch chuyển phách nâng cao",
-            "funk-new-orleans": "Nhịp New Orleans Second Line",
-            "funk-modern-neo-soul": "Nhịp Neo-Soul đương đại"
+            "funk-new-orleans": "Tiết tấu Funk New Orleans",
+            "funk-displacement": "Dịch chuyển nhịp phách (Displacement)",
+            "funk-purdie-shuffle": "Điệu nhịp The Purdie Shuffle",
+            "funk-david-garibaldi": "Bậc thầy David Garibaldi",
+            "funk-quarter-pulse": "Funk tối giản phách nốt đen"
           }
         },
         "4": {
           "title": "Cấp độ 4",
           "lessons": {
-            "funk-advanced-linear": "Phức hợp tiết tấu tuyến tính nâng cao",
-            "funk-questlove": "Nghệ thuật giữ nhịp sâu của Questlove",
-            "funk-vinnie-funk": "Phong cách Funk của Vinnie Colaiuta",
-            "funk-odd-meter-funk": "Nhịp Funk số chỉ nhịp lẻ",
-            "funk-modern-r-and-b": "R&B & Hip-Hop hiện đại trong phòng thu"
+            "funk-d-angelo": "Cảm giác nhịp phong cách D'Angelo",
+            "funk-modern-neo-soul": "Dòng chảy Neo-Soul hiện đại",
+            "funk-questlove": "Nghệ thuật nhịp Pocket của Questlove",
+            "funk-vinnie-funk": "Funk phức điệu phong cách Vinnie Colaiuta",
+            "funk-modern-r-and-b": "R&B đương đại thế kỷ 21"
           }
         }
       }
@@ -420,6 +421,147 @@
       }
     },
     "hiphop": {
+      "title": "Hip-Hop & Electronic",
+      "tagline": "Nhịp Boom-Bap, âm sắc máy 808 và cảm giác lệch nhịp Dilla",
+      "description": "Tái hiện nhịp điệu của máy sampler MPC và máy drum machine TR-808 trên bộ trống mộc. Làm chủ nhịp pocket chặt chẽ và cảm giác lơi nhịp (laid-back).",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "hiphop-boom-bap": "Khuôn vàng thước ngọc Boom-Bap cổ điển",
+            "hiphop-pocket-time": "Kỹ thuật chơi chặt chẽ trong Pocket",
+            "hiphop-classic": "Các rãnh nhịp Hip-Hop kinh điển thập niên 90",
+            "hiphop-r-and-b-basic": "Nhịp R&B Groove nền tảng",
+            "hiphop-quiet-storm": "Phong cách trữ tình Quiet Storm"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "hiphop-trap": "Mô phỏng nhịp Trap và Hi-Hat cuộn nốt",
+            "hiphop-neo-soul": "Nhịp Neo-Soul uốn lượn cảm xúc",
+            "hiphop-modern-r-and-b": "R&B hiện đại và âm hưởng phòng thu",
+            "hiphop-southern": "Phong cách Hip-Hop miền Nam nước Mỹ (Dirty South)",
+            "hiphop-questlove": "Phong cách đệm nhịp lừng danh của Questlove"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "hiphop-studio-translation": "Mô phỏng âm thanh điện tử trên bộ trống mộc",
+            "hiphop-displacement": "Dịch chuyển phách ngẫu hứng trong Hip-Hop",
+            "hiphop-808-translation": "Tái hiện tiếng Bass 808 bằng trống mộc",
+            "hiphop-chris-dave": "Phong cách phá vỡ quy ước của Chris Dave",
+            "hiphop-anderson-paak": "Lối chơi đầy sức sống của Anderson .Paak"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "hiphop-j-dilla": "Nghệ thuật lệch nhịp huyền thoại J Dilla Swing",
+            "hiphop-modern-production": "Kỹ thuật trống trong kỷ nguyên sản xuất hiện đại",
+            "hiphop-sampling": "Tái hiện kỹ thuật cắt lát mẫu âm thanh (Sample Chopping)",
+            "hiphop-louis-cole": "Phong cách tốc độ và phá cách của Louis Cole",
+            "hiphop-future-r-and-b": "Tương lai của R&B và nhạc điện tử thể nghiệm"
+          }
+        }
+      }
+    },
+    "funk": {
+      "title": "Funk & R&B",
+      "tagline": "Nhịp móc kép, nốt bóng và độ nảy bất diệt",
+      "description": "Từ tiếng trống Stubblefield của James Brown đến nhịp pocket của Questlove. Trường phái nơi những nốt tĩnh lặng giữa các cú đánh cũng quan trọng ngang những nốt vang lên.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "funk-ghost-notes": "Nghệ thuật nốt bóng (Ghost Notes)",
+            "funk-sixteenth-feel": "Cảm giác nhịp nốt móc kép (Sixteenth-Note Feel)",
+            "funk-pocket-drumming": "Nghệ thuật giữ nhịp Pocket",
+            "funk-clyde-stubblefield": "Huyền thoại Clyde Stubblefield",
+            "funk-the-meters-intro": "The Meters — Những bước đầu tiên"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "funk-james-brown": "Rãnh nhịp James Brown Funk",
+            "funk-linear-funk": "Điệu Funk tuyến tính (Linear Funk)",
+            "funk-the-meters": "Phong cách ban nhạc The Meters",
+            "funk-purdie-intro": "Nhập môn điệu Purdie Shuffle",
+            "funk-ghost-displacement": "Dịch chuyển nốt bóng (Moving Ghost Notes)"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "funk-new-orleans": "Tiết tấu Funk New Orleans",
+            "funk-displacement": "Dịch chuyển nhịp phách (Displacement)",
+            "funk-purdie-shuffle": "Điệu nhịp The Purdie Shuffle",
+            "funk-david-garibaldi": "Bậc thầy David Garibaldi",
+            "funk-quarter-pulse": "Funk tối giản phách nốt đen"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "funk-d-angelo": "Cảm giác nhịp phong cách D'Angelo",
+            "funk-modern-neo-soul": "Dòng chảy Neo-Soul hiện đại",
+            "funk-questlove": "Nghệ thuật nhịp Pocket của Questlove",
+            "funk-vinnie-funk": "Funk phức điệu phong cách Vinnie Colaiuta",
+            "funk-modern-r-and-b": "R&B đương đại thế kỷ 21"
+          }
+        }
+      }
+    },
+    "jazz-fusion": {
+      "title": "Fusion",
+      "tagline": "Kỹ thuật đỉnh cao gặp gỡ tư duy tân tiến",
+      "description": "Sự kết hợp giữa nhịp lực của Rock, hòa thanh của Jazz, phức điệu và lối chơi tuyến tính (linear playing). Dành cho những ai muốn phá vỡ rào cản kỹ thuật.",
+      "levels": {
+        "1": {
+          "title": "Cấp độ 1",
+          "lessons": {
+            "fusion-coordination-foundation": "Nền tảng phối hợp kỹ thuật Fusion",
+            "fusion-six-stroke-roll": "Ứng dụng Six-Stroke Roll trong Fusion",
+            "fusion-half-time-shuffle": "Nhịp Half-Time Shuffle kiểu Bernard Purdie / Porcaro",
+            "fusion-linear-basics": "Căn bản về lối chơi tuyến tính (Linear)",
+            "fusion-jazz-rock": "Giao thoa nhịp Jazz-Rock cổ điển"
+          }
+        },
+        "2": {
+          "title": "Cấp độ 2",
+          "lessons": {
+            "fusion-odd-meters": "Số chỉ nhịp lẻ trong Fusion (5/8, 7/8)",
+            "fusion-linear-vocab": "Vốn từ vựng câu Linear nâng cao",
+            "fusion-displacement": "Dịch chuyển trọng âm tiết tấu",
+            "fusion-sixteenth": "Móc kép tốc độ cao và nốt đệm",
+            "fusion-broken-time": "Tự do hóa thời gian Broken Time"
+          }
+        },
+        "3": {
+          "title": "Cấp độ 3",
+          "lessons": {
+            "fusion-polyrhythms": "Phức điệu đa nhịp Polyrhythms",
+            "fusion-soloing": "Tư duy solo ngẫu hứng trên khung bài",
+            "fusion-superimposition": "Chồng ghép nhịp Metric Superimposition",
+            "fusion-clave-fusion": "Đưa Clave vào khuôn khổ Fusion hiện đại",
+            "fusion-tony-williams-fusion": "Phong cách Fusion huyền thoại Tony Williams"
+          }
+        },
+        "4": {
+          "title": "Cấp độ 4",
+          "lessons": {
+            "fusion-metric-modulation": "Chuyển đổi nhịp điệu Metric Modulation",
+            "fusion-modern-fusion": "Fusion đương đại thế kỷ 21",
+            "fusion-prog-fusion": "Progressive Fusion độ khó cao",
+            "fusion-electronic-fusion": "Giao thoa âm nhạc điện tử Electronic Fusion",
+            "fusion-mahavishnu": "Phong cách Mahavishnu Orchestra của Billy Cobham"
+          }
+        }
+      }
+    },
+    "hip-hop": {
       "title": "Hip-Hop & Electronic",
       "tagline": "Nhịp Boom-Bap, âm sắc máy 808 và cảm giác lệch nhịp Dilla",
       "description": "Tái hiện nhịp điệu của máy sampler MPC và máy drum machine TR-808 trên bộ trống mộc. Làm chủ nhịp pocket chặt chẽ và cảm giác lơi nhịp (laid-back).",

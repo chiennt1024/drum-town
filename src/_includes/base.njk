@@ -125,9 +125,9 @@
           "80beats per minute". metronome.js rewrites the tempo and the running
           word here; open/closed is carried by aria-expanded, not by this text.
           The static wording below is the no-JS fallback. -#}
-      <span class="sr-only" id="metronome-pill-state">Metronome, 80 beats per minute, stopped</span>
+      <span class="sr-only" id="metronome-pill-state">{{ 'Metronome, 80 beats per minute, stopped' if (locale or 'en') == 'en' else 'Máy đếm nhịp, 80 phách/phút, đã dừng' }}</span>
     </button>
-    <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">
+    <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="{{ 'Menu' if (locale or 'en') == 'en' else 'Menu điều hướng' }}">
       <span class="nav-toggle__bars" aria-hidden="true"></span>
     </button>
   </div>
@@ -215,9 +215,9 @@
     rather than "Beats", which also stops the row asserting that 6/8 has six
     beats. The dock has no visible title as a result; a title needs a treatment
     that is not a control caption, and that is filed separately. -#}
-<aside class="transport is-collapsed" id="site-metronome" aria-label="Metronome">
+<aside class="transport is-collapsed" id="site-metronome" aria-label="{{ 'Metronome' if (locale or 'en') == 'en' else 'Máy đếm nhịp' }}">
   <div class="transport__row">
-    <button class="transport__go" id="metronome-toggle" type="button" aria-label="Start metronome">
+    <button class="transport__go" id="metronome-toggle" type="button" aria-label="{{ 'Start metronome' if (locale or 'en') == 'en' else 'Bật máy đếm nhịp' }}">
       <span class="transport__icon" aria-hidden="true">▶</span>
     </button>
     {#- Every caption is aria-hidden and every control keeps a single aria-label,
@@ -244,11 +244,11 @@
         truth; the browser's copy is a second one that silently disagrees. -#}
     <label class="transport__field transport__bpm-wrap">
       <span class="transport__cap" aria-hidden="true">BPM</span>
-      <input type="number" class="transport__bpm" id="metronome-bpm" value="80" min="30" max="240" step="1" autocomplete="off" aria-label="BPM, tempo in beats per minute" />
+      <input type="number" class="transport__bpm" id="metronome-bpm" value="80" min="30" max="240" step="1" autocomplete="off" aria-label="{{ 'BPM, tempo in beats per minute' if (locale or 'en') == 'en' else 'BPM, tốc độ theo phách mỗi phút' }}" />
     </label>
     <label class="transport__field transport__tempo">
       <span class="transport__cap" aria-hidden="true">Tempo</span>
-      <input type="range" class="transport__slider" id="metronome-slider" min="30" max="240" step="1" value="80" autocomplete="off" aria-label="Tempo slider" />
+      <input type="range" class="transport__slider" id="metronome-slider" min="30" max="240" step="1" value="80" autocomplete="off" aria-label="{{ 'Tempo slider' if (locale or 'en') == 'en' else 'Tempo slider, thanh trượt tốc độ' }}" />
     </label>
     {#- A div, not a label, and deliberately: a <select> inside a <label> has a
         history of taking two taps on mobile browsers, because the label forwards
@@ -258,7 +258,7 @@
         lands on the control underneath it. -#}
     <div class="transport__field transport__meter">
       <span class="transport__cap" aria-hidden="true">Meter</span>
-      <select class="transport__timesig" id="metronome-timesig" autocomplete="off" aria-label="Meter, beats per bar">
+      <select class="transport__timesig" id="metronome-timesig" autocomplete="off" aria-label="{{ 'Meter, beats per bar' if (locale or 'en') == 'en' else 'Meter, số chỉ nhịp mỗi ô nhịp' }}">
         <option value="2">2/4</option>
         <option value="3">3/4</option>
         <option value="4" selected>4/4</option>
@@ -296,9 +296,9 @@
     </div>
     <label class="transport__field transport__vol">
       <span class="transport__cap" aria-hidden="true">Volume</span>
-      <input type="range" class="transport__volume" id="metronome-volume" min="0" max="100" step="1" value="60" autocomplete="off" aria-label="Volume" />
+      <input type="range" class="transport__volume" id="metronome-volume" min="0" max="100" step="1" value="60" autocomplete="off" aria-label="{{ 'Volume' if (locale or 'en') == 'en' else 'Volume, âm lượng' }}" />
     </label>
-    <button class="transport__collapse" id="metronome-collapse" type="button" aria-expanded="true" aria-label="Collapse metronome">▾</button>
+    <button class="transport__collapse" id="metronome-collapse" type="button" aria-expanded="true" aria-label="{{ 'Collapse metronome' if (locale or 'en') == 'en' else 'Thu gọn máy đếm nhịp' }}">▾</button>
   </div>
 </aside>
 

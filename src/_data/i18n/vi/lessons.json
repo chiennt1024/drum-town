@@ -40,7 +40,18 @@
   },
   "the-drum-kit": {
     "tagline": "Hiểu rõ từng bộ phận trước khi bắt đầu",
-    "bodyHtml": "<p>Bộ trống mộc tiêu chuẩn là sự kết hợp khéo léo giữa các loại trống có màng rung và các lá kim loại (cymbal). Mỗi nhạc cụ phục vụ một vai trò tiết tấu riêng biệt:</p><ul><li><strong>Trống Bass (Kick)</strong>: Chiếc trống to nhất đặt trên sàn, được chơi bằng bàn chân phải qua một pedal. Đây là nền tảng nhịp tim cho cả ban nhạc.</li><li><strong>Trống Snare</strong>: Đặt giữa hai đùi, có dây tem (snare wires) kim loại căng bên dưới đáy. Cho ra âm thanh đanh, giòn, dứt khoát — tạo nên nhịp backbeat.</li><li><strong>Hi-Hat</strong>: Cặp lá cymbal úp vào nhau gắn trên một chân đỡ có bàn đạp điều khiển chân trái. Đóng vai trò máy đếm thời gian chính.</li><li><strong>Dàn Tom</strong>: Các trống tạo cao độ giai điệu (High Tom, Mid Tom, Floor Tom), chủ yếu dùng cho các câu báo trống (fills).</li><li><strong>Cymbal (Crash &amp; Ride)</strong>: Lá Ride dùng để duy trì dòng chảy thời gian, lá Crash dùng để nhấn mạnh các điểm cao trào.</li></ul>"
+    "bodyHtml": "<p>Bộ trống mộc tiêu chuẩn là sự kết hợp khéo léo giữa các loại trống có màng rung và các lá kim loại (cymbal). Mỗi nhạc cụ phục vụ một vai trò tiết tấu riêng biệt:</p><ul><li><strong>Trống Bass (Kick)</strong>: Chiếc trống to nhất đặt trên sàn, được chơi bằng bàn chân phải qua một pedal. Đây là nền tảng nhịp tim cho cả ban nhạc.</li><li><strong>Trống Snare</strong>: Đặt giữa hai đùi, có dây tem (snare wires) kim loại căng bên dưới đáy. Cho ra âm thanh đanh, giòn, dứt khoát — tạo nên nhịp backbeat.</li><li><strong>Hi-Hat</strong>: Cặp lá cymbal úp vào nhau gắn trên một chân đỡ có bàn đạp điều khiển chân trái. Đóng vai trò máy đếm thời gian chính.</li><li><strong>Dàn Tom</strong>: Các trống tạo cao độ giai điệu (High Tom, Mid Tom, Floor Tom), chủ yếu dùng cho các câu báo trống (fills).</li><li><strong>Cymbal (Crash &amp; Ride)</strong>: Lá Ride dùng để duy trì dòng chảy thời gian, lá Crash dùng để nhấn mạnh các điểm cao trào.</li></ul>",
+    "graduationCriteria": [
+      "Gọi đúng tên tất cả 8 bộ phận của bộ trống 5 chiếc tiêu chuẩn (snare, kick, 2 toms, floor tom, hi-hat, ride, crash) mà không cần gợi ý",
+      "Chỉ đúng vị trí từng bộ phận trên sơ đồ/hình ảnh và xác định được bộ phận đó nằm ở dòng kẻ hay khe nào trên khuông nhạc ký âm trống",
+      "Nêu được sự khác biệt cơ bản giữa kích thước bộ trống cỡ Rock và cỡ Fusion trong một câu ngắn gọn"
+    ],
+    "exercises": [
+      {
+        "title": "1 — Dạo quanh bộ trống: Một cú gõ trên mỗi bộ phận",
+        "tip": "Đây không phải là một điệu groove — đây là bài điểm danh từng bộ phận. Hãy chơi thật chậm và <em>đọc to tên từng chiếc trống/cymbal</em> khi bạn đánh vào nó: <em>crash, snare, hi-hat, ride, high tom, mid tom, floor tom, snare</em>. Tiếng trống bass ở phách 1 chỉ để chân bạn không bị \"bỏ rơi\". Mục tiêu là gắn kết âm thanh thực tế với đúng tên gọi của nó."
+      }
+    ]
   },
   "paradiddle": {
     "tagline": "Nền tảng chuyển động luân phiên thay đổi cuộc đời mọi tay trống",
@@ -54,15 +65,64 @@
     "graduationCriteria": [
       "Đánh kỹ thuật Single Paradiddle mượt mà, không vấp trong 2 phút liên tục ở ♩=90",
       "Âm lượng của cú đánh đơn và cú đánh đôi hoàn toàn đồng đều, không bị nốt to nốt nhỏ"
+    ],
+    "listening": [
+      {
+        "artist": "Steve Gadd",
+        "work": "Paul Simon — 50 Ways to Leave Your Lover",
+        "note": "Điệu groove dựa trên paradiddle nổi tiếng nhất trong lịch sử thu âm: các thế gõ paradiddle đảo vị trí (inverted) và dịch chuyển (displaced) được đan xen uyển chuyển giữa hi-hat, snare và kick. Bạn sẽ không nghe thấy RLRR LRLL chuẩn từng nốt theo sách giáo khoa; thay vào đó, hãy lắng nghe chất cảm (texture) đặc trưng của paradiddle."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — What Is Hip?",
+        "note": "Các thế tay thuộc họ paradiddle rải rác giữa hi-hat và snare ở tốc độ cao. Hãy chú ý lắng nghe cách các điểm nhấn (accents) mới là thứ bạn thực sự nghe thấy, chứ không phải bản thân thế tay rời rạc."
+      }
     ]
   },
   "the-practice-mindset": {
     "tagline": "Cách người chơi trống tiếp cận việc luyện tập hiệu quả",
-    "bodyHtml": "<p>Luyện tập không phải là cố gắng chơi đi chơi lại những gì bạn đã biết. Luyện tập là quá trình kiên nhẫn đối thoại với những phần bạn chưa làm được.</p><p>Ba nguyên tắc vàng của người học trống:</p><ol><li><strong>Tập chậm lại</strong>: Nếu bạn không thể đánh sạch ở tốc độ chậm, bạn sẽ không bao giờ đánh sạch ở tốc độ nhanh. Tốc độ chỉ là sản phẩm phụ của sự chuẩn xác.</li><li><strong>Luyện tập cùng máy đếm nhịp</strong>: Thời gian bên trong tâm trí chúng ta rất dễ dao động. Máy đếm nhịp là người bạn trung thực duy nhất nói cho bạn biết bạn đang chạy nhanh hay bị chậm lại.</li><li><strong>Thả lỏng cơ thể</strong>: Căng thẳng là kẻ thù số một của tốc độ và độ bền. Hãy luôn kiểm tra vai, cổ tay và hơi thở của bạn.</li></ol>"
+    "bodyHtml": "<p>Luyện tập không phải là cố gắng chơi đi chơi lại những gì bạn đã biết. Luyện tập là quá trình kiên nhẫn đối thoại với những phần bạn chưa làm được.</p><p>Ba nguyên tắc vàng của người học trống:</p><ol><li><strong>Tập chậm lại</strong>: Nếu bạn không thể đánh sạch ở tốc độ chậm, bạn sẽ không bao giờ đánh sạch ở tốc độ nhanh. Tốc độ chỉ là sản phẩm phụ của sự chuẩn xác.</li><li><strong>Luyện tập cùng máy đếm nhịp</strong>: Thời gian bên trong tâm trí chúng ta rất dễ dao động. Máy đếm nhịp là người bạn trung thực duy nhất nói cho bạn biết bạn đang chạy nhanh hay bị chậm lại.</li><li><strong>Thả lỏng cơ thể</strong>: Căng thẳng là kẻ thù số một của tốc độ và độ bền. Hãy luôn kiểm tra vai, cổ tay và hơi thở của bạn.</li></ol>",
+    "graduationCriteria": [
+      "Kiên trì luyện tập một mẫu tiết tấu mới liên tục trong 2 phút trọn vẹn (không dừng lại, không thay đổi tốc độ) trước khi quyết định chuyển sang bài khác",
+      "Luôn bật máy đếm nhịp trong mọi bài tập có đánh dấu tốc độ ♩=",
+      "Giải thích rõ ràng bằng lời của chính mình về sự khác biệt giữa \"luyện tập có chủ đích\" và \"chơi ngẫu hứng\""
+    ],
+    "exercises": [
+      {
+        "title": "1 — Bài tập 5 phút: Đánh đơn nốt đen liên tục trên trống Snare",
+        "tip": "Chơi trọn vẹn <strong>5 phút không ngừng nghỉ</strong> — nếu lỡ đánh vấp đừng dừng lại chơi lại từ đầu, hãy bắt ngay lại vào tiếng click tiếp theo. Chọn một điểm duy nhất để tập trung lắng nghe: âm lượng tay Phải (R) và Trái (L) đều nhau, hoặc từng cú đánh rơi chính xác ngay tâm tiếng click chứ không chệch bên cạnh. Bài tập này thu nhỏ trọn vẹn tinh thần của bài học."
+      }
+    ]
   },
   "slow-practice": {
     "tagline": "Nếu bạn thấy chậm đến mức nhàm chán, bạn đang tập đúng cách",
-    "bodyHtml": "<p>Bộ não con người xây dựng các đường dẫn dẫn truyền thần kinh (myelin) cho cơ bắp khi các chuyển động được thực hiện lặp đi lặp lại một cách hoàn hảo. Khi bạn tập ở tốc độ nhanh và mắc lỗi, não bạn thực chất đang ghi nhớ chính những lỗi sai đó.</p><p>Khi bạn hạ tốc độ xuống ♩ = 50, bạn buộc cơ thể phải thực sự kiểm soát từng li từng tí của chuyển động dùi. Không có quán tính để dựa dẫm — chỉ có sự tập trung thuần khiết.</p>"
+    "bodyHtml": "<p>Bộ não con người xây dựng các đường dẫn dẫn truyền thần kinh (myelin) cho cơ bắp khi các chuyển động được thực hiện lặp đi lặp lại một cách hoàn hảo. Khi bạn tập ở tốc độ nhanh và mắc lỗi, não bạn thực chất đang ghi nhớ chính những lỗi sai đó.</p><p>Khi bạn hạ tốc độ xuống ♩ = 50, bạn buộc cơ thể phải thực sự kiểm soát từng li từng tí của chuyển động dùi. Không có quán tính để dựa dẫm — chỉ có sự tập trung thuần khiết.</p>",
+    "listening": [
+      {
+        "artist": "Bill Stewart",
+        "work": "John Scofield — A Go Go",
+        "note": "Hãy lắng nghe từng cú đánh sạch sẽ, chuẩn xác đến mức nào — đó chính là nền tảng của việc tập luyện chậm rãi tỏa sáng khi chơi ở tốc độ cao."
+      }
+    ],
+    "graduationCriteria": [
+      "Chơi Single Paradiddle ở tốc độ ♩=50 trong 1 phút liên tục, không nhầm thế tay và âm lượng hai tay hoàn toàn đồng đều",
+      "Chơi paradiddle tương tự ở tốc độ ♩=60 trong 1 phút sạch sẽ, tròn tiếng",
+      "Ý thức rõ ràng thời điểm thích hợp để tăng tốc độ (chỉ tăng khi tốc độ chậm đã đạt độ sạch và chuẩn 100%)"
+    ],
+    "exercises": [
+      {
+        "title": "Vòng 1 — Paradiddle ở tốc độ ♩ = 50",
+        "tip": "Kỹ thuật Single paradiddle với thế tay <em>R L R R · L R L L</em>. Tốc độ ♩=50 sẽ cho cảm giác chậm đến mức sốt ruột — đó chính là dấu hiệu cho thấy việc luyện tập chậm thực thụ đang diễn ra. Chơi 1 phút ở tốc độ này. Lắng nghe từng cú đánh: hai tay cùng âm lượng, hai nốt kép (doubles) gõ đều, nhấn nhẹ ở đầu mỗi phách 1, 2, 3, 4. Chỉ chuyển sang Vòng 2 khi vòng này đã sạch chuẩn 100%."
+      },
+      {
+        "title": "Vòng 2 — Paradiddle ở tốc độ ♩ = 60",
+        "tip": "Nhanh hơn 20% so với Vòng 1 — bước tăng tốc điển hình của phương pháp luyện tập chậm. Giữ nguyên thế tay <em>R L R R · L R L L</em>. Mẫu gõ không thay đổi; thứ duy nhất thay đổi là tiếng click nhanh hơn một chút. Nếu cảm thấy tiếng gõ bắt đầu lộn xộn, hãy hạ ngay về ♩=50 làm lại Vòng 1. Tốc độ phải được gây dựng từ sự chuẩn xác, không thể vội vàng."
+      },
+      {
+        "title": "Vòng 3 — Paradiddle ở tốc độ ♩ = 70",
+        "tip": "♩=70 — vòng thứ 3. Thế tay <em>R L R R · L R L L</em>. Đến lúc này mẫu gõ cần tạo cảm giác như một phản xạ tự nhiên, điểm nhấn ở phách 1–2–3–4 có chủ đích, các nốt kép đều đặn. Việc bạn có thể chơi paradiddle này ở ♩=120 hay không là câu chuyện của tương lai. Mục đích của luyện tập chậm không phải là đốt cháy giai đoạn, mà là khắc sâu một phiên bản chuẩn xác tuyệt đối làm nền móng vững chắc cho bất kỳ tốc độ nào sau này."
+      }
+    ]
   },
   "metronome-practice": {
     "tagline": "Ba vị trí đặt tiếng click, ba tư duy luyện tập hoàn toàn khác biệt",
@@ -74,16 +134,27 @@
     ],
     "exercises": [
       {
-        "title": "1 — Click ở mọi phách (♩ = 80)",
-        "tip": "Cài đặt máy đếm nhịp ở <strong>♩ = 80, 4 tiếng click mỗi ô nhịp</strong>. Mỗi cú kick, mỗi cú đánh hi-hat và snare ở phách 2 và 4 phải rơi chuẩn xác vào tiếng click. Lắng nghe tiếng click <em>biến mất</em> khi bạn đánh trúng nó — đó chính là âm thanh của sự đồng điệu thời gian tuyệt đối."
+        "title": "1 — Nhịp Backbeat cơ bản: Tiếng click ở mọi phách",
+        "tip": "Bài tập nhịp cơ bản chuẩn mực. Tiếng click ở cả 4 phách (1, 2, 3, 4). Hãy lắng nghe xem cú đánh snare của bạn ở phách 2 và 4 có đè khít lên tiếng click hay không — nếu nó phát ra âm thanh \"flam\" (nghe như hai tiếng lách cách tách rời), tức là bạn đang đánh nhanh hơn hoặc chậm hơn tiếng click một chút."
       },
       {
-        "title": "2 — Click chỉ ở phách 2 và 4 (♩ = 80, giảm một nửa tiếng click)",
-        "tip": "Hãy tưởng tượng tiếng click chính là cú vỗ tay của khán giả ở phách 2 và 4. Bạn phải tự chịu trách nhiệm hoàn toàn cho phách 1 và phách 3."
+        "title": "2 — Backbeat với tiếng click ở phách 2 và 4",
+        "tip": "Giảm một nửa tốc độ máy đếm nhịp xuống ♩ = 40. Bây giờ tiếng click sẽ xuất hiện ở phách 2 và 4. Đếm to <em>\"1\"</em> ở khoảng lặng trước khi tiếng click đầu tiên vang lên. Bạn là người tự sinh ra phách 1 và 3; máy đếm nhịp chỉ đóng vai trò là một người bạn cùng vỗ tay ở phách 2 và 4."
       },
       {
-        "title": "3 — Click chỉ ở phách 1 (1 tiếng click mỗi ô nhịp)",
-        "tip": "Bài kiểm tra sự độc lập tối thượng. Bạn tự đếm 2, 3, 4 trong đầu và kiểm tra xem phách 1 có đáp trúng tiếng click tiếp theo hay không."
+        "title": "3 — Backbeat với tiếng click chỉ ở phách 1",
+        "tip": "Giảm tiếp một nửa tốc độ xuống ♩ = 20. Bây giờ tiếng click chỉ xuất hiện đúng 1 lần duy nhất ở đầu mỗi ô nhịp (phách 1). Bạn phải tự mình duy trì nhịp cho cả ba phách 2, 3, 4 còn lại. Đừng hoảng sợ: hãy giữ nguyên cảm giác nhịp của bạn và chờ đón xem tiếng click tiếp theo có rơi đúng vào phách 1 hay không."
+      },
+      {
+        "title": "4 — Thử thách nhịp độ 3 phút liên tục",
+        "tip": "Bài tập hàng ngày: giữ cùng một nhịp backbeat ở ♩=80. Phút 1: tiếng click gõ ở mọi phách. Phút 2: tiếng click chỉ gõ ở phách 2 và 4. Phút 3: tiếng click chỉ gõ ở duy nhất phách 1. Đừng thay đổi tốc độ khi đổi chế độ — điều duy nhất thay đổi là mối quan hệ giữa bạn và máy đếm nhịp. Đến phút thứ 3, bạn sẽ cảm thấy cảm giác nhịp xuất phát hoàn toàn từ <em>chính bên trong bạn</em>, chứ không phải dựa dẫm vào tiếng click."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Papa Jo Jones",
+        "work": "Count Basie — Jumpin' at the Woodside (Decca, 1938)",
+        "note": "Jo Jones chính là lý do khiến bản thu năm 1938 này bay bổng đến vậy. Hi-hat của ông như một dải âm lấp lánh liên tục chứ không chỉ là tiếng gõ click khô khan — ông đánh vào hi-hat khi nó vừa mở vừa đóng thay vì chỉ gõ lúc nó kẹp chặt, tạo nên tiếng xì xào êm tai thay vì tiếng đập cộc lốc. Bên dưới dòng chảy đó, pedal hi-hat khép lại ở phách 2 và 4. Tốc độ rất nhanh, khoảng 240 bpm, vì vậy đừng chờ đợi một tiếng chick rõ ràng: hãy lắng nghe nơi âm thanh khép chặt lại và đếm to phách 1 và 3 ngược lại với nó."
       }
     ]
   },
@@ -111,6 +182,23 @@
       {
         "title": "4 — Mở Hi-Hat ở cuối ô nhịp (&amp; của 4)",
         "tip": "Nhấc chân trái mở nhẹ hi-hat đúng ở nốt <em>&amp;</em> cuối cùng, rồi dập chân đóng chặt lại ngay phách 1 ô nhịp tiếp theo."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Phil Rudd",
+        "work": "AC/DC — Back in Black",
+        "note": "Hình mẫu chuẩn mực cho cách giữ nốt móc đơn (8ths) đầy uy lực và kiên định. Không một động tác thừa nào di chuyển, và nhịp độ không hề dao động một tích tắc."
+      },
+      {
+        "artist": "Bruce Gary",
+        "work": "The Knack — My Sharona",
+        "note": "Các nốt móc đơn dồn dập kết hợp với nét đảo nhịp của trống bass — hai bài tập trong bài học này cùng hiện diện trong một bản hit kinh điển."
+      },
+      {
+        "artist": "Tré Cool",
+        "work": "Green Day — Basket Case",
+        "note": "Năng lượng nốt móc đơn không ngừng nghỉ ở tốc độ nhạc punk. Hãy chú ý lắng nghe cách mở hi-hat để đánh dấu chuyển đoạn."
       }
     ]
   },

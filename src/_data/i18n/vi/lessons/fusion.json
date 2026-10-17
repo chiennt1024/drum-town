@@ -12,6 +12,23 @@
         "title": "1 — Jazz Comping với Snare ở Nốt '&' Của Phách 4",
         "tip": "Tay phải giữ mẫu câu ride swing, chân trái dậm hi-hat ở 2 và 4. Đưa tay trái gõ snare đúng vào nốt lướt '&' của phách 4. Cảm nhận cú hất nảy nhẹ nhàng chuẩn bị cho phách 1 tiếp đất vững vàng."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Ray of Hope",
+        "note": "Nền tảng phối hợp tứ chi kinh điển của Steve Smith trong nhóm Vital Information."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "Sự giao thoa mượt mà giữa cảm giác nhịp swing của Jazz và uy lực của Rock."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Ten Summoner's Tales",
+        "note": "Subtle, deep pocket fusion."
+      }
     ]
   },
   "fusion-six-stroke-roll": {
@@ -60,6 +77,23 @@
         "title": "4 — Purdie Shuffle Hoàn Chỉnh Toàn Lực",
         "tip": "Ghép nối tất cả các thành phần ở tốc độ ♩=88. Chơi với nụ cười và sự kiêu hãnh của một nghệ sĩ bậc thầy — chiếc groove này phải khiến mọi người nhún nhảy ngay từ phách đầu tiên."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Babylon Sisters",
+        "note": "Bernard Purdie và Jeff Porcaro — nguồn gốc của nhịp half-time shuffle đưa vào thế giới Fusion."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Simon Phillips và rãnh nhịp shuffle hai chân bass uy lực trong các bản nhạc progressive rock/fusion."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Fool in the Rain",
+        "note": "Loud, slow, immense. Same DNA, different attitude."
+      }
     ]
   },
   "fusion-linear-basics": {
@@ -88,6 +122,23 @@
         "title": "4 — Groove Tuyến Tính 1 Ô Nhịp Hoàn Chỉnh",
         "tip": "Chơi một ô nhịp groove hoàn chỉnh hoàn toàn theo nguyên tắc tuyến tính. Dù không có cú chập đồng thanh giữa snare và hi-hat, người nghe vẫn cảm nhận được nhịp phách vững như bàn thạch."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Live Around the World",
+        "note": "Lối chơi tuyến tính (linear playing) sơ khởi của David Garibaldi: không bao giờ hai chi đánh cùng một lúc."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Master Plan",
+        "note": "Cách sắp xếp các cú đánh kick, snare và hi-hat thành một chuỗi nốt giai điệu liền mạch."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Brian Blade Fellowship — Perceptual",
+        "note": "Linear in a softer, more orchestral idiom."
+      }
     ]
   },
   "fusion-jazz-rock": {
@@ -115,6 +166,23 @@
       {
         "title": "4 — Cảm Giác Steely Dan Hoàn Chỉnh",
         "tip": "Kết hợp tất cả các chi tiết thành một bản hòa tấu sang trọng: tiếng kick chắc nịch, tiếng hi-hat lóng lánh và tiếng snare ma mị."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Aja",
+        "note": "Billy Cobham trong ban nhạc Mahavishnu Orchestra — người khai sinh ra trường phái Jazz-Rock Fusion với dàn trống đồ sộ và tốc độ sấm sét."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto IV",
+        "note": "Lenny White cùng Return to Forever kết hợp nhịp funk nảy lửa với kỹ thuật jazz đỉnh cao."
+      },
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — We Like It Here",
+        "note": "Modern Steely-Dan-descended fusion."
       }
     ]
   },
@@ -195,6 +263,23 @@
         "title": "4 — Luân Phiên Chuẩn và Dịch Chuyển (Mỗi Kiểu Một Ô)",
         "tip": "Ô nhịp 1 chơi backbeat chuẩn, ô nhịp 2 chơi backbeat dịch chuyển. Luyện tập cho đến khi sự biến ảo này trở nên tự nhiên như việc hít thở."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Dave",
+        "work": "D'Angelo — Black Messiah",
+        "note": "Dave Weckl trình diễn kỹ thuật dịch chuyển phách tinh vi trong các tác phẩm cùng Chick Corea Elektric Band."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Mehliana — Taming The Dragon",
+        "note": "Cách đánh lừa đôi tai người nghe trước khi kéo rãnh nhịp trở về phách 1 chuẩn xác."
+      },
+      {
+        "artist": "J Dilla",
+        "work": "Donuts",
+        "note": "Programmed, but the same idea — drunk-feeling backbeat displacement."
+      }
     ]
   },
   "fusion-sixteenth": {
@@ -223,6 +308,23 @@
         "title": "4 — Groove Fusion Móc Kép Toàn Lực",
         "tip": "Hợp nhất tất cả các chi vào một groove hoàn chỉnh ở ♩=96. Đây là âm thanh tiêu chuẩn của mọi phòng thu âm nhạc Fusion chuyên nghiệp."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — We Like It Here",
+        "note": "Các rãnh nhịp fusion móc kép 16th phức tạp với sự kết hợp của nốt bóng ghost-note và nốt nhấn rim-shot."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "Khả năng duy trì sự thông thoáng trong bản phối dù mật độ nốt nhạc cực kỳ dày đặc."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music — Beat Music",
+        "note": "Nốt móc kép 16th trong kỷ nguyên hậu Drum & Bass — cùng một hình thế nhưng các góc cạnh sắc nét, dứt khoát hơn."
+      }
     ]
   },
   "fusion-broken-time": {
@@ -250,6 +352,28 @@
       {
         "title": "4 — Ô Nhịp Broken Time Fusion Hoàn Chỉnh",
         "tip": "Kết hợp toàn bộ ngôn ngữ đối thoại đa chiều thành một bức tranh âm thanh sống động và giàu trí tuệ."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Tony Williams Lifetime — Emergency!",
+        "note": "Peter Erskine trong ban nhạc Weather Report — nghệ thuật chơi thời gian phi đối xứng nâng đỡ các bản hòa tấu bất hủ."
+      },
+      {
+        "artist": "Jack DeJohnette",
+        "work": "Keith Jarrett — Standards Live",
+        "note": "Sự tương tác hữu cơ giữa dàn trống và các câu solo saxophone của Wayne Shorter."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Wayne Shorter Quartet — Footprints Live!",
+        "note": "Thời gian phi đối xứng hiện đại, nơi các vạch ô nhịp hoàn toàn không còn là ranh giới gò bó."
+      },
+      {
+        "artist": "Eric Harland",
+        "work": "Voyager — Live by Night",
+        "note": "Tony Williams' grandchildren — implied pulse over electric instruments."
       }
     ]
   },
@@ -292,6 +416,23 @@
       {
         "title": "4 — Danh Mục Từ Vựng: Bốn Câu Lick Ngắn Kinh Điển",
         "tip": "Luyện tập 4 câu licks tủ của các bậc thầy Fusion để sẵn sàng tung ra trong bất kỳ đoạn ngẫu hứng nào."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — The Soul Cages / Seven Days",
+        "note": "Vinnie Colaiuta solo ngẫu hứng trên các khuôn mẫu phức điệu và số chỉ nhịp lẻ."
+      },
+      {
+        "artist": "Dave Weckl",
+        "work": "Chick Corea Elektric Band",
+        "note": "Cách phát triển một chủ đề solo có cấu trúc câu chuyện chặt chẽ thay vì chỉ phô diễn tốc độ."
+      },
+      {
+        "artist": "Steve Smith",
+        "work": "Vital Information — Interwoven Rhythms",
+        "note": "Groupings of 5 and 7 phrased as melodies."
       }
     ]
   },
@@ -346,6 +487,23 @@
       {
         "title": "4 — Cross-Stick Clave + Tumbao Kick",
         "tip": "Tay trái gõ clave trên viền snare, chân kick dậm theo nhịp trống tumbadora trầm ấm, tay phải tự do ngẫu hứng trên cymbals ride."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Lincoln Goines & Robby Ameen",
+        "work": "Funkifying the Clave (book + recordings)",
+        "note": "Dave Weckl và Horacio Hernandez kết hợp nhịp Clave Cuba vào các bản hòa tấu Jazz-Funk Fusion hiện đại."
+      },
+      {
+        "artist": "Horacio \"El Negro\" Hernández (with Michel Camilo Trio)",
+        "work": "any track",
+        "note": "Tiếng mõ chuông pedal chân trái giữ nhịp clave son trong khi hai tay tung hoành trên dàn cymbal."
+      },
+      {
+        "artist": "Steve Gadd (with Chick Corea)",
+        "work": "Spain",
+        "note": "Clave-ish kick under straight time — fusion's debt to Latin made audible."
       }
     ]
   },
@@ -402,6 +560,23 @@
         "title": "4 — Cấu Trúc Chuyển Đổi Hoàn Chỉnh (Lặp Vòng Hai Chiều)",
         "tip": "Thực hiện chu trình khép kín: 4 ô nhịp ở 120 BPM → ô xoay trục → 4 ô nhịp ở 180 BPM → quay trở về 120 BPM."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Nefertiti / Filles de Kilimanjaro",
+        "note": "Vinnie Colaiuta chuyển dịch vận tốc nhịp trong ca khúc kinh điển 'Seven Days' của Sting."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — The Black Page",
+        "note": "Kỹ thuật biến nhóm nốt liên ba thành các phách nốt đen mới của ô nhịp kế tiếp."
+      },
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — Lingus (We Like It Here)",
+        "note": "Chuyển dịch vận tốc hiện đại, nơi cả ban nhạc cùng nhau lướt trên điểm tựa nhịp xoay chuyển."
+      }
     ]
   },
   "fusion-modern-fusion": {
@@ -429,6 +604,28 @@
       {
         "title": "4 — Cụm Kết Hợp Hoàn Chỉnh (Smith + Guiliana + Programmed)",
         "tip": "Nối liền cả ba phong cách vào một câu nhạc 4 ô nhịp đỉnh cao thể hiện toàn bộ diện mạo của Jazz Fusion thế kỷ 21."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Mark Guiliana",
+        "work": "David Bowie — Blackstar",
+        "note": "Larnell Lewis (Snarky Puppy) — hiện thân của Fusion thế kỷ 21: kỹ thuật hoàn hảo, cảm xúc thăng hoa và trí nhớ âm nhạc siêu phàm."
+      },
+      {
+        "artist": "Nate Smith",
+        "work": "Pocket Change",
+        "note": "Mark Guiliana và Ronald Bruner Jr đại diện cho làn sóng fusion kết hợp âm hưởng nhạc điện tử đương đại."
+      },
+      {
+        "artist": "Larnell Lewis",
+        "work": "Snarky Puppy — Family Dinner Vol. 2",
+        "note": "Fusion hiện đại với sự nhạy cảm hòa âm phong phú được đặt lên hàng đầu."
+      },
+      {
+        "artist": "Anika Nilles",
+        "work": "Pikalar / solo releases",
+        "note": "The 'programmed acoustic' philosophy in concentrated form."
       }
     ]
   },
@@ -458,6 +655,28 @@
         "title": "4 — Câu Solo Progressive Fusion 4 Ô Nhịp",
         "tip": "Phô diễn kỹ nghệ tối thượng: đôi chân điều khiển double bass như sấm rền, đôi tay vẽ nên những giai điệu jazz sắc sảo."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Mike Portnoy",
+        "work": "Liquid Tension Experiment — LTE2",
+        "note": "Gavin Harrison (Porcupine Tree / King Crimson) — bậc thầy về phân chia nhịp điệu và phối khí cymbals tinh tế."
+      },
+      {
+        "artist": "Marco Minnemann",
+        "work": "Solo work / Aristocrats",
+        "note": "Sự hòa trộn giữa kết cấu phức tạp của Progressive Rock và tinh thần ngẫu hứng của Fusion."
+      },
+      {
+        "artist": "Virgil Donati",
+        "work": "On The Virg — Serious Young Insects",
+        "note": "Double-bass-driven prog-fusion at extreme tempos, jazz line shapes."
+      },
+      {
+        "artist": "Gavin Harrison",
+        "work": "Porcupine Tree — In Absentia",
+        "note": "Ít gai góc hơn — mang phong cách prog với sự cởi mở phóng khoáng của fusion — nhưng vẫn chung một mã gien âm nhạc."
+      }
     ]
   },
   "fusion-electronic-fusion": {
@@ -486,6 +705,28 @@
         "title": "4 — Mẫu Dance Four-on-the-Floor Kiểu Daft Punk",
         "tip": "Bốn cú kick nện đều đặn ở cả 4 phách, hi-hat móc kép xé gió và cú rim-shot snare mô phỏng tiếng vỗ tay đanh thép."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Jojo Mayer",
+        "work": "Nerve — live recordings",
+        "note": "Jojo Mayer và ban nhạc Nerve — tái hiện các thể loại nhạc điện tử Drum & Bass và Jungle hoàn toàn bằng nhạc cụ mộc trực tiếp."
+      },
+      {
+        "artist": "Daft Punk (programmed)",
+        "work": "Discovery",
+        "note": "Kỹ thuật kiểm soát bàn tay và bàn chân siêu tốc độ mô phỏng các mẫu sample của máy tính."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music — Beat Music",
+        "note": "Programmed-feel acoustic playing in a fusion context."
+      },
+      {
+        "artist": "Anika Nilles",
+        "work": "Anika Nilles — Pikalar",
+        "note": "Nghệ sĩ hiện đại sống ngay tại giao lộ giữa nhạc cụ mộc và âm nhạc điện tử."
+      }
     ]
   },
   "fusion-mahavishnu": {
@@ -513,6 +754,28 @@
       {
         "title": "4 — Cấu Trúc Hoàn Chỉnh Phong Cách Mahavishnu 8 Ô Nhịp",
         "tip": "Bùng nổ toàn bộ sức mạnh và trí tuệ của một nghệ sĩ Fusion đích thực trong 8 ô nhịp rực lửa. Bạn đã chinh phục đỉnh núi Jazz Fusion!"
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Billy Cobham",
+        "work": "Mahavishnu Orchestra — Birds of Fire",
+        "note": "Album 'Birds of Fire' của Mahavishnu Orchestra — đỉnh cao lịch sử về các số chỉ nhịp lẻ 9/8, 11/8 và 13/8 trong âm nhạc hòa tấu."
+      },
+      {
+        "artist": "Billy Cobham",
+        "work": "Spectrum",
+        "note": "Billy Cobham chứng minh cho cả thế giới thấy rằng các số chỉ nhịp phức tạp vẫn có thể tạo nên những rãnh nhịp rực lửa."
+      },
+      {
+        "artist": "Lenny White",
+        "work": "Return to Forever — Romantic Warrior",
+        "note": "Adjacent vocabulary — same era, same intensity, slightly different angle."
+      },
+      {
+        "artist": "Marco Minnemann",
+        "work": "Solo work",
+        "note": "Modern players who carry the Cobham torch — fast hands, polyrhythmic feet."
       }
     ]
   }

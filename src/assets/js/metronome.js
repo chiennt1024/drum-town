@@ -50,7 +50,8 @@
   // zero-width, so a reader who never started the click sees the dock exactly
   // as it was.
   const statusBox = document.getElementById('metronome-status');
-  const ARMED_MESSAGE = 'Paused. Press play.';
+  const isVi = document.documentElement.lang === 'vi';
+  const ARMED_MESSAGE = isVi ? 'Tạm dừng. Nhấn phát để tiếp tục.' : 'Paused. Press play.';
 
   // The pill's lamp, tempo and time signature are all aria-hidden, so this one
   // span IS the button's accessible name. Rebuilt whenever the tempo changes or
@@ -61,8 +62,13 @@
   let pillRunning = false;
   function syncPillLabel() {
     if (!pillState) return;
-    const state = pillRunning ? 'playing' : (armed ? 'paused' : 'stopped');
-    pillState.textContent = 'Metronome, ' + bpm + ' beats per minute, ' + state;
+    if (isVi) {
+      const state = pillRunning ? 'đang chạy' : (armed ? 'tạm dừng' : 'đã dừng');
+      pillState.textContent = 'Máy đếm nhịp, ' + bpm + ' phách/phút, ' + state;
+    } else {
+      const state = pillRunning ? 'playing' : (armed ? 'paused' : 'stopped');
+      pillState.textContent = 'Metronome, ' + bpm + ' beats per minute, ' + state;
+    }
   }
 
   const BPM_KEY = 'dc_metro_bpm';
@@ -526,10 +532,17 @@
   // string-containment rule (WCAG 2.5.3) that gives the BPM box a name starting
   // "BPM, ", and the same comma, because screen readers announce an em dash.
   function syncGoLabel() {
-    btn.setAttribute('aria-label',
-      session ? 'Stop metronome'
-              : armed ? 'Play, resume metronome at ' + bpm + ' BPM'
-                      : 'Start metronome');
+    if (isVi) {
+      btn.setAttribute('aria-label',
+        session ? 'Dừng máy đếm nhịp'
+                : armed ? 'Phát, tiếp tục máy đếm nhịp ở ' + bpm + ' BPM'
+                        : 'Bật máy đếm nhịp');
+    } else {
+      btn.setAttribute('aria-label',
+        session ? 'Stop metronome'
+                : armed ? 'Play, resume metronome at ' + bpm + ' BPM'
+                        : 'Start metronome');
+    }
   }
 
   // Armed is a presentation state, not a stored one: the flag says a click is

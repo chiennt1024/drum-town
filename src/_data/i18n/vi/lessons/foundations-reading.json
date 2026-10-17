@@ -121,6 +121,18 @@
         "title": "4 — Nốt móc đơn có dấu lặng ở phách chính",
         "tip": "Chỉ đánh vào các nốt <em>&amp;</em> — phách nghịch. Phách 1 giữ yên lặng, nhưng bạn bắt buộc phải đọc nó lên: <em>(1) &amp;, (2) &amp;, (3) &amp;, (4) &amp;</em>. Việc chỉ đánh vào phách lệch trong khi giữ vững nhịp bên trong là một trong những kỹ năng nền móng khó nhất."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Tommy Ramone",
+        "work": "Ramones — Blitzkrieg Bop",
+        "note": "Những nốt móc đơn dồn dập, không ngơi nghỉ suốt hai phút. Hãy đếm to '1 & 2 &' theo nhịp hi-hat — đây chính là sự phân chia phách mang đậm phong cách punk rock."
+      },
+      {
+        "artist": "Meg White",
+        "work": "The White Stripes — Seven Nation Army",
+        "note": "Chỉ toàn nốt đen và nốt móc đơn, không gì khác, nâng đỡ cả một bản thánh ca sân vận động. Sự tối giản với cam kết trọn vẹn."
+      }
     ]
   },
   "counting-sixteenths": {
@@ -147,6 +159,18 @@
       {
         "title": "4 — Mẫu hình kết hợp nâng cao",
         "tip": "Một ô nhịp kết hợp linh hoạt mật độ nốt từ bài 1 đến bài 3. Đừng ghi nhớ vẹt hình thù — hãy đọc bằng cách đếm xuyên suốt từng phách: <em>1 &amp; a · 2 &amp; a · 3 e &amp; a · 4 &amp; a</em>."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Stevie Wonder",
+        "work": "Superstition",
+        "note": "Chính Stevie Wonder tự chơi trống. Hi-hat bám chặt lưới móc kép 16th và kick/snare nhặt từng âm tiết trong đó — hãy thử gọi tên phách của từng cú dậm kick."
+      },
+      {
+        "artist": "Bernard Purdie",
+        "work": "Aretha Franklin — Rock Steady",
+        "note": "Một bài học bậc thầy về việc nên đánh nốt móc kép nào và nên bỏ nốt nào. Lưới nhịp luôn hiện hữu ngay cả khi đôi tay dừng lại nghỉ."
       }
     ]
   },

@@ -51,6 +51,23 @@
         "title": "4 — Duy trì Pocket cùng tiếng Rap lặp lại",
         "tip": "Tưởng tượng một câu rap đang tuôn trào trên nền trống của bạn. Giữ vững ngọn hải đăng cho con tàu ca từ lướt đi."
       }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Slum Village — Fantastic, Vol. 2",
+        "note": "Tiếng trống của Questlove giữ rãnh nhịp bất biến với độ sâu của phách trễ. Hãy lắng nghe cách chiếc snare rơi nhẹ sau tiếng click mà không làm chậm bài hát."
+      },
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "Bản phối boom-bap kinh điển với nhịp kick-snare đanh thép, định hình âm hưởng hip-hop New York thập niên 90."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Common — The Dreamer/The Believer",
+        "note": "Reference behind-the-beat hip-hop drumming, played live on a real kit."
+      }
     ]
   },
   "hiphop-classic": {
@@ -77,6 +94,28 @@
       {
         "title": "4 — Chuỗi Breakbeat Hip-Hop cổ điển 4 ô nhịp",
         "tip": "Ghép các đoạn breakbeat kinh điển lại thành một tác phẩm biểu diễn trọn vẹn ở ♩=92."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "DJ Premier",
+        "work": "Gang Starr — Step in the Arena",
+        "note": "Vòng lặp boom-bap kinh điển của DJ Premier. Hãy chú ý cách tiếng hi-hat mộc mạc giữ cho bài hát một chuyển động không thể cưỡng lại."
+      },
+      {
+        "artist": "Pete Rock",
+        "work": "Pete Rock & CL Smooth — Mecca and the Soul Brother",
+        "note": "Tiết tấu tối giản với tiếng snare đanh gọn cắt xuyên qua từng câu rap của Nas."
+      },
+      {
+        "artist": "Q-Tip",
+        "work": "A Tribe Called Quest — The Low End Theory",
+        "note": "Pete Rock kết hợp các mẫu kèn jazz với rãnh nhịp hip-hop ấm áp, dày dặn."
+      },
+      {
+        "artist": "9th Wonder",
+        "work": "Little Brother — The Listening",
+        "note": "Phong cách boom-bap thập niên 2000 giữ nguyên vẹn bản thiết kế kinh điển của thập niên 90."
       }
     ]
   },
@@ -105,6 +144,23 @@
         "title": "4 — Rãnh nhịp R&B hoàn chỉnh cho đoạn Điệp khúc",
         "tip": "Mở rộng không gian trên lá Ride hoặc mở hé hi-hat. Cảm nhận sự dâng trào cảm xúc ngọt ngào."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Teddy Riley (production)",
+        "work": "Bobby Brown — Don't Be Cruel",
+        "note": "Rãnh nhịp New Jack Swing với tiếng kick dậm nảy và snare vang dội, cầu nối giữa funk cổ điển và hip-hop hiện đại."
+      },
+      {
+        "artist": "Babyface (production)",
+        "work": "Toni Braxton — Toni Braxton",
+        "note": "Tiết tấu R&B thập niên 90 mượt mà với những cú kick đảo phách nhẹ nhàng nâng đỡ giọng hát."
+      },
+      {
+        "artist": "Jimmy Jam & Terry Lewis (production)",
+        "work": "Janet Jackson — janet.",
+        "note": "Sự kết hợp giữa nhịp gõ 16th điện tử và cảm giác nhịp uyển chuyển của dòng nhạc R&B đương đại."
+      }
     ]
   },
   "hiphop-quiet-storm": {
@@ -131,6 +187,23 @@
       {
         "title": "4 — Khúc tình ca Quiet Storm hoàn chỉnh",
         "tip": "Làm chủ khả năng kiểm soát âm lượng nhỏ — một kỹ năng tối quan trọng của tay trống chuyên nghiệp."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Dave Early",
+        "work": "Sade — The Sweetest Taboo",
+        "note": "Không gian êm dịu của dòng nhạc Quiet Storm với tiếng cross-stick mộc mạc và hi-hat hé mở nhẹ nhàng."
+      },
+      {
+        "artist": "Ricky Lawson",
+        "work": "Anita Baker — Sweet Love",
+        "note": "Tiết tấu chậm rãi, sâu lắng tạo khoảng trống mênh mang cho tiếng đàn Rhodes và giọng hát thì thầm."
+      },
+      {
+        "artist": "Gene Pello & Joseph A. Brown Jr.",
+        "work": "Smokey Robinson — A Quiet Storm",
+        "note": "Đây là album có bài hát chủ đề đặt tên cho cả một định dạng âm nhạc. Suốt gần tám phút, bộ trống không làm gì để gây chú ý: hi-hat nốt móc đơn đóng đều đặn, tiếng gõ rim-click êm dịu ở phách 2 và 4, và tiếng kick đi cùng câu bass như một nhịp tim thứ hai."
       }
     ]
   },
@@ -159,6 +232,23 @@
         "title": "4 — Rãnh nhịp Trap Atlanta hoàn chỉnh trên trống mộc",
         "tip": "Kết hợp chân kick đảo phách, snare đanh thép và hi-hat chạy ngón ảo diệu. Tràn đầy năng lượng hiện đại."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Lex Luger / Shawty Redd (production)",
+        "work": "Various Atlanta releases, late 2000s",
+        "note": "Các chuỗi hi-hat chia nhỏ (trap rolls) chạy từ nốt móc kép 16th sang liên ba 32nd và liên sáu. Hãy chú ý cách cú snare luôn đứng vững ở phách 3."
+      },
+      {
+        "artist": "Metro Boomin (production)",
+        "work": "Future — DS2",
+        "note": "Tiếng kick 808 trầm sâu rung chuyển màng loa, đóng vai trò vừa là nhịp gõ vừa là tuyến giai điệu bass."
+      },
+      {
+        "artist": "Daru Jones",
+        "work": "Jack White — Lazaretto",
+        "note": "Khuôn mẫu trap Atlanta với tiếng clap sắc lẹm và hi-hat lượn sóng biến đổi liên tục."
+      }
     ]
   },
   "hiphop-neo-soul": {
@@ -185,6 +275,23 @@
       {
         "title": "4 — Khúc ca Hip-Hop Neo-Soul hoàn chỉnh",
         "tip": "Làm chủ trọn vẹn phong cách âm nhạc đã làm say đắm hàng triệu trái tim yêu nghệ thuật trên toàn thế giới."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "Toàn bộ album Voodoo là trường giáo khoa tối thượng về neo-soul. Hãy lắng nghe tiếng snare trễ nải đặc trưng của Questlove hòa quyện cùng ngón đàn bass của Pino Palladino."
+      },
+      {
+        "artist": "Pino Palladino + Questlove (rhythm section)",
+        "work": "D'Angelo and the Vanguard — Black Messiah",
+        "note": "Tiết tấu lảo đảo (drunken beat) lấy cảm hứng từ J Dilla, nơi các chi dường như lệch pha nhau nhưng lại khóa chặt kỳ diệu."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Various — Robert Glasper, D'Angelo",
+        "note": "Màu sắc neo-soul ấm áp của Erykah Badu với tiếng trống sống mang tinh thần của hip-hop đường phố."
       }
     ]
   },
@@ -213,6 +320,23 @@
         "title": "4 — Modern R&B Groove hoàn chỉnh",
         "tip": "Tái hiện âm thanh đẳng cấp của những sản phẩm âm nhạc đoạt giải Grammy danh giá."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Michael Uzowuru / Joe Thornalley (production)",
+        "work": "Frank Ocean — Nights",
+        "note": "Sự pha trộn giữa nhịp trap hiện đại và giai điệu R&B mượt mà, nơi tiếng hi-hat roll hòa cùng không gian reverb sâu thẳm."
+      },
+      {
+        "artist": "Doc McKinney / Illangelo (production)",
+        "work": "The Weeknd — House of Balloons",
+        "note": "Cú kick kép và snare đặt ở phách 3 trong bối cảnh tempo chậm, nhường toàn bộ ánh đèn cho giọng hát."
+      },
+      {
+        "artist": "Various producers",
+        "work": "H.E.R. — H.E.R.",
+        "note": "Tiếng trống điện tử tối giản nhưng có sức nặng kinh ngạc, đặc trưng của các bản hit R&B thế kỷ 21."
+      }
     ]
   },
   "hiphop-southern": {
@@ -239,6 +363,23 @@
       {
         "title": "4 — Rãnh nhịp Dirty South hoàn chỉnh",
         "tip": "Tốc độ đẩy lên ♩=88. Cảm nhận chiếc xe mui trần đang lướt đi dưới ánh nắng rực rỡ của Atlanta."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Organized Noize (production)",
+        "work": "Outkast — Aquemini",
+        "note": "Nhịp bounce miền Nam dồn dập, thôi thúc năng lượng bùng nổ của các câu lạc bộ đêm."
+      },
+      {
+        "artist": "Pimp C (production)",
+        "work": "UGK — Ridin' Dirty",
+        "note": "Sự kết hợp giữa nhịp trống diễu hành marching band và âm thanh máy trống 808 của miền Nam nước Mỹ."
+      },
+      {
+        "artist": "DJ Paul / Juicy J (production)",
+        "work": "Three 6 Mafia — When the Smoke Clears",
+        "note": "Memphis Southern hip-hop, the trap-precursor sound."
       }
     ]
   },
@@ -267,6 +408,23 @@
         "title": "4 — Thử thách kiên định: Khóa chặt nhịp trong 3 phút",
         "tip": "Trở thành cỗ máy thời gian sống của chính mình. Làm chủ nghệ thuật giữ nhịp đỉnh cao của Questlove."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "Sách mẫu mực về việc chơi trống sống như một chiếc máy sampler — đều đặn, kỷ luật và tràn ngập linh hồn."
+      },
+      {
+        "artist": "Questlove",
+        "work": "The Roots — How I Got Over",
+        "note": "Cách Questlove định hình không gian âm thanh cho D'Angelo bằng những cú đánh không bao giờ dư thừa."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "Độ sâu của cảm giác nhịp pocket trong các buổi diễn trực tiếp của ban nhạc The Roots."
+      }
     ]
   },
   "hiphop-studio-translation": {
@@ -293,6 +451,23 @@
       {
         "title": "4 — Bản thu âm Hip-Hop phòng thu hoàn chỉnh",
         "tip": "Hòa quyện toàn bộ kỹ thuật xử lý âm học vào một rãnh nhịp hoàn hảo sẵn sàng để phát hành đĩa đơn."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "Things Fall Apart",
+        "note": "Cách chuyển ngữ các tiết tấu lập trình từ máy sampler MPC sang bộ trống mộc trong phòng thu."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Common — Be",
+        "note": "Xử lý âm sắc trống mộc để có độ nén, độ đanh và độ khô như một mẫu sample nhựa vinyl."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "Studio sensibilities played on a live kit."
       }
     ]
   },
@@ -321,6 +496,23 @@
         "title": "4 — Ứng dụng Displacement trong chuyển đoạn",
         "tip": "Dùng một ô nhịp dịch chuyển để làm người nghe ngạc nhiên trước khi trở về nhịp boom bap vững chãi."
       }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Donuts",
+        "note": "Kỹ thuật dịch chuyển vị trí cú đánh snare lệch khỏi vị trí thông thường để tạo cảm giác bất ngờ, lôi cuốn."
+      },
+      {
+        "artist": "J Dilla",
+        "work": "Slum Village — Fantastic, Vol. 2",
+        "note": "Những cú kick rơi vào nốt nghịch phách làm thay đổi hoàn toàn trọng tâm của ô nhịp."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Headnod Suite",
+        "note": "Một tay trống jazz tự làm cuốn băng beat của riêng mình: một số tiếng trống là bản thu sống trực tiếp, một số là các đoạn loop được cắt nhỏ, và sự dịch chuyển phách chính là nơi hai thói quen đó cọ xát với nhau."
+      }
     ]
   },
   "hiphop-808-translation": {
@@ -347,6 +539,23 @@
       {
         "title": "4 — Rãnh nhịp 808 Acoustic Translation hoàn chỉnh",
         "tip": "Tái hiện âm thanh triệu đô của chiếc máy Roland TR-808 huyền thoại ngay trên bộ trống mộc của bạn."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Various producers",
+        "work": "Travis Scott — Astroworld",
+        "note": "Hoàn toàn không có tay trống nào được ghi nhận trong danh sách nghệ sĩ — các nhạc cụ sống là keyboard, guitar, bass, cello và dàn dây, nên mọi tiếng kick và 808 ở đây đều được lập trình. Hơn hai mươi nhà sản xuất đã tham gia album, hãy lắng nghe cách cao độ và độ ngân (decay) của tiếng 808 biến đổi linh hoạt từ bài này sang bài khác."
+      },
+      {
+        "artist": "Metro Boomin",
+        "work": "Heroes & Villains",
+        "note": "Phần ghi công ở đây là lập trình tiết tấu, không phải trình diễn, nên mọi cú kick và hi-hat đều được xây dựng tỉ mỉ thay vì gõ trực tiếp. Hãy lắng nghe cách dàn dây, kèn trumpet và kèn cor sống tựa vào những tiếng trống mà không ai thực sự ngồi chơi."
+      },
+      {
+        "artist": "Tay Keith",
+        "work": "BlocBoy JB — Look Alive",
+        "note": "Một nhà sản xuất duy nhất đã tạo nên toàn bộ bản phối khí này trong FL Studio, nên tuyến âm 808 và các chuỗi rải hi-hat roll xuất phát từ một tác giả duy nhất. Bản phối bài 'Not Alike' của Eminem sử dụng lại chính con beat này, giúp bạn nghe thấy cùng một khuôn mẫu rơi vào hai bối cảnh âm nhạc khác nhau."
       }
     ]
   },
@@ -375,6 +584,23 @@
         "title": "4 — Chris Dave Groove toàn lực",
         "tip": "Thả lỏng toàn bộ định kiến, bước vào thế giới nhịp điệu phi tuyến tính đầy mê hoặc của quái kiệt Chris Dave."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Dave",
+        "work": "Chris Dave and the Drumhedz (2018)",
+        "note": "'Sensitive Granite' đánh chậm dần và đặt snare giữa phách 3 và 4 trong nửa đầu bài hát, rồi trở lại chính xác phách 4 ở nửa sau. 'Universal Language' và 'Destiny N Stereo' thể hiện khía cạnh đối lập: những rãnh nhịp mượt mà hướng về hip-hop thập niên 90."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "Trong 'Afro Blue' đệm sau Erykah Badu, dàn trống ngập tràn tiếng snare đanh cao và cymbals, một cảm giác hip-hop được chơi sống thay vì lặp vòng. 'Letter to Hermione' là sự tương phản: rãnh nhịp mang âm hưởng quân hành đối đáp cùng giọng hát qua từng câu thay vì giữ một khuôn mẫu cố định."
+      },
+      {
+        "artist": "D'Angelo",
+        "work": "Black Messiah (Dave is one of the kit references)",
+        "note": "Tiếng snare trễ nải (dragged snare) bậc thầy được đặt trong bối cảnh âm nhạc neo-soul giàu nhạc tính."
+      }
     ]
   },
   "hiphop-anderson-paak": {
@@ -401,6 +627,23 @@
       {
         "title": "4 — Anderson .Paak Live Performance Groove",
         "tip": "Chơi với nụ cười trên môi và sự tự tin rực rỡ của một nghệ sĩ sân khấu hàng đầu."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Anderson .Paak",
+        "work": "Malibu",
+        "note": "Hai ca khúc ghi nhận chính anh chơi trống trong tập sách giới thiệu album là 'Heart Don't Stand a Chance' và 'Your Prime', phần lớn các bài còn lại là beat của nhà sản xuất. Đó là hai nơi bạn nghe thấy dàn trống mộc đích thực của anh hòa cùng chính giọng hát của mình."
+      },
+      {
+        "artist": "Anderson .Paak",
+        "work": "Oxnard / Ventura",
+        "note": "Phần chơi trống của chính anh được ghi nhận ở 'The Chase' và 'Brother's Keeper' trên Oxnard, cùng 'Come Home', 'Good Heels' và 'King James' trên Ventura. Đó là năm bài rõ ràng nhất để nghe anh ngồi sau bộ trống, vì các bài khác hoặc không ghi nhận trống hoặc mang tên của nhà sản xuất."
+      },
+      {
+        "artist": "Knxwledge",
+        "work": "NxWorries — Yes Lawd!",
+        "note": "Mọi rãnh nhịp ở đây đều được cắt ghép từ các bản thu soul, gospel và funk cổ điển thay vì chơi sống, nguyên vẹn cả tiếng nổ lách tách của đĩa than. Anderson .Paak chỉ hát trong dự án này, hãy lắng nghe cách một ô nhịp lặp lại tạo nên cảm giác nhịp pocket để anh buông lơi từng câu hát."
       }
     ]
   },
@@ -429,6 +672,23 @@
         "title": "4 — Dilla Groove toàn diện trên bộ trống mộc",
         "tip": "Làm chủ 'Dilla Time' — một trong những thành tựu nhịp điệu vĩ đại nhất của nhân loại trong 50 năm qua."
       }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Donuts (2006)",
+        "note": "Hãy lắng nghe từng thành phần âm thanh nằm ở độ lệch riêng biệt của nó — kick đánh đúng phách, snare rơi trễ, hi-hat đi trước — lặp đi lặp lại từ ô nhịp này sang ô nhịp khác."
+      },
+      {
+        "artist": "J Dilla",
+        "work": "The Shining",
+        "note": "Những bài hát hoàn chỉnh mang đậm cảm giác nhịp nảy lảo đảo đặc trưng của J Dilla."
+      },
+      {
+        "artist": "Karriem Riggins",
+        "work": "Alone Together",
+        "note": "Karriem Riggins chuyển ngữ độ lảo đảo (wobble) bất hủ của Dilla ngược trở lại bộ trống mộc."
+      }
     ]
   },
   "hiphop-modern-production": {
@@ -455,6 +715,23 @@
       {
         "title": "4 — Bản phối Hip-Hop sản xuất hoàn chỉnh",
         "tip": "Làm chủ tư duy của một tay trống phòng thu thế kỷ 21."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Metro Boomin",
+        "work": "Heroes & Villains",
+        "note": "Metro Boomin sản xuất toàn bộ mười lăm ca khúc và đảm nhận phần lập trình; không có tay trống hay nhạc công gõ nào xuất hiện trong danh sách. Trong Superhero, hãy lắng nghe những tiếng 808 dồn dập và kèn đồng hãm thanh, rồi đến đoạn chúng tan biến vào tiếng synth u trầm phía sau phần kết của Chris Brown."
+      },
+      {
+        "artist": "Tay Keith",
+        "work": "BlocBoy JB — Look Alive",
+        "note": "Tay Keith xây dựng bản hit top 5 Hot 100 này một mình trên FL Studio 11 chỉ trong khoảng ba mươi phút. Hãy lắng nghe thứ mà anh gọi là chất nảy Memphis (Memphis bounce) theo khuôn mẫu kinh điển của Three 6 Mafia, được tái sinh trên âm thanh 808 mới với câu piano ma mị bên trên."
+      },
+      {
+        "artist": "Pi'erre Bourne",
+        "work": "Playboi Carti — Magnolia",
+        "note": "Một nhà sản xuất duy nhất, không có tay trống nào trong credit: con beat này được xây dựng chứ không phải được chơi trực tiếp. Hãy lắng nghe khuôn mẫu New Orleans bounce thôi thúc bài hát cùng dải trầm rung chuyển bên dưới."
       }
     ]
   },
@@ -483,6 +760,23 @@
         "title": "4 — Rãnh nhịp Chopped Sample hoàn chỉnh",
         "tip": "Biến cơ thể bạn thành một chiếc máy sampler sống động đầy ma thuật."
       }
+    ],
+    "listening": [
+      {
+        "artist": "DJ Premier",
+        "work": "Gang Starr — Moment of Truth",
+        "note": "Hãy lắng nghe nơi tiếng trống khóa chặt cùng đoạn loop mẫu và nơi chúng cố tình để đoạn loop tự do trôi đi."
+      },
+      {
+        "artist": "Pete Rock",
+        "work": "Mecca and the Soul Brother",
+        "note": "Các tiết tấu được điều khiển bằng mẫu sample kết hợp với những nét chấm phá của trống sống."
+      },
+      {
+        "artist": "Madlib",
+        "work": "Madvillainy",
+        "note": "Góc nhìn của nhà sản xuất — hiểu được những gì tay trống sống đang thực sự đối thoại cùng."
+      }
     ]
   },
   "hiphop-louis-cole": {
@@ -510,6 +804,23 @@
         "title": "4 — Louis Cole Drum Workout toàn lực",
         "tip": "Đẩy tốc độ lên ♩=130. Cháy hết mình với nguồn năng lượng vô tận và niềm vui thuần khiết."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Louis Cole",
+        "work": "Time",
+        "note": "Cole tự viết, tự thu âm và tự hòa âm tác phẩm này trong gara ở Los Angeles, và anh cố tình làm cho bản phối bị méo tiếng (distorted) và thô ráp vì anh cho rằng như vậy rãnh nhịp mới cuốn hút hơn nhiều. Hãy lắng nghe xem bao nhiêu phần năng lượng bùng nổ của tiếng trống đến từ quyết định hòa âm đó chứ không chỉ từ lực đánh của đôi tay."
+      },
+      {
+        "artist": "Louis Cole",
+        "work": "KNOWER — Life",
+        "note": "Cole vừa là tay trống vừa cùng Genevieve Artadi sản xuất, nên dàn trống mộc và các âm thanh điện tử xuất phát từ cùng một tư duy. Anh từng chia sẻ mình dựa vào nhạc cụ gõ điện tử trong thời kỳ KNOWER nhiều hơn các album solo, bài tập hữu ích là thử nghe xem cú đánh nào do người đánh và cú đánh nào do máy tạo ra."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music (2013 EP)",
+        "note": "Dàn trống của Mark Guiliana không bị can thiệp điện tử trong dự án này, độ chuẩn xác như máy móc mà bạn nghe thấy hoàn toàn đến từ đôi tay anh. Hãy nghe 'Coin Castle', tác phẩm mà anh mô tả là màn trình diễn trống sống với phần còn lại được xây dựng từ synthesizer do chính anh chơi."
+      }
     ]
   },
   "hiphop-future-r-and-b": {
@@ -536,6 +847,28 @@
       {
         "title": "4 — Tác phẩm Future R&B hoàn chỉnh",
         "tip": "Chào mừng bạn đến với tương lai của âm nhạc nhịp điệu thế giới. Sáng tạo, tự do và bất tận."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Q-Tip",
+        "work": "Solange — Borderline (An Ode to Self Care)",
+        "note": "Không bài nào khác trong album ghi nhận tay trống, và phần ghi công ở đây thuộc về nhà sản xuất, keyboard và dàn trống cùng nằm trong một đôi bàn tay. Bản quyền cũng ghi nhận một phần giai điệu 'More Than a Woman' của Timbaland và Static Major, hãy lắng nghe nơi dòng dõi âm nhạc đó trỗi dậy."
+      },
+      {
+        "artist": "FKA Twigs",
+        "work": "Magdalene",
+        "note": "Không ai được ghi nhận chơi bộ trống mộc trong toàn bộ bản thu này. Mười hai người cùng giữ credit tiếng trống qua chín ca khúc, hãy lắng nghe nhịp điệu thay đổi tác giả qua từng bài hát thay vì mang thói quen của một người chơi duy nhất."
+      },
+      {
+        "artist": "Yussef Dayes",
+        "work": "Black Classical Music",
+        "note": "Album solo đầu tay của Yussef Dayes, do chính anh chơi và đồng sản xuất cùng Miles James. Hãy lắng nghe xuyên suốt 19 ca khúc để thấy cội nguồn tiết tấu vươn xa đến dường nào, từ phức điệu châu Phi qua rãnh nhịp Caribbean đến sắc thái Latin."
+      },
+      {
+        "artist": "Makaya McCraven",
+        "work": "In These Times",
+        "note": "Thu âm qua năm phòng thu và bốn phòng diễn sống, sau đó được cắt rời và tái thiết kế trong khâu hậu kỳ tại nhà, nên bộ trống được chơi trước rồi sản xuất sau. Ý niệm tiết tấu bên dưới là các số chỉ nhịp 7/8, 5/8 và 11/8 được gấp gọn vào các rãnh nhịp thay vì phô diễn kỹ thuật, hãy lắng nghe khoảnh khắc mà độ dài ô nhịp không còn tự xưng tên."
       }
     ]
   }

@@ -281,6 +281,134 @@ function getLocalizedChapters(baseChapters, locale = DEFAULT_LOCALE) {
   ];
 }
 
+// Get localized title for a lesson slug
+function getLocalizedLessonTitle(slug, locale = DEFAULT_LOCALE) {
+  if (locale === 'vi') {
+    const cVi = dictionaries.vi?.curriculum;
+    if (cVi) {
+      for (const sKey in cVi.foundations?.sections || {}) {
+        const lTitle = cVi.foundations.sections[sKey]?.lessons?.[slug];
+        if (lTitle) return lTitle;
+      }
+      for (const tKey in cVi.tracks || {}) {
+        for (const lKey in cVi.tracks[tKey]?.levels || {}) {
+          const lTitle = cVi.tracks[tKey].levels[lKey]?.lessons?.[slug];
+          if (lTitle) return lTitle;
+        }
+      }
+      if (cVi.mastery?.lessons?.[slug]) {
+        return cVi.mastery.lessons[slug];
+      }
+    }
+  }
+  const curriculum = require('../curriculum.js');
+  for (const s of curriculum.foundations?.sections || []) {
+    const found = s.lessons.find(l => l.slug === slug);
+    if (found) return found.title;
+  }
+  for (const t of curriculum.tracks || []) {
+    for (const lv of t.levels || []) {
+      const found = lv.lessons.find(l => l.slug === slug);
+      if (found) return found.title;
+    }
+  }
+  for (const l of curriculum.mastery?.lessons || []) {
+    if (l.slug === slug) return l.title;
+  }
+  return slug;
+}
+
+// Get localized tagline for a lesson slug
+function getLocalizedLessonTagline(slug, locale = DEFAULT_LOCALE) {
+  if (locale === 'vi' && dictionaries.vi?.lessons?.[slug]?.tagline) {
+    return dictionaries.vi.lessons[slug].tagline;
+  }
+  const lessonContent = require('../lessonContent.js');
+  return lessonContent[slug]?.tagline || '';
+}
+
+// Get localized track title
+function getLocalizedTrackTitle(slug, locale = DEFAULT_LOCALE) {
+  if (locale === 'vi' && dictionaries.vi?.curriculum?.tracks?.[slug]?.title) {
+    return dictionaries.vi.curriculum.tracks[slug].title;
+  }
+  const curriculum = require('../curriculum.js');
+  const tr = curriculum.tracks?.find(t => t.slug === slug);
+  return tr ? tr.title : slug;
+}
+
+// Get localized track description
+function getLocalizedTrackDescription(slug, locale = DEFAULT_LOCALE) {
+  if (locale === 'vi' && dictionaries.vi?.curriculum?.tracks?.[slug]?.description) {
+    return dictionaries.vi.curriculum.tracks[slug].description;
+  }
+  const curriculum = require('../curriculum.js');
+  const tr = curriculum.tracks?.find(t => t.slug === slug);
+  return tr ? tr.description : '';
+}
+
+// Localize lessonsData for homepage hero "Up Next" activation
+function getLocalizedLessonsData(baseData, locale = DEFAULT_LOCALE) {
+  if (locale === DEFAULT_LOCALE || !baseData) return baseData;
+  const curriculum = require('../curriculum.js');
+  const locCurr = getLocalizedCurriculum(curriculum, locale);
+  const out = JSON.parse(JSON.stringify(baseData));
+
+  // Build chapter lookup map: slug -> { chapterIndex, chapterTitle }
+  const slugMeta = {};
+  const foundationsCount = locCurr.foundations.sections.length;
+  const tracksCount = locCurr.tracks.length;
+
+  locCurr.foundations.sections.forEach((sec, secIdx) => {
+    sec.lessons.forEach(l => {
+      slugMeta[l.slug] = {
+        chapterIndex: secIdx + 1,
+        chapterTitle: sec.title
+      };
+    });
+  });
+  locCurr.tracks.forEach((t, tIdx) => {
+    t.levels.forEach(lv => {
+      lv.lessons.forEach(l => {
+        slugMeta[l.slug] = {
+          chapterIndex: foundationsCount + tIdx + 1,
+          chapterTitle: t.title
+        };
+      });
+    });
+  });
+  const masteryChapter = foundationsCount + tracksCount + 1;
+  locCurr.mastery.lessons.forEach(l => {
+    slugMeta[l.slug] = {
+      chapterIndex: masteryChapter,
+      chapterTitle: locCurr.mastery.title || (locale === 'vi' ? 'Chủ đề nâng cao' : 'Other Topics')
+    };
+  });
+
+  for (const slug in out.bySlug || {}) {
+    const item = out.bySlug[slug];
+    const meta = slugMeta[slug] || {};
+    item.title = getLocalizedLessonTitle(slug, locale);
+    item.url = locale === 'vi' ? `/vi/lessons/${slug}/` : `/lessons/${slug}/`;
+    item.tagline = getLocalizedLessonTagline(slug, locale);
+    if (meta.chapterIndex) {
+      item.eyebrow = locale === 'vi'
+        ? `Chương ${meta.chapterIndex} · ${meta.chapterTitle}`
+        : `Chapter ${meta.chapterIndex} · ${meta.chapterTitle}`;
+    }
+    if (item.before && item.before.url) {
+      const prevSlugMatch = item.before.url.match(/\/lessons\/([^\/]+)\/?$/);
+      if (prevSlugMatch) {
+        const prevSlug = prevSlugMatch[1];
+        item.before.title = getLocalizedLessonTitle(prevSlug, locale);
+        item.before.url = locale === 'vi' ? `/vi/lessons/${prevSlug}/` : `/lessons/${prevSlug}/`;
+      }
+    }
+  }
+
+  return out;
+}
+
 module.exports = {
   SUPPORTED_LOCALES,
   DEFAULT_LOCALE,
@@ -289,5 +417,10 @@ module.exports = {
   getLocalizedLesson,
   getLocalizedRudiments,
   getLocalizedChapters,
+  getLocalizedLessonTitle,
+  getLocalizedLessonTagline,
+  getLocalizedTrackTitle,
+  getLocalizedTrackDescription,
+  getLocalizedLessonsData,
   dictionaries
 };

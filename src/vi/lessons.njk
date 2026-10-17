@@ -10,8 +10,8 @@ permalink: "vi/lessons/{{ lesson.slug }}/"
 ogType: article
 eleventyComputed:
   navSection: "{{ lesson.section }}"
-  title: "{{ lesson.title }}"
-  description: "{% if lessonContent[lesson.slug] %}{{ lessonContent[lesson.slug].tagline }} — bài học trống miễn phí kèm ký âm và âm thanh tương tác.{% endif %}"
+  title: "{{ lesson.slug | localizedLessonTitle('vi') }}"
+  description: "{{ lesson.slug | localizedLessonTagline('vi') }} — bài học trống miễn phí kèm ký âm và âm thanh tương tác."
 ---
 
 {% set locCurr = curriculum | localizedCurriculum('vi') %}

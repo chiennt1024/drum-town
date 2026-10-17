@@ -28,6 +28,23 @@
         "title": "5 — Mẫu Kick nhạc Pop kinh điển",
         "tip": "Mẫu hình: <em>1, &amp; của 2, 3, &amp; của 4</em>. Đây là rãnh nhịp xuất hiện trong hàng ngàn bài hát Pop và Dance trên sóng phát thanh toàn cầu."
       }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — When the Levee Breaks",
+        "note": "Vị trí đặt cú kick CHÍNH LÀ linh hồn bài hát. Hãy vẽ vị trí từng cú kick rơi trên lưới móc kép 16th — không có cú đánh nào là ngẫu nhiên."
+      },
+      {
+        "artist": "Roger Taylor",
+        "work": "Queen — Another One Bites the Dust",
+        "note": "Tiết tấu kick disco-rock tinh gọn khóa chặt bên dưới câu bass làm chủ cả bài hát. Hãy lắng nghe cú kick đánh ít đến mức nào và sự tiết chế đó mang lại cho groove sức sống to lớn ra sao."
+      },
+      {
+        "artist": "Dave Grohl",
+        "work": "Foo Fighters — Everlong",
+        "note": "Những cú kick đón đầu lao thẳng vào nhịp backbeat ở tốc độ cao. Hãy lắng nghe cách các vị trí nốt '&' đẩy bài hát không ngừng tiến về phía trước."
+      }
     ]
   },
   "first-beat-color": {
@@ -55,6 +72,23 @@
       {
         "title": "4 — Kết hợp mở Hi-Hat và Kick đón đầu",
         "tip": "Tổng hợp mọi sắc thái: chân phải dậm kick đón đầu trong khi chân trái mở hi-hat. Đòi hỏi sự độc lập hai chân vô cùng tinh tế."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Dave Grohl",
+        "work": "Nirvana — Smells Like Teen Spirit",
+        "note": "Màu sắc mở hi-hat như một sự kiện âm nhạc: rãnh nhịp đoạn verse hít thở theo từng tiếng mở, rồi đoạn điệp khúc dứt khoát đóng chặt lại."
+      },
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — Fool in the Rain",
+        "note": "Cảm giác nhịp giãn một nửa (half-time) với snare ở phách 3, kèm theo màu sắc nốt bóng ghost-note ở khắp nơi. Hãy cảm nhận mỗi ô nhịp như dài rộng ra bất tận."
+      },
+      {
+        "artist": "Homer Steinweiss",
+        "work": "Amy Winehouse — Rehab",
+        "note": "Các câu đón đầu và câu báo phục vụ trọn vẹn cho bài hát. Mọi cử chỉ tô màu đều rơi xuống êm dịu hơn nhịp backbeat mà nó điểm xuyết."
       }
     ]
   },
@@ -226,6 +260,23 @@
         "title": "5 — Hành trình âm sắc: Một ô nhịp, bốn giọng nói",
         "tip": "Phách 1: ghost note ở mép; phách 2: cross-stick; phách 3: đánh tâm trống; phách 4: rimshot bùng nổ. Làm chủ toàn bộ dải biểu cảm của trống snare."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — Spirit of the Moment",
+        "note": "Những nốt bóng ghost-note ở rìa mặt trống snare thì thầm đầy ma thuật."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "Keith Richards — Talk Is Cheap",
+        "note": "Những cú đánh backbeat rim-shot với sự quyết đoán và uy lực tuyệt đối."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Bill Frisell — Good Dog, Happy Man",
+        "note": "Sắc thái âm thanh chổi sắt (brushes) giữ cho bài hát ở không gian ấm áp, khiêm nhường."
+      }
     ]
   },
   "hi-hat-articulation": {
@@ -257,6 +308,23 @@
         "title": "5 — Foot Splash ở nốt & của 4",
         "tip": "Dập nhanh mũi chân trái rồi nhả ngay để hai lá hi-hat va vào nhau tạo tiếng 'xoang' ngân vang như một chiếc cymbal nhỏ."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Aretha Franklin — Rock Steady",
+        "note": "Mở hi-hat ở các nốt móc kép 16th thở nhịp nhàng đồng điệu cùng câu bass."
+      },
+      {
+        "artist": "Tony Williams",
+        "work": "Miles Davis — Four & More",
+        "note": "Kỹ thuật dậm chân hi-hat splash ở phách 2 và 4 bên dưới khuôn mẫu nhịp ride."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer — Continuum",
+        "note": "Tiếng xì xào nửa mở (half-open sizzle) tạo nền nhiệt huyết đằng sau các đoạn điệp khúc."
+      }
     ]
   },
   "cymbal-voicings": {
@@ -284,6 +352,23 @@
         "title": "4 — Cymbal China làm điểm nhấn chuyển đoạn",
         "tip": "Lá China mang âm sắc dữ dội, chát chúa. Dùng nó như một cú dằn uy lực để báo hiệu kết thúc một phân đoạn cao trào."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Tony Williams",
+        "work": "Lifetime — Emergency!",
+        "note": "Sử dụng núm chuông (bell) như một giọng âm chính của lá cymbal ride."
+      },
+      {
+        "artist": "Steve Gadd",
+        "work": "Steely Dan — Aja",
+        "note": "Cú đánh crash được đặt để phẫu thuật cực kỳ chuẩn xác trong đoạn bridge."
+      },
+      {
+        "artist": "Stewart Copeland",
+        "work": "The Police — Don't Stand So Close to Me (Zenyatta Mondatta, 1980)",
+        "note": "Đoạn verse giữ nhịp trên hi-hat; đoạn điệp khúc chuyển sang núm chuông của lá ride — một nét lôi cuốn lấy cảm hứng từ paradiddle sáng rõ, khô ráo, xuyên thẳng qua tiếng guitar. Cùng một chiếc cymbal chỉ cách một thân dùi sẽ cho bạn tiếng ping của thân lá; Copeland chọn đánh vào núm chuông vì chỉ núm chuông mới tạo ra độ xuyên thấu sắc bén."
+      }
     ]
   },
   "ghost-notes-found": {
@@ -310,6 +395,23 @@
       {
         "title": "4 — Rãnh nhịp Backbeat Funk hoàn chỉnh kèm Ghost Note",
         "tip": "Đưa các nốt ghost note vào giữa rãnh nhịp cơ bản. Nhịp trống lập tức biến đổi từ một bài tập khô khan thành một câu Funk đầy ma mị."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — Beyond",
+        "note": "Những nốt bóng gần như không thể nghe thấy tách bạch nhưng lại đóng vai trò cốt lõi về mặt cấu trúc."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer — Try!",
+        "note": "Mạng lưới nốt bóng móc kép 16th dệt bên dưới nhịp backbeat nhạc pop."
+      },
+      {
+        "artist": "Mark Guiliana",
+        "work": "Beat Music",
+        "note": "Nhạc jazz hiện đại và âm nhạc điện tử được chắt lọc qua bàn tay điêu luyện của kỹ thuật nốt bóng."
       }
     ]
   },
@@ -342,6 +444,18 @@
         "title": "5 — Bài tập dịch chuyển nốt nhấn của Stone",
         "tip": "Dịch chuyển nốt nhấn tuần tự qua từng vị trí vi mô. Thử thách đỉnh cao về khả năng kiểm soát độ cao dùi."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Buddy Rich",
+        "work": "West Side Story Suite",
+        "note": "Kỹ thuật nhấn-nhả accent-tap theo trường phái George Stone được thể hiện ở tốc độ fusion đỉnh cao."
+      },
+      {
+        "artist": "Jojo Mayer",
+        "work": "Solos and Studies",
+        "note": "Sư phạm kỹ thuật tay hiện đại phát triển trên nền tảng vững chắc của George Lawrence Stone."
+      }
     ]
   },
   "moeller-stroke": {
@@ -369,6 +483,18 @@
         "title": "4 — Liên ba Moeller, nhấn mạnh ở cả hai tay",
         "tip": "Đẩy tốc độ lên ♩=110. Cảm nhận đôi cánh tay như đang lượn sóng bồng bềnh trên mặt trống."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Jim Chapin",
+        "work": "Speed Power Control Endurance",
+        "note": "Video hướng dẫn của Jim Chapin về Moeller — truyền thừa trực tiếp từ chính huyền thoại Sanford Moeller."
+      },
+      {
+        "artist": "Dom Famularo",
+        "work": "Cyberdrumming pedagogy",
+        "note": "Kỹ thuật Moeller hiện đại được áp dụng điêu luyện trên toàn bộ dàn trống."
+      }
     ]
   },
   "finger-control": {
@@ -395,6 +521,23 @@
       {
         "title": "4 — Kỹ thuật Buzz Roll điều khiển bằng ngón tay",
         "tip": "Dùng các ngón tay ép nhẹ dùi nảy nhiều lần liên tiếp, gối lên nhau tạo thành tiếng đổ trống cuộn êm ru như tiếng thác đổ xa xa."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Brian Blade",
+        "work": "Joshua Redman — MoodSwing",
+        "note": "Kỹ thuật kiểm soát ngón tay thuần khiết — nhẹ nhàng, tốc độ, rải nốt bóng tinh tế ở rìa mặt snare."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — Joe's Garage",
+        "note": "Những chuỗi nốt móc tam 32nd trên snare được điều khiển bằng ngón tay ở mức âm lượng không tưởng."
+      },
+      {
+        "artist": "Buddy Rich",
+        "work": "any solo, any year",
+        "note": "Thước đo lịch sử mẫu mực cho tốc độ được vận hành bằng sức mạnh của ngón tay."
       }
     ]
   },
@@ -426,6 +569,23 @@
       {
         "title": "5 — Chiếc thang âm lượng (The Dynamic Ladder)",
         "tip": "Leo dần đều từ nốt thì thầm pp lên đỉnh điểm sấm sét ff, rồi từ từ hạ cánh an toàn về lại pp. Làm chủ hoàn toàn ma thuật của sắc thái âm nhạc."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Tiếng hi-hat ở mức vừa phải (mezzo-forte) được duy trì ổn định tuyệt đối xuyên suốt cả bản phối dài 7 phút."
+      },
+      {
+        "artist": "John Riley",
+        "work": "Beautiful Love (with Phil Markowitz)",
+        "note": "Khả năng phân phối sức lực của John Riley — từ cực nhỏ (pp) sang vừa (mf) rồi bùng nổ (f) qua cấu trúc bài hát dài 6 phút."
+      },
+      {
+        "artist": "Brian Blade",
+        "work": "Wayne Shorter Quartet — Footprints Live!",
+        "note": "Dải sắc thái cường độ năm cấp độ biến hóa sinh động bên trong một đoạn solo duy nhất."
       }
     ]
   }

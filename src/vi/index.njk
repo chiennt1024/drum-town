@@ -109,7 +109,7 @@ eleventyComputed:
 </div>
 
 {# ======================  EMBEDDED DATA + ACTIVATION  ====================== #}
-<script type="application/json" id="lessons-data">{{ lessonsData | inlineJson | safe }}</script>
+<script type="application/json" id="lessons-data">{{ lessonsData | localizedLessonsData('vi') | inlineJson | safe }}</script>
 
 <script>
   (function () {

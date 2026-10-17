@@ -294,6 +294,23 @@
         "title": "4 — Điệu New Orleans Second Line hoàn chỉnh",
         "tip": "Hòa mình vào không khí cuồng nhiệt của lễ hội New Orleans. Đầy sức sống và niềm vui thuần khiết."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Zigaboo Modeliste",
+        "work": "The Meters — Cissy Strut",
+        "note": "Âm hưởng lễ diễu hành hai tay trống được nén gọn trên một bộ trống duy nhất: kick lách khỏi phách 1 trong khi snare chen vào giữa các nhịp backbeat. Nhà phê bình Robert Christgau đánh giá tiếng trống ở đây đóng vai trò giọng lĩnh xướng thay vì phần đệm."
+      },
+      {
+        "artist": "Earl Palmer",
+        "work": "Professor Longhair — Tipitina",
+        "note": "Earl Palmer hoàn toàn không chạm vào cymbals. Rãnh nhịp chỉ gồm trống bass và snare, đảo phách đối thoại cùng câu piano tạo nên tên gọi cho nhịp mạch diễu hành New Orleans."
+      },
+      {
+        "artist": "Stanton Moore",
+        "work": "All Kooked Out!",
+        "note": "Thu âm trực tiếp tại New Orleans ngay sau lễ hội Mardi Gras, không thu đè (overdub), không tai nghe và không dùng mẫu sample. Không có tiếng click trong tai bất kỳ ai, nên thời gian hoàn toàn thuộc về cảm nhận của ban nhạc, bao gồm cả kèn tuba và dàn kèn đồng."
+      }
     ]
   },
   "funk-displacement": {
@@ -320,6 +337,23 @@
       {
         "title": "4 — Ứng dụng Displacement trong câu chuyển đoạn",
         "tip": "Dùng một ô nhịp dịch chuyển để làm người nghe ngạc nhiên trước khi trở về rãnh nhịp vững chãi ở phách 1."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "J Dilla",
+        "work": "Welcome 2 Detroit — instrumental beats",
+        "note": "Kỹ thuật dịch chuyển vị trí snare lên nốt '&' như một thẩm mỹ lập trình tiết tấu."
+      },
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "Vị trí snare lượn lờ theo từng nốt móc kép 16th xung quanh nhịp backbeat gốc."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "Bản thu âm đại chúng sớm nhất được xây dựng xung quanh những cú backbeat dịch chuyển do con người trực tiếp chơi."
       }
     ]
   },
@@ -348,6 +382,23 @@
         "title": "4 — Bernard Purdie Shuffle hoàn chỉnh",
         "tip": "Thả lỏng toàn thân và tận hưởng cảm giác chơi một trong những rãnh nhịp trống đẹp nhất từng được tạo ra."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Babylon Sisters",
+        "note": "Hãy lắng nghe thật kỹ và đếm theo — từng nốt thành phần liên ba (triplet) của ô nhịp đều ở đó, và nghe ra được từng nốt chính là toàn bộ yêu cầu của bài tập."
+      },
+      {
+        "artist": "Bernard Purdie",
+        "work": "Steely Dan — Home at Last",
+        "note": "Cùng một vốn từ vựng nhưng ở tốc độ nhanh hơn và nhiều khoảng trống hơn — điểm bắt đầu dễ tiếp cận hơn cho người học."
+      },
+      {
+        "artist": "Jeff Porcaro",
+        "work": "Toto — Rosanna",
+        "note": "Sự kết hợp bậc thầy của Jeff Porcaro giữa điệu Purdie shuffle và cảm giác nhịp half-time của John Bonham — một nghiên cứu tuyệt mỹ về dòng chảy truyền thừa."
+      }
     ]
   },
   "funk-david-garibaldi": {
@@ -374,6 +425,23 @@
       {
         "title": "4 — Rãnh nhịp Oakland Funk hoàn chỉnh",
         "tip": "Sự kết hợp hoàn hảo giữa kỹ thuật siêu đẳng và rãnh nhịp bốc lửa khiến người nghe không thể ngồi yên."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — Soul Vaccination",
+        "note": "Bài học bậc thầy về funk tuyến tính (linear funk); nhịp nhấn rim-shot backbeat còn vang dội uy lực hơn cả dàn kèn đồng."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Tower of Power — What Is Hip",
+        "note": "Cấu trúc câu nhạc 2 ô nhịp — mỗi ô nhịp đều nghiêng mình tựa vào ô nhịp kế tiếp."
+      },
+      {
+        "artist": "David Garibaldi",
+        "work": "Future Sounds (instructional)",
+        "note": "Cuốn sách và DVD hướng dẫn của chính Garibaldi — phương pháp tiếp cận tuyến tính do chính người khai sinh ra nó giảng giải, rất đáng để nghiên cứu song hành cùng bài học này."
       }
     ]
   },
@@ -402,6 +470,23 @@
         "title": "4 — Rãnh nhịp Funk hoàn chỉnh trên nền xung nốt đen",
         "tip": "Sự kết hợp giữa chiếc mỏ neo nốt đen vững chắc và sự tự do bay bổng của các chi còn lại."
       }
+    ],
+    "listening": [
+      {
+        "artist": "John Bonham",
+        "work": "Led Zeppelin — When the Levee Breaks",
+        "note": "Hi-hat nốt đen và âm thanh trống được lấy mẫu (sample) nhiều nhất trong lịch sử âm nhạc."
+      },
+      {
+        "artist": "Charlie Watts",
+        "work": "The Rolling Stones — Honky Tonk Women",
+        "note": "Nửa thế kỷ rãnh nhịp funk nốt đen hi-hat bất hủ của Charlie Watts."
+      },
+      {
+        "artist": "Steve Jordan",
+        "work": "John Mayer Trio — Try!",
+        "note": "Sự tiếp nối hiện đại của Steve Jordan — không gian rộng mở, những cú kick có chủ đích, không thừa một nốt nào."
+      }
     ]
   },
   "funk-d-angelo": {
@@ -428,6 +513,23 @@
       {
         "title": "4 — Rãnh nhịp Voodoo Drum Groove hoàn chỉnh",
         "tip": "Làm chủ cảm giác đánh trễ nhịp đỉnh cao — một trong những kỹ năng thời thượng nhất của tay trống hiện đại."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove + Pino Palladino",
+        "work": "D'Angelo — Voodoo (entire album)",
+        "note": "Hãy lắng nghe nhiều lần trước khi bước vào luyện tập — một cú đánh snare có thể rơi trễ bao xa đằng sau tiếng click mà vẫn giữ được cảm giác khóa nhịp? Bạn không thể học những gì mình chưa cảm thụ trọn vẹn trong tâm trí."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Untitled (How Does It Feel)",
+        "note": "Ví dụ rõ ràng nhất về cú đánh trễ drag — tốc độ chậm rãi giúp bạn nghe thấy từng chi tiết phân phách."
+      },
+      {
+        "artist": "James Gadson",
+        "work": "Bill Withers — Use Me",
+        "note": "Cội nguồn tiền bối — James Gadson đánh trễ cực sâu, hàng thập kỷ trước album Voodoo."
       }
     ]
   },
@@ -456,6 +558,23 @@
         "title": "4 — Rãnh nhịp Modern Neo-Soul hoàn chỉnh",
         "tip": "Tái hiện âm thanh sang trọng, quyến rũ của dòng nhạc R&amp;B và Neo-Soul đương đại."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Chris Dave",
+        "work": "Robert Glasper Experiment — Black Radio",
+        "note": "Tay trống định hình làn sóng post-Voodoo. Cảm giác nhịp lảo đảo (wobble), hi-hat nảy swing, nhịp backbeat chuẩn xác như máy móc."
+      },
+      {
+        "artist": "Anderson .Paak",
+        "work": "Malibu (Heart Don't Stand a Chance, Your Prime)",
+        "note": "Cả hai bài đều do DJ Khalil sản xuất cùng ban nhạc sống, Sam Barsh chơi keyboard và Daniel Seeff chơi bass và guitar. Đây là hai bài duy nhất trong album ghi nhận phần chơi trống của chính ca sĩ Anderson .Paak; mọi beat khác đều do nhà sản xuất đảm nhiệm."
+      },
+      {
+        "artist": "Questlove",
+        "work": "Erykah Badu — Mama's Gun",
+        "note": "Sáu trong số mười bốn ca khúc do Questlove chơi trống, bao gồm 'Penitentiary Philosophy', 'Cleva' và 'Green Eyes'. Gino Iglehart chơi trong 'Orange Moon' và 'Bag Lady', còn hai ca khúc do Dilla sản xuất ('Didn't Cha Know' và 'My Life') hoàn toàn không có trống sống, cho thấy album đặt trống đánh sống và trống lập trình cạnh nhau."
+      }
     ]
   },
   "funk-questlove": {
@@ -482,6 +601,23 @@
       {
         "title": "4 — Thử thách kỷ luật thép: 3 phút không xao động",
         "tip": "Rèn luyện phẩm chất quý giá nhất của một tay trống chuyên nghiệp: sự kiên định bất biến."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Questlove",
+        "work": "The Roots — Things Fall Apart",
+        "note": "Bản trình diễn trọn vẹn đầu tiên của vốn từ vựng deep-pocket siêu chắc nhịp."
+      },
+      {
+        "artist": "Questlove",
+        "work": "D'Angelo — Voodoo",
+        "note": "Album biến phong cách đánh trễ nhịp (late pocket) thành một chuẩn mực phong cách cho mọi nghệ sĩ về sau."
+      },
+      {
+        "artist": "Questlove",
+        "work": "The Roots — How I Got Over",
+        "note": "Sự tiếp nối ở độ chín muồi — vị trí đặt dùi đã trở thành bản năng tự nhiên đến mức không bao giờ dao động."
       }
     ]
   },
@@ -510,6 +646,23 @@
         "title": "4 — Vinnie Funk Groove toàn lực",
         "tip": "Tốc độ đẩy lên ♩=102. Cháy hết mình với kỹ thuật siêu đẳng và cảm xúc thăng hoa."
       }
+    ],
+    "listening": [
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Sting — Ten Summoner's Tales",
+        "note": "Funk phức điệu (polyrhythmic funk) bên trong một bản thu âm pop — ca khúc 'Seven Days' là một nghiên cứu sách giáo khoa kinh điển."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Frank Zappa — Joe's Garage",
+        "note": "Thời kỳ chơi cùng Frank Zappa — funk ở các số chỉ nhịp lẻ là vốn từ vựng làm việc thường nhật."
+      },
+      {
+        "artist": "Vinnie Colaiuta",
+        "work": "Vinnie Colaiuta (self-titled solo)",
+        "note": "Album solo của chính Vinnie — mỗi bài hát đều thị phạm một cách tiếp cận funk phức điệu độc đáo khác nhau."
+      }
     ]
   },
   "funk-modern-r-and-b": {
@@ -536,6 +689,23 @@
       {
         "title": "4 — Câu Modern R&B hoàn chỉnh kèm nốt đón đầu",
         "tip": "Làm chủ trọn vẹn ngôn ngữ âm nhạc của dòng nhạc Funk &amp; R&amp;B thịnh hành nhất thế giới."
+      }
+    ],
+    "listening": [
+      {
+        "artist": "Alchemist (production)",
+        "work": "Anderson .Paak — Make It Better",
+        "note": "Tiếng trống trong bài hát này thuộc về nhà sản xuất Alchemist, không phải của Anderson .Paak (người chơi trống trong 4 bài khác của album Ventura). Hãy lắng nghe phần trống đó hòa quyện cùng bass sống, keyboard sống và dàn dây của Miguel Atwood-Ferguson, rồi suy ngẫm xem một tay trống cần thay đổi điều gì để đạt được âm thanh như vậy."
+      },
+      {
+        "artist": "Carter Lang",
+        "work": "SZA — Kill Bill",
+        "note": "Dàn trống ở đây là một bản thu âm sống hoàn chỉnh đã qua biên tập và cắt ghép (comping), được lót thêm một cú kick máy trống điện tử bên dưới để tăng cường dải trầm sub-bass. Hãy nghiên cứu cú kick nhân đôi đó: một trống bass mộc đảm nhận phần tấn công (attack) và một cú kick máy đảm nhận sức nặng (weight)."
+      },
+      {
+        "artist": "Daniel Caesar",
+        "work": "Freudian",
+        "note": "R&B tốc độ chậm với cảm giác nhịp half-time và các chuỗi rải hi-hat roll hiện diện trọn vẹn."
       }
     ]
   }
